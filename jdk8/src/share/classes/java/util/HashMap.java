@@ -332,6 +332,8 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      * cheapest possible way to reduce systematic lossage, as well as
      * to incorporate impact of the highest bits that would otherwise
      * never be used in index calculations because of table bounds.
+     * 异或操作：相同返回 0，不同返回 1
+     *
      */
     static final int hash(Object key) {
         int h;
@@ -625,19 +627,35 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      */
     final V putVal(int hash, K key, V value, boolean onlyIfAbsent,
                    boolean evict) {
+        /**
+         * tab：引用当前 Hashmap 的散列表
+         * p:当前散列表的元素
+         * n:表示散列表数组的长度
+         * i:表示路由寻址，结果
+         */
         Node<K,V>[] tab; Node<K,V> p; int n, i;
+
+
         // 如果hash表为空，则进行初始化
         if ((tab = table) == null || (n = tab.length) == 0)
+            //延迟初始化逻辑
             n = (tab = resize()).length;
-        // 如果键对应的桶是空的，就创建一个新的节点放在桶里
+
+
+        // 如果键对应的桶是空的，就创建一个新的节点放在桶里，最简单的一种情况，寻址找到的桶位刚好是 null
         if ((p = tab[i = (n - 1) & hash]) == null)
             tab[i] = newNode(hash, key, value, null);
         else {
+            /**
+             * e:node的临时元素，不为 null 的话，表示当前要插入的 key-value一致的 key 的元素
+             * k:表示临时的一个 key
+             */
             // 如果桶不是空的，就处理冲突
             Node<K,V> e; K k;
             // 检查桶中的第一个元素
             if (p.hash == hash &&
                     ((k = p.key) == key || (key != null && key.equals(k))))
+                //如果 hash 相等，那么就变更这个节点的值
                 e = p;
             else if (p instanceof TreeNode)
                 // 如果桶中的元素形成了红黑树，则在树中插入或者修改节点
@@ -645,10 +663,12 @@ public class HashMap<K,V> extends AbstractMap<K,V>
             else {
                 // 如果桶中的元素形成了链表，则在链表尾部添加节点
                 for (int binCount = 0; ; ++binCount) {
+                    //如果当前是最后一个元素，也没找到一个于你要插入的 key，则加入到当前链表的末尾
                     if ((e = p.next) == null) {
                         p.next = newNode(hash, key, value, null);
                         // 如果桶中的节点数超过了阈值（TREEIFY_THRESHOLD），则把链表转化为红黑树
                         if (binCount >= TREEIFY_THRESHOLD - 1) // -1 for 1st
+                            //树化操作
                             treeifyBin(tab, hash);
                         break;
                     }
@@ -659,6 +679,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                     p = e;
                 }
             }
+            //条件成立，说明找到与 key 完全一样的数据，需要进行替换
             if (e != null) { // existing mapping for key
                 // 如果键存在，并且onlyIfAbsent为false或者老的值为null
                 // 那么用新的值替换老的值，并返回老的值
@@ -666,9 +687,11 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                 if (!onlyIfAbsent || oldValue == null)
                     e.value = value;
                 afterNodeAccess(e);
+                //如果找到旧值则直接返回，不走下面的 size++逻辑
                 return oldValue;
             }
         }
+        // 表示散列表结构结构被修改的次数，用于报错快速失败
         ++modCount;
         // 如果键值对的数量超过了阈值，则扩容。
         if (++size > threshold)
