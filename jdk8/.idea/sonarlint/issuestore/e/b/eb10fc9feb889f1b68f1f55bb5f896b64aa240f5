@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Ž……
+f
+java:S12069"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ
+@
+java:S1948#"%Make "job" transient or serializable.(ÆÞõ²ýÿÿÿÿ

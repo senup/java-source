@@ -1,0 +1,66 @@
+
+f
+java:S1192•"JDefine a constant instead of duplicating this literal "shift_jis" 3 times.(®š°ˆıÿÿÿÿ
+h
+java:S1192Ÿ"LDefine a constant instead of duplicating this literal "windows-31j" 3 times.(çª¶¬úÿÿÿÿ
+c
+java:S1192˜"GDefine a constant instead of duplicating this literal "x-sjis" 3 times.(Š”’Àüÿÿÿÿ
+d
+java:S1192û"MDefine a constant instead of duplicating this literal "jis_encoding" 5 times.(¯Ÿ°ñ
+f
+java:S1192‘"JDefine a constant instead of duplicating this literal "Shift_JIS" 3 times.(¼ÑøÁøÿÿÿÿ
+_
+java:S1192‰"HDefine a constant instead of duplicating this literal "cp50221" 3 times.(ÆîÑ¨
+d
+java:S1192"HDefine a constant instead of duplicating this literal "cp50220" 3 times.(¨©Œêÿÿÿÿÿ
+i
+java:S1192”"RDefine a constant instead of duplicating this literal "windows-iso2022jp" 3 times.(ç×ú«
+d
+java:S1192"HDefine a constant instead of duplicating this literal "ms50220" 3 times.(º’ˆãûÿÿÿÿ
+d
+java:S1192ˆ"HDefine a constant instead of duplicating this literal "ms50221" 3 times.(©õµ­ûÿÿÿÿ
+c
+java:S1192ú"LDefine a constant instead of duplicating this literal "csISO2022JP" 5 times.(‚àšö
+`
+java:S1192—"IDefine a constant instead of duplicating this literal "ms_kanji" 3 times.( ŠÒ›
+h
+java:S1192¢"LDefine a constant instead of duplicating this literal "windows-932" 3 times.(»®…Øøÿÿÿÿ
+a
+java:S1192ø"JDefine a constant instead of duplicating this literal "iso2022jp" 5 times.(ğóÍ‘
+j
+java:S1192ü"NDefine a constant instead of duplicating this literal "csjisencoding" 5 times.(Œ†Ş‚ıÿÿÿÿ
+c
+java:S1192ç	"LDefine a constant instead of duplicating this literal "iso-2022-jp" 3 times.(¾šÛ•
+b
+java:S1192™"KDefine a constant instead of duplicating this literal "csShiftJIS" 3 times.(õÖŒ¹
+b
+java:S1192Ÿ"FDefine a constant instead of duplicating this literal "MS932" 5 times.(çª¶¬úÿÿÿÿ
+g
+java:S1192Œ"PDefine a constant instead of duplicating this literal "x-windows-50220" 3 times.(¡çúò
+l
+java:S1192†"PDefine a constant instead of duplicating this literal "x-windows-50221" 3 times.( Ğ ßúÿÿÿÿ
+a
+java:S1192–"JDefine a constant instead of duplicating this literal "shift-jis" 3 times.(Ò­õñ
+i
+java:S1192£"MDefine a constant instead of duplicating this literal "csWindows31J" 3 times.(äˆ² şÿÿÿÿ
+k
+java:S1192’"TDefine a constant instead of duplicating this literal "x-windows-iso2022jp" 3 times.(ö·‘²
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+r
+java:S3077,"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÎÔâÅøÿÿÿÿ
+A
+java:S3010æ"%Remove this assignment of "instance".(ñõîÙşÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(€Šì¼
+Q	java:S125B"<This block of commented-out lines of code should be removed.(¦Ğ¸²
+n
+java:S3776“	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(è±¹¯ÿÿÿÿÿ
+V
+java:S1161“	":Add the "@Override" annotation above this method signature(è±¹¯ÿÿÿÿÿ
+=
+java:S1168¢
+"&Return an empty array instead of null.(¥¹ï
+P
+java:S1128"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'java.nio.charset.spi.CharsetProvider'.(ÌôÔìüÿÿÿÿ

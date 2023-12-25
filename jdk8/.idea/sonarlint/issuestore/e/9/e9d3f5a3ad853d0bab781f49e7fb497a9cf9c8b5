@@ -1,0 +1,10 @@
+
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅ›Ñûÿÿÿÿ
+P
+java:S1191!"5Use classes from the Java API instead of Sun classes.(òŽ„¸þÿÿÿÿ
+—
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜”°±
+Q
+java:S1117N"6Rename "iv" which hides the field declared at line 55.(ðû¦òúÿÿÿÿ
+N
+java:S1117O"8Rename "tLen" which hides the field declared at line 57.(ªÀú¡

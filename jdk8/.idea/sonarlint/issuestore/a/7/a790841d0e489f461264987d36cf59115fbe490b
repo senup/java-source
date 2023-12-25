@@ -1,0 +1,10 @@
+
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎßŸ‘ÿÿÿÿÿ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Áð
+w
+java:S1488l"bImmediately return this expression instead of assigning it to the temporary variable "fileformat".(ÿ‡¹g
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Öí±üÿÿÿÿ
+F
+java:S2093‰"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093•"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

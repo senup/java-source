@@ -1,0 +1,46 @@
+
+J
+java:S3740U"/Provide the parametrized type for this generic.(ÃÃ¦ùÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(êõŸşùÿÿÿÿ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(£·›
+K
+java:S3740Å"/Provide the parametrized type for this generic.(¨™î«ûÿÿÿÿ
+C
+java:S1604q"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+D
+java:S1604Ÿ"(Make this anonymous inner class a lambda(Ê ä¬üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(†Ë›‚
+u
+java:S2259Â"YA "NullPointerException" could be thrown; "formatArrayAsDataFlavorSet()" can return null.(ö‡Ïùÿÿÿÿ
+‚	java:S116H"hRename this field "CLIPBOARD_FLAVOR_LISTENER_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñâÆøÿÿÿÿ
+T
+java:S5993X"9Change the visibility of this constructor to "protected".(ÇÜß¤şÿÿÿÿ
+r
+java:S3077U"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÃÃ¦ùÿÿÿÿ
+U
+java:S1161]":Add the "@Override" annotation above this method signature(ºÔÙ¬ÿÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(äß˜³ıÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(­úÈôıÿÿÿÿ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(‚ŠîÉøÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(¢öÊº
+J
+java:S1172÷".Remove this unused method parameter "formats".(Œ¹Ò†ÿÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(ô•ÍÔúÿÿÿÿ
+D	java:S108ö")Either remove or fill this block of code.(ÄŒ¥şÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(À‚Ê¾úÿÿÿÿ
+Q
+java:S1161’":Add the "@Override" annotation above this method signature(¿’Çº
+W	java:S125²"<This block of commented-out lines of code should be removed.(ç·¬ÿÿÿÿÿ
+8
+java:S1116Ã"Remove this empty statement.(ôŸìúÿÿÿÿ
+C
+java:S1128-".Remove this unused import 'java.util.HashSet'.(Ê‚êX

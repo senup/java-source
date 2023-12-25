@@ -1,0 +1,99 @@
+
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá—Á
+g	java:S117‰
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï™ª
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+V	java:S125"<This block of commented-out lines of code should be removed.(ª¢¯èûÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÊÒ¯•
+?
+java:S1197v"*Move the array designators [] to the type.(ÄåïN
+\
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(»øº²
+A
+java:S1197–"*Move the array designators [] to the type.(Ã²ƒÌ
+R	java:S125•"<This block of commented-out lines of code should be removed.(—ğŠ¾
+W	java:S125—"<This block of commented-out lines of code should be removed.(Ó…àùÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Ó…àùÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(Ó…àùÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(µ“‹ÿÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(áøâà
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(–·Åüşÿÿÿÿ
+B
+java:S1905Û"&Remove this unnecessary cast to "int".(Â×‡¸şÿÿÿÿ
+B
+java:S1905Û"&Remove this unnecessary cast to "int".(Â×‡¸şÿÿÿÿ
+=
+java:S1905İ"&Remove this unnecessary cast to "int".(§µ”ú
+=
+java:S1905İ"&Remove this unnecessary cast to "int".(§µ”ú
+=
+java:S1905ä"&Remove this unnecessary cast to "int".(§µ”ú
+=
+java:S1905ä"&Remove this unnecessary cast to "int".(§µ”ú
+R	java:S125ö"<This block of commented-out lines of code should be removed.(ßïÖ¬
+D
+java:S4274¡"(Replace this assert with a proper check.(¾ˆğ‰üÿÿÿÿ
+D
+java:S4274¢"(Replace this assert with a proper check.(‰ß´¨ùÿÿÿÿ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(òÉ•¥
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ßïÖ¬
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(ÿ²·
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¦Ëûøÿÿÿÿ
+Q	java:S125ô"<This block of commented-out lines of code should be removed.(ÚĞí!
+R	java:S125‰"<This block of commented-out lines of code should be removed.(üâ‰ñ
+Q	java:S125Ÿ"<This block of commented-out lines of code should be removed.(›·íY
+I
+java:S1135“"2Complete the task associated to this TODO comment.(åç†Ü
+A
+java:S1197¤"*Move the array designators [] to the type.(ÏÑ¼Ö
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ë‰èä
+W	java:S125¸"<This block of commented-out lines of code should be removed.(ü³èŞùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ù¥öÂøÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(•æÄ›üÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(×¦’ı
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(şÉüÇüÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(ˆ‰šÿÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(Ù¥öÂøÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(Ø•‡Ú
+Q	java:S125ä"<This block of commented-out lines of code should be removed.(µË£x
+>
+java:S4274"(Replace this assert with a proper check.(’Ç W
+R	java:S125€"<This block of commented-out lines of code should be removed.(ÉËÍ
+>
+java:S4274Ó"(Replace this assert with a proper check.(’Ç W
+V
+java:S1854è":Remove this useless assignment to local variable "subLen".(€Âòûÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(•É¤“
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(¦Ó¥™
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(å­íıÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(â¹§
+W	java:S125—"<This block of commented-out lines of code should be removed.(ß±°òÿÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(©³‡ışÿÿÿÿ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(ßïÖ¬
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÇØ˜¯ùÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(¢»Ç¨
+W	java:S125É"<This block of commented-out lines of code should be removed.(èŞöúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(Ù¥öÂøÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(Ù¥öÂøÿÿÿÿ
+R	java:S125š	"<This block of commented-out lines of code should be removed.(ÿµ÷…
+:
+java:S1659	"#Declare "small" on a separate line.(àß¨ï
+=
+java:S1659Ÿ	"&Declare "smallLen" on a separate line.(´ä®à
+7
+java:S1110²	"!Remove these useless parentheses.(êõs
+W	java:S125Í	"<This block of commented-out lines of code should be removed.(éæªéıÿÿÿÿ
+W	java:S125ğ	"<This block of commented-out lines of code should be removed.(Ñ¼İûÿÿÿÿ
+R	java:S125ô	"<This block of commented-out lines of code should be removed.(®£çÒ
+R	java:S125º
+"<This block of commented-out lines of code should be removed.(®êÄ¡
+W	java:S125Ó
+"<This block of commented-out lines of code should be removed.(Ç££ÿÿÿÿÿ
+R	java:S125í
+"<This block of commented-out lines of code should be removed.(È”éÃ
+;
+java:S1659¡"Declare "r" on a separate line.(‚ÍÜùøÿÿÿÿ

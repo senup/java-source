@@ -1,0 +1,101 @@
+
+K
+java:S3740Û"/Provide the parametrized type for this generic.(ô¬îíüÿÿÿÿ
+F
+java:S3740ş"/Provide the parametrized type for this generic.(¡Ğñ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(ê™•œ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+^
+java:S2184‚"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184‚"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184²"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184²"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184È"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184È"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184÷"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184÷"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184¼"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184¼"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184ï"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184ï"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184‡"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184‡"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184Í"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+^
+java:S2184Í"BCast one of the operands of this addition operation to a "double".( âÿÿÿÿÿ
+X	java:S107Û"=Method has 12 parameters, which is greater than 7 authorized.(Îù¯Şúÿÿÿÿ
+S	java:S107ğ"=Method has 16 parameters, which is greater than 7 authorized.(ÇñÖ
+X	java:S107¨"=Method has 17 parameters, which is greater than 7 authorized.(ë™³úıÿÿÿÿ
+U
+java:S11182":Add a private constructor to hide the implicit public one.(íÉÌØÿÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+d	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇñÖ
+d
+java:S3252û"MUse static access with "sun.java2d.pipe.BufferedContext" for "SRC_IS_OPAQUE".(†ÑÂã
+f
+java:S3252"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(¶¸üü
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë™³úıÿÿÿÿ
+d
+java:S3252´"MUse static access with "sun.java2d.pipe.BufferedContext" for "SRC_IS_OPAQUE".(†ÑÂã
+^
+java:S3252¿"GUse static access with "sun.java2d.pipe.hw.AccelSurface" for "TEXTURE".(¯‹–
+f
+java:S3252Ñ"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(’³¢İ
+g
+java:S3252Ö"PUse static access with "sun.java2d.pipe.BufferedBufImgOps" for "enableBufImgOp".(õæû‹
+h
+java:S3252â"QUse static access with "sun.java2d.pipe.BufferedBufImgOps" for "disableBufImgOp".(ˆÍä¼
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(»×°ø
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(Ö±É˜ûÿÿÿÿ
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+Q
+java:S1161Õ":Add the "@Override" annotation above this method signature(»×°ø
+V
+java:S1161î":Add the "@Override" annotation above this method signature(Ö±É˜ûÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+k
+java:S3252–"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(•ŞŞ ÿÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(»×°ø
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(Ö±É˜ûÿÿÿÿ
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(»×°ø
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(Ö±É˜ûÿÿÿÿ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(ÈíÖ“
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(ÈíÖ“

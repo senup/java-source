@@ -1,0 +1,8 @@
+
+r	java:S127X"XRefactor the code in order to not assign to this loop counter from within the loop body.(şĞò‹úÿÿÿÿ
+r	java:S127X"XRefactor the code in order to not assign to this loop counter from within the loop body.(şĞò‹úÿÿÿÿ
+r	java:S127v"XRefactor the code in order to not assign to this loop counter from within the loop body.(İÊí€üÿÿÿÿ
+m	java:S127y"XRefactor the code in order to not assign to this loop counter from within the loop body.(Íı
+g	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎöÁŠşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ

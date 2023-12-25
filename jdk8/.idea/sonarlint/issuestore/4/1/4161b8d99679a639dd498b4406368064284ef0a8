@@ -1,0 +1,22 @@
+
+]
+java:S1192§"GDefine a constant instead of duplicating this literal "\u039c" 4 times.(––äS
+c
+java:S1192¨"GDefine a constant instead of duplicating this literal "\u0391" 4 times.(š†•ûÿÿÿÿ
+c
+java:S1192°"GDefine a constant instead of duplicating this literal "\u0394" 4 times.(ããµ¦ÿÿÿÿÿ
+c
+java:S1192¥"GDefine a constant instead of duplicating this literal "\u0399" 6 times.(ÏËˆ ùÿÿÿÿ
+c
+java:S1192õ"GDefine a constant instead of duplicating this literal "\u03a4" 4 times.(Ø²·’ıÿÿÿÿ
+c
+java:S1192­"GDefine a constant instead of duplicating this literal "\u03a3" 4 times.(ï·¶ôşÿÿÿÿ
+c
+java:S1192÷"GDefine a constant instead of duplicating this literal "\u03a0" 4 times.(åİĞûÿÿÿÿ
+g	java:S101T"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÛİîúÿÿÿÿ
+P
+java:S1191P"5Use classes from the Java API instead of Sun classes.(äğ®ûÿÿÿÿ
+V
+java:S1854Z";Remove this useless assignment to local variable "rocEras".(÷„£çüÿÿÿÿ
+G
+java:S1481Z",Remove this unused "rocEras" local variable.(÷„£çüÿÿÿÿ

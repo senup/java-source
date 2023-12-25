@@ -1,0 +1,45 @@
+
+C
+java:S11727"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+P
+java:S1161<":Add the "@Override" annotation above this method signature(ïÆ•ø
+J
+java:S1854T"5Remove this useless assignment to local variable "y".(çà…
+P
+java:S1161N":Add the "@Override" annotation above this method signature(ßÖ±Ë
+`
+java:S3252Q"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(£¸Çøÿÿÿÿ
+P
+java:S1161d":Add the "@Override" annotation above this method signature(âÔîì
+P
+java:S1161o":Add the "@Override" annotation above this method signature(–Äÿè
+m
+java:S3776z"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ƒğ¿Áûÿÿÿÿ
+U
+java:S1161z":Add the "@Override" annotation above this method signature(ƒğ¿Áûÿÿÿÿ
+Y
+java:S3252}"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(´ÿµß
+?
+java:S1905’"(Remove this unnecessary cast to "float".(šÈÚş
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(¨Ÿ’¯úÿÿÿÿ
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(×ÁØÓ
+T
+java:S1854ı"8Remove this useless assignment to local variable "part".(„õâíûÿÿÿÿ
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(şÜ½Á
+_
+java:S3252ü"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(”ø¶åüÿÿÿÿ
+E
+java:S1481ı")Remove this unused "part" local variable.(„õâíûÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(éÆ´ûÿÿÿÿ
+_
+java:S3252§"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(”ø¶åüÿÿÿÿ
+Z
+java:S3252Ã"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(´ÿµß
+T
+java:S1854Ù"8Remove this useless assignment to local variable "part".(„õâíûÿÿÿÿ
+E
+java:S1481Ù")Remove this unused "part" local variable.(„õâíûÿÿÿÿ

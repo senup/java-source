@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+t
+java:S3012c"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÑÛ õûÿÿÿÿ
+t
+java:S3012p"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÑÛ õûÿÿÿÿ

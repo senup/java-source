@@ -1,0 +1,28 @@
+
+y
+java:S1192Ø"]Define a constant instead of duplicating this literal "malformed input around byte " 3 times.(¾õ¯ ÿÿÿÿÿ
+E
+java:S1121¿".Extract the assignment out of this expression.(°™¬Ñ
+t	java:S135ú"YReduce the total number of break and continue statements in this loop to use at most one.(æå˜¸úÿÿÿÿ
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(ó’É’úÿÿÿÿ
+n	java:S127Ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127Õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+s	java:S127Ù"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ
+s	java:S127İ"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ
+n	java:S127ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(ã ›
+n	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(ë¹¸å
+s	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ó³¸ûÿÿÿÿ
+s	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ó³¸ûÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(™ŞØê
+s	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ¢¢Ñúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê—…¢ùÿÿÿÿ
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆôÑıÿÿÿÿ
+R	java:S125ù"<This block of commented-out lines of code should be removed.(ŸÒˆ‘
+[
+java:S1659Ë"?Declare "c2" and all following declarations on a separate line.(¬íÑÿÿÿÿÿ
+0
+java:S2183•"Remove this useless shift(Õç‹ˆ
+5
+java:S2183¹"Remove this useless shift(¹İÇŸüÿÿÿÿ

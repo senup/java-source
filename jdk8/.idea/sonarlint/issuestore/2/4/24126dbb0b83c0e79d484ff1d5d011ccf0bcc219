@@ -1,0 +1,19 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+U
+java:S11614":Add the "@Override" annotation above this method signature(’±Ììþÿÿÿÿ
+3
+java:S21295"Remove this "Long" constructor(£”ÈD
+p
+java:S1201;"UEither override Object.equals(Object), or rename the method to prevent any confusion.(²á¾Åùÿÿÿÿ
+U
+java:S1161;":Add the "@Override" annotation above this method signature(²á¾Åùÿÿÿÿ
+U
+java:S1161B":Add the "@Override" annotation above this method signature(ÜÐŒ©ýÿÿÿÿ
+P
+java:S1161I":Add the "@Override" annotation above this method signature(çé½Ì
+2
+java:S2129J"Remove this "Long" constructor(ŒÛ
+U
+java:S1161P":Add the "@Override" annotation above this method signature(±›² þÿÿÿÿ

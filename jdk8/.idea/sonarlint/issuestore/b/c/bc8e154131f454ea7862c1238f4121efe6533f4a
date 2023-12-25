@@ -1,0 +1,28 @@
+
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞùÎ
+e	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šëŠt
+e	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šëŠt
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÂÏ€
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔÛÒıÿÿÿÿ
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¡Şıÿÿÿÿ
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀµ€úÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ç•ıÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…œ¨ßıÿÿÿÿ
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÔÄ°ıÿÿÿÿ
+k	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…œ¨ßıÿÿÿÿ
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÔÄ°ıÿÿÿÿ
+o	java:S116$"URename this field "sinc_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÜúëıÿÿÿÿ
+o	java:S116%"ZRename this field "sinc_scale_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÜÿ
+p	java:S116&"[Rename this field "sinc_table_fsize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô„
+t	java:S116'"ZRename this field "sinc_table_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¼ÕÊüÿÿÿÿ
+q	java:S116("\Rename this field "sinc_table_center" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ñù„
+?
+java:S1905@")Remove this unnecessary cast to "double".(®Ô“£
+?
+java:S1905A")Remove this unnecessary cast to "double".(©¡üâ
+g
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(šëŠt
+Y
+java:S1117g">Rename "sinc_table" which hides the field declared at line 36.(™ÔÄ°ıÿÿÿÿ
+Y
+java:S1117z">Rename "sinc_table" which hides the field declared at line 36.(™ÔÄ°ıÿÿÿÿ

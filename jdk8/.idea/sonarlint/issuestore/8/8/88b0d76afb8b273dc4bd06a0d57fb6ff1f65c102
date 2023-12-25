@@ -1,0 +1,67 @@
+
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(»¹‰°
+\	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+\	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(Æ™ıŠ
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÌŸ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ä°ïÿÿÿÿÿ
+e	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô£
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢…ØÓşÿÿÿÿ
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¸¡òşÿÿÿÿ
+k	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‘¿çûÿÿÿÿ
+c	java:S101ó"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şŠÙŸ
+h	java:S101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é˜ú…ùÿÿÿÿ
+c	java:S101‰"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’¢’ô
+c	java:S101Ü"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üö²Ë
+m
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(½Ùø‰ÿÿÿÿÿ
+;
+java:S1659Ÿ"Declare "i" on a separate line.(”Øİ®ÿÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(ãçó°
+n
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ùøøûÿÿÿÿ
+e
+java:S4201Ó"IRemove this unnecessary null check; "instanceof" returns false for nulls.(íıêÛùÿÿÿÿ
+>
+java:S3329Ù"'Use a dynamically-generated, random IV.(ú¸Ôæ
+‘
+java:S1130˜"zRemove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from method's body.(ƒù´¸
+A
+java:S1172˜"*Remove this unused method parameter "key".(ƒù´¸
+V
+java:S1161½":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(µñ–Ê
+V
+java:S1161í":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(µñ–Ê
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(µñ–Ê
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+C
+java:S1125½"'Remove the unnecessary boolean literal.(×æ¢«şÿÿÿÿ
+C
+java:S1125Ã"'Remove the unnecessary boolean literal.(Îá†şøÿÿÿÿ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(µñ–Ê
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(×æ¢«şÿÿÿÿ
+C
+java:S1125–"'Remove the unnecessary boolean literal.(Îá†şøÿÿÿÿ
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(µñ–Ê
+V
+java:S1161©":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ

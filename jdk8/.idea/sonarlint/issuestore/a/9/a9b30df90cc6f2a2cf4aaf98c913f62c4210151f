@@ -1,0 +1,76 @@
+
+F
+java:S3740á"/Provide the parametrized type for this generic.(õ¥‡ï
+F
+java:S3740â"/Provide the parametrized type for this generic.(íÒ«
+F
+java:S3740â"/Provide the parametrized type for this generic.(íÒ«
+K
+java:S3740í"/Provide the parametrized type for this generic.(ßÿİ¼üÿÿÿÿ
+K
+java:S3740í"/Provide the parametrized type for this generic.(ßÿİ¼üÿÿÿÿ
+F
+java:S3740î"/Provide the parametrized type for this generic.(¼£Ñ™
+F
+java:S3740†"/Provide the parametrized type for this generic.(¦‘ùò
+F
+java:S3740”"/Provide the parametrized type for this generic.(õ˜Áã
+K
+java:S3740•"/Provide the parametrized type for this generic.(•ò‡áüÿÿÿÿ
+s
+java:S1192f"XDefine a constant instead of duplicating this literal "invalid constant type: " 3 times.(õÇòÈÿÿÿÿÿ
+D
+java:S11219".Extract the assignment out of this expression.( ¶¸¥
+m	java:S127E"XRefactor the code in order to not assign to this loop counter from within the loop body.(Íš¸
+r	java:S127H"XRefactor the code in order to not assign to this loop counter from within the loop body.(—Â¶ßùÿÿÿÿ
+n	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÈ¾ô
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬÷Ç…
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¬ÿ°
+g
+java:S1301ä"KReplace this "switch" statement by "if" statements to increase readability.(¢ùúıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+d
+java:S2259Ä"MA "NullPointerException" could be thrown; "getDeclaration()" can return null.(Ê¨ ·
+j	java:S116î"TRename this field "MoreStuff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼£Ñ™
+H
+java:S1659í",Declare "indexHashAscii" on a separate line.(ßÿİ¼üÿÿÿÿ
+|
+java:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õ¥‡ï
+|
+java:S1149â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+r
+java:S1149í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ßÿİ¼üÿÿÿÿ
+|
+java:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼£Ñ™
+@
+java:S1197,"*Move the array designators [] to the type.(áØÏ®
+@
+java:S1197-"*Move the array designators [] to the type.(ŠÛ·®
+<
+java:S14817"&Remove this unused "j" local variable.(ÆŞ¹
+7
+java:S2129?"!Remove this "Integer" constructor(õÜ¤‚
+:
+java:S2129B"Remove this "Float" constructor(¾Øˆİıÿÿÿÿ
+4
+java:S2129E"Remove this "Long" constructor(Íš¸
+;
+java:S2129H" Remove this "Double" constructor(—Â¶ßùÿÿÿÿ
+7
+java:S2129O"!Remove this "Integer" constructor(®‰£è
+<
+java:S2129W"!Remove this "Integer" constructor(·çƒØûÿÿÿÿ
+D	java:S108Ò")Either remove or fill this block of code.(•×’®ûÿÿÿÿ
+=	java:S131ä""Add a default case to this switch.(¢ùúıÿÿÿÿ
+8
+java:S2129‡"!Remove this "Integer" constructor(ôŞ»œ
+8
+java:S2129˜"!Remove this "Integer" constructor(ä¡¢
+8
+java:S2129›"!Remove this "Integer" constructor(±Ê¹ö
+?	java:S108œ")Either remove or fill this block of code.(„·äş
+F
+java:S1172¦"*Remove this unused method parameter "env".(çª—ûùÿÿÿÿ

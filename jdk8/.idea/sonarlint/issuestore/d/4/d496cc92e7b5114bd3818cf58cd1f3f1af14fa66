@@ -1,0 +1,97 @@
+
+u
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹šËıÿÿÿÿ
+u
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹šËıÿÿÿÿ
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨±Úªÿÿÿÿÿ
+p
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã÷ú¨
+p
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒñ»ñ
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(úñÁ‹ûÿÿÿÿ
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Èåù
+u
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø«¸¢üÿÿÿÿ
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Üƒş
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÇÚ
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¬–õ
+p
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÇÚ
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(©²ÛÚ
+p
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÁ¶ª
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÁ¶ª
+p
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖöÚı
+p
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ö®ö
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å»Ğéúÿÿÿÿ
+o
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(úéŒU
+o
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(úéŒU
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ØŠ¼øÿÿÿÿ
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¡œşÿÿÿÿ
+u
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ„×Şûÿÿÿÿ
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õó¥ÿÿÿÿÿ
+u
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈÂÒŸıÿÿÿÿ
+u
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(—á™Óüÿÿÿÿ
+S
+java:S4973à"<Strings and Boxed types should be compared using "equals()".(âë¢Ş
+v
+java:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÒÉ›»
+P
+java:S1161~":Add the "@Override" annotation above this method signature(ÜÑã
+d
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÛÂæØşÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ğÜşŠ
+S
+java:S1905Ó"7Remove this unnecessary cast to "ClassLoaderReference".(ÜÅÌ‡ÿÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥öó‚øÿÿÿÿ
+B
+java:S1452à"&Remove usage of generic wildcard type.(€†¬üÿÿÿÿ
+G
+java:S1905Ÿ"0Remove this unnecessary cast to "ReferenceType".(¡±±·
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¿ïšâÿÿÿÿÿ
+i	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¦úñûÿÿÿÿ
+r
+java:S3038˜"\"allMethods" is defined in the "ReferenceType" interface and can be removed from this class.(¿Á¿R
+[
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(¿Á¿R
+P
+java:S2168Ÿ"9Remove this dangerous instance of double-checked locking.(Û­¨
+Z
+java:S1155İ">Use isEmpty() to check whether the collection is empty or not.(”†Õüÿÿÿÿ
+2
+java:S3626¬"Remove this redundant jump.(ûÁİ…
+n
+java:S2737Ä"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ƒ¢²Ä
+n
+java:S2737Í"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ƒ¢²Ä
+2
+java:S3626Ø"Remove this redundant jump.(ûÁİ…
+n
+java:S2737ò"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ƒ¢²Ä
+n
+java:S2737û"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ƒ¢²Ä
+=
+java:S1168†"&Return an empty array instead of null.(¥¹ï
+K
+java:S1068="5Remove this unused "constantPoolBytes" private field.(“¢Ô¢

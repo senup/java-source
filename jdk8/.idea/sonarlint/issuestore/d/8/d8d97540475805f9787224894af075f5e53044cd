@@ -1,0 +1,39 @@
+
+F
+java:S1066‹"/Merge this if statement with the enclosing one.(Àô¦
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+E
+java:S1197Q"*Move the array designators [] to the type.(í—òŒûÿÿÿÿ
+E
+java:S1197e"*Move the array designators [] to the type.(Ó®ãˆşÿÿÿÿ
+a
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(²ğÁµÿÿÿÿÿ
+F
+java:S1197½"*Move the array designators [] to the type.(ä÷Õñüÿÿÿÿ
+ƒ
+java:S1130Õ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(­ˆ§è
+W	java:S125í"<This block of commented-out lines of code should be removed.(ˆ†êĞøÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(¡ã€öıÿÿÿÿ
+8	java:S131š""Add a default case to this switch.(ş™ÅŞ
+S
+java:S4719¶"<Replace charset name argument with StandardCharsets.US_ASCII(ÊÖêï
+F
+java:S1197ë"*Move the array designators [] to the type.(é»¤•úÿÿÿÿ
+X
+java:S4719Ğ"<Replace charset name argument with StandardCharsets.US_ASCII(¬ŸÔÙşÿÿÿÿ
+
+java:S1130ğ"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(õ¥¢ıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(çúšóûÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(çúšóûÿÿÿÿ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(°‡Ÿ©ÿÿÿÿÿ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(ŞÃ„Ì
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+?
+java:S1128"$Remove this unused import 'sun.net'.(Üî‘ùÿÿÿÿ

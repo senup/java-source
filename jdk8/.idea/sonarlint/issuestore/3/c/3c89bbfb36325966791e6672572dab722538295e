@@ -1,0 +1,23 @@
+
+g
+java:S1104#"QMake MBEAN a static final constant or non-public and provide accessors if needed.(úñåƒ
+z
+java:S1104%"_Make MBEANSERVERDELEGATE a static final constant or non-public and provide accessors if needed.(Õ¹å‹üÿÿÿÿ
+q
+java:S1104'"[Make DEFAULT_XOBJECT a static final constant or non-public and provide accessors if needed.(þ³©¬
+A
+java:S1444#"+Make this "public static MBEAN" field final(úñåƒ
+T
+java:S1444%"9Make this "public static MBEANSERVERDELEGATE" field final(Õ¹å‹üÿÿÿÿ
+K
+java:S1444'"5Make this "public static DEFAULT_XOBJECT" field final(þ³©¬
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŽóûŒûÿÿÿÿ
+f
+java:S3008#"PRename this field "MBEAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñåƒ
+y
+java:S3008%"^Rename this field "MBEANSERVERDELEGATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¹å‹üÿÿÿÿ
+p
+java:S3008'"ZRename this field "DEFAULT_XOBJECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ³©¬
+U
+java:S1118!":Add a private constructor to hide the implicit public one.(à²½àÿÿÿÿÿ

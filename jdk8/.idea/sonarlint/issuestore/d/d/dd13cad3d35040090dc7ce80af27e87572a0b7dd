@@ -1,0 +1,23 @@
+
+C
+java:S11722"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S11616":Add the "@Override" annotation above this method signature(ïÆ•ø
+U
+java:S1161=":Add the "@Override" annotation above this method signature(Ô‹ÏŒúÿÿÿÿ
+U
+java:S1161E":Add the "@Override" annotation above this method signature(öÆÞâúÿÿÿÿ
+U
+java:S1161M":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+P
+java:S1161[":Add the "@Override" annotation above this method signature(³Ýê÷
+L
+java:S1128 "6Remove this unused import 'javax.swing.JToggleButton'.(‚ô°˜
+N
+java:S1128!"3Remove this unused import 'javax.swing.UIDefaults'.(É ‹³ùÿÿÿÿ
+M
+java:S1128""2Remove this unused import 'javax.swing.UIManager'.(ó·Âžûÿÿÿÿ
+T
+java:S1128%">Remove this unused import 'javax.swing.border.CompoundBorder'.(ùö¨ä
+[
+java:S1128*"@Remove this unused import 'javax.swing.plaf.basic.BasicBorders'.(Ž×Êÿüÿÿÿÿ

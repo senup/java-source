@@ -1,0 +1,42 @@
+
+o
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ùŒ…
+P
+java:S1141f"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+u
+java:S1488–"YImmediately throw this expression instead of assigning it to the temporary variable "td".(ÿä§äûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Äğ…«
+O
+java:S59938"9Change the visibility of this constructor to "protected".(ìƒíã
+h
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ºşÎ
+U
+java:S1193S"@Replace the usage of the "instanceof" operator by a catch block.(™Û€#
+[
+java:S1193V"@Replace the usage of the "instanceof" operator by a catch block.(…å™Øıÿÿÿÿ
+[
+java:S1193Y"@Replace the usage of the "instanceof" operator by a catch block.(¯…Çúúÿÿÿÿ
+>	java:S108j")Either remove or fill this block of code.(”ı¾
+[
+java:S1193p"@Replace the usage of the "instanceof" operator by a catch block.(…å™Øıÿÿÿÿ
+2
+java:S3626’"Remove this redundant jump.(ûÁİ…
+2
+java:S3626š"Remove this redundant jump.(ûÁİ…
+\
+java:S1193•"@Replace the usage of the "instanceof" operator by a catch block.(…å™Øıÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'com.sun.tools.attach.VirtualMachine'.(Íƒ­¼
+K
+java:S1128!"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+E
+java:S1128#"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+S
+java:S1128&"8Remove this unused import 'java.net.URISyntaxException'.(Ä®íÿÿÿÿÿ
+S
+java:S1128)"8Remove this unused import 'sun.jvmstat.monitor.Monitor'.(Æİô½şÿÿÿÿ
+W
+java:S1128."ARemove this unused import 'sun.jvmstat.monitor.MonitorException'.(üá§â
+J
+java:S10686"/Remove this unused "JVM_VERSION" private field.(§úÀüÿÿÿÿ

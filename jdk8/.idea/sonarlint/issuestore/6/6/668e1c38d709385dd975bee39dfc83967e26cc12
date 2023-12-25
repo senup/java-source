@@ -1,0 +1,21 @@
+
+P
+java:S1161(":Add the "@Override" annotation above this method signature(ÜÑã
+d
+java:S4201)"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¡Õ¬şÿÿÿÿ
+P
+java:S11611":Add the "@Override" annotation above this method signature(ğÜşŠ
+C
+java:S1125F"(Remove the unnecessary boolean literals.(ÖŸ›Æüÿÿÿÿ
+<
+java:S1905V"&Remove this unnecessary cast to "int".(Õ½â›
+=
+java:S1905Z"'Remove this unnecessary cast to "long".(³ä£‚
+C
+java:S1905^"(Remove this unnecessary cast to "float".(ğŒ¹åüÿÿÿÿ
+D
+java:S1905b")Remove this unnecessary cast to "double".(•ÊÎÿÿÿÿÿ
+U
+java:S1161i":Add the "@Override" annotation above this method signature(€ğîúÿÿÿÿ
+U
+java:S1161r":Add the "@Override" annotation above this method signature(øÕ¸øÿÿÿÿ

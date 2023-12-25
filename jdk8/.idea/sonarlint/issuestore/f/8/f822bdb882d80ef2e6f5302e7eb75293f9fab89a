@@ -1,0 +1,28 @@
+
+E
+java:S37405"/Provide the parametrized type for this generic.(øÁ§
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+Q	java:S107M"<Method has 9 parameters, which is greater than 7 authorized.(—±ÿÑ
+P
+java:S11181":Add a private constructor to hide the implicit public one.(ë×ñí
+U
+java:S1161t":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(ĞªÒı
+F
+java:S1197Š"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(µ¯íâ
+V
+java:S1161«":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(ĞªÒı
+F
+java:S1197Â"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(µ¯íâ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ó€„™şÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(ĞªÒı
+F
+java:S1197ı"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(µ¯íâ

@@ -1,0 +1,8 @@
+
+[	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(÷Õ¹ì
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßÉÌ¦úÿÿÿÿ
+o	java:S116#"ZRename this field "declared_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÃì½
+x	java:S116$"^Rename this field "implementing_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æî«þÿÿÿÿ
+Z
+java:S2147="DCombine this catch with the one at line 59, which has the same body.(åþáÿ

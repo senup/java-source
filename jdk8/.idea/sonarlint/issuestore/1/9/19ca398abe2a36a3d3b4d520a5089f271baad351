@@ -1,0 +1,15 @@
+
+n
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³–
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îšˆûÿÿÿÿ
+s
+java:S1488q"]Immediately return this expression instead of assigning it to the temporary variable "reply".(¸ü­Æ
+K
+java:S2446B"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+t
+java:S2142M"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+K
+java:S2446["0"notify" may not wake up the appropriate thread.(èù¦­ùÿÿÿÿ
+@
+java:S1068&"*Remove this unused "gotten" private field.(çÕŒÒ

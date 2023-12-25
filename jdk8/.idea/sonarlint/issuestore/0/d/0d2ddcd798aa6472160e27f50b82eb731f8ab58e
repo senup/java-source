@@ -1,0 +1,35 @@
+
+E
+java:S1874-"/Remove this use of "reshape"; it is deprecated.(¯¨Óº
+J
+java:S1874/"/Remove this use of "reshape"; it is deprecated.(­²Š‡øÿÿÿÿ
+J
+java:S18744"/Remove this use of "reshape"; it is deprecated.(Ï„ªæÿÿÿÿÿ
+F
+java:S14818"+Remove this unused "active" local variable.(èÏåŠıÿÿÿÿ
+E
+java:S1874="/Remove this use of "reshape"; it is deprecated.(´ëÛÁ
+D
+java:S1874@".Remove this use of "resize"; it is deprecated.(Ç§îå
+`
+java:S1874H"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(õ‚ğ
+P
+java:S1161H":Add the "@Override" annotation above this method signature(õ‚ğ
+`
+java:S1874L"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(²Äƒ
+P
+java:S1161L":Add the "@Override" annotation above this method signature(²Äƒ
+e
+java:S1874n"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(½ŞÊ”üÿÿÿÿ
+U
+java:S1161n":Add the "@Override" annotation above this method signature(½ŞÊ”üÿÿÿÿ
+=
+java:S1168®"&Return an empty array instead of null.(¥¹ï
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(ˆ÷üÂ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(ß³’ç
+A
+java:S1197Â"*Move the array designators [] to the type.(´İ‰¿
+A
+java:S1197Æ"*Move the array designators [] to the type.(õÒŞû

@@ -1,0 +1,34 @@
+
+o
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÅ¡!
+c
+java:S1192Ä"GDefine a constant instead of duplicating this literal "equals" 5 times.(–¡‚üÿÿÿÿ
+e
+java:S1192A"ODefine a constant instead of duplicating this literal "extractSubNet" 12 times.(·è‹İ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+\
+java:S3973j"GUse indentation to denote the code conditionally executed by this "if".(Å‘#
+d
+java:S3973l"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+z
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(íú™§úÿÿÿÿ
+{
+java:S1149ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øÅ¡!
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ã‡ö
+U
+java:S1117>":Rename "subnet" which hides the field declared at line 51.(ë¥ÿÁùÿÿÿÿ
+<
+java:S1905}"&Remove this unnecessary cast to "int".(èóå
+<
+java:S1905}"&Remove this unnecessary cast to "int".(èóå
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(ğÜşŠ
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(ĞÎØ¶ùÿÿÿÿ
+=
+java:S1905Î"&Remove this unnecessary cast to "int".(ÂÅóÇ
+]
+java:S1126è"AReplace this if-then-else statement by a single return statement.(Ñÿ€èúÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(Á»›ê

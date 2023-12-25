@@ -1,0 +1,22 @@
+
+b	java:S101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»ÛÏ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+_
+java:S2583¯"CChange this condition so that it does not always evaluate to "true"(ÑÊŒ»úÿÿÿÿ
+^
+java:S2583K"CChange this condition so that it does not always evaluate to "true"(ÑÊŒ»úÿÿÿÿ
+Y
+java:S2583P"CChange this condition so that it does not always evaluate to "true"(óÎóé
+Z
+java:S2583´"CChange this condition so that it does not always evaluate to "true"(óÎóé
+P
+java:S1161…":Add the "@Override" annotation above this method signature(–ŒŠ
+V
+java:S1161":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(¢³™¥ÿÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(•İÙüÿÿÿÿ
+H
+java:S1128""-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

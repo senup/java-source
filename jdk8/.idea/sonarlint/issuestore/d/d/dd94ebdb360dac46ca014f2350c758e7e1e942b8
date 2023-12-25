@@ -1,0 +1,33 @@
+
+K
+java:S1066Ğ"/Merge this if statement with the enclosing one.(¾Ø—†ÿÿÿÿÿ
+y	java:S116·"^Rename this field "dirty_vdelay1L_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷£€Àşÿÿÿÿ
+t	java:S116¸"^Rename this field "dirty_vdelay1R_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êº¥É
+z	java:S116¹"_Rename this field "dirty_vdelay1L_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ÿ¤¢ùÿÿÿÿ
+z	java:S116º"_Rename this field "dirty_vdelay1R_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İò¢²ûÿÿÿÿ
+x	java:S116»"bRename this field "dirty_vdelay1L_feedback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÅĞÂ
+}	java:S116¼"bRename this field "dirty_vdelay1R_feedback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úÿˆ•ıÿÿÿÿ
+ƒ	java:S116½"hRename this field "dirty_vdelay1L_reverbsendgain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã™ÍÕúÿÿÿÿ
+~	java:S116¾"hRename this field "dirty_vdelay1R_reverbsendgain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÃÇÀ
+N
+java:S1117D"8Rename "gain" which hides the field declared at line 41.( ¶
+T
+java:S1117E"9Rename "delay" which hides the field declared at line 43.(À¬ø”ÿÿÿÿÿ
+R
+java:S1117F"<Rename "feedback" which hides the field declared at line 45.(éÈ‡±
+Z
+java:S1117H"?Rename "delaybuffer" which hides the field declared at line 39.(éÕ„‰úÿÿÿÿ
+V
+java:S1117L";Rename "rovepos" which hides the field declared at line 40.(ÛîĞúÿÿÿÿ
+j	java:S116w"URename this field "phase_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄİÃ®
+W	java:S125€"<This block of commented-out lines of code should be removed.(À³ù‰ûÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Şşúÿÿÿÿ
+R
+java:S1117°";Rename "inputA" which hides the field declared at line 175.(Ôâ™–
+U
+java:S1117±"9Rename "left" which hides the field declared at line 176.(ïáª¶úÿÿÿÿ
+Q
+java:S1117²":Rename "right" which hides the field declared at line 177.(“ÖœÑ
+R
+java:S1117³";Rename "reverb" which hides the field declared at line 178.(øâ¼†

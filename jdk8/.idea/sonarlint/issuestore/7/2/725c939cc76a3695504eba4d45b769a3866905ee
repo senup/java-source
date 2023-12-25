@@ -1,0 +1,11 @@
+
+Z
+java:S21479"DCombine this catch with the one at line 55, which has the same body.(ï­£Ä
+Z
+java:S2147G"DCombine this catch with the one at line 70, which has the same body.(ï­£Ä
+>	java:S108F")Either remove or fill this block of code.(Ó•Þˆ
+>	java:S108G")Either remove or fill this block of code.(ï­£Ä
+ž
+java:S1130N"‚Remove the declaration of thrown exception 'javax.sound.midi.InvalidMidiDataException', as it cannot be thrown from method's body.(ÖÕ‹Ðùÿÿÿÿ
+[
+java:S2147"ECombine this catch with the one at line 125, which has the same body.(ï­£Ä

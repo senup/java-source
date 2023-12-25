@@ -1,0 +1,26 @@
+
+o	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çñ¹¥
+o	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰·ˆÕ
+o	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øñå
+[
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(Çñ¹¥
+[
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(‰·ˆÕ
+[
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(øñå
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(Äˆÿÿÿÿÿ
+@
+java:S11977"*Move the array designators [] to the type.(Œ£–™
+E
+java:S1197Q"*Move the array designators [] to the type.(»İöƒıÿÿÿÿ
+[
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(Áı·Ë
+C
+java:S1128"(Remove this unused import 'com.sun.jdi'.(èùªãüÿÿÿÿ
+/
+java:S2183Z"Remove this useless shift(ä÷Ê
+/
+java:S2183e"Remove this useless shift(Ìîš§
+4
+java:S2183o"Remove this useless shift(ë²ğ™úÿÿÿÿ

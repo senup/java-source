@@ -1,0 +1,36 @@
+
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜…œ€ûÿÿÿÿ
+o	java:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Ç"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Ð"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+T
+java:S1163Ü"=Refactor this code to not throw exceptions in finally blocks.(Í²ëî
+T
+java:S1163ý"=Refactor this code to not throw exceptions in finally blocks.(Í²ëî
+T
+java:S1163›"=Refactor this code to not throw exceptions in finally blocks.(Í²ëî
+Q
+java:S1143˜"5Remove this return statement from this finally block.(‘¬†øûÿÿÿÿ
+Q
+java:S1143½"5Remove this return statement from this finally block.(‘¬†øûÿÿÿÿ
+K
+java:S1143Ü"4Remove this throw statement from this finally block.(Í²ëî
+K
+java:S1143ý"4Remove this throw statement from this finally block.(Í²ëî
+K
+java:S1143›"4Remove this throw statement from this finally block.(Í²ëî
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+v
+java:S1149×"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+]
+java:S1126ÿ"AReplace this if-then-else statement by a single return statement.(ÿ¨³Ûùÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(¬ÎŠ¹
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËÄÆûÿÿÿÿ
+E
+java:S1481ä".Remove this unused "localPort" local variable.(Û’¬¡
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(š¶øŒøÿÿÿÿ
+8	java:S131Þ""Add a default case to this switch.(þ™ÅÞ

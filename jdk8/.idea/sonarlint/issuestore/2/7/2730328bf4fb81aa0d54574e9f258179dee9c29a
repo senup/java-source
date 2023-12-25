@@ -1,0 +1,22 @@
+
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+j
+java:S1192ş"SDefine a constant instead of duplicating this literal "wrsxmlwriter.sqlex" 3 times.(¢ ÍŞ
+b
+java:S1192Ò"LDefine a constant instead of duplicating this literal "columnValue" 4 times.(ÚÎê<
+a
+java:S1192Ÿ"JDefine a constant instead of duplicating this literal "webRowSet" 4 times.(‚ÆŞä
+Q
+java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f
+java:S1149:"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(à´À
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¶ó¶¨úÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(Àòšøÿÿÿÿ
+8
+java:S1116ã"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116‚"Remove this empty statement.(Åñ­õşÿÿÿÿ
+u
+java:S1158¼"YCall the static method Boolean.toString(...) instead of instantiating a temporary object.(âÉúÄùÿÿÿÿ

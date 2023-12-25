@@ -1,0 +1,25 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+=
+java:S16598""Declare "devy" on a separate line.(åÉöñıÿÿÿÿ
+E
+java:S1197:"*Move the array designators [] to the type.(®¥ğ¥ÿÿÿÿÿ
+E
+java:S1197S"*Move the array designators [] to the type.(°ˆÙ¡úÿÿÿÿ
+:
+java:S1659W"Declare "y" on a separate line.(ãï€şúÿÿÿÿ
+E
+java:S1197^"*Move the array designators [] to the type.(â¦ÊÛùÿÿÿÿ
+E
+java:S1197~"*Move the array designators [] to the type.(Ü¥îèüÿÿÿÿ
+I
+java:S1172"-Remove this unused method parameter "aaHint".(¡Ï‰ùÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'java.awt.Font'.(êŸŸ
+E
+java:S1128"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+F
+java:S1128"+Remove this unused import 'java.awt.Shape'.(Íààùÿÿÿÿ
+H
+java:S1128#"-Remove this unused import 'sun.awt.SunHints'.(”Š¸Îşÿÿÿÿ

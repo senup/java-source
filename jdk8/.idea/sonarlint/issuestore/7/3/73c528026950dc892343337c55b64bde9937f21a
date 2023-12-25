@@ -1,0 +1,40 @@
+
+r	java:S127D"XRefactor the code in order to not assign to this loop counter from within the loop body.(þº˜Öýÿÿÿÿ
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+]
+java:S39736"GUse indentation to denote the code conditionally executed by this "if".(üíº¢
+z
+java:S1149A"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹åí°ýÿÿÿÿ
+{
+java:S1149ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹åí°ýÿÿÿÿ
+{
+java:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(íµÀôúÿÿÿÿ
+{
+java:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡± „ýÿÿÿÿ
+{
+java:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡± „ýÿÿÿÿ
+{
+java:S1149×"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(š‹Î×ýÿÿÿÿ
+{
+java:S1149ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Èýžêúÿÿÿÿ
+U
+java:S1118'":Add a private constructor to hide the implicit public one.(Äº¢ñúÿÿÿÿ
+`
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(¿ ‡Àüÿÿÿÿ
+Z
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(Õ•Ël
+m
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÌóÝ½ÿÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¨Å¦íþÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(èŽ‰Çýÿÿÿÿ
+A
+java:S1197¿"*Move the array designators [] to the type.(›ËÌ•
+F
+java:S1197ˆ"*Move the array designators [] to the type.(¥Îâöùÿÿÿÿ
+F
+java:S1197ù"*Move the array designators [] to the type.(”ØºŽúÿÿÿÿ

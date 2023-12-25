@@ -1,0 +1,9 @@
+
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅ›Ñûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ñ´Üéøÿÿÿÿ
+j	java:S1160"URename this field "block_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éäòê
+B
+java:S3329`"'Use a dynamically-generated, random IV.(¸ÃÇ¦úÿÿÿÿ
+K
+java:S1172m"5Remove this unused method parameter "encodingMethod".(´Ï°·

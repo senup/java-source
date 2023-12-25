@@ -1,0 +1,32 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ð
+g
+java:S1223G"LRename this method to prevent any misunderstanding or make it a constructor.(”÷ž½ûÿÿÿÿ
+t	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úÿè§øÿÿÿÿ
+o	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äö©ã
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(úÿè§øÿÿÿÿ
+T
+java:S1858*"9there's no need to call "toString()" on a string literal.(úÿè§øÿÿÿÿ
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(Äö©ã
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”÷ž½ûÿÿÿÿ
+X
+java:S1854d"=Remove this useless assignment to local variable "strbounds".(‹·ÊÏøÿÿÿÿ
+U
+java:S1161a":Add the "@Override" annotation above this method signature(±ÏßÚÿÿÿÿÿ
+E
+java:S1197d"*Move the array designators [] to the type.(‹·ÊÏøÿÿÿÿ
+I
+java:S1481d".Remove this unused "strbounds" local variable.(‹·ÊÏøÿÿÿÿ
+@
+java:S1197m"*Move the array designators [] to the type.(¬±¾Ä
+@
+java:S1197"*Move the array designators [] to the type.(®«Õµ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(Žù» 
+V
+java:S1161š":Add the "@Override" annotation above this method signature(±ÏßÚÿÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê

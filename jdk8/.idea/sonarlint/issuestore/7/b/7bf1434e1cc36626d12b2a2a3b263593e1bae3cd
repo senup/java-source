@@ -1,0 +1,67 @@
+
+E
+java:S3740R"/Provide the parametrized type for this generic.(Üû×Ù
+E
+java:S3740R"/Provide the parametrized type for this generic.(Üû×Ù
+E
+java:S3740\"/Provide the parametrized type for this generic.(Ùš±¬
+E
+java:S3740`"/Provide the parametrized type for this generic.(¦¼Èî
+F
+java:S3740–"/Provide the parametrized type for this generic.(¥öÅÞ
+K
+java:S3740œ"/Provide the parametrized type for this generic.(íë‘­ùÿÿÿÿ
+s	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÒÁþ“üÿÿÿÿ
+>
+java:S1604\"(Make this anonymous inner class a lambda(Ùš±¬
+?
+java:S1604–"(Make this anonymous inner class a lambda(¥öÅÞ
+`
+java:S3014Ê"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(»Á¹ç
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(‡Õê³
+B
+java:S3011A",This accessibility update should be removed.(±é©
+B
+java:S3011C",This accessibility update should be removed.(Ò´Â¿
+h
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ðÔ”Î
+P
+java:S1874~":Remove this use of "currentClassLoader"; it is deprecated.(”ð÷
+K
+java:S1905Â"4Remove this unnecessary cast to "AppletClassLoader".(Ý¬Á
+Q
+java:S1161Þ":Add the "@Override" annotation above this method signature(Íã¿ò
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(„µÕ–úÿÿÿÿ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(Ä¾¨
+f
+java:S1874µ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ë¡›°ûÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(Ë¡›°ûÿÿÿÿ
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(¤þä½ùÿÿÿÿ
+V
+java:S1161ß":Add the "@Override" annotation above this method signature(¿”þçúÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+I
+java:S1128"3Remove this unused import 'java.io.FilePermission'.(˜ô€—
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.io.FileDescriptor'.(Þ…º†
+D
+java:S1128 ")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+L
+java:S1128""1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ
+U
+java:S1128#":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+L
+java:S1128$"6Remove this unused import 'java.net.SocketPermission'.(ž·Óå
+Q
+java:S1128("6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñþÿÿÿÿ
+H
+java:S1128-"2Remove this unused import 'sun.security.provider'.(ÏãÞå

@@ -1,0 +1,14 @@
+
+a	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(¦ Š¹ýÿÿÿÿ
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê—…¢ùÿÿÿÿ
+m
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(·´åˆúÿÿÿÿ
+7	java:S131o""Add a default case to this switch.(¹ŠÒÓ
+a
+java:S1124Ã"EReorder the modifiers to comply with the Java Language Specification.(ÔµÐÖûÿÿÿÿ
+H
+java:S1144Ò"1Remove this unused private "noJVMSupport" method.(†‹ßÂ
+L
+java:S1144×"6Remove this unused private "loadClassInternal" method.(Œþ•>

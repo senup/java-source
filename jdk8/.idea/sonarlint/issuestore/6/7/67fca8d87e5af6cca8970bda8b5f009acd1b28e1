@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò›úŒýÿÿÿÿ
+@
+java:S1197L"*Move the array designators [] to the type.(òµ‚§
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ˆÐÊûûÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(žíÙ¯øÿÿÿÿ
+S
+java:S6213k"8Rename this method to not match a restricted identifier.(öŸ„Ÿüÿÿÿÿ
+Z
+java:S3358z"DExtract this nested ternary operation into an independent statement.(èÆ…¤

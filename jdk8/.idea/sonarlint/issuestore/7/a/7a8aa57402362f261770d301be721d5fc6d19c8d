@@ -1,0 +1,48 @@
+
+E
+java:S3740^"/Provide the parametrized type for this generic.(áöî®
+J
+java:S3740_"/Provide the parametrized type for this generic.(˜ïªüÿÿÿÿ
+E
+java:S3740l"/Provide the parametrized type for this generic.(·Ñ¹™
+E
+java:S3740l"/Provide the parametrized type for this generic.(·Ñ¹™
+K
+java:S3740»"/Provide the parametrized type for this generic.(ëÖúÿÿÿÿ
+F
+java:S3740À"/Provide the parametrized type for this generic.(·Ş£ë
+F
+java:S3740ë"/Provide the parametrized type for this generic.(·Ş£ë
+K
+java:S3740ò"/Provide the parametrized type for this generic.(ıÇ•òüÿÿÿÿ
+t
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ïªüÿÿÿÿ
+h
+java:S1104G"RMake handle a static final constant or non-public and provide accessors if needed.(ˆ¸ò­
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+V	java:S125|"<This block of commented-out lines of code should be removed.(Î…€©úÿÿÿÿ
+Q	java:S125¸"<This block of commented-out lines of code should be removed.(“‡Ú:
+Q	java:S125¿"<This block of commented-out lines of code should be removed.(“‡Ú:
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(„Ú…ùÿÿÿÿ
+Q	java:S125ê"<This block of commented-out lines of code should be removed.(“‡Ú:
+A
+java:S1197‰"*Move the array designators [] to the type.(œô¼»
+A
+java:S1197µ"*Move the array designators [] to the type.(œô¼»
+F
+java:S1172Á"*Remove this unused method parameter "tag".(ªúÌúÿÿÿÿ
+=
+java:S1168Â"&Return an empty array instead of null.(¥¹ï
+U
+java:S3400Ç"9Remove this method and declare a constant for this value.(€™á¿ùÿÿÿÿ
+F
+java:S1172Ê"/Remove this unused method parameter "encoding".(õŠ÷ù
+I
+java:S1172Ö"-Remove this unused method parameter "ptsize".(ı‰Å´üÿÿÿÿ
+?
+java:S1172ã"(Remove this unused method parameter "l".(¦áê³
+?
+java:S1172ç"(Remove this unused method parameter "l".(‡Á±Œ
+D
+java:S1172ÿ"(Remove this unused method parameter "c".(à¯Ğÿÿÿÿÿÿ

@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÜµÇå
+k
+java:S1201/"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÅÓË 
+I
+java:S1128"4Remove this unused import 'java.security.Principal'.(í€ﬁ[

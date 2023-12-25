@@ -1,0 +1,20 @@
+
+k
+java:S1192ô"UDefine a constant instead of duplicating this literal "InetAddress is null." 3 times.(÷Ý†x
+Q
+java:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141­"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÉˆÓÿÿÿÿÿ
+H
+java:S1481Œ",Remove this unused "address" local variable.(ßö…Åýÿÿÿÿ
+C
+java:S1905°"'Remove this unnecessary cast to "long".(™•¢âüÿÿÿÿ
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØÞ÷áùÿÿÿÿ

@@ -1,0 +1,12 @@
+
+Q	java:S110$"<This class has 6 parents which is greater than 5 authorized.(ê’÷Ü
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+U
+java:S1161/":Add the "@Override" annotation above this method signature(–¦€Ëûÿÿÿÿ
+P
+java:S11612":Add the "@Override" annotation above this method signature(éË«
+P
+java:S11619":Add the "@Override" annotation above this method signature(ûáªø
+P
+java:S1161F":Add the "@Override" annotation above this method signature(¿‘Æ

@@ -1,0 +1,62 @@
+
+c
+java:S1192ì"GDefine a constant instead of duplicating this literal "blwbll" 3 times.(Ô–Ïüüÿÿÿÿ
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÈö»
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÈö»
+g
+java:S1301Õ"KReplace this "switch" statement by "if" statements to increase readability.(šÒ’ùÿÿÿÿ
+g
+java:S1301à"KReplace this "switch" statement by "if" statements to increase readability.(šÒ’ùÿÿÿÿ
+8
+java:S1643ƒ"Use a StringBuilder instead.(ö­ïÈøÿÿÿÿ
+i
+java:S3008Ú"MRename this field "BW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¥î¹ùÿÿÿÿ
+D
+java:S4274„"(Replace this assert with a proper check.(şüñ»ÿÿÿÿÿ
+A
+java:S1481j"+Remove this unused "prefix" local variable.(ÅÄ·
+D
+java:S4274¤"(Replace this assert with a proper check.(Ö¼¥Åøÿÿÿÿ
+?
+java:S4274Í"(Replace this assert with a proper check.(Æù™
+=	java:S131Õ""Add a default case to this switch.(šÒ’ùÿÿÿÿ
+?
+java:S4274ä"(Replace this assert with a proper check.(Š¹íş
+=	java:S131à""Add a default case to this switch.(šÒ’ùÿÿÿÿ
+G
+java:S2160ç"+Override the "equals" method in this class.(‘—œµøÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(Á»›ê
+Q	java:S125ş"<This block of commented-out lines of code should be removed.(òˆ‰(
+]
+java:S1126Á"AReplace this if-then-else statement by a single return statement.(œ£šùüÿÿÿÿ
+\
+java:S1124Ú"EReorder the modifiers to comply with the Java Language Specification.(ÚÈ÷¹
+a
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.(°×î•ıÿÿÿÿ
+a
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(äœ•³úÿÿÿÿ
+[
+java:S1124İ"EReorder the modifiers to comply with the Java Language Specification.(÷ŒÕ/
+\
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(Œå³
+\
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(¸Õáó
+a
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(âİ¦÷üÿÿÿÿ
+a
+java:S1124á"EReorder the modifiers to comply with the Java Language Specification.(÷çí”ùÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ïƒŸš
+h
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€ÜÀ=
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õÈö»
+H
+java:S2692à"10 is a valid index, but is ignored by this check.(ÿòÅô
+=	java:S131î""Add a default case to this switch.(îºĞşÿÿÿÿ
+5
+java:S2183"Remove this useless shift(½ƒß¯ÿÿÿÿÿ
+5
+java:S2183‘"Remove this useless shift(‘şÓœûÿÿÿÿ
+B
+java:S1068Ú"&Remove this unused "BW" private field.(°¥î¹ùÿÿÿÿ

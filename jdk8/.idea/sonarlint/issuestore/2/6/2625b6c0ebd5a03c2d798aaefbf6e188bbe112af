@@ -1,0 +1,25 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+P
+java:S3516Ù"9Refactor this method to not always return the same value.(ý¯Úë
+G
+java:S2160"+Override the "equals" method in this class.(º¯Ãøÿÿÿÿ
+e
+java:S3252Í"NUse static access with "sun.util.calendar.CalendarDate" for "FIELD_UNDEFINED".(û¬¿¸
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ý¯Úë
+=
+java:S1110œ"!Remove these useless parentheses.(§‹Ì ýÿÿÿÿ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÝÏ¥×ÿÿÿÿÿ
+R
+java:S1854ú"6Remove this useless assignment to local variable "d4".(ŸñÕúÿÿÿÿ
+M
+java:S1854„"6Remove this useless assignment to local variable "d4".(â½žì
+V
+java:S1659í"?Declare "d2" and all following declarations on a separate line.(º˜–Ô
+]
+java:S1659î"ADeclare "n100" and all following declarations on a separate line.(ßÒÞÝþÿÿÿÿ
+>
+java:S1481í"'Remove this unused "d4" local variable.(º˜–Ô

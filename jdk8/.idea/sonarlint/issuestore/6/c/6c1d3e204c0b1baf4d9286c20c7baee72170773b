@@ -1,0 +1,21 @@
+
+F
+java:S1066Õ"/Merge this if statement with the enclosing one.(×Û·²
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ğšãµùÿÿÿÿ
+F
+java:S2160T"+Override the "equals" method in this class.(Ğ©ÉÔıÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(Œ×ËÓıÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(»Ñˆïıÿÿÿÿ
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(àåîÆ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(àåîÆ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÌÜ„‡ûÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

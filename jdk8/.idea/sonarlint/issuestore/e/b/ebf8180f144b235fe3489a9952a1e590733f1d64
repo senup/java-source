@@ -1,0 +1,38 @@
+
+\	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(æ«Àå
+t	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(­’ù‘ıÿÿÿÿ
+Q
+java:S1141»"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Øé»’
+_
+java:S2583˜"CChange this condition so that it does not always evaluate to "true"(¯–Â†ÿÿÿÿÿ
+t	java:S115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ëê­‹øÿÿÿÿ
+t	java:S115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áâ”ñùÿÿÿÿ
+q
+java:S1149O"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(à‰ú¢üÿÿÿÿ
+{
+java:S1149V"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦ş¿â
+€
+java:S1149]"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÑÃéûÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¯÷Ô
+Z
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(ëËÙËÿÿÿÿÿ
+u
+java:S2142Å"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+B
+java:S1481ó"&Remove this unused "b" local variable.(‚üšÉÿÿÿÿÿ
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(•÷Ì•
+W	java:S125–"<This block of commented-out lines of code should be removed.(ıìèºÿÿÿÿÿ
+L
+java:S2446œ"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+?	java:S108£")Either remove or fill this block of code.(ï­£Ä
+L
+java:S2446­"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(ˆê«¹øÿÿÿÿ
+?	java:S108Ò")Either remove or fill this block of code.(ï­£Ä
+C
+java:S1068î"'Remove this unused "acc" private field.(ÿßÃˆûÿÿÿÿ

@@ -1,0 +1,28 @@
+
+i
+java:S11047"SMake ascentX a static final constant or non-public and provide accessors if needed.(µÂº•
+n
+java:S11048"SMake ascentY a static final constant or non-public and provide accessors if needed.(©ûÈûúÿÿÿÿ
+o
+java:S11049"TMake descentX a static final constant or non-public and provide accessors if needed.(³Ô®ÿÿÿÿÿ
+j
+java:S1104:"TMake descentY a static final constant or non-public and provide accessors if needed.(ëÒ×
+j
+java:S1104;"UMake baselineX a static final constant or non-public and provide accessors if needed.(²ÜS
+k
+java:S1104<"UMake baselineY a static final constant or non-public and provide accessors if needed.(Ç¿òÜ
+j
+java:S1104="TMake leadingX a static final constant or non-public and provide accessors if needed.(¶Å
+i
+java:S1104>"TMake leadingY a static final constant or non-public and provide accessors if needed.(ò€ÎI
+r
+java:S1104?"WMake maxAdvanceX a static final constant or non-public and provide accessors if needed.(Ç©”Âúÿÿÿÿ
+m
+java:S1104@"WMake maxAdvanceY a static final constant or non-public and provide accessors if needed.(µ¾¬Õ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+‚
+java:S4165["gRemove this useless assignment; "baselineX" already holds the assigned value along all execution paths.(òâ»ıÿÿÿÿ
+W	java:S107^"BConstructor has 10 parameters, which is greater than 7 authorized.(õï¡×
+J
+java:S1656["/Remove or correct this useless self-assignment.(òâ»ıÿÿÿÿ

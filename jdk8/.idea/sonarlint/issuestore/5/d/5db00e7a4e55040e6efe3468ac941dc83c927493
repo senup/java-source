@@ -1,0 +1,10 @@
+
+C
+java:S1604w"(Make this anonymous inner class a lambda(˜¬¬µüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+c
+java:S3824b"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(„ÏÄıÿÿÿÿ
+o	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ”ºÅ
+<
+java:S1068P"&Remove this unused "id" private field.(èÓ—

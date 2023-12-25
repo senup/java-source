@@ -1,0 +1,104 @@
+
+s
+java:S1192ó"\Define a constant instead of duplicating this literal "RuntimeInvisibleAnnotations" 3 times.(ĞŸİÍ
+w
+java:S1192ö"`Define a constant instead of duplicating this literal "RuntimeInvisibleTypeAnnotations" 4 times.(Üæ¿
+u
+java:S1192è"^Define a constant instead of duplicating this literal "RuntimeVisibleTypeAnnotations" 4 times.(Şç’¾
+g
+java:S1192ê"KDefine a constant instead of duplicating this literal "Deprecated" 3 times.(«†äÖşÿÿÿÿ
+a
+java:S1192ì"JDefine a constant instead of duplicating this literal "Synthetic" 3 times.(ÈŸ¨È
+v
+java:S1192å"ZDefine a constant instead of duplicating this literal "RuntimeVisibleAnnotations" 3 times.(ùÃ°Èıÿÿÿÿ
+a
+java:S1192â"JDefine a constant instead of duplicating this literal "Signature" 3 times.(¹áÕã
+J
+java:S1121ë".Extract the assignment out of this expression.(àíÙ†øÿÿÿÿ
+s	java:S127ß"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+s	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+s	java:S127Ş"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+s	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(©«ÈÈúÿÿÿÿ
+s	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(É‘ôÌıÿÿÿÿ
+s	java:S127ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(êÙ¹„ùÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127£"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127©"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127²"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127²"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127³"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127ğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+s	java:S127ş"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âúø–ûÿÿÿÿ
+s	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄÈËöıÿÿÿÿ
+n	java:S127¦	"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘ıë‘
+s	java:S127³	"XRefactor the code in order to not assign to this loop counter from within the loop body.(É‘ôÌıÿÿÿÿ
+n	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÜÔÄ¢
+s	java:S127ò"XRefactor the code in order to not assign to this loop counter from within the loop body.(Úú¿ şÿÿÿÿ
+s	java:S127ó"XRefactor the code in order to not assign to this loop counter from within the loop body.(½·‚ÿÿÿÿÿ
+n	java:S127Å"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢Í°´
+s	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù¥£Ïûÿÿÿÿ
+F
+java:S1066•
+"/Merge this if statement with the enclosing one.(æÖç
+X
+java:S4973¾"<Strings and Boxed types should be compared using "equals()".(ÃÇƒÿÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(³å¼ıÿÿÿÿ
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(°› şÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(ë£ğŞüÿÿÿÿ
+j
+java:S3776©"SRefactor this method to reduce its Cognitive Complexity from 209 to the 15 allowed.(´õş
+Q
+java:S1854ò	"5Remove this useless assignment to local variable "u".(µüÿÿÿÿÿ
+Q
+java:S1854‘"5Remove this useless assignment to local variable "v".(ÄÈËöıÿÿÿÿ
+Q
+java:S1854"5Remove this useless assignment to local variable "v".(ÄÈËöıÿÿÿÿ
+R
+java:S1117«"6Rename "b" which hides the field declared at line 141.(­ÁŒ©ùÿÿÿÿ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Òµ¬“ùÿÿÿÿ
+8	java:S131»""Add a default case to this switch.(¡Ò÷¨
+:
+java:S2129Å"Remove this "Byte" constructor(™—ÁÒıÿÿÿÿ
+;
+java:S2129Ï"Remove this "Short" constructor(é¤ÿªøÿÿÿÿ
+?
+java:S2129Ô"#Remove this "Character" constructor(½ÊÀ½úÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(î“àşÿÿÿÿ
+R
+java:S1119Ô";Refactor the code to remove this label and the need for it.(ÂúœÎ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(§Ç•Ğıÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(±Ô¿
+R
+java:S1117¤"6Rename "b" which hides the field declared at line 141.(­ÁŒ©ùÿÿÿÿ
+R
+java:S1117²"6Rename "b" which hides the field declared at line 141.(­ÁŒ©ùÿÿÿÿ
+R
+java:S1117À"6Rename "b" which hides the field declared at line 141.(­ÁŒ©ùÿÿÿÿ
+R
+java:S1117ü"6Rename "b" which hides the field declared at line 141.(­ÁŒ©ùÿÿÿÿ
+8	java:S131ƒ""Add a default case to this switch.(Ô±å¯
+=
+java:S2129Å"!Remove this "Integer" constructor(¤ëÜÿÿÿÿÿÿ
+;
+java:S2129Ç"Remove this "Float" constructor(ªÙ»µÿÿÿÿÿ
+5
+java:S2129É"Remove this "Long" constructor(ö¢Ğì
+<
+java:S2129Ë" Remove this "Double" constructor(ÉÔÛùÿÿÿÿ
+Q
+java:S1117Ô":Rename "items" which hides the field declared at line 147.(Û§÷‰

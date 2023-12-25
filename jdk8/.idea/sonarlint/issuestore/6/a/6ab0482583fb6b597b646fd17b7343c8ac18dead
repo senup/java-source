@@ -1,0 +1,11 @@
+
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍÔ‚©ÿÿÿÿÿ
+t	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰«šÑşÿÿÿÿ
+t	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Óæäùÿÿÿÿ
+o	java:S115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜßÉ–
+o	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªä´è
+n	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ò¹ S
+@
+java:S1165‰"$Make this "errorStatus" field final.(œ½”¹ûÿÿÿÿ
+?
+java:S1165"#Make this "errorIndex" field final.(³©‹ÿÿÿÿÿ

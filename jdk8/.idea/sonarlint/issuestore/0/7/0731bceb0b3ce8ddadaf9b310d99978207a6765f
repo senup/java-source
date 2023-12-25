@@ -1,0 +1,56 @@
+
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+t
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(øŞàøÿÿÿÿ
+u
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ôşÿÿÿÿ
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¬Ä§şÿÿÿÿ
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶îáîüÿÿÿÿ
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šÿ¦™şÿÿÿÿ
+c
+java:S1192»"GDefine a constant instead of duplicating this literal "(port " 9 times.(ÁùÜğüÿÿÿÿ
+Q
+java:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604p"(Make this anonymous inner class a lambda(ÛÀõ“ıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(´äÍë
+>
+java:S2189‚""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+e
+java:S3824Ã"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(˜¥’
+o	java:S115`"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤§š
+t	java:S115f"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í–«ìúÿÿÿÿ
+u	java:S115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øêŠıÿÿÿÿ
+H
+java:S5164|"-Call "remove()" on "threadConnectionHandler".(¡¾Îüÿÿÿÿ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(¿¡äë
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(¶ı•
+?	java:S108”")Either remove or fill this block of code.(ï­£Ä
+?	java:S108ó")Either remove or fill this block of code.(ï­£Ä
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(û‘ƒü
+D	java:S108®")Either remove or fill this block of code.(‹ìœáúÿÿÿÿ
+D	java:S108Â")Either remove or fill this block of code.(‹ìœáúÿÿÿÿ
+z
+java:S2142€"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(­¤ß”øÿÿÿÿ
+D	java:S108€")Either remove or fill this block of code.(­¤ß”øÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ü¡Œ™ÿÿÿÿÿ
+>
+java:S1125­"'Remove the unnecessary boolean literal.(š§œ
+F
+java:S2093˜"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¤Ğëõ
+F
+java:S2093»"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S1128C"6Remove this unused import 'sun.rmi.transport.Channel'.(šŞ¸—øÿÿÿÿ

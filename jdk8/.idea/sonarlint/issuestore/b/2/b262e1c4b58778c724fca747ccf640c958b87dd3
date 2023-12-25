@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÅóÒÛ
+@
+java:S2157"%Add a "clone()" method to this class.(¯ÃŽ‡úÿÿÿÿ
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(è«½Œ
+H
+java:S1197È",Move the array designators [][] to the type.(ëºö‡ýÿÿÿÿ
+H
+java:S1197É",Move the array designators [][] to the type.(›‚œùüÿÿÿÿ
+8
+java:S1116Í"Remove this empty statement.(ôŸŽìúÿÿÿÿ

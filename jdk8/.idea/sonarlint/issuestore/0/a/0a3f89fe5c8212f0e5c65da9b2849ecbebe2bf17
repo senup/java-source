@@ -1,0 +1,71 @@
+
+o	java:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(²¢·ò
+o	java:S135—"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(™Æ”É
+K
+java:S1191("5Use classes from the Java API instead of Sun classes.(ûÑ›º
+P
+java:S1118-":Add a private constructor to hide the implicit public one.(åÊ„Ù
+V	java:S125^"<This block of commented-out lines of code should be removed.(Îïò–ùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ıíÎ±üÿÿÿÿ
+G
+java:S1172"+Remove this unused method parameter "bidi".(ıíÎ±üÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¡ì¯®øÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(½­î–
+I
+java:S1659Ë"-Declare "trailingWSStart" on a separate line.(Ù„Ó©şÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ù¥•şÿÿÿÿ
+>
+java:S1659·""Declare "iRun" on a separate line.(ÿß¸™ıÿÿÿÿ
+F
+java:S1659º"*Declare "logicalLimit" on a separate line.( úºüÿÿÿÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¯ó—«ûÿÿÿÿ
+_
+java:S1659"CDeclare "endRun" and all following declarations on a separate line.(Ÿçíİûÿÿÿÿ
+?	java:S108£")Either remove or fill this block of code.(Ôª§Ü
+d
+java:S1659Ï"HDeclare "visualStart" and all following declarations on a separate line.(š«Äˆúÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(şßÆÓ
+?
+java:S1659ö"#Declare "limit" on a separate line.(Ëß¶ûÿÿÿÿ
+=
+java:S1659ø"&Declare "runCount" on a separate line.(â¿‹
+?
+java:S1659š"#Declare "start" on a separate line.(ôØ²åûÿÿÿÿ
+D	java:S108½")Either remove or fill this block of code.(ÚåÒşÿÿÿÿ
+<
+java:S1659ê" Declare "ip" on a separate line.(“ÚŞ½ùÿÿÿÿ
+<
+java:S1659ô" Declare "ic" on a separate line.(Ş·şûÿÿÿÿ
+a
+java:S1659ƒ"EDeclare "minLevel" and all following declarations on a separate line.(‹‚œËøÿÿÿÿ
+=
+java:S1168†"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ªÚ–â
+W
+java:S1659©"@Declare "end" and all following declarations on a separate line.(¡•€¡
+B
+java:S1659ª"&Declare "maxLevel" on a separate line.(¸—ŠÅÿÿÿÿÿ
+=
+java:S1168®"&Return an empty array instead of null.(¥¹ï
+D	java:S108Ì")Either remove or fill this block of code.(Ì¯¯Íûÿÿÿÿ
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(ôúÍ™üÿÿÿÿ
+_
+java:S1659í"HDeclare "visualStart" and all following declarations on a separate line.(›Ïä´
+W	java:S125"<This block of commented-out lines of code should be removed.(Œú¹çøÿÿÿÿ
+B
+java:S1659…"&Declare "runCount" on a separate line.(­‡Éóıÿÿÿÿ
+Z
+java:S1659†">Declare "i" and all following declarations on a separate line.(ÔÎÖÖÿÿÿÿÿ
+D
+java:S1659¥"(Declare "logicalEnd" on a separate line.(«ñ Äûÿÿÿÿ
+_
+java:S1659¦"CDeclare "length" and all following declarations on a separate line.(ùî±Ñùÿÿÿÿ

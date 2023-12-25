@@ -1,0 +1,17 @@
+
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ä™ò
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¢Ïƒûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+l
+java:S3008/"VRename this field "XbmColormap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜàƒÐ
+n
+java:S30081"SRename this field "XbmHints" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È˜›Ãûÿÿÿÿ
+@
+java:S1197/"*Move the array designators [] to the type.(ÜàƒÐ
+n
+java:S3776J"SRefactor this method to reduce its Cognitive Complexity from 104 to the 15 allowed.(ù™•ïþÿÿÿÿ
+?
+java:S1197K"*Move the array designators [] to the type.(Ï²à
+E
+java:S1197T"*Move the array designators [] to the type.(¦©õˆýÿÿÿÿ

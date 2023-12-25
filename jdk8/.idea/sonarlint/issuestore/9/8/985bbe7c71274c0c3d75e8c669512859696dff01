@@ -1,0 +1,25 @@
+
+F
+java:S3740“"/Provide the parametrized type for this generic.(–‹ù
+F
+java:S3740“"/Provide the parametrized type for this generic.(–‹ù
+K
+java:S3740¤"/Provide the parametrized type for this generic.( µêÀøÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇïÉ¥
+C
+java:S1604C"(Make this anonymous inner class a lambda(¦•Áºûÿÿÿÿ
+=
+java:S1604h"(Make this anonymous inner class a lambda(“şü
+C
+java:S1604q"(Make this anonymous inner class a lambda(Ä¹ßâøÿÿÿÿ
+>
+java:S1604{"(Make this anonymous inner class a lambda(Ïíì
+D
+java:S1604¾"(Make this anonymous inner class a lambda(Ÿ‘Åğùÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÇïÉ¥
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ú°×úÿÿÿÿ
+C
+java:S1874–",Remove this use of "show"; it is deprecated.(ï›²«
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(¸¨¦É

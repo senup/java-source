@@ -1,0 +1,14 @@
+
+`
+java:S1192~"JDefine a constant instead of duplicating this literal " extends " 4 times.(¥Õƒñ
+z
+java:S1149I"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â…÷‘ýÿÿÿÿ
+z
+java:S1149U"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶Êã…ÿÿÿÿÿ
+z
+java:S1149W"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹˜“©þÿÿÿÿ
+t
+java:S1149p"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(úåñ&
+`
+java:S3358•"DExtract this nested ternary operation into an independent statement.(¼º²Íýÿÿÿÿ
+R	java:S125½"<This block of commented-out lines of code should be removed.(ˆ‹ê×

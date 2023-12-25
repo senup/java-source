@@ -1,0 +1,17 @@
+
+m
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯™¢Çøÿÿÿÿ
+U
+java:S1161<":Add the "@Override" annotation above this method signature(¯™¢Çøÿÿÿÿ
+@
+java:S1197X"*Move the array designators [] to the type.(úÃ¿ã
+@
+java:S1197`"*Move the array designators [] to the type.(úÃ¿ã
+f
+java:S3457g"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(–ƒÈ
+g
+java:S3457‹"KFormat specifiers or lambda should be used instead of string concatenation.(ı¢ÆÇùÿÿÿÿ
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(¤ºñùÿÿÿÿ

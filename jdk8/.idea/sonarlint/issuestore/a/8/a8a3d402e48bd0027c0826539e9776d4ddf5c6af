@@ -1,0 +1,19 @@
+
+n
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔüÆx
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãú³›ûÿÿÿÿ
+i
+java:S3824^"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ç÷ååùÿÿÿÿ
+q
+java:S1149)"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(º‡—âúÿÿÿÿ
+l
+java:S1149;"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£½ª„
+k
+java:S1149*"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÔüÆx
+7
+java:S2129."!Remove this "Integer" constructor(÷¸á¦
+<
+java:S21292"!Remove this "Integer" constructor(å–Â÷ýÿÿÿÿ
+<
+java:S21296"!Remove this "Integer" constructor(ô—ÍÐüÿÿÿÿ

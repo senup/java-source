@@ -1,0 +1,48 @@
+
+E
+java:S3740W"/Provide the parametrized type for this generic.(íÒ«
+E
+java:S3740W"/Provide the parametrized type for this generic.(íÒ«
+J
+java:S1121‡".Extract the assignment out of this expression.(ô“×Âüÿÿÿÿ
+F
+java:S1066é"/Merge this if statement with the enclosing one.(Úå
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+P
+java:S2387,"5"value" is the name of a field in "MemberDefinition".(·•ö†ÿÿÿÿÿ
+{
+java:S1149W"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+U
+java:S1161L":Add the "@Override" annotation above this method signature(ì¡‡¶ûÿÿÿÿ
+P
+java:S1161U":Add the "@Override" annotation above this method signature(óííÎ
+A
+java:S1168\"+Return an empty collection instead of null.(¥¹ï
+U
+java:S1161b":Add the "@Override" annotation above this method signature(¾ñıÿÿÿÿ
+@
+java:S1197f"*Move the array designators [] to the type.(ººòÄ
+P
+java:S1161~":Add the "@Override" annotation above this method signature(ç¾ùÁ
+F
+java:S1197‚"*Move the array designators [] to the type.(ôµÑúÿÿÿÿ
+Q
+java:S1161”":Add the "@Override" annotation above this method signature(³Â¥è
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(í»á©ùÿÿÿÿ
+D
+java:S1905©"-Remove this unnecessary cast to "Expression".(ï—Ìü
+F
+java:S1197«"*Move the array designators [] to the type.(×©¸ãùÿÿÿÿ
+8	java:S131´""Add a default case to this switch.(Îå¡‡
+D
+java:S1905Ë"-Remove this unnecessary cast to "Expression".(ï—Ìü
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+>
+java:S1659Ş""Declare "next" on a separate line.(å™—ıùÿÿÿÿ
+@
+java:S1197ş"*Move the array designators [] to the type.(Èè„p
+K
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ

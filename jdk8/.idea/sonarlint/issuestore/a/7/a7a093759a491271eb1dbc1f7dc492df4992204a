@@ -1,0 +1,10 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+`
+java:S1659#"JDeclare "valueLabelStr" and all following declarations on a separate line.(ºŒ‰Š
+V
+java:S3252/"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(»½Š¿
+V	java:S125T"<This block of commented-out lines of code should be removed.(« šúûÿÿÿÿ
+V
+java:S3252c"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(é§…û

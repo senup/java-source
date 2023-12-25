@@ -1,0 +1,111 @@
+
+K
+java:S3740Á"/Provide the parametrized type for this generic.(ŒÚüÌúÿÿÿÿ
+p
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(áîÇ
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÃãÑüÿÿÿÿ
+u
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(±‰ïøşÿÿÿÿ
+k
+java:S1192İ"TDefine a constant instead of duplicating this literal "cursor-aspect-ratio" 5 times.( ¹ºé
+h
+java:S1192“"QDefine a constant instead of duplicating this literal "focus-line-width" 8 times.(†åÄ„
+d
+java:S1192Ü"MDefine a constant instead of duplicating this literal "cursor-color" 6 times.(ÒŒæÒ
+j
+java:S1192”"NDefine a constant instead of duplicating this literal "focus-padding" 5 times.(ß¥¾šúÿÿÿÿ
+d
+java:S1192—"MDefine a constant instead of duplicating this literal "slider-width" 4 times.(º„®±
+f	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‰ÈT
+X
+java:S4973ö"<Strings and Boxed types should be compared using "equals()".(şµà§ÿÿÿÿÿ
+X
+java:S4973Æ"<Strings and Boxed types should be compared using "equals()".(şÿĞ©üÿÿÿÿ
+X
+java:S4973Ç"<Strings and Boxed types should be compared using "equals()".(åş‰˜úÿÿÿÿ
+X
+java:S4973à"<Strings and Boxed types should be compared using "equals()".(øøÈüÿÿÿÿ
+X
+java:S4973æ"<Strings and Boxed types should be compared using "equals()".(„Ò÷éıÿÿÿÿ
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ä¾ÌŒ
+S
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(°øı¦
+S
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(°øı¦
+P
+java:S1191$"5Use classes from the Java API instead of Sun classes.(ˆ´ õøÿÿÿÿ
+T
+java:S2589¦"8Remove this expression which always evaluates to "false"(¦ä½úÿÿÿÿ
+C
+java:S1659Z"(Declare "yThickness" on a separate line.(Í³­ƒøÿÿÿÿ
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ë›æ÷
+g
+java:S1764¦"KCorrect one of the identical sub-expressions on both sides of operator "||"(¦ä½úÿÿÿÿ
+E
+java:S1172½".Remove this unused method parameter "context".(Õ¸î
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÍÍ¾şÿÿÿÿ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Û¼ÄØûÿÿÿÿ
+h
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(™‘ë 
+Z
+java:S1117•">Rename "xThickness" which hides the field declared at line 90.(ÖÂÚ‡üÿÿÿÿ
+U
+java:S1117–">Rename "yThickness" which hides the field declared at line 90.(åäÛâ
+Z
+java:S1117Ó">Rename "xThickness" which hides the field declared at line 90.(ÖÂÚ‡üÿÿÿÿ
+U
+java:S1117Ô">Rename "yThickness" which hides the field declared at line 90.(åäÛâ
+Z
+java:S1117ß">Rename "xThickness" which hides the field declared at line 90.(ÖÂÚ‡üÿÿÿÿ
+U
+java:S1117à">Rename "yThickness" which hides the field declared at line 90.(åäÛâ
+J
+java:S1172æ".Remove this unused method parameter "context".(°¥•ûÿÿÿÿ
+J
+java:S1172ÿ".Remove this unused method parameter "context".(æ‚ışÿÿÿÿ
+Z
+java:S1117…">Rename "xThickness" which hides the field declared at line 90.(ÖÂÚ‡üÿÿÿÿ
+U
+java:S1117†">Rename "yThickness" which hides the field declared at line 90.(åäÛâ
+Z
+java:S1117”">Rename "xThickness" which hides the field declared at line 90.(ÖÂÚ‡üÿÿÿÿ
+U
+java:S1117•">Rename "yThickness" which hides the field declared at line 90.(åäÛâ
+Z
+java:S3252²">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ùÚœ³ÿÿÿÿÿ
+X
+java:S1126ã"AReplace this if-then-else statement by a single return statement.(°øı¦
+h
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(öƒÉ
+Z
+java:S3252ÿ">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(õÜÿİùÿÿÿÿ
+a
+java:S3252‡"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(²³˜üÿÿÿÿ
+Z
+java:S3252”">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(úÆÜ¼ûÿÿÿÿ
+o
+java:S3008"XRename this field "ICON_TYPE_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õçç
+V
+java:S1118":Add a private constructor to hide the implicit public one.(…ÑÍÓùÿÿÿÿ
+Q
+java:S1117‘":Rename "style" which hides the field declared at line 998.(˜‘şÑ
+b
+java:S2147Ë"FCombine this catch with the one at line 1098, which has the same body.(Â–şºıÿÿÿÿ
+]
+java:S2147Ì"FCombine this catch with the one at line 1098, which has the same body.(ÄéÍõ
+b
+java:S2147Í"FCombine this catch with the one at line 1098, which has the same body.(Î‹©Èüÿÿÿÿ
+]
+java:S2147Î"FCombine this catch with the one at line 1098, which has the same body.(•¶ĞÜ
+D	java:S108Ê")Either remove or fill this block of code.(àöÆœøÿÿÿÿ
+D	java:S108Ë")Either remove or fill this block of code.(Â–şºıÿÿÿÿ
+?	java:S108Ì")Either remove or fill this block of code.(ÄéÍõ
+D	java:S108Í")Either remove or fill this block of code.(Î‹©Èüÿÿÿÿ
+?	java:S108Î")Either remove or fill this block of code.(•¶ĞÜ
+@
+java:S1128"*Remove this unused import 'java.security'.(èÛò§

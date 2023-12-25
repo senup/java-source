@@ -1,0 +1,33 @@
+
+t	java:S135ç"YReduce the total number of break and continue statements in this loop to use at most one.(³áõÆÿÿÿÿÿ
+t	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(æíäÿÿÿÿÿ
+Q
+java:S1141ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûıÀæùÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûıÀæùÿÿÿÿ
+u	java:S115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+I
+java:S1113"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+h
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(ï²«n
+C
+java:S1872”"'Use an "instanceof" comparison instead.(ÓŒîúÿÿÿÿ
+h
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ìåˆ^
+a
+java:S2147ë"ECombine this catch with the one at line 359, which has the same body.(Õ¡ËŞøÿÿÿÿ
+O
+java:S1854"8Remove this useless assignment to local variable "data".(ùƒ
+B
+java:S1168©"&Return an empty array instead of null.(¤»’Ñüÿÿÿÿ
+B
+java:S1168Ç"&Return an empty array instead of null.(³åƒÍúÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(úÏÑŒùÿÿÿÿ
+F
+java:S1197‘"*Move the array designators [] to the type.(êü€°ıÿÿÿÿ
+F
+java:S1197—"*Move the array designators [] to the type.(—ÏÊÿÿÿÿÿ
+F
+java:S1197¬"*Move the array designators [] to the type.(ûıÀæùÿÿÿÿ
+G
+java:S1068;"1Remove this unused "NUMADD_OFFSET" private field.(–§§™

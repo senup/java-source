@@ -1,0 +1,9 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ä›â³
+m
+java:S2786O"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¾áŠŞÿÿÿÿÿ
+7
+java:S1116R"Remove this empty statement.(ôŸìúÿÿÿÿ
+j
+java:S3038ª"S"close" is defined in the "Closeable" interface and can be removed from this class.(‹«‘

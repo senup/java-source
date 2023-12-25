@@ -1,0 +1,86 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+F
+java:S4524@"+Move this default to the end of the switch.(ø˜‹¨ùÿÿÿÿ
+D
+java:S1172[")Remove this unused method parameter "cm".(…øãöûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+U
+java:S1659±">Declare "g" and all following declarations on a separate line.(¬…ñı
+V
+java:S1161À":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+U
+java:S1659Ç">Declare "g" and all following declarations on a separate line.(¬…ñı
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161Ü":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+U
+java:S1659İ">Declare "g" and all following declarations on a separate line.(¬…ñı
+V
+java:S1161î":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+L
+java:S1854ƒ"5Remove this useless assignment to local variable "b".(ÕòŒ‰
+Q
+java:S1854"5Remove this useless assignment to local variable "g".(Èè¾†øÿÿÿÿ
+L
+java:S1854ÿ"5Remove this useless assignment to local variable "r".( Õã
+K
+java:S1854ı"5Remove this useless assignment to local variable "a".(¾ª¹Q
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+U
+java:S1659ú">Declare "r" and all following declarations on a separate line.(§ıõ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(°ªñÜùÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(ŠˆË€øÿÿÿÿ
+V
+java:S1161º":Add the "@Override" annotation above this method signature(…øãöûÿÿÿÿ
+0
+java:S2183„"Remove this useless shift(®‘‡ú

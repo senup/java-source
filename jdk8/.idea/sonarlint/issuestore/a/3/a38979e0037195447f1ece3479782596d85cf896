@@ -1,0 +1,33 @@
+
+h
+java:S1192ª"QDefine a constant instead of duplicating this literal "Invalid listener" 4 times.(½Ö»
+q
+java:S1192”"UDefine a constant instead of duplicating this literal "connection is closed" 5 times.(õĞ°øÿÿÿÿ
+f
+java:S2095ş"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ñÀ¹ëùÿÿÿÿ
+—
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—Š…
+T
+java:S4719z"9Replace charset name argument with StandardCharsets.UTF_8(Ç³ø¡ùÿÿÿÿ
+D	java:S108â")Either remove or fill this block of code.(şÁÈŸøÿÿÿÿ
+D	java:S108ì")Either remove or fill this block of code.(şÁÈŸøÿÿÿÿ
+i
+java:S2445­"M"listener" is a method parameter, and should not be used for synchronization.(İ”Á—ûÿÿÿÿ
+i
+java:S2445Ç"M"listener" is a method parameter, and should not be used for synchronization.(İ”Á—ûÿÿÿÿ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öº«
+[
+java:S1659—"?Declare "b2" and all following declarations on a separate line.(ùìÃ»üÿÿÿÿ
+A
+java:S1197¶"*Move the array designators [] to the type.(Œ£–™
+F
+java:S1197Õ"*Move the array designators [] to the type.(•­íâúÿÿÿÿ
+C
+java:S1128"(Remove this unused import 'com.sun.jdi'.(èùªãüÿÿÿÿ
+E
+java:S1128!"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+0
+java:S2183°"Remove this useless shift(ûÇˆ’
+0
+java:S2183ä"Remove this useless shift(ä÷Ê

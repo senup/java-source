@@ -1,0 +1,17 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+?
+java:S1197@"*Move the array designators [] to the type.(¸œ•
+Z
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(¸œ•
+K
+java:S1854Y"5Remove this useless assignment to local variable "c".(ò‹÷Ó
+@
+java:S1197R"*Move the array designators [] to the type.(»Ù÷ş
+T
+java:S1659T">Declare "b" and all following declarations on a separate line.(Ó‹Â
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’

@@ -1,0 +1,6 @@
+
+r
+java:S1488 "\Immediately return this expression instead of assigning it to the temporary variable "temp".(ª—ôÑ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ¤¸ü
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(®¥Ðªýÿÿÿÿ

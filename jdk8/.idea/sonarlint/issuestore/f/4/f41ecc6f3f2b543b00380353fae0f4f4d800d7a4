@@ -1,0 +1,97 @@
+
+a	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(ñŽø­úÿÿÿÿ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìª´ýÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÕ¸ðûÿÿÿÿ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–øö·ûÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Î×Šùÿÿÿÿ
+g	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡à–
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›­Ü€øÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îªÑ
+g	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨±Ô½
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ìò‡
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÎ§›ýÿÿÿÿ
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Æ”ôÿÿÿÿÿ
+U
+java:S3034Š">Prevent "int" promotion by adding "& 0xff" to this expression.(©ÕêÝ
+Z
+java:S3034‹">Prevent "int" promotion by adding "& 0xff" to this expression.(‡¿ øÿÿÿÿ
+Z
+java:S3034Œ">Prevent "int" promotion by adding "& 0xff" to this expression.(ÍŽË§úÿÿÿÿ
+Z
+java:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(¦…›ýÿÿÿÿ
+U
+java:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(ð‰‚Œ
+Z
+java:S3034‘">Prevent "int" promotion by adding "& 0xff" to this expression.(ðÑ”Ïùÿÿÿÿ
+U
+java:S3034”">Prevent "int" promotion by adding "& 0xff" to this expression.(ÊàÆË
+U
+java:S3034•">Prevent "int" promotion by adding "& 0xff" to this expression.(ˆ ù
+Z
+java:S3034–">Prevent "int" promotion by adding "& 0xff" to this expression.(¢ÊÀÚûÿÿÿÿ
+Z
+java:S3034™">Prevent "int" promotion by adding "& 0xff" to this expression.(ãôÊåýÿÿÿÿ
+Z
+java:S3034š">Prevent "int" promotion by adding "& 0xff" to this expression.(¥à­¾üÿÿÿÿ
+Z
+java:S3034›">Prevent "int" promotion by adding "& 0xff" to this expression.(ï‘”Ìýÿÿÿÿ
+Z
+java:S3034ª">Prevent "int" promotion by adding "& 0xff" to this expression.(ô®…Ôþÿÿÿÿ
+U
+java:S3034«">Prevent "int" promotion by adding "& 0xff" to this expression.(úÜ×’
+Z
+java:S3034¬">Prevent "int" promotion by adding "& 0xff" to this expression.(©µâ©øÿÿÿÿ
+T
+java:S3034¯">Prevent "int" promotion by adding "& 0xff" to this expression.(žß¤(
+Z
+java:S3034°">Prevent "int" promotion by adding "& 0xff" to this expression.(ˆÙ’ýÿÿÿÿ
+Z
+java:S3034±">Prevent "int" promotion by adding "& 0xff" to this expression.(¡‚•™ÿÿÿÿÿ
+Z
+java:S3034´">Prevent "int" promotion by adding "& 0xff" to this expression.(¥È·ûÿÿÿÿ
+U
+java:S3034µ">Prevent "int" promotion by adding "& 0xff" to this expression.(ûèŸÈ
+Z
+java:S3034¶">Prevent "int" promotion by adding "& 0xff" to this expression.(õÉÛ¦ýÿÿÿÿ
+U
+java:S3034¹">Prevent "int" promotion by adding "& 0xff" to this expression.(ö ˜É
+U
+java:S3034º">Prevent "int" promotion by adding "& 0xff" to this expression.(ØÛ†•
+U
+java:S3034»">Prevent "int" promotion by adding "& 0xff" to this expression.(ÿý­¼
+V	java:S125!"<This block of commented-out lines of code should be removed.(—Þ²Þýÿÿÿÿ
+n	java:S1163"TRename this field "ROUNDS_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò èùÿÿÿÿ
+i	java:S1164"TRename this field "ROUNDS_14" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õº¯í
+a	java:S1168"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þù™„
+=
+java:S1659†"!Declare "log" on a separate line.(åËÒüÿÿÿÿ
+7
+java:S1659Š" Declare "Si" on a separate line.(©þæå
+V
+java:S1659Ž"?Declare "T2" and all following declarations on a separate line.(ðèâ›
+[
+java:S1659˜"?Declare "U2" and all following declarations on a separate line.(Û›Û£úÿÿÿÿ
+o
+java:S3012r"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‡ç¼Œ
+6
+java:S1659£"Declare "j" on a separate line.(€´ÿÐ
+=
+java:S1659ò"!Declare "tmp" on a separate line.(÷ú×Ãüÿÿÿÿ
+u
+java:S3012ï"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¡ðŸ®ùÿÿÿÿ
+S
+java:S1854ï"<Remove this useless assignment to local variable "inOffset".(ú—ŒÑ
+T
+java:S1854˜"=Remove this useless assignment to local variable "keyOffset".(Šç¦ª
+V
+java:S1659ô"?Declare "a1" and all following declarations on a separate line.(ç’×Î
+T
+java:S1854§"=Remove this useless assignment to local variable "keyOffset".(é¾—æ
+V
+java:S1659¸"?Declare "a1" and all following declarations on a separate line.(ç’×Î
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ú‡ùàÿÿÿÿÿ
+;
+java:S1659Ø"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+E
+java:S1659è")Declare "rconpointer" on a separate line.(å—æïýÿÿÿÿ

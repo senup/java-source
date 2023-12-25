@@ -1,0 +1,76 @@
+
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(’€Ìıÿÿÿÿ
+u
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëîñûÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(†²‰şÿÿÿÿ
+?
+java:S1604í"(Make this anonymous inner class a lambda(Ø…óÀ
+>
+java:S1604"(Make this anonymous inner class a lambda(ÆŞÖ
+w
+java:S1488ù"[Immediately return this expression instead of assigning it to the temporary variable "acc".(£ÒÀÅúÿÿÿÿ
+w
+java:S1488á"[Immediately return this expression instead of assigning it to the temporary variable "acc".(£ÒÀÅúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+
+java:S1149¹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’€Ìıÿÿÿÿ
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(„ÀœÛûÿÿÿÿ
+Z
+java:S2147b"DCombine this catch with the one at line 97, which has the same body.(¯áè
+Z
+java:S2147c"DCombine this catch with the one at line 97, which has the same body.(ıàÑÎ
+Z
+java:S2147d"DCombine this catch with the one at line 97, which has the same body.(ğıˆÒ
+>	java:S108a")Either remove or fill this block of code.(Å¡ß
+>	java:S108b")Either remove or fill this block of code.(¯áè
+>	java:S108c")Either remove or fill this block of code.(ıàÑÎ
+>	java:S108d")Either remove or fill this block of code.(ğıˆÒ
+
+java:S1149¹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’€Ìıÿÿÿÿ
+ƒ
+java:S1130¸"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(…ÈÏ¾
+Q
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ùö­Ñ
+ƒ
+java:S1130î"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÃĞü
+ƒ
+java:S1130Š"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÃĞü
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(ó£ï·
+V
+java:S1161º":Add the "@Override" annotation above this method signature(»ş¾¼üÿÿÿÿ
+“
+java:S1130Ö"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.( ³Õùÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(ÿí–—úÿÿÿÿ
+N
+java:S1854£"7Remove this useless assignment to local variable "pos".(¾·×
+B
+java:S1659›"&Declare "maxCount" on a separate line.(¢û«ÿÿÿÿÿ
+A
+java:S1659œ"%Declare "lastPos" on a separate line.(™¿Áûÿÿÿÿ
+Q	java:S125¾"<This block of commented-out lines of code should be removed.(é¼
+>	java:S108É")Either remove or fill this block of code.(Éò§+
+m
+java:S3008×"QRename this field "PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹§ Ÿúÿÿÿÿ
+F
+java:S1197ê"*Move the array designators [] to the type.(…üŞÇşÿÿÿÿ
+F
+java:S1197ï"*Move the array designators [] to the type.(€¿Ï³ıÿÿÿÿ
+i
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(óÚü
+P
+java:S1117‘"9Rename "path" which hides the field declared at line 490.(Éã…Í
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(Á»›ê
+F
+java:S1068Ä"/Remove this unused "fileHandler" private field.(ÃÏÛæ
+K
+java:S1144í"/Remove this unused private "getContext" method.(Ÿ÷¥øÿÿÿÿ
+d
+java:S1144Ç"HRemove this unused private "appendToClassPathForInstrumentation" method.(Üµ¶×ûÿÿÿÿ
+K
+java:S1144Õ"/Remove this unused private "getContext" method.(Ü“ îùÿÿÿÿ

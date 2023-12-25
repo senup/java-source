@@ -1,0 +1,27 @@
+
+Q
+java:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+b
+java:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(§Ê¯Á
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(é½†·ûÿÿÿÿ
+:
+java:S2129à"Remove this "Byte" constructor(Õñ‡¯ÿÿÿÿÿ
+7
+java:S2129á"!Remove this "Integer" constructor(÷Ãé$
+\
+java:S2147Ì"ECombine this catch with the one at line 330, which has the same body.(óÅ—¦
+:
+java:S2129£"Remove this "Byte" constructor(ØØÉİùÿÿÿÿ
+=
+java:S2129¨"!Remove this "Integer" constructor(’Ÿ¯Ãüÿÿÿÿ
+=
+java:S2129©"!Remove this "Integer" constructor(‰€êàøÿÿÿÿ
+=
+java:S2129ª"!Remove this "Integer" constructor(˜¼Â´ùÿÿÿÿ
+P
+java:S4719±"9Replace charset name argument with StandardCharsets.UTF_8(²¢èü
+=
+java:S1168Ç"&Return an empty array instead of null.(¥¹ï
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(ÈØúûÿÿÿÿ

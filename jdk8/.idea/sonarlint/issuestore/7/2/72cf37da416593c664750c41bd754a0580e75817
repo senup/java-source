@@ -1,0 +1,102 @@
+
+I
+java:S1121q".Extract the assignment out of this expression.(ıÔõ–ùÿÿÿÿ
+t	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(•ÿúÿÿÿÿ
+t	java:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(İğ‰Õıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+v
+java:S1149€
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+—
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Êÿœ˜
+œ
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÚÌÈúÿÿÿÿ
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–ó‘·ûÿÿÿÿ
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷½§´
+—
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê–”
+P
+java:S1161L":Add the "@Override" annotation above this method signature(Êÿœ˜
+U
+java:S1161M":Add the "@Override" annotation above this method signature(ÍÚÌÈúÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(–ó‘·ûÿÿÿÿ
+P
+java:S1161O":Add the "@Override" annotation above this method signature(÷½§´
+P
+java:S1161P":Add the "@Override" annotation above this method signature(Ê–”
+F
+java:S1197ô"*Move the array designators [] to the type.(²Ó›îüÿÿÿÿ
+F
+java:S1197Ÿ"*Move the array designators [] to the type.(ù €Ûúÿÿÿÿ
+A
+java:S1197Í"*Move the array designators [] to the type.(üèæ‹
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ùô‡ÿÿÿÿÿ
+F
+java:S1197†"*Move the array designators [] to the type.(ËÔ—æûÿÿÿÿ
+U
+java:S1117†"9Rename "bands" which hides the field declared at line 96.(ËÔ—æûÿÿÿÿ
+A
+java:S1197‰"*Move the array designators [] to the type.(—‡À
+<
+java:S1659" Declare "y2" on a separate line.(Õ…Éúÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(âĞÄ‹ùÿÿÿÿ
+F
+java:S1197Ó"*Move the array designators [] to the type.(ËÔ—æûÿÿÿÿ
+U
+java:S1117Ó"9Rename "bands" which hides the field declared at line 96.(ËÔ—æûÿÿÿÿ
+A
+java:S1197×"*Move the array designators [] to the type.(—‡À
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(˜’Ÿ¢
+F
+java:S1197î"*Move the array designators [] to the type.(ËÔ—æûÿÿÿÿ
+U
+java:S1117î"9Rename "bands" which hides the field declared at line 96.(ËÔ—æûÿÿÿÿ
+A
+java:S1197ñ"*Move the array designators [] to the type.(—‡À
+<
+java:S1659ö" Declare "y2" on a separate line.(Õ…Éúÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(âĞÄ‹ùÿÿÿÿ
+n
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 98 to the 15 allowed.(ŸÆ±Öÿÿÿÿÿ
+F
+java:S1197º"*Move the array designators [] to the type.(šÌ¬Ïøÿÿÿÿ
+A
+java:S1197»"*Move the array designators [] to the type.(Àêñô
+A
+java:S1197Â"*Move the array designators [] to the type.(¦åš£
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‘„â€ùÿÿÿÿ
+F
+java:S1197•"*Move the array designators [] to the type.(‘„â€ùÿÿÿÿ
+`
+java:S1659–"DDeclare "spanloy" and all following declarations on a separate line.(”£º‚ûÿÿÿÿ
+A
+java:S1197Ã"*Move the array designators [] to the type.(Û•ç
+U
+java:S1117Ç"9Rename "bands" which hides the field declared at line 96.(Ô•ıŒüÿÿÿÿ
+U
+java:S1117á"9Rename "bands" which hides the field declared at line 96.(Ô•ıŒüÿÿÿÿ
+N
+java:S1117ï"7Rename "lox" which hides the field declared at line 90.(¨×ã
+M
+java:S1117ğ"7Rename "hix" which hides the field declared at line 92.(øê…$
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼üÛèÿÿÿÿÿ
+F
+java:S1197É	"*Move the array designators [] to the type.(ÜŸÚãûÿÿÿÿ
+F
+java:S1197Ó	"*Move the array designators [] to the type.(´úşŸşÿÿÿÿ
+A
+java:S1197ì	"*Move the array designators [] to the type.(õ¤Â”
+@
+java:S1197½
+"*Move the array designators [] to the type.(ğ¸€[
+F
+java:S1197¾
+"*Move the array designators [] to the type.(§ÁÀ“úÿÿÿÿ

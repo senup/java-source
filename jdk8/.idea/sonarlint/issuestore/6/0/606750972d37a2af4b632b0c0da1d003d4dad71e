@@ -1,0 +1,15 @@
+
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+u	java:S116à"ZRename this field "m_initialValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‚»òşÿÿÿÿ
+m	java:S116ä"RRename this field "m_data_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü‚»şÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(ƒ÷øì
+F
+java:S1197Ò"*Move the array designators [] to the type.(”áÖ™øÿÿÿÿ
+F
+java:S1197Ò"*Move the array designators [] to the type.(”áÖ™øÿÿÿÿ
+F
+java:S1197ä"*Move the array designators [] to the type.(Ü‚»şÿÿÿÿ
+H
+java:S1128+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

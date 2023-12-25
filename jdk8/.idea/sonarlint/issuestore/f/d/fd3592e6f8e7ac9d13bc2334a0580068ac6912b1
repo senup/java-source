@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã®Êè
+•
+java:S1130ñ"yRemove the declaration of thrown exception 'java.security.SignatureException', as it cannot be thrown from method's body.(Ö…¡îûÿÿÿÿ
+Q
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(¬¸îÖûÿÿÿÿ
+D
+java:S1123Ç"(Add the missing @deprecated Javadoc tag.(¬¸îÖûÿÿÿÿ
+Q
+java:S1133Ï"5Do not forget to remove this deprecated code someday.(“Ä„’ÿÿÿÿÿ
+D
+java:S1123Ï"(Add the missing @deprecated Javadoc tag.(“Ä„’ÿÿÿÿÿ

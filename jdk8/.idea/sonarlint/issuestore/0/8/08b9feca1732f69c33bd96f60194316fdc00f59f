@@ -1,0 +1,44 @@
+
+F
+java:S1066¬"/Merge this if statement with the enclosing one.(ÒÝ°—
+g
+java:S1104>"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ
+f
+java:S1104?"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+r
+java:S1104@"WMake specVersion a static final constant or non-public and provide accessors if needed.(¢Ùñ–üÿÿÿÿ
+q
+java:S1104A"VMake specVendor a static final constant or non-public and provide accessors if needed.(Ÿ·íñùÿÿÿÿ
+|
+java:S1104B"aMake implementationVersion a static final constant or non-public and provide accessors if needed.(ßÆ‘¨þÿÿÿÿ
+h
+java:S1104C"RMake vendor a static final constant or non-public and provide accessors if needed.(¹·Çæ
+o
+java:S1104D"TMake vendorId a static final constant or non-public and provide accessors if needed.(ˆš‡”ûÿÿÿÿ
+e
+java:S1104E"OMake url a static final constant or non-public and provide accessors if needed.(…åØ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+V
+java:S1874Š"@Remove this use of "IMPLEMENTATION_VENDOR_ID"; it is deprecated.(”‡ƒo
+V
+java:S1874":Remove this use of "IMPLEMENTATION_URL"; it is deprecated.(¾‘Ÿ²ÿÿÿÿÿ
+n
+java:S3776ž"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(—·Ã¦ùÿÿÿÿ
+Z
+java:S1659ƒ">Declare "m" and all following declarations on a separate line.(ñâ“¤üÿÿÿÿ
+G
+java:S1481ƒ"+Remove this unused "result" local variable.(ñâ“¤üÿÿÿÿ
+_
+java:S1858‡"C"nextToken" returns a string, there's no need to call "toString()".(° §Öùÿÿÿÿ
+Z
+java:S1858‹"C"nextToken" returns a string, there's no need to call "toString()".(ÙÂ·È
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ë¾Áâ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(‘¼ÏÎøÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(‘¼ÏÎøÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(‘¼ÏÎøÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(‘¼ÏÎøÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(‘¼ÏÎøÿÿÿÿ
+Z
+java:S1128 "?Remove this unused import 'java.util.MissingResourceException'.(å—¡Þþÿÿÿÿ

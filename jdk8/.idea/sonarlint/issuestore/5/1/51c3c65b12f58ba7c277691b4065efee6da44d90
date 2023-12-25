@@ -1,0 +1,252 @@
+
+K
+java:S3740¹"/Provide the parametrized type for this generic.(›ò÷øÿÿÿÿ
+K
+java:S3740¹"/Provide the parametrized type for this generic.(›ò÷øÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740õ"/Provide the parametrized type for this generic.(†å·
+F
+java:S3740—"/Provide the parametrized type for this generic.(–Ü¦ø
+K
+java:S3740²"/Provide the parametrized type for this generic.(à©õùÿÿÿÿ
+K
+java:S3740ô"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740¯"/Provide the parametrized type for this generic.(øşßÕ
+K
+java:S3740¿"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740Â"/Provide the parametrized type for this generic.(şÇøÿÿÿÿ
+^
+java:S1192ô"GDefine a constant instead of duplicating this literal "latin1" 3 times.(ûªô‘
+t	java:S135ô	"YReduce the total number of break and continue statements in this loop to use at most one.(¨Å§Æûÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÑÓÃıÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã½·¸
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìö‹è
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©…‘üÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†å­ÿ
+D
+java:S1604İ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604ô"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604¿"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S5411"(Use a primitive boolean expression here.(»ì€Õÿÿÿÿÿ
+D
+java:S5411Ó"(Use a primitive boolean expression here.(»ì€Õÿÿÿÿÿ
+Y
+java:S1163Ç"=Refactor this code to not throw exceptions in finally blocks.(á´ûÿÿÿÿ
+P
+java:S1143Ç"4Remove this throw statement from this finally block.(á´ûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+H
+java:S1153Ù"1Directly append the argument of String.valueOf().(ßŞ¦Í
+h
+java:S2095‘"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(›¾Š´
+U
+java:S3516Ì"9Refactor this method to not always return the same value.(ñ«âåùÿÿÿÿ
+p	java:S115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì½ğ£
+u	java:S115´"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í×ş¶şÿÿÿÿ
+U
+java:S2387†"9"mDestType" is the name of a field in "RasterPrinterJob".(®Éì’ÿÿÿÿÿ
+X
+java:S2387ˆ"<"mDestination" is the name of a field in "RasterPrinterJob".(êŒ¦•ùÿÿÿÿ
+
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ¥áÿşÿÿÿÿ
+t
+java:S1450"XRemove the "mLastFont" field and declare it as a local variable in the relevant methods.(½œíŞüÿÿÿÿ
+{
+java:S1149ø	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àöö­ûÿÿÿÿ
+S	java:S107ó"=Method has 11 parameters, which is greater than 7 authorized.(îÓ”í
+F
+java:S1197‘"*Move the array designators [] to the type.(ë¿—ƒşÿÿÿÿ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×ŠÎËøÿÿÿÿ
+D
+java:S1905‰"-Remove this unnecessary cast to "Properties".(áô±©
+D
+java:S1905—"-Remove this unnecessary cast to "Properties".(áô±©
+D
+java:S1905š"-Remove this unnecessary cast to "Properties".(áô±©
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Èàƒ½üÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(Èàƒ½üÿÿÿÿ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(×Ú×üÿÿÿÿ
+F
+java:S1905ù"*Remove this unnecessary cast to "Boolean".(­º„Ñÿÿÿÿÿ
+D	java:S108û")Either remove or fill this block of code.(•”ø¾øÿÿÿÿ
+z
+java:S2142â"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+F
+java:S1197Ö"*Move the array designators [] to the type.(ÀÊ£Íùÿÿÿÿ
+Q	java:S899å";Do something with the "boolean" value returned by "delete".(½ÁÇ
+e
+java:S4042å"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(½ÁÇ
+Q	java:S899ø";Do something with the "boolean" value returned by "delete".(½ÁÇ
+e
+java:S4042ø"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(½ÁÇ
+F
+java:S1905È"*Remove this unnecessary cast to "Boolean".(ÍóÈ«ÿÿÿÿÿ
+D	java:S108Ì")Either remove or fill this block of code.(•”ø¾øÿÿÿÿ
+R
+java:S1172ø"6Remove this unused method parameter "srcBitMapHeight".(°Àæºùÿÿÿÿ
+B
+java:S1905‡"&Remove this unnecessary cast to "int".(ä¾»èúÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(è¿ÜË
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(ò‘Ÿæøÿÿÿÿ
+>
+java:S1125˜"'Remove the unnecessary boolean literal.(‹›
+>
+java:S1125˜"'Remove the unnecessary boolean literal.(‹›
+C
+java:S1125¢"'Remove the unnecessary boolean literal.(¦Ñºôúÿÿÿÿ
+Q
+java:S1854Û":Remove this useless assignment to local variable "fontCS".(Æüéı
+B
+java:S1481Û"+Remove this unused "fontCS" local variable.(Æüéı
+E
+java:S1874Ã	"/Remove this use of "getPeer"; it is deprecated.(×µ¤^
+n
+java:S3776Ì	"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Ù±…¨ùÿÿÿÿ
+D
+java:S1172Ì	"(Remove this unused method parameter "g".(Ù±…¨ùÿÿÿÿ
+F
+java:S1874æ	"/Remove this use of "getPeer"; it is deprecated.(ÃŠ—å
+b
+java:S2147…
+"FCombine this catch with the one at line 1283, which has the same body.(ùì€±üÿÿÿÿ
+Q	java:S125°
+"<This block of commented-out lines of code should be removed.(À¥¢
+W	java:S125±"<This block of commented-out lines of code should be removed.(ğÎÔŸıÿÿÿÿ
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(²·ûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ç·ñşıÿÿÿÿ
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(œ«€õ
+Q
+java:S1854İ"5Remove this useless assignment to local variable "n".(í¯¹®üÿÿÿÿ
+W
+java:S1117™";Rename "COPIES" which hides the field declared at line 163.(©…‘üÿÿÿÿ
+F
+java:S1197œ"*Move the array designators [] to the type.(³†Û®ûÿÿÿÿ
+<
+java:S2129Æ" Remove this "String" constructor(¸®Ëıÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(¶ø¼§øÿÿÿÿ
+C
+java:S1125‘"'Remove the unnecessary boolean literal.(¦ÍÛ•şÿÿÿÿ
+>
+java:S1125’"'Remove the unnecessary boolean literal.(æØ³š
+W	java:S125¬"<This block of commented-out lines of code should be removed.(ú·ÿÿÿÿÿ
+U
+java:S1854€">Remove this useless assignment to local variable "saveClipOp".(Ù¯œ
+C
+java:S1125ş"'Remove the unnecessary boolean literal.(Ê’ÖÌúÿÿÿÿ
+F
+java:S1481€"/Remove this unused "saveClipOp" local variable.(Ù¯œ
+C
+java:S1125Œ"'Remove the unnecessary boolean literal.(ğóÓßûÿÿÿÿ
+C
+java:S1125œ"'Remove the unnecessary boolean literal.(ÁµŠ÷üÿÿÿÿ
+>
+java:S1125Ğ"'Remove the unnecessary boolean literal.(Ø‰ì°
+8	java:S131Ó""Add a default case to this switch.(Ê›¸‰
+8
+java:S1659Û"!Declare "rem" on a separate line.(”¡¹á
+=
+java:S1110Ş"!Remove these useless parentheses.(´”¡ûÿÿÿÿ
+=
+java:S1110ß"!Remove these useless parentheses.(È»‰Ñúÿÿÿÿ
+=
+java:S1110à"!Remove these useless parentheses.(¯¨¾ùÿÿÿÿ
+C
+java:S1905á"'Remove this unnecessary cast to "long".(ñÅÏ™şÿÿÿÿ
+V
+java:S1659¶"?Declare "by" and all following declarations on a separate line.(€ìã…
+;
+java:S1659·"$Declare "height" on a separate line.(ô…ğ­
+C
+java:S1874Î",Remove this use of "size"; it is deprecated.(¨Ìƒæ
+H
+java:S1874Ï",Remove this use of "size"; it is deprecated.(’İÇÕøÿÿÿÿ
+D	java:S108Û")Either remove or fill this block of code.(†ûÈÀùÿÿÿÿ
+W
+java:S1659Š"@Declare "lly" and all following declarations on a separate line.(¨üü
+n
+java:S1450‰"RRemove the "job" field and declare it as a local variable in the relevant methods.(¸×ØËüÿÿÿÿ
+@
+java:S1905")Remove this unnecessary cast to "double".(§˜Åï
+@
+java:S1905")Remove this unnecessary cast to "double".(§˜Åï
+@
+java:S1905Ÿ")Remove this unnecessary cast to "double".(ËÙ„Ê
+@
+java:S1905Ÿ")Remove this unnecessary cast to "double".(ËÙ„Ê
+W
+java:S1193¸"@Replace the usage of the "instanceof" operator by a catch block.(Ç³ÒÛ
+E
+java:S1128$"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+9
+java:S1128/"Remove this duplicated import.(×íĞ‡şÿÿÿÿ
+M
+java:S11289"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ
+f
+java:S1128="KRemove this unused import 'javax.print.attribute.PrintRequestAttributeSet'.(èµ¹ôıÿÿÿÿ
+c
+java:S1128@"HRemove this unused import 'javax.print.attribute.standard.Chromaticity'.(â·‡Ûşÿÿÿÿ
+R
+java:S1128J"<Remove this unused import 'java.io.CharConversionException'.(°œ¯®
+H
+java:S1128W"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+I
+java:S1128]"3Remove this unused import 'sun.awt.FontDescriptor'.(œø³¡
+S
+java:S1128`"8Remove this unused import 'sun.font.FontManagerFactory'.(ãé¢µùÿÿÿÿ
+>
+java:S3398“"'Move this method into "PrinterSpooler".(œ«€õ
+C
+java:S1068†",Remove this unused "RED_MASK" private field.(Ú Ğ‰
+E
+java:S1068‡".Remove this unused "GREEN_MASK" private field.(ô´ø‡
+D
+java:S1068ˆ"-Remove this unused "BLUE_MASK" private field.(—ï’¤
+I
+java:S1068Š"-Remove this unused "RED_SHIFT" private field.(Éµ‹úÿÿÿÿ
+F
+java:S1068‹"/Remove this unused "GREEN_SHIFT" private field.(èŸËº
+E
+java:S1068Œ".Remove this unused "BLUE_SHIFT" private field.(÷£ò»
+I
+java:S1068"2Remove this unused "LOWNIBBLE_MASK" private field.(©Äïœ
+H
+java:S1068"1Remove this unused "HINIBBLE_MASK" private field.(¸ªûŠ
+I
+java:S1068"2Remove this unused "HINIBBLE_SHIFT" private field.(ØŒõø
+I
+java:S1068‘"-Remove this unused "hexDigits" private field.(ë¿—ƒşÿÿÿÿ
+F
+java:S1068£"*Remove this unused "COPIES" private field.(ßäé´úÿÿÿÿ
+I
+java:S1068"-Remove this unused "mLastFont" private field.(½œíŞüÿÿÿÿ
+=
+java:S1068¶"&Remove this unused "bx" private field.(€ìã…
+=
+java:S1068¶"&Remove this unused "by" private field.(€ìã…
+=
+java:S1068¶"&Remove this unused "bw" private field.(€ìã…
+=
+java:S1068¶"&Remove this unused "bh" private field.(€ìã…
+H
+java:S1144	"1Remove this unused private "escapeParens" method.(£§˜é

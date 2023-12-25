@@ -1,0 +1,30 @@
+
+n	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(ö™† 
+n	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ¾â
+n	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ö™† 
+n	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ¾â
+s	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢í¸‚úÿÿÿÿ
+s	java:S127¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚¢Æúÿÿÿÿ
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢í¸‚úÿÿÿÿ
+s	java:S127Î"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚¢Æúÿÿÿÿ
+U
+java:S1161J":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+e
+java:S1874^"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+h
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(è­›
+P
+java:S1161b":Add the "@Override" annotation above this method signature(è­›
+<	java:S131u""Add a default case to this switch.(Æóõµıÿÿÿÿ
+I
+java:S1128".Remove this unused import 'javax.swing.event'.(œë»úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'javax.swing.plaf'.(ÜÃ„ëøÿÿÿÿ
+F
+java:S1128""+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

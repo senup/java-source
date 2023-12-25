@@ -1,0 +1,132 @@
+
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆüÙîÿÿÿÿÿ
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.(Øÿ¸†
+h
+java:S2259—"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259Œ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259 "LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259ø"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259Ù"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259€"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259Ç"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259÷"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259ˆ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259ÿ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259³"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259á"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259©"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259í"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259½"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+h
+java:S2259Ğ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
+U
+java:S1659u"?Declare "y0" and all following declarations on a separate line.(úş°ë
+V	java:S107y"<Method has 9 parameters, which is greater than 7 authorized.(ÑÉç‡úÿÿÿÿ
+R	java:S107|"=Method has 10 parameters, which is greater than 7 authorized.(½ˆ²ğ
+R	java:S107"=Method has 11 parameters, which is greater than 7 authorized.(ƒÌú»
+R	java:S107†"<Method has 8 parameters, which is greater than 7 authorized.(ª«·å
+R	java:S107‰"<Method has 9 parameters, which is greater than 7 authorized.(Åİ¶Ä
+W	java:S107Œ"<Method has 9 parameters, which is greater than 7 authorized.(ƒÖëªıÿÿÿÿ
+W	java:S107’"<Method has 9 parameters, which is greater than 7 authorized.(½•êŒÿÿÿÿÿ
+S	java:S107›"=Method has 10 parameters, which is greater than 7 authorized.(­“¿Ò
+R	java:S107"<Method has 9 parameters, which is greater than 7 authorized.(Ê—ıÕ
+X	java:S107ú"=Method has 11 parameters, which is greater than 7 authorized.(áıÂöüÿÿÿÿ
+S	java:S107„"=Method has 10 parameters, which is greater than 7 authorized.(Ñ–®ä
+S	java:S107‘"=Method has 13 parameters, which is greater than 7 authorized.(»Ó¬É
+W	java:S107œ"<Method has 8 parameters, which is greater than 7 authorized.(ã¹êœúÿÿÿÿ
+X	java:S107¤"=Method has 10 parameters, which is greater than 7 authorized.(¦ÚÚÂüÿÿÿÿ
+S	java:S107®"=Method has 12 parameters, which is greater than 7 authorized.(˜ÙÁ“
+R	java:S107¸"=Method has 11 parameters, which is greater than 7 authorized.(Óñ×4
+R	java:S107Ã"<Method has 9 parameters, which is greater than 7 authorized.(œ¾
+S	java:S107Ë"=Method has 11 parameters, which is greater than 7 authorized.(¡”üé
+W	java:S107Õ"<Method has 9 parameters, which is greater than 7 authorized.(Ù™æÒÿÿÿÿÿ
+R	java:S107İ"<Method has 8 parameters, which is greater than 7 authorized.(åòÔ‘
+S	java:S107å"=Method has 10 parameters, which is greater than 7 authorized.(†¹„™
+X	java:S107ò"=Method has 11 parameters, which is greater than 7 authorized.(õúÛ¢üÿÿÿÿ
+W	java:S107ü"<Method has 9 parameters, which is greater than 7 authorized.(¥›Şùÿÿÿÿ
+W	java:S107„"<Method has 9 parameters, which is greater than 7 authorized.(‹¬ØÇüÿÿÿÿ
+`
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(æö×ûÿÿÿÿ
+m
+java:S2786A"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Š÷—èúÿÿÿÿ
+h
+java:S2786^"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(í­Ãå
+s
+java:S3008k"XRename this field "TITLED_BORDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ×ìˆûÿÿÿÿ
+h	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÉç‡úÿÿÿÿ
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ˆ²ğ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÌú»
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÚ…£øÿÿÿÿ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª«·å
+d	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åİ¶Ä
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÖëªıÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÛÊ
+i	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½•êŒÿÿÿÿÿ
+d	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›şÛØ
+d	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ó§Ğ
+d	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­“¿Ò
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê—ıÕ
+d	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øì©®
+d	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÈÅ
+i	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬®øÿÿÿÿ
+c	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ùı_
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(“ñ›Àşÿÿÿÿ
+Z
+java:S3252Ÿ">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(É™ £ùÿÿÿÿ
+\
+java:S3252­"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÄüÑù
+a
+java:S3252°"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÚˆÇûÿÿÿÿ
+a
+java:S3252³"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(‘áÔúÿÿÿÿ
+D
+java:S1172ú"(Remove this unused method parameter "g".(áıÂöüÿÿÿÿ
+?
+java:S1172„"(Remove this unused method parameter "g".(Ñ–®ä
+?
+java:S1172‘"(Remove this unused method parameter "g".(»Ó¬É
+D
+java:S1172œ"(Remove this unused method parameter "g".(ã¹êœúÿÿÿÿ
+D
+java:S1172¤"(Remove this unused method parameter "g".(¦ÚÚÂüÿÿÿÿ
+M
+java:S1172®"6Remove these unused method parameters "g", "tabIndex".(˜ÙÁ“
+M
+java:S1172¸"7Remove these unused method parameters "g", "colorType".(Óñ×4
+?
+java:S1172Ã"(Remove this unused method parameter "g".(œ¾
+?
+java:S1172Ë"(Remove this unused method parameter "g".(¡”üé
+D
+java:S1172Õ"(Remove this unused method parameter "g".(Ù™æÒÿÿÿÿÿ
+?
+java:S1172İ"(Remove this unused method parameter "g".(åòÔ‘
+?
+java:S1172å"(Remove this unused method parameter "g".(†¹„™
+D
+java:S1172ò"(Remove this unused method parameter "g".(õúÛ¢üÿÿÿÿ
+D
+java:S1172ü"(Remove this unused method parameter "g".(¥›Şùÿÿÿÿ
+O
+java:S1172„"3Remove these unused method parameters "g", "color".(‹¬ØÇüÿÿÿÿ
+\
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(ø¤çò
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(Ò»‘øøÿÿÿÿ

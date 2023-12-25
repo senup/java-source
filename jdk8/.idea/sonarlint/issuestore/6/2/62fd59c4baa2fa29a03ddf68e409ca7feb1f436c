@@ -1,0 +1,28 @@
+
+x
+java:S1319D"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(©³¿ç
+}
+java:S1319N"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(ÄÀõàÿÿÿÿÿ
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(ƒíÙ†ùÿÿÿÿ
+f
+java:S2259]"PA "NullPointerException" could be thrown; "filterNameServers()" can return null.(¬û½Ê
+c
+java:S2259–"MA "NullPointerException" could be thrown; "platformServers" is nullable here.(¤¨şm
+l
+java:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©³¿ç
+q
+java:S1149N"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÄÀõàÿÿÿÿÿ
+q
+java:S1149b"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(éÎ‰şÿÿÿÿ
+{
+java:S1149É"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+m
+java:S1149×"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÎÍùû
+=
+java:S1075Ã"&Remove this hard-coded path-delimiter.(ÕûÒ¾
+R	java:S125Å"<This block of commented-out lines of code should be removed.(Ú”µÛ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾üö·ûÿÿÿÿ
+2
+java:S3626ú"Remove this redundant jump.(ÉŠ©ƒ

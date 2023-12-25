@@ -1,0 +1,113 @@
+
+K
+java:S3740£"/Provide the parametrized type for this generic.(Û¾ì¯ıÿÿÿÿ
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(Û¾ì¯ıÿÿÿÿ
+f
+java:S1192²"ODefine a constant instead of duplicating this literal "no.type.access" 3 times.(¸¹¨™
+n
+java:S1192Ï"RDefine a constant instead of duplicating this literal "invalid.type.expr" 3 times.(˜€Óøÿÿÿÿ
+g
+java:S1192ª"PDefine a constant instead of duplicating this literal "assign.to.final" 3 times.(Ôîûİ
+v
+java:S1488Ã"`Immediately return this expression instead of assigning it to the temporary variable "getClass".(ëÍÌP
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+o
+java:S2259ğ"X"NullPointerException" will be thrown when invoking method "makeClassLiteralCacheRef()".(¨êâ°
+z
+java:S1149R"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+r
+java:S1149£"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Û¾ì¯ıÿÿÿÿ
+r
+java:S1149Õ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Û¾ì¯ıÿÿÿÿ
+O
+java:S1161@":Add the "@Override" annotation above this method signature(¹Ûâ@
+[
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(åÆ×
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(¥èĞõ
+V	java:S125m"<This block of commented-out lines of code should be removed.(ûœµ²úÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(¥èĞõ
+M
+java:S1117Í"6Rename "id" which hides the field declared at line 40.(Å¬Á
+Q
+java:S1161İ":Add the "@Override" annotation above this method signature(¿Ø÷
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(“–™Ò
+D	java:S108")Either remove or fill this block of code.(•×’®ûÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.( âó
+R	java:S125¾"<This block of commented-out lines of code should be removed.(Ê›å
+R	java:S125Â"<This block of commented-out lines of code should be removed.(£ø­·
+A
+java:S1197Ë"*Move the array designators [] to the type.(ÁÌŸ
+A
+java:S1197Ğ"*Move the array designators [] to the type.(§ú ¡
+F
+java:S1172İ"*Remove this unused method parameter "env".(¦Ù‹ùÿÿÿÿ
+M
+java:S1854"6Remove this useless assignment to local variable "nm".(ã„¼
+>
+java:S1481"'Remove this unused "nm" local variable.(ã„¼
+D	java:S108•")Either remove or fill this block of code.(±Ö´ùÿÿÿÿ
+n
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(¥øÁ™úÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¡û»òøÿÿÿÿ
+R
+java:S1117Ô"6Rename "id" which hides the field declared at line 40.(³—Ó¾ùÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(ş¡“ëùÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ĞÃ‚´ûÿÿÿÿ
+Q	java:S125ù"<This block of commented-out lines of code should be removed.(´â
+Q
+java:S1161":Add the "@Override" annotation above this method signature(²¥º¤
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢º£ùÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(§®è§üÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(–“»£üÿÿÿÿ
+P
+java:S1117ä"9Rename "clazz" which hides the field declared at line 45.(€şÂ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(ù²Ğ
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÕÉ Åüÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(ÕÉ Åüÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Çäªı
+V
+java:S1161³":Add the "@Override" annotation above this method signature(¥®¦àøÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(Çäªı
+F
+java:S1172ê"*Remove this unused method parameter "ctx".(ÊÆõ½úÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ÂÊ©”
+]
+java:S2147"FCombine this catch with the one at line 1036, which has the same body.(¯‰à
+A
+java:S1172¦"*Remove this unused method parameter "env".(Ìú£Ä
+A
+java:S1197´"*Move the array designators [] to the type.(™¯´Ñ
+O
+java:S1172¼"3Remove these unused method parameters "env", "ctx".(»î¼§şÿÿÿÿ
+A
+java:S1197Â"*Move the array designators [] to the type.(™¯´Ñ
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(³Â¥è
+V
+java:S1161Ú":Add the "@Override" annotation above this method signature(ëßùÃûÿÿÿÿ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+V
+java:S1161•	":Add the "@Override" annotation above this method signature(£ˆ–“ûÿÿÿÿ
+Q
+java:S1161¦	":Add the "@Override" annotation above this method signature(Âõ¦È
+V
+java:S1161¯	":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+D	java:S108Æ	")Either remove or fill this block of code.(•×’®ûÿÿÿÿ
+Q
+java:S1161Î	":Add the "@Override" annotation above this method signature(êŒ„Ğ
+V
+java:S1161Û	":Add the "@Override" annotation above this method signature(º¨ªøÿÿÿÿ
+V
+java:S1161å	":Add the "@Override" annotation above this method signature(¡º‚ãúÿÿÿÿ
+Q
+java:S1161í	":Add the "@Override" annotation above this method signature(çé½Ì
+V
+java:S1161õ	":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

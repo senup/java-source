@@ -1,0 +1,25 @@
+
+i
+java:S1192ã"MDefine a constant instead of duplicating this literal "updateResult" 4 times.(áÒï½üÿÿÿÿ
+o	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(û¹ÎÇ
+P
+java:S1161e":Add the "@Override" annotation above this method signature(“–ış
+V
+java:S1161–":Add the "@Override" annotation above this method signature(’Í„¹ÿÿÿÿÿ
+V
+java:S6213–":Rename this variable to not match a restricted identifier.(’Í„¹ÿÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ª¹±
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(ª¹±
+R	java:S125»"<This block of commented-out lines of code should be removed.(÷‚¯‚
+R	java:S125È"<This block of commented-out lines of code should be removed.(‰ˆæá
+R	java:S125ú"<This block of commented-out lines of code should be removed.(íÒ«
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+X
+java:S1128'"=Remove this unused import 'com.sun.jmx.snmp.SnmpVarBindList'.(“ÙğÙùÿÿÿÿ
+X
+java:S1128/"BRemove this unused import 'com.sun.jmx.snmp.agent.SnmpMibRequest'.(âå”‡
+o
+java:S11280"TRemove this unnecessary import: same package classes are always implicitly imported.(”Ô…„ùÿÿÿÿ

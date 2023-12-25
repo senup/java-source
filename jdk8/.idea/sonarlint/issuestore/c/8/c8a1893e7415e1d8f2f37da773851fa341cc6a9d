@@ -1,0 +1,31 @@
+
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(«ƒœª
+n	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(õ…ÀÂ
+v
+java:S4165€"_Remove this useless assignment; "n" already holds the assigned value along all execution paths.(‘Íñî
+v
+java:S4165å"_Remove this useless assignment; "n" already holds the assigned value along all execution paths.(‘Íñî
+v
+java:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(àÿ©¼
+{
+java:S1149·"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—Æ­·ûÿÿÿÿ
+j
+java:S2975ˆ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+_
+java:S1182ˆ"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ù…Ì¹ýÿÿÿÿ
+L
+java:S1854å"5Remove this useless assignment to local variable "n".(‘Íñî
+A
+java:S1905å"*Remove this unnecessary cast to "DnsName".(‘Íñî
+Q
+java:S1854ˆ"5Remove this useless assignment to local variable "j".(•Ë‰Ýÿÿÿÿÿ
+A
+java:S1905€"*Remove this unnecessary cast to "DnsName".(‘Íñî
+B
+java:S1481ˆ"&Remove this unused "j" local variable.(•Ë‰Ýÿÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(§èíƒùÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(ˆŒ¡æ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹

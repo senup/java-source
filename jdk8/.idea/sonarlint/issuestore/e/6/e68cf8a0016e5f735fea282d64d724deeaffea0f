@@ -1,0 +1,31 @@
+
+c
+java:S1192ì"LDefine a constant instead of duplicating this literal "Invalid key" 3 times.(’œ••
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ıä©Ëùÿÿÿÿ
+o	java:S115V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Ï›ş
+Z
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(†‚—u
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(¤¸«øÿÿÿÿ
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(ĞÜëøÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(Õ“×°
+Z
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(Ñ¶ßF
+Z
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(éÊà]
+[
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(Ïİ®Ş
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(“ß¿‰ÿÿÿÿÿ
+[
+java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(€êâÚ
+`
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(¯Úœúÿÿÿÿ
+P	java:S125["<This block of commented-out lines of code should be removed.(ğ’ù3
+>
+java:S1125¹"'Remove the unnecessary boolean literal.(ùÚ…‚
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ´³†ûÿÿÿÿ

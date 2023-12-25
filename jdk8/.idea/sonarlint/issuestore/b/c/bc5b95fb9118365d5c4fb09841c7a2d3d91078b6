@@ -1,0 +1,88 @@
+
+Q	java:S110C"<This class has 6 parents which is greater than 5 authorized.(¯åõí
+]
+java:S2259â"GA "NullPointerException" could be thrown; "referrals" is nullable here.(ğğ£(
+X
+java:S2259£"AA "NullPointerException" could be thrown; "ptr" is nullable here.(ëËÈ
+>
+java:S1165H"(Make this "handleReferrals" field final.(ïíõè
+<
+java:S1165I"!Make this "envprops" field final.(ô·÷¦ûÿÿÿÿ
+7
+java:S1165J"!Make this "nextName" field final.(´ÀÔ®
+;
+java:S1165K" Make this "reqCtls" field final.(Ò¼Ëüÿÿÿÿ
+=
+java:S1165N""Make this "referrals" field final.(˜°äªøÿÿÿÿ
+A
+java:S1165O"&Make this "referralIndex" field final.(¿şãúÿÿÿÿ
+<
+java:S1165P"&Make this "referralCount" field final.(Áµ¦‹
+9
+java:S1165Q"#Make this "foundEntry" field final.(æ™ù¡
+D
+java:S1165R")Make this "skipThisReferral" field final.(½»İºøÿÿÿÿ
+<
+java:S1165S"!Make this "hopCount" field final.(ÊÒèÂıÿÿÿÿ
+6
+java:S1165T" Make this "errorEx" field final.(ƒ—¸İ
+:
+java:S1165U"Make this "newRdn" field final.(õßøÓşÿÿÿÿ
+9
+java:S1165V"Make this "debug" field final.(ö—ò†ÿÿÿÿÿ
+B
+java:S1165W"'Make this "nextReferralEx" field final.(š²¿Òùÿÿÿÿ
+(
+java:S2176C"Rename this class.(¯åõí
+E
+java:S1948I"*Make "envprops" transient or serializable.(ô·÷¦ûÿÿÿÿ
+F
+java:S1948N"+Make "referrals" transient or serializable.(˜°äªøÿÿÿÿ
+q
+java:S1149I"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ô·÷¦ûÿÿÿÿ
+€
+java:S1149N"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜°äªøÿÿÿÿ
+k
+java:S1149e"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(’à{
+
+java:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Àœ—¥üÿÿÿÿ
+V	java:S107a"AConstructor has 8 parameters, which is greater than 7 authorized.(ÕÃ¨·
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(¯åõí
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(³Ü«‹øÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(´ìÓØ
+A
+java:S1905Ÿ"*Remove this unnecessary cast to "Context".(É¶ø–
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Ú–ƒÖúÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(ıµ¡¿ıÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(˜ìÃŞúÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ı¾ÉÊúÿÿÿÿ
+R
+java:S1172Õ"6Remove this unused method parameter "continuationRef".(Àœ—¥üÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(±ñàøùÿÿÿÿ
+N	java:S106â"9Replace this use of System.out or System.err by a logger.(ğğ£(
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(•ÒÊøúÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+N	java:S106²"9Replace this use of System.out or System.err by a logger.(óÓî
+
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(†ÆËØ
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(öÛïÙşÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(èìü˜øÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(ô†Çøÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(³’ğùÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÚâÔ ùÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ê¦Š”ûÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(Çíâ±üÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(íƒÀº
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(š±Ø
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(Òº‡‚üÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ıµ¡¿ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(äÀ±¹ùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ğğ£(
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(º×²”øÿÿÿÿ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(±¯û­
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(¢ñÈ„øÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(—­È°øÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

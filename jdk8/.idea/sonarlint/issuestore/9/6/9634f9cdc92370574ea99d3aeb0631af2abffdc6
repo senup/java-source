@@ -1,0 +1,15 @@
+
+a	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+a	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(ò»é·şÿÿÿÿ
+>
+java:S1604¼"(Make this anonymous inner class a lambda(ÆŞÖ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+t	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ©Šÿÿÿÿÿ
+`
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(Æ©Šÿÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(øàÔ¤
+@
+java:S1940»")Use the opposite operator ("==") instead.(İãÀù
+u
+java:S2142î"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

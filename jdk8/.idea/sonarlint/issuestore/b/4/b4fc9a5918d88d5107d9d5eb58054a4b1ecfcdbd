@@ -1,0 +1,27 @@
+
+\	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ã’Îñ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êú”ûÿÿÿÿ
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(”ñùÿÿÿÿ
+?
+java:S1604Ò"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+€
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ü½ı“ùÿÿÿÿ
+q
+java:S1149:"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ƒ‘±Åúÿÿÿÿ
+r
+java:S30774"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ä¥Ù´ùÿÿÿÿ
+r
+java:S3077H"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ö½‹˜ÿÿÿÿÿ
+C
+java:S1125£"'Remove the unnecessary boolean literal.(ˆöÉ¯ûÿÿÿÿ
+a
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(íìü÷ùÿÿÿÿ
+>
+java:S1125é"'Remove the unnecessary boolean literal.(‡ÄâÌ
+>
+java:S2761""Remove multiple operator prefixes.(ÊÆ ıüÿÿÿÿ
+a
+java:S1124¼"EReorder the modifiers to comply with the Java Language Specification.(ú×É‚ıÿÿÿÿ

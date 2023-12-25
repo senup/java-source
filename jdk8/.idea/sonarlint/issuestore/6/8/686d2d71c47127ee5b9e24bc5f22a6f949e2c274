@@ -1,0 +1,29 @@
+
+„
+java:S14886"iImmediately return this expression instead of assigning it to the temporary variable "progressBarBorder".(ÈÏœéùÿÿÿÿ
+{
+java:S1488G"eImmediately return this expression instead of assigning it to the temporary variable "toolBarBorder".(ÌÈ¿í
+„
+java:S1488Z"iImmediately return this expression instead of assigning it to the temporary variable "tableHeaderBorder".(Ô”µŸüÿÿÿÿ
+€
+java:S1488f"kImmediately return this expression instead of assigning it to the temporary variable "internalFrameBorder".(¾°Ëa
+P
+java:S1118.":Add a private constructor to hide the implicit public one.(ÀËß¶
+U
+java:S1161~":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(³Þ–Âÿÿÿÿÿ
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“ ˆûÿÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+[
+java:S1659°"?Declare "dy" and all following declarations on a separate line.(ƒõÓŒýÿÿÿÿ
+V
+java:S1161á":Add the "@Override" annotation above this method signature(³Þ–Âÿÿÿÿÿ
+Q
+java:S1161ƒ":Add the "@Override" annotation above this method signature(ƒ¹—”
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(ƒ¹—”
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ

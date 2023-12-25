@@ -1,0 +1,25 @@
+
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÀ·µøÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜšÚûùÿÿÿÿ
+2
+java:S1643Š"Use a StringBuilder instead.(Ñƒ
+3
+java:S1643Œ"Use a StringBuilder instead.(ùÆòÑ
+8
+java:S2066“"Make this inner class static(î·Ã„şÿÿÿÿ
+j
+java:S3038¤"T"isValid" is defined in the "Argument" interface and can be removed from this class.(å·È:
+e
+java:S4201Â"IRemove this unnecessary null check; "instanceof" returns false for nulls.(õĞÔ€şÿÿÿÿ
+j
+java:S2975Ñ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+G
+java:S2160–"+Override the "equals" method in this class.(ÛøëÊşÿÿÿÿ
+B
+java:S2160"+Override the "equals" method in this class.(Ûº´Î
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‰‰•Ù
+C
+java:S1128"(Remove this unused import 'com.sun.jdi'.(èùªãüÿÿÿÿ

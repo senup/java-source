@@ -1,0 +1,65 @@
+
+v
+java:S1192"_Define a constant instead of duplicating this literal "invalid attribute description" 15 times.(çàğ
+n
+java:S1192"WDefine a constant instead of duplicating this literal "Unbalanced parenthesis" 4 times.(“‹Ú‰
+o	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(È¤æ
+t	java:S135Ä"YReduce the total number of break and continue statements in this loop to use at most one.(…ŒŠ­øÿÿÿÿ
+o	java:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(÷µ‡ä
+n	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127ò"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘õêÏ
+8
+java:S1643Æ"Use a StringBuilder instead.(şú¢Øúÿÿÿÿ
+p	java:S115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æà×±
+U
+java:S1118*":Add a private constructor to hide the implicit public one.(âçÛøÿÿÿÿ
+O
+java:S4719>"9Replace charset name argument with StandardCharsets.UTF_8(À€Üğ
+S
+java:S4719@">Replace charset name argument with StandardCharsets.ISO_8859_1(Ö»Ï
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Áé¿¬
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(öÂ´·ûÿÿÿÿ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Áå“„
+@
+java:S1659Z"%Declare "balance" on a separate line.(—™ä´ıÿÿÿÿ
+@
+java:S1197_"*Move the array designators [] to the type.(êù
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(•³¢è
+=
+java:S1659Õ"&Declare "escStart" on a separate line.(Æ€Õ
+F
+java:S1197Ş"*Move the array designators [] to the type.(áÃîüÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ÆÊˆ•ûÿÿÿÿ
+j
+java:S3776½"SRefactor this method to reduce its Cognitive Complexity from 152 to the 15 allowed.(İ äú
+?
+java:S1659Å"#Declare "value" on a separate line.(˜íäüÿÿÿÿ
+\
+java:S1659Æ"EDeclare "valueEnd" and all following declarations on a separate line.(»¼Ïà
+E
+java:S1481Å")Remove this unused "type" local variable.(˜íäüÿÿÿÿ
+F
+java:S1481Å"*Remove this unused "value" local variable.(˜íäüÿÿÿÿ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(»˜ÈŠüÿÿÿÿ
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(ÒÒä£ÿÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(À˜……
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(‘¹î
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(ù¦¨Ïıÿÿÿÿ
+F
+java:S1197ƒ"*Move the array designators [] to the type.(Ò¬¹§ıÿÿÿÿ
+ƒ
+java:S1130¡"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(®çúˆ
+A
+java:S1197 "*Move the array designators [] to the type.(ñÆ÷§
+W	java:S125¹"<This block of commented-out lines of code should be removed.(çÀ•±üÿÿÿÿ
+A
+java:S1197Î"*Move the array designators [] to the type.(êù
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÇÄƒÒ
+N	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÔêÖ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+B
+java:S1144¾"+Remove this unused private "dprint" method.(åƒí”

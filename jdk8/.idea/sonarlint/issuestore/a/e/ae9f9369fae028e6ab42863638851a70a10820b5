@@ -1,0 +1,61 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+@
+java:S16594"*Declare "buttonHeight" on a separate line.(›Î­ª
+U
+java:S1161;":Add the "@Override" annotation above this method signature(›ßèşÿÿÿÿ
+P
+java:S1161B":Add the "@Override" annotation above this method signature(ïÆ•ø
+B
+java:S1125J"'Remove the unnecessary boolean literal.(ğÆø ûÿÿÿÿ
+C
+java:S1185b"(Remove this method to simply inherit it.(ä¯¨‚ıÿÿÿÿ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+U
+java:S1161g":Add the "@Override" annotation above this method signature(˜å³œøÿÿÿÿ
+P
+java:S1161p":Add the "@Override" annotation above this method signature(«²ËÍ
+h
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(³ıŸê
+P
+java:S1161{":Add the "@Override" annotation above this method signature(³ıŸê
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•¯‹Ìıÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(•¯‹Ìıÿÿÿÿ
+[
+java:S3358æ"DExtract this nested ternary operation into an independent statement.(Š”‹¹
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(ë®ˆñşÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ÈÊ“À
+V
+java:S1161³":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+>	java:S108À")Either remove or fill this block of code.(ÌÀêM
+V
+java:S1161à":Add the "@Override" annotation above this method signature(æÇ‘ûøÿÿÿÿ
+Q
+java:S1161ù":Add the "@Override" annotation above this method signature(€ëßí
+V
+java:S1161ı":Add the "@Override" annotation above this method signature(ÇåÒ»úÿÿÿÿ
+W	java:S107”"<Method has 8 parameters, which is greater than 7 authorized.(½ ìÿÿÿÿÿ
+P
+java:S1172”"4Remove these unused method parameters "part", "gap".(½ ìÿÿÿÿÿ
+h
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Â½¼
+P
+java:S1161£":Add the "@Override" annotation above this method signature(Â½¼
+;
+java:S1659¥"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(ğéËøÿÿÿÿ
+t
+java:S4144´"]Update this method so that its implementation is not identical to "getIconWidth" on line 560.(ää

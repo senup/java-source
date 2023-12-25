@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+l
+java:S2159C"VRemove this call to "equals"; comparisons between unrelated types always return false.(×àô¶
+N
+java:S1135ê"2Complete the task associated to this TODO comment.(ËµÂ·üÿÿÿÿ
+]
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(û÷ß¶üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ

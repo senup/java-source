@@ -1,0 +1,11 @@
+
+F
+java:S1066≈"/Merge this if statement with the enclosing one.(Ó˘‡Ø
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(«Éá∂
+7
+java:S1116$"Remove this empty statement.(˙ÿÆÚ˚ˇˇˇˇ
+>
+java:S1125¶"'Remove the unnecessary boolean literal.(éö»Ω
+j
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ø·—Î

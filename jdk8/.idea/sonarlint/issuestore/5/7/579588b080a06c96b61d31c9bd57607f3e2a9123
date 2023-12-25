@@ -1,0 +1,14 @@
+
+E
+java:S37405"/Provide the parametrized type for this generic.(ˆ®ºâ
+E
+java:S3740H"/Provide the parametrized type for this generic.(†ÂŸ
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ®ºâ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+—
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á“š3
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(“İœøüÿÿÿÿ
+J
+java:S11447"5Remove this unused private "invalidateScaler" method.(Ù§§k

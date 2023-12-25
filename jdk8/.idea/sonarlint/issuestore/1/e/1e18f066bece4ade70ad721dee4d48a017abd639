@@ -1,0 +1,12 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¯’µÍ
+^
+java:S2259Ì"GA "NullPointerException" could be thrown; "uriString" is nullable here.(¯†‚
+v
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+B
+java:S1075¡"&Remove this hard-coded path-delimiter.(¾Ä’Üÿÿÿÿÿ
+B
+java:S1075£"&Remove this hard-coded path-delimiter.(…ìú«úÿÿÿÿ
+D	java:S108ù")Either remove or fill this block of code.(¿åÓúÿÿÿÿ

@@ -1,0 +1,12 @@
+
+t	java:S115c"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó®³íûÿÿÿÿ
+z
+java:S1149L"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(Á»›ê
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(êÙëšþÿÿÿÿ
+`
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(êÙëšþÿÿÿÿ
+`
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(ó®³íûÿÿÿÿ

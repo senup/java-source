@@ -1,0 +1,72 @@
+
+K
+java:S1066£"/Merge this if statement with the enclosing one.(‚Æ–ºÿÿÿÿÿ
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÄ£ö
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÄ£ö
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Òçøşÿÿÿÿ
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Òçøşÿÿÿÿ
+f	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§† n
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë Ëşûÿÿÿÿ
+g	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®€åÚ
+g	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®€åÚ
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–ºí
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£–ºí
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬†Ù
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÍ…×ÿÿÿÿÿ
+l	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ĞÆÜøÿÿÿÿ
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›÷çÔşÿÿÿÿ
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Í«ç
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è³„¡üÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è³„¡üÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è³„¡üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+x	java:S116º"bRename this field "SUBPIXEL_LG_POSITIONS_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®Ğ®
+x	java:S116»"bRename this field "SUBPIXEL_LG_POSITIONS_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ­¿½
+t	java:S116¼"_Rename this field "SUBPIXEL_POSITIONS_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ö³_
+t	java:S116½"_Rename this field "SUBPIXEL_POSITIONS_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÄg
+p	java:S116¾"ZRename this field "SUBPIXEL_MASK_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à«»å
+p	java:S116¿"ZRename this field "SUBPIXEL_MASK_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼’µ
+r	java:S116À"WRename this field "MAX_AA_ALPHA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë÷É§øÿÿÿÿ
+h	java:S116Ï"RRename this field "pix_sx0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‰²
+h	java:S116Ï"RRename this field "pix_sy0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‰²
+^
+java:S1659Æ"GDeclare "boundsMinY" and all following declarations on a separate line.(àöÎò
+<
+java:S1659Ì" Declare "y0" on a separate line.(Óö÷êúÿÿÿÿ
+<
+java:S1659Ï"%Declare "pix_sy0" on a separate line.(à‰²
+h
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰ææÎ
+E
+java:S1197C"*Move the array designators [] to the type.(Ë£šŠşÿÿÿÿ
+@
+java:S1197Y"*Move the array designators [] to the type.(À´‡
+Q	java:S125V"<This block of commented-out lines of code should be removed.(¤¨
+N
+java:S1135"2Complete the task associated to this TODO comment.(ØóÏ³ùÿÿÿÿ
+X
+java:S1659Ø"ADeclare "dddy" and all following declarations on a separate line.(êİéÊ
+7
+java:S1659â" Declare "y1" on a separate line.(³ıß¹
+\
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(±®Ğ®
+\
+java:S1124»"EReorder the modifiers to comply with the Java Language Specification.(Õ­¿½
+[
+java:S1124¼"EReorder the modifiers to comply with the Java Language Specification.(“Ö³_
+[
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(ÎÄg
+\
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(à«»å
+\
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(¼’µ
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı•‘Øøÿÿÿÿ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ı•‘Øøÿÿÿÿ
+C
+java:S1264Á",Replace this "for" loop with a "while" loop.(ƒÖˆÎ
+S
+java:S1117É"7Rename "x0" which hides the field declared at line 332.(éáÃÜúÿÿÿÿ
+N
+java:S1117Ø"7Rename "x0" which hides the field declared at line 332.(´±³õ

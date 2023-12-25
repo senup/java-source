@@ -1,0 +1,54 @@
+
+u
+java:S1192³"YDefine a constant instead of duplicating this literal "Unable to convert images" 3 times.(ãÏşªıÿÿÿÿ
+q
+java:S1192­"ZDefine a constant instead of duplicating this literal "Unable to convert rasters" 3 times.(ø·Çæ
+J
+java:S1191$"5Use classes from the Java API instead of Sun classes.(ÏÃ‹
+g	java:S116:"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨•»üøÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(ƒŞ‰°øÿÿÿÿ
+?
+java:S1659¥"#Declare "dstIL" on a separate line.(¨»òåùÿÿÿÿ
+N
+java:S1135ì"2Complete the task associated to this TODO comment.(ÒœÄöùÿÿÿÿ
+?
+java:S1905“"(Remove this unnecessary cast to "float".(´€‰ğ
+?
+java:S1905Ğ"(Remove this unnecessary cast to "float".(¥ó„“
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Õ‘Ñ»ıÿÿÿÿ
+?
+java:S1659â"#Declare "dstIL" on a separate line.(¨»òåùÿÿÿÿ
+?
+java:S1659é"(Declare "dstIsFloat" on a separate line.(œÁ‘‹
+7
+java:S1659" Declare "xd" on a separate line.(¯ô¹Ê
+D
+java:S1905‡"(Remove this unnecessary cast to "float".(±»ûÑşÿÿÿÿ
+D
+java:S1905•"(Remove this unnecessary cast to "float".(è´üêùÿÿÿÿ
+n
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(’ŞãÄúÿÿÿÿ
+?
+java:S1659Î"#Declare "dstIL" on a separate line.(¨»òåùÿÿÿÿ
+7
+java:S1659‚" Declare "xd" on a separate line.(¯ô¹Ê
+D
+java:S1905õ"(Remove this unnecessary cast to "float".(±»ûÑşÿÿÿÿ
+D
+java:S1905ı"(Remove this unnecessary cast to "float".(ÄÊŒÔıÿÿÿÿ
+N
+java:S1135ˆ"2Complete the task associated to this TODO comment.(ÒœÄöùÿÿÿÿ
+V
+java:S1128'"@Remove this unused import 'java.awt.color.ProfileDataException'.(şó§
+R
+java:S1128."<Remove this unused import 'java.awt.image.DirectColorModel'.(—Úå¿
+Z
+java:S1128/"?Remove this unused import 'java.awt.image.ComponentColorModel'.(šëã‰ûÿÿÿÿ
+c
+java:S11282"HRemove this unused import 'java.awt.image.SinglePixelPackedSampleModel'.(®‰ôãúÿÿÿÿ
+V
+java:S11283"@Remove this unused import 'java.awt.image.ComponentSampleModel'.(éø¦ç
+i
+java:S11285"TRemove this unnecessary import: same package classes are always implicitly imported.(ºÉ©

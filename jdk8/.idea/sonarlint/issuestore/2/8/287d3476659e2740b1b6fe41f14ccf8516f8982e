@@ -1,0 +1,79 @@
+
+o	java:S135¨"YReduce the total number of break and continue statements in this loop to use at most one.( ‘†Ä
+K
+java:S1191*"5Use classes from the Java API instead of Sun classes.( ÍâÔ
+v
+java:S1149Ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ííãš
+v
+java:S1149¥"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Û·‹†
+{
+java:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¼ï™¥şÿÿÿÿ
+{
+java:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¼ï™¥şÿÿÿÿ
+{
+java:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«ÏÇÌüÿÿÿÿ
+{
+java:S1149«"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(èÑ’óüÿÿÿÿ
+v
+java:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( Ğœ“
+=
+java:S1905¿"&Remove this unnecessary cast to "int".(çªå”
+=
+java:S1905¿"&Remove this unnecessary cast to "int".(çªå”
+=
+java:S1905¿"&Remove this unnecessary cast to "int".(çªå”
+=
+java:S1905¿"&Remove this unnecessary cast to "int".(çªå”
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ííãš
+R
+java:S1854¤"6Remove this useless assignment to local variable "ch".(£…÷Íûÿÿÿÿ
+>
+java:S1125®"'Remove the unnecessary boolean literal.(æàÓœ
+@
+java:S1659²"$Declare "length" on a separate line.(—Ò²‘úÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(«ÏÇÌüÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(¿ÍÄã
+F
+java:S1659¸"*Declare "firstCharDir" on a separate line.(•§è„úÿÿÿÿ
+;
+java:S1659¹"$Declare "ltrPos" on a separate line.(û½–
+E
+java:S1659º")Declare "leftToRight" on a separate line.(É ±¢ùÿÿÿÿ
+{
+java:S3252·"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "CHAR_DIRECTION_COUNT".(‚Î×Ï
+€
+java:S3252¸"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "CHAR_DIRECTION_COUNT".(•§è„úÿÿÿÿ
+€
+java:S3252Æ"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "CHAR_DIRECTION_COUNT".(åÄ²çûÿÿÿÿ
+y
+java:S3252É"]Use static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "LEFT_TO_RIGHT".(‡­•¶øÿÿÿÿ
+y
+java:S3252Í"]Use static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT".(“¶şÇıÿÿÿÿ
+€
+java:S3252Í"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT_ARABIC".(“¶şÇıÿÿÿÿ
+>
+java:S1125Ò"'Remove the unnecessary boolean literal.(´òòé
+=
+java:S1125Ô"'Remove the unnecessary boolean literal.(š¡İ
+=
+java:S1125Ô"'Remove the unnecessary boolean literal.(š¡İ
+C
+java:S1125Û"'Remove the unnecessary boolean literal.(µşğüÿÿÿÿ
+y
+java:S3252Ü"]Use static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT".(çóêüÿÿÿÿ
+€
+java:S3252Ü"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT_ARABIC".(çóêüÿÿÿÿ
+s
+java:S3252İ"]Use static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT".(¹Ó³1
+z
+java:S3252İ"dUse static access with "sun.net.idn.UCharacterEnums$ECharacterDirection" for "RIGHT_TO_LEFT_ARABIC".(¹Ó³1
+o
+java:S1128:"TRemove this unnecessary import: same package classes are always implicitly imported.(çÚµ¿üÿÿÿÿ
+o
+java:S1128;"TRemove this unnecessary import: same package classes are always implicitly imported.(ÉÀ—ıÿÿÿÿ
+S
+java:S1068z"8Remove this unused "MAX_INDEX_TOP_LENGTH" private field.(äÙÊÅşÿÿÿÿ
+M
+java:S1068£"1Remove this unused "formatVersion" private field.(¹êô€ûÿÿÿÿ

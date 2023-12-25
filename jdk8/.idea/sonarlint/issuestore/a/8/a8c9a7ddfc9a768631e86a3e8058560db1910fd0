@@ -1,0 +1,9 @@
+
+W
+java:S2387'"<"writerSpiNames" is the name of a field in "ImageReaderSpi".(ò¿íÐÿÿÿÿÿ
+V
+java:S1126M"AReplace this if-then-else statement by a single return statement.(óðÕ
+U
+java:S1128":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦¢ëÛùÿÿÿÿ
+T
+java:S1128 ">Remove this unused import 'javax.imageio.spi.ServiceRegistry'.(æž£Å

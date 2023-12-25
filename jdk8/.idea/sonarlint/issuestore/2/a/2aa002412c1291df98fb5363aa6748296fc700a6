@@ -1,0 +1,13 @@
+
+z
+java:S1149V"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+U
+java:S1118+":Add a private constructor to hide the implicit public one.(€Œñ­øÿÿÿÿ
+[
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(„ÏÀÔ
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(°€øÿÿÿÿ
+[
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(Ù‘Å
+<
+java:S1128""&Remove this unused import 'java.util'.(Î€ŒÙ

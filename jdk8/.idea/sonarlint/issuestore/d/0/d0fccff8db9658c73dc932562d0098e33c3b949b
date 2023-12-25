@@ -1,0 +1,46 @@
+
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(”ë£»ýÿÿÿÿ
+a	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(ÐÀ¤Íüÿÿÿÿ
+S
+java:S4973Ž"<Strings and Boxed types should be compared using "equals()".(ÛóþÐ
+S
+java:S4973•"<Strings and Boxed types should be compared using "equals()".(Ô”ßœ
+P
+java:S1191("5Use classes from the Java API instead of Sun classes.(äÈÛµøÿÿÿÿ
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(¦¯á³úÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(‰šŽÙ
+Z
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(‘°à
+`
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(¼·ïÔøÿÿÿÿ
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(„‘þ™
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(ªëÛÊûÿÿÿÿ
+[
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(ÈÕÒ
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(ª÷•Åûÿÿÿÿ
+B
+java:S1125x"'Remove the unnecessary boolean literal.(×æ¢«þÿÿÿÿ
+=
+java:S1168­"&Return an empty array instead of null.(¥¹ï
+Q	java:S125Ì"<This block of commented-out lines of code should be removed.(ÙÍ.
+T
+java:S1117ä"8Rename "spec" which hides the field declared at line 95.(“í™üÿÿÿÿ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÓˆŽ“
+B
+java:S1874×"+Remove this use of "rsa"; it is deprecated.(¼“¦Á
+G
+java:S1874á"+Remove this use of "rsa"; it is deprecated.(ö‰Ž’ùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(íô„êøÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(ìŽì³øÿÿÿÿ
+a
+java:S2147®"ECombine this catch with the one at line 427, which has the same body.(©Ë¸Ãþÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ

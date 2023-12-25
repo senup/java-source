@@ -1,0 +1,15 @@
+
+R
+java:S2387+"<"readerSpiNames" is the name of a field in "ImageWriterSpi".(ÜîÝ®
+P
+java:S1161F":Add the "@Override" annotation above this method signature(´Ýõ¹
+\
+java:S1126W"AReplace this if-then-else statement by a single return statement.(×“ïþÿÿÿÿ
+T
+java:S1128">Remove this unused import 'javax.imageio.spi.ServiceRegistry'.(æž£Å
+U
+java:S1128":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦¢ëÛùÿÿÿÿ
+Q
+java:S1128$"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍþÿÿÿÿ
+V
+java:S1128%";Remove this unused import 'java.awt.image.IndexColorModel'.(­²ÇÊúÿÿÿÿ

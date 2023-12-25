@@ -1,0 +1,46 @@
+
+J
+java:S3740W"/Provide the parametrized type for this generic.(†—¥¢ùÿÿÿÿ
+J
+java:S3740W"/Provide the parametrized type for this generic.(†—¥¢ùÿÿÿÿ
+K
+java:S3740¶"/Provide the parametrized type for this generic.(…¡ûíşÿÿÿÿ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(»ÌÜƒøÿÿÿÿ
+m	java:S127x"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÇãÂ‘
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+o	java:S115["ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âğÔÏ
+€
+java:S1149W"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(†—¥¢ùÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(¨¡øùıÿÿÿÿ
+R	java:S899C"=Do something with the "boolean" value returned by "canWrite".(öŞ­ú
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+Z
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(ÊéŒòşÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.( ìß¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú‚¢M
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ş±şöıÿÿÿÿ
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(¡®Ã™ıÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+R
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(“–Ê‰ÿÿÿÿÿ
+T
+java:S3878¹"8Remove this array creation and simply pass the elements.(ÕñšÉùÿÿÿÿ
+Z
+java:S3878º"CDisambiguate this call by either casting as "Object" or "Object[]".(’Õï†
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(‚”î‰
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(Ù²¤Õùÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(¢ÔÑÉúÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(Õçşè
+@
+java:S1905ô")Remove this unnecessary cast to "String".(ÈÁ—á
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(‰ÔÅ‰
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(»ƒ„‚ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ë’Ğíøÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ë’Ğíøÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(Äïú©üÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(˜òåÉúÿÿÿÿ
+1
+java:S1165"Make this "t" field final.(ëâë¬

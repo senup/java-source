@@ -1,0 +1,212 @@
+
+u
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÕ¯”üÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Å©·
+u
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Êúùÿÿÿÿ
+K
+java:S1066Í"/Merge this if statement with the enclosing one.(ş¤ô”øÿÿÿÿ
+D
+java:S1604×"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(Ë¢¦’ıÿÿÿÿ
+D
+java:S1604«"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
+?
+java:S1604°"(Make this anonymous inner class a lambda(ÉÃ·
+b
+java:S1301é"KReplace this "switch" statement by "if" statements to increase readability.(ŸùÿÌ
+S
+java:S4973Ã"<Strings and Boxed types should be compared using "equals()".(ûâª°
+S
+java:S4973¶	"<Strings and Boxed types should be compared using "equals()".(•ãÅ¼
+S
+java:S4973¹	"<Strings and Boxed types should be compared using "equals()".(œ¶óá
+K
+java:S1191-"5Use classes from the Java API instead of Sun classes.(Ãíæı
+u	java:S115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â²ë’ùÿÿÿÿ
+p
+java:S3008Z"URename this field "PREF_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëêêØùÿÿÿÿ
+q
+java:S3008["VRename this field "PREF_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÁ»şÿÿÿÿ
+i
+java:S3008\"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÔÊ:
+o
+java:S3008^"TRename this field "MIN_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ùêóÿÿÿÿÿ
+k
+java:S3008_"URename this field "MIN_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÙÕ¡
+n
+java:S3008`"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÁÊğúÿÿÿÿ
+u
+java:S3008b"ZRename this field "LIST_PREF_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú£¶ªùÿÿÿÿ
+q
+java:S3008c"[Rename this field "LIST_PREF_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èççÀ
+t
+java:S3008d"YRename this field "LIST_PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æååêùÿÿÿÿ
+u
+java:S1450<"ZRemove the "centerPanel" field and declare it as a local variable in the relevant methods.(Ş—¶³üÿÿÿÿ
+x
+java:S1450O"]Remove the "filterComboBox" field and declare it as a local variable in the relevant methods.(Í÷Æœøÿÿÿÿ
+{
+java:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
+
+java:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
+D
+java:S1185•"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(Ç¦¡ş
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ú¯ò©
+N
+java:S1854Ğ"7Remove this useless assignment to local variable "fsv".(÷Êºâ
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(Ú¯ò©
+?
+java:S1481Ğ"(Remove this unused "fsv" local variable.(÷Êºâ
+_
+java:S3252ä"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Æø†»üÿÿÿÿ
+V
+java:S1161å":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+V
+java:S1161é":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+X
+java:S3252ò"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ø‹Ø
+_
+java:S3252ó"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(û£÷Èøÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+]
+java:S3252Œ"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ŞÖÈ“ÿÿÿÿÿ
+Z
+java:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(¾Â•Ù
+V
+java:S1161À":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+P
+java:S1161É":Add the "@Override" annotation above this method signature(İ¼õA
+
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Ãâ¨ÿÿÿÿÿ
+
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ÓáÌıÿÿÿÿ
+8	java:S131é""Add a default case to this switch.(ŸùÿÌ
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+n
+java:S2177©"WRename this method; there is a "private" method in the parent class with the same name.(ÕÅ´õ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
+t
+java:S2177³"^Rename this method or correct the type of the argument(s) to override the parent class method.(Í’¾3
+u
+java:S2177·"^Rename this method or correct the type of the argument(s) to override the parent class method.(ÌÊø
+E
+java:S1172½")Remove this unused method parameter "fc".(¨‘ıÎÿÿÿÿÿ
+@
+java:S1172Á")Remove this unused method parameter "fc".(ò»îÑ
+?
+java:S1185Ë"(Remove this method to simply inherit it.(ë‚„ä
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(ë‚„ä
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(¶¼Óıÿÿÿÿ
+?
+java:S1172Ñ"(Remove this unused method parameter "e".(ñœ¤€
+?
+java:S1172ä"(Remove this unused method parameter "e".(„ñŸÅ
+?
+java:S1172è"(Remove this unused method parameter "e".(‚ˆá»
+D
+java:S1172‡"(Remove this unused method parameter "e".(ÄÊâùıÿÿÿÿ
+D
+java:S1172"(Remove this unused method parameter "e".(ã¯İµúÿÿÿÿ
+?
+java:S1172š"(Remove this unused method parameter "e".(øóø·
+D
+java:S1172"(Remove this unused method parameter "e".(ôš×Éûÿÿÿÿ
+n
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ú¯ü¼üÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(Ú¯ü¼üÿÿÿÿ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
+V
+java:S1161è":Add the "@Override" annotation above this method signature(“Êûşÿÿÿÿ
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(Êœˆÿ
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(·Â¨­
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(“Ñ™î
+V
+java:S1161":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
+E
+java:S1172”")Remove this unused method parameter "fc".(ÏÛˆæúÿÿÿÿ
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­Š§
+]
+java:S3252¡"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ÿÉøÿÿÿÿ
+_
+java:S3252¢"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(‹•ƒ¶şÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(äÒÚï
+V
+java:S1161®":Add the "@Override" annotation above this method signature(ÎœÃáÿÿÿÿÿ
+P
+java:S1161»":Add the "@Override" annotation above this method signature(È™íj
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(›™¥…
+@
+java:S1948×"$Make "ii" transient or serializable.(¯é¬ûøÿÿÿÿ
+P
+java:S1161Ø":Add the "@Override" annotation above this method signature(ñºà<
+a
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(â²ë’ùÿÿÿÿ
+E
+java:S1172ˆ")Remove this unused method parameter "fc".(ŞêÛôûÿÿÿÿ
+<
+java:S1948”"%Make "fsv" transient or serializable.(¥’„¾
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
+
+java:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
+P
+java:S1161”	":Add the "@Override" annotation above this method signature(÷²«k
+`
+java:S4201š	"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö×…¶
+@
+java:S1948®	")Make "filters" transient or serializable.(¸¬ÇË
+C
+java:S1125Ó	"'Remove the unnecessary boolean literal.(­šÕÅûÿÿÿÿ
+V
+java:S1161…
+":Add the "@Override" annotation above this method signature(Áª¬Çúÿÿÿÿ
+V
+java:S1161‰
+":Add the "@Override" annotation above this method signature(ô•†üÿÿÿÿ
+Q
+java:S1161“
+":Add the "@Override" annotation above this method signature(ú€İÖ

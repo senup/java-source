@@ -1,0 +1,19 @@
+
+J
+java:S1066b"/Merge this if statement with the enclosing one.(ü³Çòþÿÿÿÿ
+l	java:S116%"WRename this field "temp_bufferL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºëá
+q	java:S116&"WRename this field "temp_bufferR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¯úüûÿÿÿÿ
+œ
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨Þþúÿÿÿÿ
+˜
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø¨ü¢
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(²Ö¡‚
+P
+java:S1117Y";Rename "bufferL" which hides the field declared at line 40.(„´–
+V
+java:S1117Z";Rename "bufferR" which hides the field declared at line 41.(õÌïüÿÿÿÿ
+Y
+java:S1117[">Rename "bufferLout" which hides the field declared at line 42.(‚¡Šôþÿÿÿÿ
+T
+java:S1117\">Rename "bufferRout" which hides the field declared at line 43.(”—Ü¸

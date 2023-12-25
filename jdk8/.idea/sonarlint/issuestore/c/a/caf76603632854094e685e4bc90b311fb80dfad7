@@ -1,0 +1,11 @@
+
+q
+java:S1149b"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‡¥éÑýÿÿÿÿ
+l
+java:S1149o"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¡êˆ±
+l
+java:S1149z"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÊÌÕÝ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(¢òÕûøÿÿÿÿ
+h	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¥éÑýÿÿÿÿ
+c	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡êˆ±

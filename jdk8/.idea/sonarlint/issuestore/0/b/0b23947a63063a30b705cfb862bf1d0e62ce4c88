@@ -1,0 +1,11 @@
+
+`	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(§тц»ьяяяя
+\	java:S112ё"FDefine and throw a dedicated exception instead of using a generic one.(єцШв
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(єцШв
+\	java:S112Э"FDefine and throw a dedicated exception instead of using a generic one.(єцШв
+g
+java:S1192ё"PDefine a constant instead of duplicating this literal "Internal error." 3 times.(єцШв
+ќ
+java:S1186ч"ЂAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(лб іэяяяя
+h
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(мэЌц

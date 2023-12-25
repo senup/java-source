@@ -1,0 +1,40 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+[
+java:S2583‘"DChange this condition so that it does not always evaluate to "false"(ìÜ¾ú
+[
+java:S2583š"DChange this condition so that it does not always evaluate to "false"(—©Àˆ
+S	java:S107„"=Method has 15 parameters, which is greater than 7 authorized.(İ 
+P
+java:S1161M":Add the "@Override" annotation above this method signature(Ÿè³
+U
+java:S1161U":Add the "@Override" annotation above this method signature(¯ìßÅÿÿÿÿÿ
+O
+java:S1161o":Add the "@Override" annotation above this method signature(ï±’(
+m
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ÌÛŠøÿÿÿÿ
+[
+java:S3358©"DExtract this nested ternary operation into an independent statement.(¾†á¾
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ê½¡ı
+V
+java:S1659Ç"?Declare "y1" and all following declarations on a separate line.(ÁàÊ
+8
+java:S1659Œ"!Declare "udy" on a separate line.(õÈÔ
+N
+java:S1135½"2Complete the task associated to this TODO comment.(‘ÀÄîÿÿÿÿÿ
+A
+java:S1197Ì"*Move the array designators [] to the type.(äîãß
+A
+java:S1197„"*Move the array designators [] to the type.(àÒ•
+<
+java:S1659¨" Declare "py" on a separate line.(“ùÄ²ÿÿÿÿÿ
+\
+java:S1659©"@Declare "dy1" and all following declarations on a separate line.(øĞˆşÿÿÿÿ
+<
+java:S1659Ë" Declare "py" on a separate line.(“ùÄ²ÿÿÿÿÿ
+\
+java:S1659Ì"@Declare "dy1" and all following declarations on a separate line.(øĞˆşÿÿÿÿ
+8
+java:S1659Í"!Declare "lw2" on a separate line.(·Åò¼

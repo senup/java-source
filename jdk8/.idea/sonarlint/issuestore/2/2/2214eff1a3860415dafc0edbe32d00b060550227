@@ -1,0 +1,14 @@
+
+M
+java:S2589x"7Remove this expression which always evaluates to "true"(„Áäö
+N
+java:S2589‹"7Remove this expression which always evaluates to "true"(…øÑÔ
+T
+java:S5993C"9Change the visibility of this constructor to "protected".(ÖÌš’üÿÿÿÿ
+`
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(Šû®ıÿÿÿÿ
+[
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(íäÉ“
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(œËßØøÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(²ûûÅşÿÿÿÿ

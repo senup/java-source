@@ -1,0 +1,22 @@
+
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹„Úê
+a
+java:S1192¤"JDefine a constant instead of duplicating this literal "Provider " 3 times.(ƒ‚ò­
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+u	java:S115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ş®Úøÿÿÿÿÿ
+2
+java:S2326€"S is not used in the class.(«°ĞÑ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»Ñ”ıÿÿÿÿ
+U
+java:S4719Ş"9Replace charset name argument with StandardCharsets.UTF_8(—ûÃøÿÿÿÿ
+F
+java:S2093Ü"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+A
+java:S3398Ö"%Move this method into "LazyIterator".(åú‡ãüÿÿÿÿ
+<
+java:S3398†"%Move this method into "LazyIterator".(Ü®ÍÍ

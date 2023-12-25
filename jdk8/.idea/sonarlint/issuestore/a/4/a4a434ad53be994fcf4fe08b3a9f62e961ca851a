@@ -1,0 +1,10 @@
+
+>
+java:S1604}"(Make this anonymous inner class a lambda(óêµÇ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+V
+java:S2184w"@Cast one of the operands of this addition operation to a "long".(­ß˜ã
+r
+java:S1845"VRename method "maskFill" to prevent any misunderstanding/clash with method "MaskFill".(òÊ“ãøÿÿÿÿ
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(òÊ“ãøÿÿÿÿ

@@ -1,0 +1,30 @@
+
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ãáÿÿÿÿÿ
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÔ—Ğıÿÿÿÿ
+F
+java:S1066¼"/Merge this if statement with the enclosing one.(˜Ûßª
+v
+java:S1149ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+P
+java:S1161O":Add the "@Override" annotation above this method signature(ÜÑã
+_
+java:S4201P"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‚¼Å”
+P
+java:S1161Z":Add the "@Override" annotation above this method signature(ğÜşŠ
+K
+java:S1172y"0Remove this unused method parameter "codeIndex".(ÆÔÿÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(¾ÀÎø
+]
+java:S1854¨"ARemove this useless assignment to local variable "componentType".(Á·Æüÿÿÿÿ
+2
+java:S3626Ü"Remove this redundant jump.(ûÁİ…
+N
+java:S1481¨"2Remove this unused "componentType" local variable.(Á·Æüÿÿÿÿ
+E
+java:S5413Ú")Verify that "remove()" is used correctly.(Ş¼ßúÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+G
+java:S1128!"1Remove this unused import 'java.util.Comparator'.(î¹ó¹

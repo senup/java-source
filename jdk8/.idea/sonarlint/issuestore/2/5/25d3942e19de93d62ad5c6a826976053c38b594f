@@ -1,0 +1,34 @@
+
+d
+java:S1192i"IDefine a constant instead of duplicating this literal "12\uc6d4" 3 times.(ôÁğ‰ıÿÿÿÿ
+^
+java:S1192^"HDefine a constant instead of duplicating this literal "1\uc6d4" 3 times.(Ñìà‚
+^
+java:S1192f"HDefine a constant instead of duplicating this literal "9\uc6d4" 3 times.(¼Û¤Á
+c
+java:S1192e"HDefine a constant instead of duplicating this literal "8\uc6d4" 3 times.(åáæÿÿÿÿÿ
+_
+java:S1192g"IDefine a constant instead of duplicating this literal "10\uc6d4" 3 times.(òÒ¢‘
+c
+java:S1192`"HDefine a constant instead of duplicating this literal "3\uc6d4" 3 times.(»¤–âúÿÿÿÿ
+^
+java:S1192a"HDefine a constant instead of duplicating this literal "4\uc6d4" 3 times.(Á¸¸ô
+d
+java:S1192ä"MDefine a constant instead of duplicating this literal "GGGG y. M. d" 4 times.(ÛÆÂ‡
+^
+java:S1192c"HDefine a constant instead of duplicating this literal "6\uc6d4" 3 times.(ş—ì±
+^
+java:S1192b"HDefine a constant instead of duplicating this literal "5\uc6d4" 3 times.(—©ğÚ
+]
+java:S1192d"HDefine a constant instead of duplicating this literal "7\uc6d4" 3 times.(ş²³R
+^
+java:S1192_"HDefine a constant instead of duplicating this literal "2\uc6d4" 3 times.(Øˆº•
+d
+java:S1192h"IDefine a constant instead of duplicating this literal "11\uc6d4" 3 times.(ÿåÆˆşÿÿÿÿ
+b	java:S101Q"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü•
+K
+java:S1191M"5Use classes from the Java API instead of Sun classes.(İõåü
+V
+java:S1854W";Remove this useless assignment to local variable "rocEras".(÷„£çüÿÿÿÿ
+G
+java:S1481W",Remove this unused "rocEras" local variable.(÷„£çüÿÿÿÿ

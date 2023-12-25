@@ -1,0 +1,42 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+O
+java:S11616":Add the "@Override" annotation above this method signature(…’¨7
+U
+java:S1161C":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+P
+java:S1161V":Add the "@Override" annotation above this method signature(³Â¥è
+<	java:S131W""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+J
+java:S1172r"/Remove these unused method parameters "a", "b".(–¦€Ëûÿÿÿÿ
+E
+java:S1172u"/Remove these unused method parameters "a", "b".(éË«
+E
+java:S1172x"/Remove these unused method parameters "a", "b".(‰›¬±
+E
+java:S1172{"/Remove these unused method parameters "a", "b".(êÖåŠ
+E
+java:S1172~"/Remove these unused method parameters "a", "b".(‡÷¨’
+F
+java:S1172"/Remove these unused method parameters "a", "b".(¦ŒŠ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(†î“ÿÿÿÿÿ
+8	java:S131‡""Add a default case to this switch.(ú–Ö³
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ëßùÃûÿÿÿÿ
+V
+java:S1161¤":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(–¦§­úÿÿÿÿ
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(Âõ¦È
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+Q
+java:S1161Ñ":Add the "@Override" annotation above this method signature(çé½Ì
+8
+java:S2129×"!Remove this "Integer" constructor(øã’¿
+=
+java:S2129Ú"!Remove this "Integer" constructor(‘†¸¢ıÿÿÿÿ
+V
+java:S1161æ":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

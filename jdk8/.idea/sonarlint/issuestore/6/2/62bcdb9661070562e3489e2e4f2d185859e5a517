@@ -1,0 +1,46 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¨›úüÿÿÿÿ
+f	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤F
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀÙ“
+|
+java:S4144Õ"`Update this method so that its implementation is not identical to "c_getSchema_nns" on line 207.(·™®éÿÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÂ‹ªûÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¨›úüÿÿÿÿ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÆ¹èúÿÿÿÿ
+b	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ßİ5
+c	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÉÉÇ
+h	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¼‘úÿÿÿÿ
+h	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆˆôúÿÿÿÿ
+h	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆˆôúÿÿÿÿ
+h	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆˆôúÿÿÿÿ
+h	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ÿöİøÿÿÿÿ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¦»
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ôˆˆøÿÿÿÿ
+J
+java:S1172‚".Remove this unused method parameter "attrIds".(“©ÈÑşÿÿÿÿ
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ†¦üÿÿÿÿ
+N
+java:S1172Š"8Remove these unused method parameters "mod_op", "attrs".(¢¤F
+i	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ†¦üÿÿÿÿ
+G
+java:S1172’"+Remove this unused method parameter "mods".(»ßşÿÿÿÿ
+i	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¯Á‡üÿÿÿÿ
+Q
+java:S1172™"5Remove these unused method parameters "obj", "attrs".(Á˜¥“ùÿÿÿÿ
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·êåôûÿÿÿÿ
+Q
+java:S1172¡"5Remove these unused method parameters "obj", "attrs".(Á˜¥“ùÿÿÿÿ
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²”ÄÕúÿÿÿÿ
+H
+java:S1172©",Remove this unused method parameter "attrs".(—Ÿ÷…úÿÿÿÿ
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚ•ñÿÿÿÿÿ
+g
+java:S1172²"QRemove these unused method parameters "matchingAttributes", "attributesToReturn".(’Æäo
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚ•ñÿÿÿÿÿ
+N
+java:S1172¼"7Remove these unused method parameters "filter", "cons".(ëşÊ
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚ•ñÿÿÿÿÿ
+e
+java:S1172Æ"IRemove these unused method parameters "filterExpr", "filterArgs", "cons".(ÜÕ¬ıÿÿÿÿ
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“îÂãûÿÿÿÿ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·™®éÿÿÿÿÿ

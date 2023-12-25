@@ -1,0 +1,38 @@
+
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞºÜÙ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¢¼•ÿÿÿÿÿ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½²šÿÿÿÿÿ
+t
+java:S1488\"YImmediately return this expression instead of assigning it to the temporary variable "l".(ˆò ¨ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘ò‡ÿıÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(áÖÊ±øÿÿÿÿ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(šŠè»úÿÿÿÿ
+`
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(²ğÁµÿÿÿÿÿ
+m
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(°œÅ€úÿÿÿÿ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+P
+java:S1161«":Add the "@Override" annotation above this method signature(Õ—R
+Q
+java:S1161°":Add the "@Override" annotation above this method signature(’áüÔ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(‘ò‡ÿıÿÿÿÿ
+e
+java:S3551²"IMake this method "synchronized" to match the parent class implementation.(‘ò‡ÿıÿÿÿÿ
+P
+java:S1161µ":Add the "@Override" annotation above this method signature(”ŸÀ8
+_
+java:S3551µ"IMake this method "synchronized" to match the parent class implementation.(”ŸÀ8
+:
+java:S1128"%Remove this unused import 'java.net'.(Ğ‡
+I
+java:S1128"3Remove this unused import 'com.sun.net.httpserver'.(°Ñâõ
+M
+java:S1128"7Remove this unused import 'com.sun.net.httpserver.spi'.(ÄÓ—

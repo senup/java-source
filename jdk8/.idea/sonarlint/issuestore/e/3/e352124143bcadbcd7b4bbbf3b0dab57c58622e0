@@ -1,0 +1,55 @@
+
+_
+java:S2184€"CCast one of the operands of this subtraction operation to a "long".(úàûÿÿÿÿ
+[
+java:S2184…"DCast one of the operands of this subtraction operation to a "float".(Ø›Èî
+a
+java:S2184‰"ECast one of the operands of this subtraction operation to a "double".(–Ù¡Øüÿÿÿÿ
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(ªíªù
+]
+java:S1479n"BReduce the number of non-empty switch cases from 98 to at most 30.(ìıÇÓÿÿÿÿÿ
+Q
+java:S6213Î":Rename this variable to not match a restricted identifier.(ÈÛ³§
+Q
+java:S1133¢"5Do not forget to remove this deprecated code someday.(Ê…™ ùÿÿÿÿ
+D
+java:S1123¢"(Add the missing @deprecated Javadoc tag.(Ê…™ ùÿÿÿÿ
+V
+java:S6213¹":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+8
+java:S2129ä"!Remove this "Integer" constructor(âìÌú
+:
+java:S2129ì"Remove this "Long" constructor(á‘óùÿÿÿÿ
+6
+java:S2129õ"Remove this "Float" constructor(ĞùÊÛ
+7
+java:S2129ş" Remove this "Double" constructor(ï²À
+V
+java:S6213Š":Rename this variable to not match a restricted identifier.(ÒİÏŞüÿÿÿÿ
+Q
+java:S6213’":Rename this variable to not match a restricted identifier.(ã€«À
+V
+java:S6213î":Rename this variable to not match a restricted identifier.(¸í»îûÿÿÿÿ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(İØÙŒıÿÿÿÿ
+Q
+java:S6213í":Rename this variable to not match a restricted identifier.(öı
+L
+java:S1133”"5Do not forget to remove this deprecated code someday.(ìŠê­
+?
+java:S1123”"(Add the missing @deprecated Javadoc tag.(ìŠê­
+Q
+java:S1874¤"5Remove this use of "invokevirtual"; it is deprecated.(ÈÚÍùùÿÿÿÿ
+L
+java:S1133«"5Do not forget to remove this deprecated code someday.(¢Ğµ
+?
+java:S1123«"(Add the missing @deprecated Javadoc tag.(¢Ğµ
+L
+java:S1874»"5Remove this use of "invokespecial"; it is deprecated.(ì¯‡¬
+Q
+java:S1133Â"5Do not forget to remove this deprecated code someday.( ò•…üÿÿÿÿ
+D
+java:S1123Â"(Add the missing @deprecated Javadoc tag.( ò•…üÿÿÿÿ
+K
+java:S1874Ò"4Remove this use of "invokestatic"; it is deprecated.(ì¡ÿ¹

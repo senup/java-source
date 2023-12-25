@@ -1,0 +1,9 @@
+
+{
+java:S1192R"`Define a constant instead of duplicating this literal "sun.security.util.AuthResources" 3 times.(²ýø°ûÿÿÿÿ
+P
+java:S1191P"5Use classes from the Java API instead of Sun classes.(êÐ­³üÿÿÿÿ
+9
+java:S2129i"Remove this "Long" constructor(ŒÃÈ²ýÿÿÿÿ
+X
+java:S1126Ì"AReplace this if-then-else statement by a single return statement.(£§¥ˆ

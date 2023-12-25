@@ -1,0 +1,33 @@
+
+h
+java:S1192¬"LDefine a constant instead of duplicating this literal "exception: " 5 times.(çœÕ£ıÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öô‹·üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(´äÍë
+o	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šÜŠ–
+q
+java:S1149Y"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(óêşßùÿÿÿÿ
+`
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(‰èÿ«üÿÿÿÿ
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ø¾‡é
+[
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(éïˆ
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(ıÎÈÙ
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(‡‚“Øşÿÿÿÿ
+[
+java:S1124_"EReorder the modifiers to comply with the Java Language Specification.(šÜŠ–
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(•ë›¢úÿÿÿÿ
+[
+java:S1659†"?Declare "id" and all following declarations on a separate line.(Ç¼Ÿ¬ûÿÿÿÿ
+F
+java:S2093…"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+?	java:S108Ğ")Either remove or fill this block of code.(ï­£Ä
+?	java:S108Ô")Either remove or fill this block of code.(ï­£Ä
+F
+java:S1197÷"*Move the array designators [] to the type.(ÌÉ–³üÿÿÿÿ
+D
+java:S1113º"-Do not override the Object.finalize() method.(÷ùôó

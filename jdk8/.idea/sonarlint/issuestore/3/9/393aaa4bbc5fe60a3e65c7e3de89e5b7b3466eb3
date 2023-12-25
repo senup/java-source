@@ -1,0 +1,23 @@
+
+P
+java:S1191$"5Use classes from the Java API instead of Sun classes.(à»¹£úÿÿÿÿ
+C
+java:S1172J"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+C
+java:S1185V"(Remove this method to simply inherit it.(§Äç×øÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature(§Äç×øÿÿÿÿ
+U
+java:S1161_":Add the "@Override" annotation above this method signature(°¤ºçûÿÿÿÿ
+O
+java:S1161s":Add the "@Override" annotation above this method signature(Í­‚G
+U
+java:S1161|":Add the "@Override" annotation above this method signature(Ã”ù’ûÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(î¾ŸŞ
+?	java:S108¦")Either remove or fill this block of code.(î¾ŸŞ
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'java.beans.PropertyChangeEvent'.(’¢œ§
+O
+java:S1128$"4Remove this unused import 'sun.swing.DefaultLookup'.(à»¹£úÿÿÿÿ

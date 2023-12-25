@@ -1,0 +1,12 @@
+
+o
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÜÇ¸
+P
+java:S1191
+"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
+T
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(Ä„Üµ
+[
+java:S2147k"ECombine this catch with the one at line 105, which has the same body.(Å¡ß
+`
+java:S2147m"ECombine this catch with the one at line 105, which has the same body.(ı³§üÿÿÿÿ

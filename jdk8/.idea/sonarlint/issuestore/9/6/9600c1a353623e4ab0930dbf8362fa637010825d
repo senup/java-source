@@ -1,0 +1,44 @@
+
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ Á¹úÿÿÿÿ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘€áÂúÿÿÿÿ
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æã“àøÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ôƒ¢ùÿÿÿÿ
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Øéí
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¿•Ï
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬Ö´ÿÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬ÉŞùÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒáÿÆ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+X	java:S107ñ"=Method has 10 parameters, which is greater than 7 authorized.(Ù‚¨ûÿÿÿÿ
+m
+java:S2786("RRemove this redundant "static" qualifier; nested enum types are implicitly static.(§¼ı°øÿÿÿÿ
+E
+java:S1197@"*Move the array designators [] to the type.(ËÊÈıÿÿÿÿ
+œ
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï´ÈÊùÿÿÿÿ
+`
+java:S3358Œ"DExtract this nested ternary operation into an independent statement.(Õ·İıúÿÿÿÿ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ù‚¨ûÿÿÿÿ
+F
+java:S1197ø"*Move the array designators [] to the type.(ËÊÈıÿÿÿÿ
+k	java:S116÷"VRename this field "curx_adjust" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß“ô
+k	java:S116÷"VRename this field "cury_adjust" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß“ô
+l	java:S116ù"VRename this field "movx_adjust" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À›À
+l	java:S116ù"VRename this field "movy_adjust" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À›À
+?
+java:S1659÷")Declare "cury_adjust" on a separate line.(ß“ô
+@
+java:S1659ù")Declare "movy_adjust" on a separate line.(À›À
+>
+java:S1659ü""Declare "rval" on a separate line.( ”Æ³ıÿÿÿÿ
+8	java:S131´""Add a default case to this switch.(ÜŸ•
+?
+java:S1905Ñ"(Remove this unnecessary cast to "float".(»ö­
+A
+java:S1197"*Move the array designators [] to the type.(®Ïô
+A
+java:S1197¿"*Move the array designators [] to the type.(®Ïô
+]
+java:S1659Â"ADeclare "ldy1" and all following declarations on a separate line.(È¸ı‘ûÿÿÿÿ

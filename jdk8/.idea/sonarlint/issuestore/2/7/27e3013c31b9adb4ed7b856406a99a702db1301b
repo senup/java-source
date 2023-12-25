@@ -1,0 +1,61 @@
+
+f
+java:S1192j"KDefine a constant instead of duplicating this literal "localhost:" 3 times.(‘´˜Ìúÿÿÿÿ
+a
+java:S1192‰"JDefine a constant instead of duplicating this literal "Registry." 3 times.(öë„«
+i
+java:S1192j"NDefine a constant instead of duplicating this literal "listen,accept" 3 times.(‘´˜Ìúÿÿÿÿ
+Q
+java:S1141÷"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡á÷
+?
+java:S1604¢"(Make this anonymous inner class a lambda(ıÃ•
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(²ÄÁ€
+>
+java:S2189‡""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+F
+java:S2160I"+Override the "equals" method in this class.(€ÁãÃûÿÿÿÿ
+r
+java:S1450S"WRemove the "registry" field and declare it as a local variable in the relevant methods.(ÀØø…øÿÿÿÿ
+@
+java:S1948O"*Make "bindings" transient or serializable.(Û¤
+l
+java:S1149O"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Û¤
+l
+java:S1149Q"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ğù
+”
+java:S1130±"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(Ê‰•Úşÿÿÿÿ
+”
+java:S1130Â"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(ıÄ…öüÿÿÿÿ
+
+java:S1130Ò"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(ı–¾ª
+?	java:S108º")Either remove or fill this block of code.(»íÈÕ
+?	java:S108Å")Either remove or fill this block of code.(»íÈÕ
+F
+java:S1197Ó"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+V
+java:S1874Ø":Remove this use of "RMISecurityManager"; it is deprecated.(éŸÉÖşÿÿÿÿ
+u
+java:S2142”"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108Š")Either remove or fill this block of code.(ä ¹€
+T	java:S106"9Replace this use of System.out or System.err by a logger.(€³—‘şÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(€³—‘şÿÿÿÿ
+K
+java:S1128!"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+T
+java:S1128%"9Remove this unused import 'java.rmi.server.RemoteServer'.(ô‰ƒóıÿÿÿÿ
+N
+java:S11284"9Remove this unused import 'sun.rmi.server.LoaderHandler'.(Õ¸®s
+P
+java:S11288":Remove this unused import 'sun.rmi.transport.ObjectTable'.(€ïŒ¾
+P
+java:S11289"5Remove this unused import 'sun.rmi.transport.Target'.(Ü˜åúÿÿÿÿ

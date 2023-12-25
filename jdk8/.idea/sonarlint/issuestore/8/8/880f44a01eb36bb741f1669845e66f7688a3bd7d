@@ -1,0 +1,17 @@
+
+C
+java:S16047"(Make this anonymous inner class a lambda(Æ¡í™ûÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(Æ¡í™ûÿÿÿÿ
+d
+java:S30146"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(œÅá¦øÿÿÿÿ
+d
+java:S3014G"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ı›¾øÿÿÿÿ
+d
+java:S3014N"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ
+_
+java:S3014S"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ñ©Åã
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(×ïéŸüÿÿÿÿ
+T
+java:S11179"9Rename "group" which hides the field declared at line 78.(Òà¡àúÿÿÿÿ

@@ -1,0 +1,26 @@
+
+z
+java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+O
+java:S1172D":Remove these unused method parameters "protocol", "props".(Ž¢Ïi
+h
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(í·Ä¾
+\
+java:S2147ì"ECombine this catch with the one at line 231, which has the same body.(ï­£Ä
+Q	java:S125s"<This block of commented-out lines of code should be removed.(¼¶µ­
+3
+java:S2119t"Save and re-use this "Random".(¼ÝÅf
+P
+java:S4719…"9Replace charset name argument with StandardCharsets.UTF_8(ÁÆöÑ
+U
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(©Ëñîþÿÿÿÿ
+P
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8( ²¦
+A
+java:S1197¨"*Move the array designators [] to the type.(†å‰š
+U
+java:S4719´"9Replace charset name argument with StandardCharsets.UTF_8(³–››ûÿÿÿÿ
+U
+java:S4719Á"9Replace charset name argument with StandardCharsets.UTF_8(òŽ’Êûÿÿÿÿ
+=
+java:S1168ß"&Return an empty array instead of null.(¥¹ï

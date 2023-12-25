@@ -1,0 +1,35 @@
+
+t	java:S135ñ"YReduce the total number of break and continue statements in this loop to use at most one.(…Äæûÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÜÁ‹€
+o	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+c
+java:S3973‹"GUse indentation to denote the code conditionally executed by this "if".(Ì´ÂŒÿÿÿÿÿ
+c
+java:S3973¢"GUse indentation to denote the code conditionally executed by this "if".(™ï¨Öùÿÿÿÿ
+c
+java:S3973¨"GUse indentation to denote the code conditionally executed by this "if".(¶™ú¹ÿÿÿÿÿ
+N
+java:S2589Â"7Remove this expression which always evaluates to "true"(ÒĞ
+Z
+java:S2583Ö"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`
+java:S2583½"DChange this condition so that it does not always evaluate to "false"(‚ÄõÕüÿÿÿÿ
+>	java:S108<")Either remove or fill this block of code.(ˆÿò
+U
+java:S1161n":Add the "@Override" annotation above this method signature(ú˜³îÿÿÿÿÿ
+@
+java:S1197o"*Move the array designators [] to the type.(Ëßà‚
+@
+java:S1197t"*Move the array designators [] to the type.(ÄƒÓË
+V
+java:S1161":Add the "@Override" annotation above this method signature(¸Ü’¨ıÿÿÿÿ
+F
+java:S1197…"*Move the array designators [] to the type.(ğæ»öøÿÿÿÿ
+C
+java:S1125½"'Remove the unnecessary boolean literal.(‚ÄõÕüÿÿÿÿ
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬İ­ëúÿÿÿÿ
+A
+java:S1197†"*Move the array designators [] to the type.(Œ‚‚

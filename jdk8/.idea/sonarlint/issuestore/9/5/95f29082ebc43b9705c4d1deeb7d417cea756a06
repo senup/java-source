@@ -1,0 +1,42 @@
+
+D
+java:S1121œ".Extract the assignment out of this expression.(äÂ
+8
+java:S1643Ñ"Use a StringBuilder instead.(À”ºøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Øé»’
+˜
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò¥‡
+
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªĞ¹Äıÿÿÿÿ
+˜
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡Áñ
+?	java:S108Ò")Either remove or fill this block of code.(ï­£Ä
+V
+java:S1161à":Add the "@Override" annotation above this method signature(´İŸ‡úÿÿÿÿ
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(²õ½ó
+P
+java:S1161ø":Add the "@Override" annotation above this method signature(„çÙ&
+V
+java:S1161€":Add the "@Override" annotation above this method signature(ã…æúÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Ş³ÿà
+V
+java:S1161":Add the "@Override" annotation above this method signature(„ç’˜ûÿÿÿÿ
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(Ò¥‡
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(øĞÛ	
+V
+java:S1161©":Add the "@Override" annotation above this method signature(ªĞ¹Äıÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(óü‚áúÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(¡Áñ
+V
+java:S1161À":Add the "@Override" annotation above this method signature(»İöíüÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(şñåşúÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ßÔü²şÿÿÿÿ

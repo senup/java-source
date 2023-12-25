@@ -1,0 +1,15 @@
+
+t	java:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(Ñ±½›şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+V	java:S107}"<Method has 8 parameters, which is greater than 7 authorized.(ƒÆ»ûÿÿÿÿ
+U
+java:S1118,":Add a private constructor to hide the implicit public one.(ş³ËÑûÿÿÿÿ
+B
+java:S1125?"'Remove the unnecessary boolean literal.(êÂÕØøÿÿÿÿ
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÂñÒûÿÿÿÿ
+T
+java:S1854T"9Remove this useless assignment to local variable "color".(Ÿ¡ ¿üÿÿÿÿ
+d
+java:S1871Ê"MThis branch's code block is the same as the block for the branch on line 198.(ÕéÛÈ

@@ -1,0 +1,50 @@
+
+z
+java:S1488d"dImmediately return this expression instead of assigning it to the temporary variable "bytesWritten".(âî­Ò
+Y
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(ÃÒïƒ
+j
+java:S2095‚"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ã¶ï÷ýÿÿÿÿ
+X
+java:S1854Ÿ"<Remove this useless assignment to local variable "encoding".(Ç§¶Áûÿÿÿÿ
+K
+java:S1481¥"/Remove this unused "sampleRate" local variable.( ’•ûýÿÿÿÿ
+I
+java:S1481§"-Remove this unused "channels" local variable.(²º©­þÿÿÿÿ
+J
+java:S1481¨".Remove this unused "frameSize" local variable.(Ïòþûùÿÿÿÿ
+E
+java:S1481©".Remove this unused "frameRate" local variable.(Ç²Ž±
+Y
+java:S1854ø"=Remove this useless assignment to local variable "maxLength".(˜Å„Óýÿÿÿÿ
+F
+java:S1197ì"*Move the array designators [] to the type.(â¤™Ûøÿÿÿÿ
+=
+java:S1905ò"&Remove this unnecessary cast to "int".(–ùÇ
+B
+java:S1905ö"&Remove this unnecessary cast to "int".(æˆ’ùÿÿÿÿ
+=
+java:S1905ý"&Remove this unnecessary cast to "int".(–ùÇ
+Z
+java:S1854™">Remove this useless assignment to local variable "ssndOffset".(ŸÖÑÖúÿÿÿÿ
+X
+java:S1854“"ARemove this useless assignment to local variable "fverChunkSize".(íì„š
+R
+java:S1854¥"<Remove this useless assignment to local variable "compCode".(­ì—:
+R	java:S125"<This block of commented-out lines of code should be removed.(åšáÙ
+R	java:S125’"<This block of commented-out lines of code should be removed.(áèõ±
+I
+java:S1481“"2Remove this unused "fverChunkSize" local variable.(íì„š
+Q	java:S125”"<This block of commented-out lines of code should be removed.(Ô‡õr
+R	java:S125˜"<This block of commented-out lines of code should be removed.(¦Ç‹•
+K
+java:S1481™"/Remove this unused "ssndOffset" local variable.(ŸÖÑÖúÿÿÿÿ
+C
+java:S1481¥"-Remove this unused "compCode" local variable.(­ì—:
+F
+java:S1197§"*Move the array designators [] to the type.(âˆÂÊýÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(›ìæŽøÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(£Ž¬Ð
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Äôúÿÿÿÿ
+@
+java:S1905¬")Remove this unnecessary cast to "double".(Ò‰¹¬

@@ -1,0 +1,9 @@
+
+i
+java:S1192"RDefine a constant instead of duplicating this literal "'handler' is null" 3 times.(ñ÷Ö‚
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+n
+java:S3077…"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼è“Æ
+F
+java:S2093¤"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

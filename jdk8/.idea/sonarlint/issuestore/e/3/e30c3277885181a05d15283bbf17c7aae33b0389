@@ -1,0 +1,51 @@
+
+J
+java:S1121Š".Extract the assignment out of this expression.(Êüî§ûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(ÎÔöï
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ê­ó˜øÿÿÿÿ
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(®æÿõ
+`
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(ß¹ÉÕùÿÿÿÿ
+`
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(õ¾èÊûÿÿÿÿ
+P
+java:S1161@":Add the "@Override" annotation above this method signature(Ÿ•ˆï
+[
+java:S1124]"EReorder the modifiers to comply with the Java Language Specification.(ı×”
+`
+java:S1124a"EReorder the modifiers to comply with the Java Language Specification.(êÑ­¨ûÿÿÿÿ
+`
+java:S1124e"EReorder the modifiers to comply with the Java Language Specification.(¿À÷Ãüÿÿÿÿ
+t	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÁóşûÿÿÿÿ
+t	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ˆÆÙúÿÿÿÿ
+`
+java:S1124y"EReorder the modifiers to comply with the Java Language Specification.(ûÁóşûÿÿÿÿ
+`
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(‹ˆÆÙúÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(º‚¶ùıÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+Q
+java:S1161İ":Add the "@Override" annotation above this method signature(ëĞÓ
+P
+java:S1161ä":Add the "@Override" annotation above this method signature(Ìã—<
+V
+java:S1161è":Add the "@Override" annotation above this method signature(ÁŒ–ÿÿÿÿÿ
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(¯½Á½
+F
+java:S1197"*Move the array designators [] to the type.(Šœû°ıÿÿÿÿ
+A
+java:S1197Ò"*Move the array designators [] to the type.(ƒ¯ü
+\
+java:S1128""FRemove this unused import 'java.nio.charset.CharacterCodingException'.(ì­–æ
+`
+java:S1128#"ERemove this unused import 'java.nio.charset.MalformedInputException'.(ÖßÉ’øÿÿÿÿ
+6
+java:S3398l" Move this method into "Decoder".(¢ï©

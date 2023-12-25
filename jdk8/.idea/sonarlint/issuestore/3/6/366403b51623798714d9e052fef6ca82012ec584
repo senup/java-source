@@ -1,0 +1,17 @@
+
+f	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¦
+f	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯ q
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+{
+java:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒŞùÿÿÿÿ
+P	java:S125#"<This block of commented-out lines of code should be removed.(Ô»B
+m
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(å¼”üÿÿÿÿ
+[
+java:S1659Y"@Declare "end" and all following declarations on a separate line.(ÙËŠÂşÿÿÿÿ
+d
+java:S2272Í"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ì­åR
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(˜ô©Ï

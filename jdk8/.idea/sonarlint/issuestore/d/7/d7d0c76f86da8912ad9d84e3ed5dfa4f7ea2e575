@@ -1,0 +1,36 @@
+
+t	java:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(×ù‰äùÿÿÿÿ
+s	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(À°®ˆıÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º««¥ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚Ê“·ùÿÿÿÿ
+d
+java:S2259š"HA "NullPointerException" could be thrown; "components" is nullable here.(Ëğõºúÿÿÿÿ
+j
+java:S3008³"SRename this field "ESCAPE_C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«ì…
+o
+java:S3008µ"XRename this field "NULL_ESCAPE_C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º•Æˆ
+m
+java:S3008¶"VRename this field "NULL_ESCAPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÚÕ‘
+s
+java:S3008»"\Rename this field "DANGEROUS_CHARS_A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±Ğ‘
+z
+java:S3008¼"^Rename this field "REPLACEMENT_CHARS_A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âá³äüÿÿÿÿ
+D
+java:S4274‹"(Replace this assert with a proper check.(ñÔşşùÿÿÿÿ
+?
+java:S4274Œ"(Replace this assert with a proper check.(ÒíŒä
+E
+java:S1905‹")Remove this unnecessary cast to "Object".(ñÔşşùÿÿÿÿ
+?
+java:S4274"(Replace this assert with a proper check.(¡¢»¤
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(÷÷‘Æúÿÿÿÿ
+Q
+java:S1854ì"5Remove this useless assignment to local variable "c".(õïì³ıÿÿÿÿ
+@
+java:S1905é")Remove this unnecessary cast to "Object".(ŒØÀÆ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¼éëµúÿÿÿÿ
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢§ŞÇ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ÄÓ¸¡øÿÿÿÿ

@@ -1,0 +1,14 @@
+
+x
+java:S1319_"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(ÿ„º…
+l
+java:S1149_"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÿ„º…
+{
+java:S1149Ω"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˘Ÿ∆M
+V	java:S107]"<Method has 8 parameters, which is greater than 7 authorized.(è∑Ô•˚ˇˇˇˇ
+`
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(∑»¶åˇˇˇˇˇ
+m
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(è∑Ô•˚ˇˇˇˇ
+E
+java:S2093q"*Change this "try" to a try-with-resources.(°ª¢¸˘ˇˇˇˇ

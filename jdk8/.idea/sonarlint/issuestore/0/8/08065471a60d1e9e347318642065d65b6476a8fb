@@ -1,0 +1,21 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+M
+java:S1135,"2Complete the task associated to this TODO comment.(‹˜ÄÂüÿÿÿÿ
+>
+java:S4274\"(Replace this assert with a proper check.(ôË¡
+>
+java:S4274e"(Replace this assert with a proper check.(ôË¡
+>
+java:S4274n"(Replace this assert with a proper check.(ë£€â
+—
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾¹…º
+?
+java:S4274á"(Replace this assert with a proper check.(­¶‹ù
+
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ÜÕåüÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'java.nio.charset.MalformedInputException'.(ÖßÉ’øÿÿÿÿ
+`
+java:S1128"JRemove this unused import 'java.nio.charset.UnmappableCharacterException'.(ããİá

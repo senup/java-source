@@ -1,0 +1,12 @@
+
+P
+java:S1191$"5Use classes from the Java API instead of Sun classes.(Ñ´Üéøÿÿÿÿ
+l	java:S116J"RRename this field "DH_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïû•»şÿÿÿÿ
+-
+java:S21760"Rename this class.(•“™âúÿÿÿÿ
+E
+java:S1197J"*Move the array designators [] to the type.(ïû•»şÿÿÿÿ
+•
+java:S1130W"Remove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from constructor's body.(íÁÂÆ
+=
+java:S1168ö"&Return an empty array instead of null.(¥¹ï

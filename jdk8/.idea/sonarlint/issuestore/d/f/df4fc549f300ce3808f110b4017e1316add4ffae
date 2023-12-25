@@ -1,0 +1,87 @@
+
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÒ¸ıüÿÿÿÿ
+e
+java:S1192ò"NDefine a constant instead of duplicating this literal "Name is empty" 4 times.(ÎÕÄÕ
+‹
+java:S1192•"tDefine a constant instead of duplicating this literal "Context does not have a corresponding NamingContext" 8 times.(…‰¹ 
+E
+java:S1121ğ".Extract the assignment out of this expression.(…†ˆ¸
+x
+java:S1319s"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(×«°£
+Q
+java:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‘ëşÿÿÿÿ
+j
+java:S1104C"OMake _nc a static final constant or non-public and provide accessors if needed.(èãÃûÿÿÿÿ
+Y
+java:S1163Ğ"=Refactor this code to not throw exceptions in finally blocks.(Ñø£Ãşÿÿÿÿ
+P
+java:S1143Ğ"4Remove this throw statement from this finally block.(Ñø£Ãşÿÿÿÿ
+S
+java:S4973ñ"<Strings and Boxed types should be compared using "equals()".(«î³º
+h
+java:S2095º"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÌÆÚŞıÿÿÿÿ
+N
+java:S2589¸"7Remove this expression which always evaluates to "true"(¢õ§˜
+S
+java:S2589æ"7Remove this expression which always evaluates to "true"(É×„»ûÿÿÿÿ
+_
+java:S2583™"CChange this condition so that it does not always evaluate to "true"(æÙ™¢üÿÿÿÿ
+t	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê…å™ÿÿÿÿÿ
+c	java:S116B"ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇæ
+h	java:S116C"NRename this field "_nc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èãÃûÿÿÿÿ
+j	java:S116M"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Åªøÿÿÿÿ
+i	java:S116O"ORename this field "_env" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Å‘Äúÿÿÿÿ
+q
+java:S3008A"VRename this field "_defaultOrb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú°ë¯ÿÿÿÿÿ
+`
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ê…å™ÿÿÿÿÿ
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(ò‹æıÿÿÿÿ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(›Ûô¼úÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(Æ¹Øïûÿÿÿÿ
+F
+java:S1172¤"*Remove this unused method parameter "env".(”Ùù­ûÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(ã‚¶Ú
+D	java:S108¼")Either remove or fill this block of code.(‚©™±ÿÿÿÿÿ
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(š³£
+W
+java:S1854ã";Remove this useless assignment to local variable "cosName".(„Ğ’‡ÿÿÿÿÿ
+A
+java:S1172Ù"*Remove this unused method parameter "env".(´¢š
+H
+java:S1481ã",Remove this unused "cosName" local variable.(„Ğ’‡ÿÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(ÍóüŒşÿÿÿÿ
+O	java:S106û"9Replace this use of System.out or System.err by a logger.(éÎíİ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(áå‰­ùÿÿÿÿ
+Z
+java:S4719º">Replace charset name argument with StandardCharsets.ISO_8859_1(ÌÆÚŞıÿÿÿÿ
+F
+java:S2093µ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¤Â­‹ûÿÿÿÿ
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(î¢áîÿÿÿÿÿ
+\
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(ø¿…ß
+a
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(¨Õöşÿÿÿÿ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(ôÔùı
+\
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(·íËÎ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(ü¾Ü­
+2
+java:S3626÷"Remove this redundant jump.(ûÁİ…
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(¢ö¨é
+I
+java:S1113ÿ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+J
+java:S1128/"/Remove this unused import 'java.applet.Applet'.(êˆ•úÿÿÿÿ

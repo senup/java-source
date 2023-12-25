@@ -1,0 +1,28 @@
+
+o
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¸÷œ
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(µñ½Ëùÿÿÿÿ
+W	java:S107É"<Method has 8 parameters, which is greater than 7 authorized.(™ÕÃ¢ùÿÿÿÿ
+P
+java:S1161B":Add the "@Override" annotation above this method signature(ïÆ•ø
+L
+java:S2696H"6Make the enclosing method "static" or remove this set.(ó¸÷œ
+Q
+java:S2696N"6Make the enclosing method "static" or remove this set.(µñ½Ëùÿÿÿÿ
+P
+java:S1161T":Add the "@Override" annotation above this method signature(¦¬ûú
+C
+java:S1172\"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+U
+java:S1161`":Add the "@Override" annotation above this method signature(¬ñ´ûÿÿÿÿ
+m
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥­å¿þÿÿÿÿ
+U
+java:S1161y":Add the "@Override" annotation above this method signature(¥­å¿þÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(¢Ë’ª
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÝŽ“ü
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(ÝŽ“ü

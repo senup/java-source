@@ -1,0 +1,24 @@
+
+n
+java:S1192”"RDefine a constant instead of duplicating this literal "invalid MIDI file" 4 times.(–Ä¹üÿÿÿÿ
+F
+java:S1066§"/Merge this if statement with the enclosing one.(ƒİ¹’
+u
+java:S1488Œ"^Immediately return this expression instead of assigning it to the temporary variable "format".(”¡×õ
+t	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÚ“úıÿÿÿÿ
+t	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñÕŸôüÿÿÿÿ
+D
+java:S1940[")Use the opposite operator ("!=") instead.(†æßÜşÿÿÿÿ
+f
+java:S2674ƒ"JCheck the return value of the "skip" call to see how many bytes were read.(®¿Âşşÿÿÿÿ
+p	java:S115ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†ĞàÖ
+ˆ
+java:S1130ı"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ğÛ•æøÿÿÿÿ
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜’ƒ­üÿÿÿÿ
+ˆ
+java:S1130†"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ßšö©ùÿÿÿÿ
+š
+java:S1130˜"‚Remove the declaration of thrown exception 'javax.sound.midi.InvalidMidiDataException', as it cannot be thrown from method's body.(Èóô×
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(»Ÿ„Í

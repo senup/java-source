@@ -1,0 +1,39 @@
+
+C
+java:S1604g"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
+?
+java:S1604Î"(Make this anonymous inner class a lambda(¢›Œş
+D
+java:S1604‘"(Make this anonymous inner class a lambda(÷ÅÇùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(«±Œµüÿÿÿÿ
+r
+java:S3077J"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¿–ê—ıÿÿÿÿ
+[
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(ÚÎ‰ë
+[
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(îãåï
+`
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(¢İ‡¥ùÿÿÿÿ
+\
+java:S1075i"ARefactor your code to get this URI from a customizable parameter.(ó„ı€úÿÿÿÿ
+=
+java:S1125j"'Remove the unnecessary boolean literal.(ºõ¢Ú
+C
+java:S1125"'Remove the unnecessary boolean literal.(•€Ôûÿÿÿÿÿ
+>
+java:S1125¬"'Remove the unnecessary boolean literal.(çÈÙÛ
+;
+java:S1168­"$Return an empty map instead of null.(¥¹ï
+;
+java:S1168¶"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(íû´íÿÿÿÿÿ
+C
+java:S1125Ü"'Remove the unnecessary boolean literal.(·Ùùùÿÿÿÿ
+;
+java:S1168ì"$Return an empty map instead of null.(¥¹ï
+;
+java:S1168"$Return an empty map instead of null.(¥¹ï
+>
+java:S1125"'Remove the unnecessary boolean literal.(Ïâ’

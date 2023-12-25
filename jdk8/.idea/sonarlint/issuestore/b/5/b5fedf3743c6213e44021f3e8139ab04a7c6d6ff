@@ -1,0 +1,72 @@
+
+\	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(†ÜŒç
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(şÓÓò
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ãì·üÿÿÿÿ
+‘
+java:S1192"uDefine a constant instead of duplicating this literal "target VM does not support requesting Monitor events" 4 times.(üÍêùÿÿÿÿ
+R	java:S110"<This class has 6 parents which is greater than 5 authorized.(Œ‚ò‡
+W	java:S110­"<This class has 6 parents which is greater than 5 authorized.(Ë“’÷şÿÿÿÿ
+I
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾õÛ
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒíÑ
+P
+java:S1161N":Add the "@Override" annotation above this method signature(ÜÑã
+P
+java:S1161R":Add the "@Override" annotation above this method signature(ğÜşŠ
+P
+java:S1161m":Add the "@Override" annotation above this method signature(ÜÑã
+P
+java:S1161q":Add the "@Override" annotation above this method signature(ğÜşŠ
+Z
+java:S3358}"DExtract this nested ternary operation into an independent statement.(°ä§
+a
+java:S2886’"ESynchronize this method to match the synchronization on "setEnabled".(ï¬Çõùÿÿÿÿ
+L
+java:S2388Æ"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+B
+java:S2160¾"+Override the "equals" method in this class.(Ö–¹ç
+L
+java:S2388Ù"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388ø"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388™"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+B
+java:S2160„"+Override the "equals" method in this class.(Ä °
+L
+java:S2388´"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388Ô"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388ã"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388ò"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388Ö"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+B
+java:S2160œ"+Override the "equals" method in this class.(½¤Ğï
+L
+java:S2388ñ"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388€"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+G
+java:S2160Œ"+Override the "equals" method in this class.(ØŸÚéûÿÿÿÿ
+L
+java:S2388¡"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388±"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+L
+java:S2388À"0Prefix this call to "requestList" with "super.".(¦ÔÈæùÿÿÿÿ
+=
+java:S1452§"&Remove usage of generic wildcard type.(¦îˆ
+B
+java:S1452¶"&Remove usage of generic wildcard type.(ÉØıÊøÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Åş”–úÿÿÿÿ

@@ -1,0 +1,53 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+–
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–œò 
+œ
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š‹®§ıÿÿÿÿ
+œ
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èÊÿøÿÿÿÿ
+œ
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õğƒ¼ûÿÿÿÿ
+œ
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÃºìıÿÿÿÿ
+—
+java:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕêˆŞ
+—
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞÄ˜ò
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©Ïµ¥
+–
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïæá/
+—
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€—ğã
+œ
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®„ç¸şÿÿÿÿ
+œ
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üú®êûÿÿÿÿ
+—
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢”ù˜
+œ
+java:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒÛšãıÿÿÿÿ
+œ
+java:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«İÊ¼üÿÿÿÿ
+œ
+java:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óÍªùÿÿÿÿ
+–
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚ów
+
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÇ¥ûÿÿÿÿ
+@
+java:S1197Z"*Move the array designators [] to the type.(Õü°¾
+@
+java:S1197Z"*Move the array designators [] to the type.(Õü°¾
+@
+java:S1197_"*Move the array designators [] to the type.(Õü°¾
+@
+java:S1197_"*Move the array designators [] to the type.(Õü°¾
+@
+java:S1197d"*Move the array designators [] to the type.(Õü°¾
+@
+java:S1197d"*Move the array designators [] to the type.(Õü°¾
+E
+java:S1197v"*Move the array designators [] to the type.(°ˆÙ¡úÿÿÿÿ

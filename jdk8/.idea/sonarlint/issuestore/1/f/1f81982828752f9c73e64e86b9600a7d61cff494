@@ -1,0 +1,5 @@
+
+F
+java:S2160,"+Override the "equals" method in this class.(§ãÒëúÿÿÿÿ
+•
+java:S11303"zRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from constructor's body.(Ä´©ùûÿÿÿÿ

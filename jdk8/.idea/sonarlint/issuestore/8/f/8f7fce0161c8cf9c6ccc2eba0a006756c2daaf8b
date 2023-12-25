@@ -1,0 +1,53 @@
+
+F
+java:S1066è"/Merge this if statement with the enclosing one.(®‹öÍ
+r
+java:S1488®"[Immediately return this expression instead of assigning it to the temporary variable "res".(ÀÞÐ¢
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã«¨ð
+O
+java:S1118.":Add a private constructor to hide the implicit public one.(â¼—5
+D
+java:S1905Ò"(Remove this unnecessary cast to "Class".(¤µêÈüÿÿÿÿ
+D
+java:S1905Õ"-Remove this unnecessary cast to "Executable".(À§þÞ
+n
+java:S3776ð"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ýÈ¤Úúÿÿÿÿ
+J
+java:S1905›"3Remove this unnecessary cast to "AnnotatedElement".(üëå›
+D
+java:S1905§"(Remove this unnecessary cast to "Class".(Êªƒ˜üÿÿÿÿ
+D
+java:S1905ª"-Remove this unnecessary cast to "Executable".(¶ç§¸
+P
+java:S1854Î"9Remove this useless assignment to local variable "index".(Â‰ù‚
+Y
+java:S1854Í"=Remove this useless assignment to local variable "varLength".(Ø®èçüÿÿÿÿ
+Q
+java:S1854Ì":Remove this useless assignment to local variable "offset".(ó¨ñÉ
+U
+java:S1854Ò"9Remove this useless assignment to local variable "index".(±–äßøÿÿÿÿ
+Q
+java:S1854Ù":Remove this useless assignment to local variable "offset".(ó¨ñÉ
+U
+java:S1854â"9Remove this useless assignment to local variable "index".(±–äßøÿÿÿÿ
+Q
+java:S1854á":Remove this useless assignment to local variable "offset".(ó¨ñÉ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¡˜Å¤øÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¡˜Å¤øÿÿÿÿ
+B
+java:S1481Ì"+Remove this unused "offset" local variable.(ó¨ñÉ
+J
+java:S1481Í".Remove this unused "varLength" local variable.(Ø®èçüÿÿÿÿ
+A
+java:S1481Î"*Remove this unused "index" local variable.(Â‰ù‚
+F
+java:S1481Ò"*Remove this unused "index" local variable.(±–äßøÿÿÿÿ
+B
+java:S1481Ù"+Remove this unused "offset" local variable.(ó¨ñÉ
+B
+java:S1481á"+Remove this unused "offset" local variable.(ó¨ñÉ
+F
+java:S1481â"*Remove this unused "index" local variable.(±–äßøÿÿÿÿ
+I
+java:S1128#".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

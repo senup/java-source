@@ -1,0 +1,25 @@
+
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğéº¬
+n
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(…æx
+D
+java:S1604—"(Make this anonymous inner class a lambda(»½éÛıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+G
+java:S1153d"1Directly append the argument of String.valueOf().(ÑÈ‰€
+d
+java:S3824e"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(äˆÌ¯
+o
+java:S1450*"YRemove the "plotButton" field and declare it as a local variable in the relevant methods.(Šşİô
+G
+java:S1135'"2Complete the task associated to this TODO comment.(İıØ~
+G
+java:S11727",Remove this unused method parameter "value".(–Ëîçûÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(ºö‡øÿÿÿÿ
+D
+java:S1905O")Remove this unnecessary cast to "String".(­Ó¦¦üÿÿÿÿ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(™ìÑÙ
+L
+java:S2154Ÿ"0Add an explicit cast to match types of operands.(âÔ•™úÿÿÿÿ

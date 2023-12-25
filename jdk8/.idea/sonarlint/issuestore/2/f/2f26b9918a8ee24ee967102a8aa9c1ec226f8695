@@ -1,0 +1,73 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘´Ùæüÿÿÿÿ
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(€Ó®Æøÿÿÿÿ
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¬øÃ
+?
+java:S1604û"(Make this anonymous inner class a lambda(ËÖñ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+Z
+java:S2184¢"CCast one of the operands of this subtraction operation to a "long".(¡¶æñ
+Y
+java:S2184«"CCast one of the operands of this subtraction operation to a "long".(³Êê9
+a
+java:S2259Ñ"EA "NullPointerException" could be thrown; "offsets" is nullable here.(ˆ£õßÿÿÿÿÿ
+\
+java:S2259Ó"EA "NullPointerException" could be thrown; "offsets" is nullable here.(ñéù
+[
+java:S2259b"@A "NullPointerException" could be thrown; "zi" is nullable here.(ôäÎ§şÿÿÿÿ
+M
+java:S1172¯"1Remove this unused method parameter "originalId".(÷°Öòùÿÿÿÿ
+a
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(Âæ¹·øÿÿÿÿ
+•
+java:S1130¥"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(òµââûÿÿÿÿ
+C
+java:S1125«"'Remove the unnecessary boolean literal.(†º†ıÿÿÿÿ
+O
+java:S1854Ş"8Remove this useless assignment to local variable "type".(æÎåè
+@
+java:S1481Ş")Remove this unused "type" local variable.(æÎåè
+W	java:S125‘"<This block of commented-out lines of code should be removed.(»¶Õæøÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Ë²ÂÖ
+o
+java:S3776¤"SRefactor this method to reduce its Cognitive Complexity from 161 to the 15 allowed.(ãŞºİøÿÿÿÿ
+Q
+java:S1854Ó":Remove this useless assignment to local variable "offset".(ñéù
+V
+java:S1854Ñ":Remove this useless assignment to local variable "saving".(ˆ£õßÿÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¶£Ÿûÿÿÿÿ
+;
+java:S1659Æ"Declare "k" on a separate line.(ê¤ Ûùÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(ôŒ„“ıÿÿÿÿ
+G
+java:S1481Ñ"+Remove this unused "saving" local variable.(ˆ£õßÿÿÿÿÿ
+B
+java:S1481Ó"+Remove this unused "offset" local variable.(ñéù
+R	java:S125ë"<This block of commented-out lines of code should be removed.(šÜ”İ
+S
+java:S1854—"7Remove this useless assignment to local variable "dom".(ÜÉüÕÿÿÿÿÿ
+P
+java:S1854–"9Remove this useless assignment to local variable "month".(¬ŸéÃ
+A
+java:S1481–"*Remove this unused "month" local variable.(¬ŸéÃ
+D
+java:S1481—"(Remove this unused "dom" local variable.(ÜÉüÕÿÿÿÿÿ
+A
+java:S1197œ"*Move the array designators [] to the type.(Å•İ˜
+A
+java:S1197§"*Move the array designators [] to the type.(óˆÏú
+F
+java:S1197¿"*Move the array designators [] to the type.(÷ş‡—üÿÿÿÿ
+F
+java:S1197À"*Move the array designators [] to the type.(®êşÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(¡ï¤›ûÿÿÿÿ
+=	java:S131š""Add a default case to this switch.(ş¹±¬úÿÿÿÿ
+K
+java:S11280"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
+D
+java:S11281".Remove this unused import 'java.util.Objects'.(¼¸õ›
+E
+java:S11282"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

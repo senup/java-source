@@ -1,0 +1,23 @@
+
+F
+java:S1066€"/Merge this if statement with the enclosing one.(¾íè›
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éýÿÿÿÿ
+X
+java:S2259ˆ"AA "NullPointerException" could be thrown; "adj" is nullable here.(¢è™‡
+]
+java:S2259‹"AA "NullPointerException" could be thrown; "adj" is nullable here.(ê¾õìùÿÿÿÿ
+]
+java:S2259ž"AA "NullPointerException" could be thrown; "adj" is nullable here.(Þ´ƒÓúÿÿÿÿ
+m
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¯Àš–þÿÿÿÿ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚåÄ‡
+2
+java:S3626¨"Remove this redundant jump.(ûÁÝ…
+2
+java:S3626¬"Remove this redundant jump.(ûÁÝ…
+2
+java:S3626³"Remove this redundant jump.(ûÁÝ…
+2
+java:S3626·"Remove this redundant jump.(ûÁÝ…

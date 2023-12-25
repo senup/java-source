@@ -1,0 +1,45 @@
+
+E
+java:S3740;"/Provide the parametrized type for this generic.(×ø¸
+E
+java:S3740O"/Provide the parametrized type for this generic.(Šì•
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(®®ƒa
+K
+java:S1133-"5Do not forget to remove this deprecated code someday.(İ‰ï»
+>
+java:S1123-"(Add the missing @deprecated Javadoc tag.(İ‰ï»
+{
+java:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×ø¸
+L
+java:S1854W"6Remove this useless assignment to local variable "nm".(«•¸œ
+O
+java:S1161V":Add the "@Override" annotation above this method signature(Ó—ëH
+=
+java:S1481W"'Remove this unused "nm" local variable.(«•¸œ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(çñ©û
+U
+java:S1161g":Add the "@Override" annotation above this method signature(Ç¯©Ïùÿÿÿÿ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(ƒûÔ©
+P
+java:S1161o":Add the "@Override" annotation above this method signature(í¬Å
+Q	java:S125p"<This block of commented-out lines of code should be removed.(Åê§¥
+P
+java:S1161w":Add the "@Override" annotation above this method signature(½²Î
+E
+java:S1197z"*Move the array designators [] to the type.(òˆı¤üÿÿÿÿ
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(Ì·ıùÿÿÿÿ
+V
+java:S1161å":Add the "@Override" annotation above this method signature(†©Ïòıÿÿÿÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‡·îû
+Q
+java:S1161÷":Add the "@Override" annotation above this method signature(‡·îû
+F
+java:S1197ù"*Move the array designators [] to the type.(ü¹ï›øÿÿÿÿ
+F
+java:S1197ú"*Move the array designators [] to the type.(¦Ş›øÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(üË¡ı
+H
+java:S1128""2Remove this unused import 'java.util.Enumeration'.(»îÜ®

@@ -1,0 +1,13 @@
+
+K
+java:S3740á"/Provide the parametrized type for this generic.(˜ì·¸úÿÿÿÿ
+o
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(íŒ¢õ
+t
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(š¾´æûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+j
+java:S3008ë"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÔœì
+S
+java:S1128#"8Remove this unused import 'java.awt.font.TextAttribute'.(¹¢ÝÌÿÿÿÿÿ

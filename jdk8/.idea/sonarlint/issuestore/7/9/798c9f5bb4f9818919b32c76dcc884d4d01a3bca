@@ -1,0 +1,26 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±°óÑşÿÿÿÿ
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùí¿®ıÿÿÿÿ
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì†üàúÿÿÿÿ
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÕ¿”üÿÿÿÿ
+p
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¢—É
+
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄÙÅ˜ûÿÿÿÿ
+
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è© ¥øÿÿÿÿ
+Ÿ
+java:S1845j"ˆRename field "top" to prevent any misunderstanding/clash with field "TOP" defined in interface "jdk.internal.org.objectweb.asm.Opcodes".(Ï×æ
+o
+java:S3776†"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(–Ùîäúÿÿÿÿ
+Q
+java:S6213":Rename this variable to not match a restricted identifier.(ÿ±Ö÷
+V
+java:S6213¥":Rename this variable to not match a restricted identifier.(½Ï¿·üÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(•’ãûıÿÿÿÿ
+8	java:S131ı""Add a default case to this switch.(¦ÁİŒ

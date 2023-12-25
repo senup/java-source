@@ -1,0 +1,9 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤üˆØúÿÿÿÿ
+k	java:S116-"QRename this field "_style" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¦¾¾úÿÿÿÿ
+h	java:S1162"SRename this field "_pattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û­µÃ
+m	java:S1166"SRename this field "_matcher" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑ€Ñøÿÿÿÿ
+c	java:S116;"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äî››
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

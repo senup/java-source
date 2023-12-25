@@ -1,0 +1,34 @@
+
+h
+java:S1192Ì"LDefine a constant instead of duplicating this literal "access-type" 3 times.(ˆÔÄøÿÿÿÿ
+i
+java:S1192Ë"MDefine a constant instead of duplicating this literal "content-type" 3 times.(×ÀşÇúÿÿÿÿ
+t	java:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(Éø³ùÿÿÿÿ
+F
+java:S1066â"/Merge this if statement with the enclosing one.(ã¾Ôœ
+Q
+java:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604Û"(Make this anonymous inner class a lambda(Õîİ&
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Àê»§
+2
+java:S1116m"Remove this empty statement.(åÑÄ
+7
+java:S1116n"Remove this empty statement.(¨¯¶ğÿÿÿÿÿ
+X
+java:S4929w"=Provide an override of "read(byte[],int,int)" for this class.(æáªâúÿÿÿÿ
+U
+java:S4349">Provide an override of "write(byte[],int,int)" for this class.(íã¬Û
+i
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÜûğŞ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(É‹üıÿÿÿÿ
+B
+java:S1075â"&Remove this hard-coded path-delimiter.(õ‚Ğ½ıÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùãÉØûÿÿÿÿ
+a
+java:S2147ä"ECombine this catch with the one at line 482, which has the same body.(¦Ö¸İÿÿÿÿÿ
+[
+java:S3358ã"DExtract this nested ternary operation into an independent statement.(ŸÁ»ç

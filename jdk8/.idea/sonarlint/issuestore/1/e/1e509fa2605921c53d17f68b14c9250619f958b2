@@ -1,0 +1,36 @@
+
+b
+java:S1192±"FDefine a constant instead of duplicating this literal "empty" 7 times.(‘¡ôûÿÿÿÿ
+u
+java:S1192ª"YDefine a constant instead of duplicating this literal "Transforms.addTransform(" 3 times.(ØÜºÎşÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ïòúÿÿÿÿ
+4
+java:S1700l"Rename field "transforms"(ç’öªüÿÿÿÿ
+W
+java:S1075Z"ARefactor your code to get this URI from a customizable parameter.(„ˆ„â
+\
+java:S1075f"ARefactor your code to get this URI from a customizable parameter.(òïîãúÿÿÿÿ
+7
+java:S1116n"Remove this empty statement.(°ÙÂƒÿÿÿÿÿ
+õ
+java:S1130Š"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(Âò®•ÿÿÿÿÿ
+ú
+java:S1130Š"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(Âò®•ÿÿÿÿÿ
+ø
+java:S1130‹"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ê‡ìŒüÿÿÿÿ
+A
+java:S1197’"*Move the array designators [] to the type.(‚³«»
+g
+java:S3457ª"KFormat specifiers or lambda should be used instead of string concatenation.(ØÜºÎşÿÿÿÿ
+g
+java:S3457Â"KFormat specifiers or lambda should be used instead of string concatenation.(ØÜºÎşÿÿÿÿ
+b
+java:S3457è"KFormat specifiers or lambda should be used instead of string concatenation.(…äÄ†
+\
+java:S2147Ÿ"ECombine this catch with the one at line 285, which has the same body.(€àÈ„
+\
+java:S2147¡"ECombine this catch with the one at line 285, which has the same body.(¹ƒ›×
+g
+java:S3457‘"KFormat specifiers or lambda should be used instead of string concatenation.(ÆÄøÿÿÿÿ
+F
+java:S1197©"*Move the array designators [] to the type.(ÁÌ†Òøÿÿÿÿ

@@ -1,0 +1,33 @@
+
+œ
+java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ó’‡†úÿÿÿÿ
+
+java:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÌèÿÿÿÿÿ
+P
+java:S6213U":Rename this variable to not match a restricted identifier.(õŞ‡§
+P
+java:S6213m":Rename this variable to not match a restricted identifier.(õŞ‡§
+Q
+java:S6213…":Rename this variable to not match a restricted identifier.(õŞ‡§
+?
+java:S1481œ")Remove this unused "node" local variable.(í¨Ü3
+e
+java:S3252Ÿ"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£
+?
+java:S1481Ì")Remove this unused "node" local variable.(í¨Ü3
+W	java:S125ê"<This block of commented-out lines of code should be removed.(Ÿ©ÁÏúÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(šÎêƒ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÏÃŒ
+V
+java:S6213¹":Rename this variable to not match a restricted identifier.(€íªñøÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(¹¸º½
+R	java:S125õ"<This block of commented-out lines of code should be removed.(¹¸º½
+i
+java:S1871"MThis branch's code block is the same as the block for the branch on line 383.(Èª«Úûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(œÔ¬óÿÿÿÿÿ
+R	java:S125ù"<This block of commented-out lines of code should be removed.(‚˜±Â

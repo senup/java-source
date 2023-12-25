@@ -1,0 +1,36 @@
+
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(º‰½Š
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º‰½Š
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç°ö§üÿÿÿÿ
+o	java:S135¥"YReduce the total number of break and continue statements in this loop to use at most one.(¾ÃÁé
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åŠéÌ
+m
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÉÒŸ€üÿÿÿÿ
+h
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”ÉåÊ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ä‹Ÿá
+i
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(×¼’‚
+d
+java:S5361Ø"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¶Åú¡ıÿÿÿÿ
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ù´ÒŠøÿÿÿÿ
+d
+java:S5361õ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(•ê•Ëøÿÿÿÿ
+=
+java:S1168ç"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(óÿ‰
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+O
+java:S1128 "4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ
+F
+java:S1128!"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+E
+java:S1128("*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

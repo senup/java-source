@@ -1,0 +1,76 @@
+
+E
+java:S3740^"/Provide the parametrized type for this generic.(‚æ·ğ
+E
+java:S3740^"/Provide the parametrized type for this generic.(‚æ·ğ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(õÁŞÌşÿÿÿÿ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(õÁŞÌşÿÿÿÿ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÔ¾ß
+t
+java:S14509"YRemove the "tempBuffer" field and declare it as a local variable in the relevant methods.( „œ§ıÿÿÿÿ
+{
+java:S1149^"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚æ·ğ
+
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õÁŞÌşÿÿÿÿ
+E
+java:S11979"*Move the array designators [] to the type.( „œ§ıÿÿÿÿ
+E
+java:S1197M"*Move the array designators [] to the type.(ÏôÄ‘øÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(šğ€’úÿÿÿÿ
+J
+java:S1905¦"3Remove this unnecessary cast to "AudioInputStream".(ÀÄÃ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(õúÍıÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(µº
+|	java:S116Ü"aRename this field "PCM_SWITCH_SIGNED_8BIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º”Æ¾üÿÿÿÿ
+r	java:S116İ"\Rename this field "PCM_SWITCH_ENDIAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÑÊˆ
+u	java:S116Ş"_Rename this field "PCM_SWITCH_SIGNED_LE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§»õ»
+z	java:S116ß"_Rename this field "PCM_SWITCH_SIGNED_BE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äİÄÔüÿÿÿÿ
+	java:S116à"dRename this field "PCM_UNSIGNED_LE2SIGNED_BE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜€³Šÿÿÿÿÿ
+z	java:S116á"dRename this field "PCM_SIGNED_LE2UNSIGNED_BE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñæİ±
+	java:S116â"dRename this field "PCM_UNSIGNED_BE2SIGNED_LE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ĞÈÚüÿÿÿÿ
+	java:S116ã"dRename this field "PCM_SIGNED_BE2UNSIGNED_LE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âˆê«úÿÿÿÿ
+=
+java:S1170Ü"!Make this final field static too.(º”Æ¾üÿÿÿÿ
+8
+java:S1170İ"!Make this final field static too.(úÑÊˆ
+8
+java:S1170Ş"!Make this final field static too.(§»õ»
+=
+java:S1170ß"!Make this final field static too.(äİÄÔüÿÿÿÿ
+=
+java:S1170à"!Make this final field static too.(˜€³Šÿÿÿÿÿ
+8
+java:S1170á"!Make this final field static too.(ñæİ±
+=
+java:S1170â"!Make this final field static too.(‡ĞÈÚüÿÿÿÿ
+=
+java:S1170ã"!Make this final field static too.(âˆê«úÿÿÿÿ
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ö›şƒ
+d
+java:S1871‹"MThis branch's code block is the same as the block for the branch on line 390.(øü¹
+Q
+java:S1161È":Add the "@Override" annotation above this method signature(Ä…©
+B
+java:S1905×"&Remove this unnecessary cast to "int".(¢Ô‘³ûÿÿÿÿ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(š€ñµ
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(ÂãíÕ
+B
+java:S1481í"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
+I
+java:S1481ù"-Remove this unused "tempByte" local variable.(éÌœ£ûÿÿÿÿ
+F
+java:S1172¨"*Remove this unused method parameter "len".(ãùÁÍşÿÿÿÿ
+A
+java:S1172¯"*Remove this unused method parameter "len".(£ñåÔ
+F
+java:S1172¶"*Remove this unused method parameter "len".(ìÔˆ‹ıÿÿÿÿ
+F
+java:S1172½"*Remove this unused method parameter "len".(¼ÛŒüÿÿÿÿ
+I
+java:S10689".Remove this unused "tempBuffer" private field.( „œ§ıÿÿÿÿ

@@ -1,0 +1,97 @@
+
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Û×½¡
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ—¾ìıÿÿÿÿ
+>
+java:S1604ó"(Make this anonymous inner class a lambda(ê£³$
+>
+java:S1604ˆ"(Make this anonymous inner class a lambda(ÆŞÖ
+D
+java:S1604­"(Make this anonymous inner class a lambda(ùñÿ¸úÿÿÿÿ
+>
+java:S1604´"(Make this anonymous inner class a lambda(ÆŞÖ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(¥„ïøÿÿÿÿ
+D
+java:S1604¸"(Make this anonymous inner class a lambda(şòÜŠûÿÿÿÿ
+
+java:S1488ô"eImmediately return this expression instead of assigning it to the temporary variable "secAppContext".(Š¬²®øÿÿÿÿ
+`
+java:S3014µ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(£ï¦®
+`
+java:S3014ì"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(„İİÊ
+e
+java:S3014Š"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¾Ü›şÿÿÿÿ
+e
+java:S3014Œ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ö‹şÿÿÿÿ
+e
+java:S3014´"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(éÖí¢ÿÿÿÿÿ
+e
+java:S3014µ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÔûÖ‹ûÿÿÿÿ
+`
+java:S3014Ô"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ò¤à
+e
+java:S3014¹"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¤şä½ùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+v	java:S116ú"[Rename this field "DISPOSAL_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØ™°ÿÿÿÿÿ
+~	java:S116€"cRename this field "THREAD_INTERRUPT_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¨ñ×ıÿÿÿÿ
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒĞÑ
+B
+java:S5164"&Call "remove()" on "threadAppContext".(äˆ”•ÿÿÿÿÿ
+s
+java:S3077¨"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(®“Ë‹ıÿÿÿÿ
+a
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(î‘Êšùÿÿÿÿ
+\
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(¯×À³
+^
+java:S2094ª"BRemove this empty class, write its code or make it an "interface".(´Ğ¶üÿÿÿÿ
+8
+java:S1116ª"Remove this empty statement.(´Ğ¶üÿÿÿÿ
+a
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(ã•‘Ûûÿÿÿÿ
+8
+java:S1116È"Remove this empty statement.(ôŸìúÿÿÿÿ
+\
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(Š™¢Ú
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(áö†…
+\
+java:S1124¤"EReorder the modifiers to comply with the Java Language Specification.(áö†…
+\
+java:S1117µ"@Rename "threadGroup" which hides the field declared at line 181.(ÔûÖ‹ûÿÿÿÿ
+[
+java:S1124ê"EReorder the modifiers to comply with the Java Language Specification.(™Õe
+\
+java:S1124î"EReorder the modifiers to comply with the Java Language Specification.(ëÊ£¡
+e
+java:S4201ğ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ËĞØÛıÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(”É¬Ú
+^
+java:S1117 "BRename "changeSupport" which hides the field declared at line 191.(èœÅşÿÿÿÿ
+z
+java:S2142Ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+Q
+java:S2274Î":Remove this call to "wait" or move it into a "while" loop.(òÃÒ×
+D	java:S108Ï")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+z
+java:S2142à"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+Q
+java:S2274ß":Remove this call to "wait" or move it into a "while" loop.(òÃÒ×
+D	java:S108à")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+z
+java:S2142÷"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+D	java:S108÷")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+H
+java:S1874û",Remove this use of "stop"; it is deprecated.(Á¾é‘ıÿÿÿÿ
+z
+java:S2142†"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+D	java:S108†")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+=
+java:S5164”"&Use "remove()" instead of "set(null)".(ûÛ“­

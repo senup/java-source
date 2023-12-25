@@ -1,0 +1,34 @@
+
+n
+java:S1192‘"WDefine a constant instead of duplicating this literal "Cannot recover the key" 5 times.(«‡»•
+a
+java:S1192Û"KDefine a constant instead of duplicating this literal "match !!! " 4 times.(ì¦ÀR
+e	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÐ„
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+k	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+O
+java:S1161<":Add the "@Override" annotation above this method signature(ëÐ„
+\
+java:S1126="AReplace this if-then-else statement by a single return statement.(‹Ëïµþÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+P
+java:S1161\":Add the "@Override" annotation above this method signature(èÄíÅ
+P
+java:S1161l":Add the "@Override" annotation above this method signature(éÑØ 
+O
+java:S1161{":Add the "@Override" annotation above this method signature(¾ô°T
+f
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(—Ò‚Íþÿÿÿÿ
+8
+java:S3457•"!Single quote "'" must be escaped.(Þõåë
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(íèˆ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿••‹
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ž®ÿãûÿÿÿÿ
+n
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(˜þÇÿüÿÿÿÿ
+?	java:S108Ê")Either remove or fill this block of code.(ÛÛÿü

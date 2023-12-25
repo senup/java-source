@@ -1,0 +1,45 @@
+
+p
+java:S11926"ZDefine a constant instead of duplicating this literal "wrong surface data type: " 3 times.(ğúŸõ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+h
+java:S32521"MUse static access with "sun.java2d.pipe.BufferedContext" for "SRC_IS_OPAQUE".(·ªü¢øÿÿÿÿ
+k
+java:S32521"PUse static access with "sun.java2d.pipe.BufferedContext" for "NO_CONTEXT_FLAGS".(·ªü¢øÿÿÿÿ
+e
+java:S32528"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(ÑÅ¹
+k
+java:S3252?"PUse static access with "sun.java2d.pipe.BufferedContext" for "NO_CONTEXT_FLAGS".(¹÷œËûÿÿÿÿ
+e
+java:S3252F"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(ÑÅ¹
+h
+java:S3252R"MUse static access with "sun.java2d.pipe.BufferedContext" for "SRC_IS_OPAQUE".(·ªü¢øÿÿÿÿ
+k
+java:S3252R"PUse static access with "sun.java2d.pipe.BufferedContext" for "NO_CONTEXT_FLAGS".(·ªü¢øÿÿÿÿ
+e
+java:S3252Y"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(ÑÅ¹
+U
+java:S1161u":Add the "@Override" annotation above this method signature(«×†ªüÿÿÿÿ
+Q
+java:S1161”":Add the "@Override" annotation above this method signature(³–§Õ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(Ÿè³
+Q
+java:S1161":Add the "@Override" annotation above this method signature(âÔÕı
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(Éµôûşÿÿÿÿ
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(Û‰Ÿáşÿÿÿÿ
+P
+java:S1161¬":Add the "@Override" annotation above this method signature(ÒÍæ7
+V
+java:S1161²":Add the "@Override" annotation above this method signature(íß†øúÿÿÿÿ
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(‡‰Öøÿÿÿÿ
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(ş±²­
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(ñÇòúÿÿÿÿ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(€¹¤ü

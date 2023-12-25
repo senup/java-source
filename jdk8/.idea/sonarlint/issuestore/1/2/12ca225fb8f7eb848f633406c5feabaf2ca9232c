@@ -1,0 +1,95 @@
+
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä’¦œ
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¼ò˜øÿÿÿÿ
+o
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îèò
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(êêıÿÿÿÿ
+8
+java:S1643¦"Use a StringBuilder instead.(Óß€Òÿÿÿÿÿ
+3
+java:S1643©"Use a StringBuilder instead.(¸ ‘Ğ
+3
+java:S1643Õ"Use a StringBuilder instead.(ÁâÌÈ
+3
+java:S1643Ü"Use a StringBuilder instead.(ÁâÌÈ
+3
+java:S1643à"Use a StringBuilder instead.(ÁâÌÈ
+>
+java:S5411Å"(Use a primitive boolean expression here.(’õï>
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+o	java:S115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ûûµ
+o	java:S115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«™—£
+t	java:S115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û…¨İşÿÿÿÿ
+o	java:S115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ­•
+G
+java:S1659:",Declare "nonHeapPlotter" on a separate line.(Š¾¢ñûÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(Á»›ê
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(Á»›ê
+Z
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(Ü¬êúÿÿÿÿ
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(“–ış
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(àÖØ¼úÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(àÖØ¼úÿÿÿÿ
+b
+java:S1659ü"FDeclare "committed" and all following declarations on a separate line.(†”…®øÿÿÿÿ
+Z
+java:S1155¤">Use isEmpty() to check whether the collection is empty or not.(Ü¬êúÿÿÿÿ
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(æ˜»õ
+z
+java:S2142È"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(şß´şøÿÿÿÿ
+?	java:S108¬")Either remove or fill this block of code.(ï­£Ä
+]
+java:S1659½"FDeclare "threshold" and all following declarations on a separate line.(Ë½˜
+Q
+java:S1161Í":Add the "@Override" annotation above this method signature(Á»›ê
+K
+java:S2387Ô"/"height" is the name of a field in "Component".(ÃÜÏøÿÿÿÿ
+=
+java:S1170Ô"!Make this final field static too.(ÃÜÏøÿÿÿÿ
+8
+java:S1170Õ"!Make this final field static too.(şÑ»†
+8
+java:S1170Ö"!Make this final field static too.(’ÇÂò
+=
+java:S1170×"!Make this final field static too.(øôÈ­úÿÿÿÿ
+8
+java:S1170Ø"!Make this final field static too.(íÕ¯
+=
+java:S1170Ù"!Make this final field static too.(ˆ±’øÿÿÿÿ
+=
+java:S1170Ú"!Make this final field static too.(çÙ†Éşÿÿÿÿ
+˜
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ÖºÑ
+˜
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İÒî
+˜
+java:S1186Â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+˜
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³ıŸê
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(³ıŸê
+U
+java:S1155¶">Use isEmpty() to check whether the collection is empty or not.(Êôë¯
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+P
+java:S1161§":Add the "@Override" annotation above this method signature(Ï–Ì
+Q
+java:S1161Æ":Add the "@Override" annotation above this method signature(™Ä‰È
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(»¢½
+V
+java:S1161í":Add the "@Override" annotation above this method signature(áŸ‹Åıÿÿÿÿ

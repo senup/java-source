@@ -1,0 +1,11 @@
+
+t
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àåúÿÿÿÿ
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¬ÖÄ
+{
+java:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ—ûÿÿÿÿ
+8
+java:S2129Ö"!Remove this "Integer" constructor(ôñ’
+K
+java:S1144à"/Remove this unused private "appendPath" method.(…È¤‹ıÿÿÿÿ

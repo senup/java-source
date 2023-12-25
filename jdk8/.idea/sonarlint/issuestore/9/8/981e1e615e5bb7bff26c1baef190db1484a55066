@@ -1,0 +1,16 @@
+
+E
+java:S1121Ü".Extract the assignment out of this expression.(¦£„î
+t	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í‰óùÿÿÿÿ
+t	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰á„ûÿÿÿÿ
+`
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(ÅÖË³ûÿÿÿÿ
+[
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(Ùâí
+`
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(İŸ¾ıÿÿÿÿ
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+7	java:S131Ò""Add a default case to this switch.(Ó—ÉP
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ëşë²ûÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ

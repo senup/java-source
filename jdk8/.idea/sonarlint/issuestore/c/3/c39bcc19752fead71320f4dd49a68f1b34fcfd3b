@@ -1,0 +1,21 @@
+
+E
+java:S1197("*Move the array designators [] to the type.(ØÎî‹şÿÿÿÿ
+u
+java:S3012‚"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ª£ÖĞúÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(À×œçıÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(²É¨ˆ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(‹ÏÀúÿÿÿÿ
+U
+java:S4719À"9Replace charset name argument with StandardCharsets.UTF_8(¼’Ç¸ıÿÿÿÿ
+U
+java:S4719Ç">Replace charset name argument with StandardCharsets.ISO_8859_1(ÙÚÊÙ
+F
+java:S1197Ù"*Move the array designators [] to the type.(Î€Ìñûÿÿÿÿ
+F
+java:S1197é"*Move the array designators [] to the type.(‰®˜øÿÿÿÿ
+A
+java:S1197†"*Move the array designators [] to the type.(Ğ¶‰»
+R	java:S125"<This block of commented-out lines of code should be removed.(Èá„Ë
+F
+java:S1197¥"*Move the array designators [] to the type.(›…«ûÿÿÿÿ

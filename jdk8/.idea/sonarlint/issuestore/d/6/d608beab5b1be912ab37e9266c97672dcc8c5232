@@ -1,0 +1,13 @@
+
+X
+java:S1610("=Convert the abstract class "Authenticator" into an interface.(ž“ˆÍÿÿÿÿÿ
+Q
+java:S1610-"6Convert the abstract class "Result" into an interface.(¨‹Ó‰øÿÿÿÿ
+]
+java:S2094-"BRemove this empty class, write its code or make it an "interface".(¨‹Ó‰øÿÿÿÿ
+:
+java:S1128"%Remove this unused import 'java.net'.(ÐŽ‡
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

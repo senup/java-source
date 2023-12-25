@@ -1,0 +1,23 @@
+
+[	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ãð¥’
+[	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(ãð¥’
+U
+java:S1118"":Add a private constructor to hide the implicit public one.(ù¦–ðÿÿÿÿÿ
+Z
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(ìÁŒe
+<
+java:S11108"!Remove these useless parentheses.(‘åß±üÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ÈŸ†Ú
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’ôðûøÿÿÿÿ
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(’ôðûøÿÿÿÿ
+<
+java:S1168P"&Return an empty array instead of null.(ƒËÛ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(ÏøÓþ
+V	java:S125j"<This block of commented-out lines of code should be removed.(Œó§ýÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(ÏøÓþ
+V	java:S125o"<This block of commented-out lines of code should be removed.(âË¢Öýÿÿÿÿ
+Q	java:S125r"<This block of commented-out lines of code should be removed.(ÏøÓþ
+V	java:S125t"<This block of commented-out lines of code should be removed.(Œó§ýÿÿÿÿ

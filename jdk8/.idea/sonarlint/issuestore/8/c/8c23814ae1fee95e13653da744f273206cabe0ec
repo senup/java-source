@@ -1,0 +1,141 @@
+
+K
+java:S3740Ã"/Provide the parametrized type for this generic.( èúÿÿÿÿÿ
+K
+java:S3740Æ"/Provide the parametrized type for this generic.(êÒ÷ïûÿÿÿÿ
+F
+java:S3740É"/Provide the parametrized type for this generic.(®ÂÌ’
+E
+java:S3740Î"/Provide the parametrized type for this generic.(îµ°"
+K
+java:S3740ö"/Provide the parametrized type for this generic.(ÊÈñâıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(§Ä‰îÿÿÿÿÿ
+E
+java:S3740˜"/Provide the parametrized type for this generic.(îµ°"
+K
+java:S3740ª"/Provide the parametrized type for this generic.(±üÛÂúÿÿÿÿ
+~
+java:S1319Ã"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".( èúÿÿÿÿÿ
+~
+java:S1319Æ"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(êÒ÷ïûÿÿÿÿ
+y
+java:S1319É"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(®ÂÌ’
+x
+java:S1319Î"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(îµ°"
+~
+java:S1319ö"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(ÊÈñâıÿÿÿÿ
+~
+java:S1319"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(§Ä‰îÿÿÿÿÿ
+x
+java:S1319˜"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(îµ°"
+~
+java:S1319ª"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(±üÛÂúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+]
+java:S2259‹"AA "NullPointerException" could be thrown; "val" is nullable here.(äÖÙêüÿÿÿÿ
+]
+java:S2259"AA "NullPointerException" could be thrown; "val" is nullable here.(Óà²¾üÿÿÿÿ
+r
+java:S1149Ã"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( èúÿÿÿÿÿ
+r
+java:S1149Æ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(êÒ÷ïûÿÿÿÿ
+m
+java:S1149É"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(®ÂÌ’
+l
+java:S1149Î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îµ°"
+r
+java:S1149ö"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÊÈñâıÿÿÿÿ
+r
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(§Ä‰îÿÿÿÿÿ
+l
+java:S1149˜"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îµ°"
+r
+java:S1149ª"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(±üÛÂúÿÿÿÿ
+v
+java:S1149ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÀÜä
+{
+java:S1149ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æşâÌÿÿÿÿÿ
+p
+java:S1201i"UEither override Object.equals(Object), or rename the method to prevent any confusion.(²á¾Åùÿÿÿÿ
+C
+java:S1172i"(Remove this unused method parameter "i".(²á¾Åùÿÿÿÿ
+p
+java:S1201l"UEither override Object.equals(Object), or rename the method to prevent any confusion.(‘ÇŠıÿÿÿÿ
+C
+java:S1172l"(Remove this unused method parameter "b".(‘ÇŠıÿÿÿÿ
+k
+java:S1201o"UEither override Object.equals(Object), or rename the method to prevent any confusion.(éŒÙ
+?
+java:S1172o")Remove this unused method parameter "id".(éŒÙ
+p
+java:S1201r"UEither override Object.equals(Object), or rename the method to prevent any confusion.(³œÈ—ûÿÿÿÿ
+C
+java:S1172r"(Remove this unused method parameter "s".(³œÈ—ûÿÿÿÿ
+A
+java:S1172"*Remove this unused method parameter "ctx".(¥èĞõ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ûœµ²úÿÿÿÿ
+Q
+java:S1133¼"5Do not forget to remove this deprecated code someday.(í³›ÿÿÿÿÿ
+V
+java:S1172Ã":Remove these unused method parameters "env", "ctx", "exp".( èúÿÿÿÿÿ
+D
+java:S1172Æ"(Remove this unused method parameter "t".(êÒ÷ïûÿÿÿÿ
+O
+java:S1172Í"3Remove these unused method parameters "ctx", "exp".(ÕÉ Åüÿÿÿÿ
+O
+java:S1172õ"3Remove these unused method parameters "ctx", "exp".(¥®¦àøÿÿÿÿ
+A
+java:S1172"*Remove this unused method parameter "loc".(¤çì¶
+O
+java:S1172Ü"3Remove these unused method parameters "env", "ctx".(ëßùÃûÿÿÿÿ
+O
+java:S1172ß"3Remove these unused method parameters "env", "ctx".(¦Òöıÿÿÿÿ
+O
+java:S1172•"3Remove these unused method parameters "env", "ctx".(£ˆ–“ûÿÿÿÿ
+P
+java:S3400Ÿ"9Remove this method and declare a constant for this value.(È¸å
+Y
+java:S1172"=Remove these unused method parameters "thresh", "env", "ctx".(àË¹áüÿÿÿÿ
+8
+java:S2129³"!Remove this "Integer" constructor(øã’¿
+=
+java:S2129¶"!Remove this "Integer" constructor(‘†¸¢ıÿÿÿÿ
+Q
+java:S1172Í":Remove these unused method parameters "env", "ctx", "asm".(êŒ„Ğ
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(‚±ß¶
+V
+java:S1172Ñ":Remove these unused method parameters "env", "ctx", "asm".(º¨ªøÿÿÿÿ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(‚±ß¶
+V
+java:S1172Õ":Remove these unused method parameters "env", "ctx", "asm".(¡º‚ãúÿÿÿÿ
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(‚±ß¶
+F
+java:S1197ô"*Move the array designators [] to the type.(áœĞ·ûÿÿÿÿ
+A
+java:S1197‚"*Move the array designators [] to the type.(á¼ãì
+A
+java:S1197‰"*Move the array designators [] to the type.(ÛÆ®ô
+F
+java:S1197¨"*Move the array designators [] to the type.(„éÇªøÿÿÿÿ
+A
+java:S1197·"*Move the array designators [] to the type.(ï¢«
+J
+java:S1172Ã"3Remove these unused method parameters "env", "ctx".(ã«´œ
+8	java:S131Ä""Add a default case to this switch.(Á¸ãí
+=	java:S131É""Add a default case to this switch.(·‰ÕÏûÿÿÿÿ
+=	java:S131×""Add a default case to this switch.(·‰ÕÏûÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(şÿî‡
+8	java:S131ì""Add a default case to this switch.(÷›ˆÁ
+=	java:S131…""Add a default case to this switch.(ş²íóşÿÿÿÿ
+=	java:S131—""Add a default case to this switch.(ş²íóşÿÿÿÿ
+=	java:S131©""Add a default case to this switch.(ş²íóşÿÿÿÿ
+=	java:S131»""Add a default case to this switch.(ş²íóşÿÿÿÿ
+=	java:S131Î""Add a default case to this switch.(ş²íóşÿÿÿÿ
+=	java:S131à""Add a default case to this switch.(ş²íóşÿÿÿÿ
+A
+java:S1172ı"*Remove this unused method parameter "ctx".(Âõ¦È
+V
+java:S1161„":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

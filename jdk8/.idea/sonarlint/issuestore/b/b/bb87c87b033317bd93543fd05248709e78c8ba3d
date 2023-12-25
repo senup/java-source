@@ -1,0 +1,16 @@
+
+n	java:S135r"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+U
+java:S11185":Add a private constructor to hide the implicit public one.(¾¥ÛÆûÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(ìÁ“³
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(íîä
+[
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(å©Ìö
+h
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ë®Ö’
+[
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(ë®Ö’
+<
+java:S1128""&Remove this unused import 'java.util'.(Î€ŒÙ

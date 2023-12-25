@@ -1,0 +1,9 @@
+
+?
+java:S1604"(Make this anonymous inner class a lambda(óêµÇ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+W	java:S107Ÿ"<Method has 9 parameters, which is greater than 7 authorized.(à ñÙùÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+N
+java:S1128 "3Remove this unused import 'sun.java2d.SurfaceData'.(²×Ô©øÿÿÿÿ

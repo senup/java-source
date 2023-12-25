@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÍÅÖ«üÿÿÿÿ
+u
+java:S1149f"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+B
+java:S1125m"'Remove the unnecessary boolean literal.(ÓžˆÃûÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+T
+java:S1128""9Remove this unused import 'com.sun.tracing.ProviderName'.(¬‡œ™ûÿÿÿÿ
+H
+java:S1128#"2Remove this unused import 'com.sun.tracing.Probe'.(ÝÙ»Æ

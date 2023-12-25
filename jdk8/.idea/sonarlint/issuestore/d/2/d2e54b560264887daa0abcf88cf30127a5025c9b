@@ -1,0 +1,12 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+“
+java:S1130Y"}Remove the declaration of thrown exception 'sun.jvmstat.monitor.MonitorException', as it cannot be thrown from method's body.(£úÅ£
+u
+java:S2142œ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ªú¢¥
+?	java:S108œ")Either remove or fill this block of code.(ªú¢¥
+3
+java:S1116œ"Remove this empty statement.(ªú¢¥
+Q
+java:S1128"6Remove this unused import 'sun.jvmstat.monitor.event'.(ø¦˜»ûÿÿÿÿ

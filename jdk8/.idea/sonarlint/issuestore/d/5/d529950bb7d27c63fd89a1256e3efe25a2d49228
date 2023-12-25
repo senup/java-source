@@ -1,0 +1,16 @@
+
+o	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(–ãž±
+s	java:S127Ý"XRefactor the code in order to not assign to this loop counter from within the loop body.(£º©­úÿÿÿÿ
+s	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(£º©­úÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+E
+java:S11978"*Move the array designators [] to the type.(†Žš©üÿÿÿÿ
+V
+java:S1161ž":Add the "@Override" annotation above this method signature(ôÑõ¹úÿÿÿÿ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(˜Ü°ñþÿÿÿÿ
+2
+java:S3626×"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Þ"Remove this redundant jump.(ÉŠ©ƒ

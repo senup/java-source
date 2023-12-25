@@ -1,0 +1,67 @@
+
+E
+java:S1066u"/Merge this if statement with the enclosing one.(æšË
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+~
+java:S4165ñ"bRemove this useless assignment; "vset" already holds the assigned value along all execution paths.(ŸÈøÿÿÿÿ
+O
+java:S1161=":Add the "@Override" annotation above this method signature(¹Ûâ@
+k
+java:S1201F"UEither override Object.equals(Object), or rename the method to prevent any confusion.(éŒÙ
+P
+java:S1161F":Add the "@Override" annotation above this method signature(éŒÙ
+g
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÎÂÆK
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¬«Óîüÿÿÿÿ
+O
+java:S1854Ë"8Remove this useless assignment to local variable "base".(·Îóô
+@
+java:S1481Ë")Remove this unused "base" local variable.(·Îóô
+V
+java:S1161ê":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+V
+java:S1161ü":Add the "@Override" annotation above this method signature(ÕÉ Åüÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(¥®¦àøÿÿÿÿ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(²¥º¤
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(§®è§üÿÿÿÿ
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(§Ä‰îÿÿÿÿÿ
+\
+java:S2147°"ECombine this catch with the one at line 303, which has the same body.(¯‰à
+D	java:S108¯")Either remove or fill this block of code.(à¾±øÿÿÿÿ
+?	java:S108°")Either remove or fill this block of code.(¯‰à
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çäŠ§ùÿÿÿÿ
+D	java:S108İ")Either remove or fill this block of code.(à¾±øÿÿÿÿ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(¥èĞõ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(³Â¥è
+W	java:S125÷"<This block of commented-out lines of code should be removed.(ûœµ²úÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(ëßùÃûÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(£ˆ–“ûÿÿÿÿ
+Q
+java:S1161®":Add the "@Override" annotation above this method signature(Âõ¦È
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(êŒ„Ğ
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(º¨ªøÿÿÿÿ
+8
+java:S2129Ç"!Remove this "Integer" constructor(Ò¢ÇÍ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(¡º‚ãúÿÿÿÿ
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(çé½Ì
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

@@ -1,0 +1,7 @@
+
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(÷í‚å
+^
+java:S4635a"HReplace "startsWith" with the overload that accepts an offset parameter.(×ÕŠ¥
+J
+java:S1874r"/Remove this use of "resolve"; it is deprecated.(ëåÞˆùÿÿÿÿ

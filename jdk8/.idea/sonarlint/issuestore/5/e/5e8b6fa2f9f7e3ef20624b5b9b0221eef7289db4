@@ -1,0 +1,6 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀþÿÿÿÿ
+R	java:S107•"=Method has 15 parameters, which is greater than 7 authorized.(¾ä©
+W
+java:S1128#"<Remove this unused import 'sun.java2d.pipe.BufferedOpCodes'.(Áô¿¼ùÿÿÿÿ

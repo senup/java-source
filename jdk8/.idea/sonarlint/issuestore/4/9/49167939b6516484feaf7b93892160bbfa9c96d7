@@ -1,0 +1,23 @@
+
+o
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éñ›ì
+F
+java:S2160)"+Override the "equals" method in this class.(Ê‡ìØúÿÿÿÿ
+q
+java:S11493"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÈÜ¬úÿÿÿÿ
+m
+java:S1149”"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬Ë¶ë
+r
+java:S1149•"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÏÅ±Îûÿÿÿÿ
+i
+java:S29756"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+P
+java:S11616":Add the "@Override" annotation above this method signature(²ÈŞ
+^
+java:S11826"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+U
+java:S1161C":Add the "@Override" annotation above this method signature(ÙÓşÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(ü§ôµúÿÿÿÿ
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(Ù÷Ñ¿ÿÿÿÿÿ

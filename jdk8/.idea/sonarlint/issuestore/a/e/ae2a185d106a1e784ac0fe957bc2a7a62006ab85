@@ -1,0 +1,13 @@
+
+[
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(´°…ù
+H
+java:S2692‡"10 is a valid index, but is ignored by this check.(¡¡ŸÕ
+U
+java:S1117•"9Rename "xpath" which hides the field declared at line 56.(íİ½¡ûÿÿÿÿ
+\
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(ŞÑã
+g
+java:S3457É"KFormat specifiers or lambda should be used instead of string concatenation.(Õóİ‘øÿÿÿÿ
+g
+java:S3457Ì"KFormat specifiers or lambda should be used instead of string concatenation.(ø—°øıÿÿÿÿ

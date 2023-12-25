@@ -1,0 +1,20 @@
+
+J
+java:S3740U"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šâåìúÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(ê€¡í
+C
+java:S1604U"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+d
+java:S3014["IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÛÓ¸þÿÿÿÿ
+d
+java:S3014]"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
+1
+java:S1700/"Rename field "streamCloser"(þ··Ü
+P
+java:S1118,":Add a private constructor to hide the implicit public one.(Ì¢ùº
+m
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ÿ®Æ©ûÿÿÿÿ
+>	java:S108K")Either remove or fill this block of code.(ï­£Ä

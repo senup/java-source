@@ -1,0 +1,39 @@
+
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÊÚ
+w
+java:S1192"[Define a constant instead of duplicating this literal "algorithms.NoSuchAlgorithm" 4 times.(¤Ïşÿÿÿÿ
+7
+java:S1700="!Rename field "signatureAlgorithm"(¦ Òº
+F
+java:S1197…"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+\
+java:S2147"ECombine this catch with the one at line 155, which has the same body.(¨¦Š½
+a
+java:S2147¡"ECombine this catch with the one at line 155, which has the same body.(‰•’şÿÿÿÿ
+g
+java:S3457—"KFormat specifiers or lambda should be used instead of string concatenation.(ÚÖ‚’ÿÿÿÿÿ
+A
+java:S1197œ"*Move the array designators [] to the type.(İû¦»
+A
+java:S1197Ÿ"*Move the array designators [] to the type.(İû¦»
+A
+java:S1197¢"*Move the array designators [] to the type.(İû¦»
+F
+java:S1197å"*Move the array designators [] to the type.(Ì×‘¡üÿÿÿÿ
+g
+java:S3457Ê"KFormat specifiers or lambda should be used instead of string concatenation.(Æö¦ñúÿÿÿÿ
+F
+java:S1197Ğ"*Move the array designators [] to the type.(­ç•üÿÿÿÿ
+A
+java:S1197Û"*Move the array designators [] to the type.(İû¦»
+•
+java:S1130ê"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(š‹Å£üÿÿÿÿ
+¹
+java:S1130ë"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException', as it cannot be thrown from method's body.(÷Œ¥¨
+g
+java:S3457í"KFormat specifiers or lambda should be used instead of string concatenation.(Æö¦ñúÿÿÿÿ
+F
+java:S1197ó"*Move the array designators [] to the type.(­ç•üÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(¼’Ì˜

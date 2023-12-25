@@ -1,0 +1,291 @@
+
+[	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(İ¦ØÀ
+F
+java:S3740ÿ"/Provide the parametrized type for this generic.(ŒË´’
+F
+java:S3740¿"/Provide the parametrized type for this generic.(‹×æĞ
+K
+java:S3740Ã"/Provide the parametrized type for this generic.(¯ÈïÓüÿÿÿÿ
+K
+java:S3740à"/Provide the parametrized type for this generic.(ÅĞÀ•ùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö½¨æüÿÿÿÿ
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ³à‘
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò™ıÆ
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•¾†
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œß¾ü
+]
+java:S1192"GDefine a constant instead of duplicating this literal "parent" 3 times.(ãåÉA
+b
+java:S1192™"FDefine a constant instead of duplicating this literal "state" 8 times.(µ©Ê’ùÿÿÿÿ
+_
+java:S1192Ê"HDefine a constant instead of duplicating this literal "height" 26 times.(Êƒâ«
+c
+java:S1192"LDefine a constant instead of duplicating this literal "frame_style" 3 times.(şåÏó
+l
+java:S1192ª"UDefine a constant instead of duplicating this literal "rounded_bottom_right" 3 times.(–»­¯
+p
+java:S1192¨"TDefine a constant instead of duplicating this literal "rounded_bottom_left" 3 times.(İàÒüÿÿÿÿ
+e
+java:S1192ì"IDefine a constant instead of duplicating this literal "PRELIGHT" 4 times.(öÑ˜ üÿÿÿÿ
+i
+java:S1192Æ"MDefine a constant instead of duplicating this literal "title_border" 3 times.(Ìú¯úÿÿÿÿ
+]
+java:S1192—"FDefine a constant instead of duplicating this literal "frame" 3 times.(¶½Œ…
+b
+java:S1192Ú"FDefine a constant instead of duplicating this literal "color" 6 times.(çû¹”øÿÿÿÿ
+]
+java:S1192Ç"FDefine a constant instead of duplicating this literal "alpha" 4 times.(í¶å‘
+c
+java:S1192È"GDefine a constant instead of duplicating this literal "normal" 9 times.(‡¿Í°øÿÿÿÿ
+]
+java:S1192˜"FDefine a constant instead of duplicating this literal "focus" 3 times.(Ş¢ùİ
+o
+java:S1192"SDefine a constant instead of duplicating this literal "left_titlebar_edge" 6 times.(¼ú§ìûÿÿÿÿ
+e
+java:S1192è"IDefine a constant instead of duplicating this literal "SELECTED" 4 times.(ˆ¶Ïúÿÿÿÿ
+b
+java:S1192"FDefine a constant instead of duplicating this literal "style" 3 times.(ßÛ“øÿÿÿÿ
+t
+java:S1192Ô"XDefine a constant instead of duplicating this literal "InternalFrame.northPane" 3 times.(Ñõ±°ûÿÿÿÿ
+y
+java:S1192ş"bDefine a constant instead of duplicating this literal "InternalFrameTitlePane.menuButton" 3 times.(ò—‰¤
+j
+java:S1192Ç"NDefine a constant instead of duplicating this literal "button_border" 4 times.(¤ºé¿ûÿÿÿÿ
+c
+java:S1192É"GDefine a constant instead of duplicating this literal "width" 27 times.(‡òøÍùÿÿÿÿ
+]
+java:S1192æ"GDefine a constant instead of duplicating this literal "NORMAL" 4 times.(è£¨H
+`
+java:S1192Ã"IDefine a constant instead of duplicating this literal "draw_ops" 8 times.(ùñøî
+k
+java:S1192"TDefine a constant instead of duplicating this literal "right_titlebar_edge" 7 times.(¿åÜ®
+h
+java:S1192ê"LDefine a constant instead of duplicating this literal "INSENSITIVE" 4 times.(¢¡ˆÉÿÿÿÿÿ
+f
+java:S1192™"JDefine a constant instead of duplicating this literal "maximized" 3 times.(µ©Ê’ùÿÿÿÿ
+h
+java:S1192‰"LDefine a constant instead of duplicating this literal "right_right" 3 times.(ŸÖ½˜ûÿÿÿÿ
+m
+java:S1192¤"QDefine a constant instead of duplicating this literal "rounded_top_left" 4 times.(‡©ü—ûÿÿÿÿ
+b
+java:S1192†"FDefine a constant instead of duplicating this literal "value" 4 times.(û“«šùÿÿÿÿ
+n
+java:S1192¦"RDefine a constant instead of duplicating this literal "rounded_top_right" 4 times.(Öı­©ùÿÿÿÿ
+o	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(‹ú¾«
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•ÿÿÿÿÿ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÖÑÉùÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚ…
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®Ïşúÿÿÿÿ
+g	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùñøî
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
+l	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìú¯úÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºé¿ûÿÿÿÿ
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñº±£ùÿÿÿÿ
+l	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¶Œ•ùÿÿÿÿ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§üıó
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠ›‰ıÿÿÿÿ
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¬û³ûÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(· èØÿÿÿÿÿ
+f	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ŞûC
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒóÅ
+f	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉéËG
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é±³¼
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºé¿ûÿÿÿÿ
+l	java:S117€
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‚ÌÌúÿÿÿÿ
+g	java:S117Õ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ªç¥
+g	java:S117ä
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÙçø
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ı’Ò
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®Ïşúÿÿÿÿ
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó³û
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
+D
+java:S1604"(Make this anonymous inner class a lambda(ÚõÆÚùÿÿÿÿ
+S
+java:S4973ş"<Strings and Boxed types should be compared using "equals()".(ò—‰¤
+S
+java:S4973‚"<Strings and Boxed types should be compared using "equals()".(”áá„
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÃäõÖùÿÿÿÿ
+X
+java:S4973‘"<Strings and Boxed types should be compared using "equals()".(Ä‰‘¬üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+X
+java:S2184è	"ACast one of the operands of this addition operation to a "float".(˜«ùå
+X
+java:S2184é	"ACast one of the operands of this addition operation to a "float".(‰£í€
+X
+java:S2184ë	"ACast one of the operands of this addition operation to a "float".(¶›öÎ
+]
+java:S2184ì	"ACast one of the operands of this addition operation to a "float".(Œªİğÿÿÿÿÿ
+e
+java:S2259˜"IA "NullPointerException" could be thrown; "closeButton" is nullable here.(Š²àıÿÿÿÿ
+c
+java:S2259¢"LA "NullPointerException" could be thrown; "minimizeButton" is nullable here.(ÍÚˆº
+_
+java:S2259§"HA "NullPointerException" could be thrown; "menuButton" is nullable here.(Ö—¶‚
+^
+java:S2259“"GA "NullPointerException" could be thrown; "titlePane" is nullable here.(„åê•
+^
+java:S2259à"HA "NullPointerException" could be thrown; "frameTitle" is nullable here.(Şñ¦
+e
+java:S2259¯"IA "NullPointerException" could be thrown; "closeButton" is nullable here.(Š²àıÿÿÿÿ
+c
+java:S2259¹"LA "NullPointerException" could be thrown; "minimizeButton" is nullable here.(ÍÚˆº
+h
+java:S2259"LA "NullPointerException" could be thrown; "maximizeButton" is nullable here.(àÁ†ıÿÿÿÿ
+h
+java:S2259´"LA "NullPointerException" could be thrown; "maximizeButton" is nullable here.(àÁ†ıÿÿÿÿ
+_
+java:S2259"HA "NullPointerException" could be thrown; "menuButton" is nullable here.(Ö—¶‚
+k
+java:S2095–"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Í¹Ÿ¤şÿÿÿÿ
+_
+java:S2583Ü"CChange this condition so that it does not always evaluate to "true"(Û¼„ûÿÿÿÿ
+o	java:S116`"ZRename this field "frame_style_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áø
+i
+java:S3008:"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¢ÿ 
+{
+java:S1149˜"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
+R	java:S107—"<Method has 8 parameters, which is greater than 7 authorized.(¤ı’Ò
+Z
+java:S2147L"DCombine this catch with the one at line 74, which has the same body.(‚°„–
+Z
+java:S2147N"DCombine this catch with the one at line 74, which has the same body.(¶ùø
+C	java:S108I")Either remove or fill this block of code.(©çı»ıÿÿÿÿ
+h
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(©‹¢Ó
+>
+java:S3010v"#Remove this assignment of "xmlDoc".(Èî¾ëÿÿÿÿÿ
+;
+java:S2129¼"Remove this "Float" constructor(ƒ˜ò²ÿÿÿÿÿ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.( Ñîø
+S
+java:S1854¥"=Remove this useless assignment to local variable "buttonLoc".(ôÛÆ
+F
+java:S1172Ú"/Remove these unused method parameters "x", "y".( Ñîø
+=	java:S131ˆ""Add a default case to this switch.(ÅÂúëüÿÿÿÿ
+D
+java:S1481¥".Remove this unused "buttonLoc" local variable.(ôÛÆ
+i
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ë…°
+U
+java:S1854ê">Remove this useless assignment to local variable "menuButton".(Ú‚ÿÑ
+F
+java:S1481ê"/Remove this unused "menuButton" local variable.(Ú‚ÿÑ
+t
+java:S3008Î"XRename this field "GET_THEME_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÑÊÌúÿÿÿÿ
+u
+java:S3008Ï"YRename this field "GET_USER_THEME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÀâÄÿÿÿÿÿ
+p
+java:S3008Ğ"TRename this field "GET_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‡–œıÿÿÿÿ
+{
+java:S1149˜"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ñ«âåùÿÿÿÿ
+\
+java:S2147­"ECombine this catch with the one at line 555, which has the same body.(Ãôş•
+M
+java:S2696‹"6Make the enclosing method "static" or remove this set.(ÉÆí³
+Z
+java:S4719–">Replace charset name argument with StandardCharsets.ISO_8859_1(Í¹Ÿ¤şÿÿÿÿ
+R	java:S125ò"<This block of commented-out lines of code should be removed.(†˜ñò
+V
+java:S1659ı"?Declare "cg" and all following declarations on a separate line.(»¶ÜÄ
+Z
+java:S1659’">Declare "g" and all following declarations on a separate line.(Ì‡ëºşÿÿÿÿ
+˜
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦–†
+˜
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®åØ”
+h
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Â½¼
+L
+java:S1854‚"5Remove this useless assignment to local variable "h".(ãğú
+=
+java:S1481‚"&Remove this unused "h" local variable.(ãğú
+?
+java:S1905ü"(Remove this unnecessary cast to "float".(©èÇ 
+h
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²Œ+
+i
+java:S3776Ç	"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ç›‚
+i
+java:S3776ä
+"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(şÙçø
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(µõª˜
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€°µÙ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(íÃµáùÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(éºËÌ
+X
+java:S2130÷"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ÆÇóÖ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(¶³¡³
+h
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(’Ét
+b
+java:S3252Î"KUse static access with "javax.swing.plaf.synth.ColorType" for "FOREGROUND".(äçÓÍ
+g
+java:S3252Ğ"KUse static access with "javax.swing.plaf.synth.ColorType" for "BACKGROUND".(ƒîÓºúÿÿÿÿ
+g
+java:S3252Ò"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_BACKGROUND".(Õ¶Í¨
+g
+java:S3252Ô"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_FOREGROUND".(ú°«ª
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(Ï™ŞÚ
+Q
+java:S1161ù":Add the "@Override" annotation above this method signature(®óë¥
+R
+java:S1117‚";Rename "token" which hides the field declared at line 1894.(ïœ–‰
+@
+java:S1905¯")Remove this unnecessary cast to "double".(ş¢£ö
+E
+java:S1905³")Remove this unnecessary cast to "double".(³²Ï©ûÿÿÿÿ
+@
+java:S1905·")Remove this unnecessary cast to "double".(ˆ©Ê
+@
+java:S1905»")Remove this unnecessary cast to "double".(¯”Ìù
+E
+java:S1905¿")Remove this unnecessary cast to "double".(»°¿Êøÿÿÿÿ
+@
+java:S1905Ã")Remove this unnecessary cast to "double".(î•‹
+U
+java:S3400Û"9Remove this method and declare a constant for this value.(ÈßŸŸùÿÿÿÿ
+`
+java:S1172Ú"JRemove these unused method parameters "coord", "left", "right", "arcsize".(Ûµ‹
+u	java:S115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾×ºıÿÿÿÿ
+u	java:S115ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Â§Ìüÿÿÿÿ
+p	java:S115õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÚÌêş
+p	java:S115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥‡ê
+u	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼÷ÌÆÿÿÿÿÿ
+u	java:S115ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â„Ñ¥ÿÿÿÿÿ
+U
+java:S1659ì">Declare "y" and all following declarations on a separate line.(ü½Å„
+C
+java:S1197ğ",Move the array designators [][] to the type.(ğë•ë
+F
+java:S1197ñ"*Move the array designators [] to the type.(ş˜©™ÿÿÿÿÿ
+C
+java:S1197ş",Move the array designators [][] to the type.(¥‘·»
+Q	java:S125ı"<This block of commented-out lines of code should be removed.(ß¹—
+A
+java:S1197•"*Move the array designators [] to the type.(Š¦Şå
+F
+java:S1197Ò"*Move the array designators [] to the type.(•üÂèøÿÿÿÿ
+F
+java:S1197â"*Move the array designators [] to the type.(•üÂèøÿÿÿÿ
+J
+java:S1128+"/Remove this unused import 'javax.swing.border'.(Õ˜ÀÆÿÿÿÿÿ
+C
+java:S1144Ú"-Remove this unused private "classify" method.(Ûµ‹

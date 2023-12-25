@@ -1,0 +1,41 @@
+
+t	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê…å™ÿÿÿÿÿ
+€
+java:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷‡¥Úûÿÿÿÿ
+`
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(ê…å™ÿÿÿÿÿ
+T
+java:S1155j">Use isEmpty() to check whether the collection is empty or not.(ºóŠ”
+h
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(“–ýþ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ý÷ôß
+T	java:S106Ž"9Replace this use of System.out or System.err by a logger.(÷ÅÓÆþÿÿÿÿ
+7	java:S131™""Add a default case to this switch.(¬Ñ´F
+L
+java:S1751©"5Remove this "break" statement or make it conditional.(›ûä·
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(¦Á®ÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ó°ó½øÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(ù‰í¡ÿÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(ì‚Øüÿÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(ê¼Ê‘
+D	java:S108É")Either remove or fill this block of code.(ˆê¥ÿýÿÿÿÿ
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(÷×ú¢ùÿÿÿÿ
+Z
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(ÛŸàºüÿÿÿÿ
+:
+java:S2129à"Remove this "Long" constructor(þº¢ýÿÿÿÿ
+Z
+java:S1155è">Use isEmpty() to check whether the collection is empty or not.(ÛŸàºüÿÿÿÿ
+:
+java:S2129ì"Remove this "Long" constructor(ò¿°Øÿÿÿÿÿ
+Z
+java:S1155ô">Use isEmpty() to check whether the collection is empty or not.(ÛŸàºüÿÿÿÿ
+:
+java:S2129û"Remove this "Long" constructor(Ëäœ½ûÿÿÿÿ
+Z
+java:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(ÛŸàºüÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ˆê¥ÿýÿÿÿÿ
+:
+java:S2129”"Remove this "Long" constructor( †Â¸þÿÿÿÿ
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(ÛŸàºüÿÿÿÿ

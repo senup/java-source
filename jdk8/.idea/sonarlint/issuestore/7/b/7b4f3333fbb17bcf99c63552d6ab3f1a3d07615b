@@ -1,0 +1,16 @@
+
+[	java:S107,"AConstructor has 9 parameters, which is greater than 7 authorized.(ù—‚¢øÿÿÿÿ
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(ğ“á
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(©×€ªüÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(û¿Úûÿÿÿÿ
+P
+java:S1161E":Add the "@Override" annotation above this method signature(ÜÑã
+d
+java:S4201F"IRemove this unnecessary null check; "instanceof" returns false for nulls.(²Š–ğûÿÿÿÿ
+P
+java:S1161[":Add the "@Override" annotation above this method signature(ğÜşŠ
+P
+java:S1161_":Add the "@Override" annotation above this method signature(Á»›ê

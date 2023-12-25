@@ -1,0 +1,22 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚Ê“·ùÿÿÿÿ
+>
+java:S4274["(Replace this assert with a proper check.(ØÃ°ø
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“Á–ıÿÿÿÿ
+V
+java:S1126q"AReplace this if-then-else statement by a single return statement.(˜ò¶%
+W	java:S125"<This block of commented-out lines of code should be removed.(ÜØÿçøÿÿÿÿ
+?
+java:S4274¤"(Replace this assert with a proper check.(ØÃ°ø
+]
+java:S1126©"AReplace this if-then-else statement by a single return statement.(ŒçÔıÿÿÿÿ
+D
+java:S4274Ş"(Replace this assert with a proper check.(ãÂ¼Ïøÿÿÿÿ
+?
+java:S1659ã"#Declare "name2" on a separate line.(µ¢†üÿÿÿÿ
+D
+java:S4274ñ"(Replace this assert with a proper check.(µìîŞûÿÿÿÿ
+]
+java:S1126„"AReplace this if-then-else statement by a single return statement.(£õŒşÿÿÿÿ

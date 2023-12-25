@@ -1,0 +1,34 @@
+
+>
+java:S1604Q"(Make this anonymous inner class a lambda(çê«à
+
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ãúªêıÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëØç¶
+˜
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òÕàÉ
+˜
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìè°
+˜
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©·ÑÎ
+
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã°âèşÿÿÿÿ
+
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûü®¦øÿÿÿÿ
+˜
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÿÏÔ
+
+java:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏŸóˆøÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÀ×Ã
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÖ»
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(×¦Ø—
+E
+java:S3398¾")Move this method into "TTYDebugListener".(®—¿ùÿÿÿÿ
+E
+java:S3398Ä")Move this method into "TTYDebugListener".(†¯İÉøÿÿÿÿ
+=
+java:S10686"'Remove this unused "env" private field.(«ª“ø
+L
+java:S1068:"1Remove this unused "sourceManager" private field.(èââ şÿÿÿÿ

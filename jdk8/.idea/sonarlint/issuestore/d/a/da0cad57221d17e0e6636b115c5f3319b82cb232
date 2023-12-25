@@ -1,0 +1,34 @@
+
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‚Åçüÿÿÿÿ
+_
+java:S2259³"HA "NullPointerException" could be thrown; "fileFormat" is nullable here.(­–Ü
+_
+java:S2259Í"HA "NullPointerException" could be thrown; "fileFormat" is nullable here.(ß…·™
+E
+java:S2093w"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(°­†üşÿÿÿÿ
+U
+java:S1854ï">Remove this useless assignment to local variable "fileLength".(ê˜æ—
+U
+java:S1854·">Remove this useless assignment to local variable "blockAlign".(Â¸ Õ
+^
+java:S1854´"BRemove this useless assignment to local variable "avgBytesPerSec".(Ì¶şüÿÿÿÿ
+Q
+java:S1854Ê":Remove this useless assignment to local variable "length".(Ğ÷µ
+P
+java:S1854Ï"9Remove this useless assignment to local variable "nread".(Õ›€í
+U
+java:S1854è"9Remove this useless assignment to local variable "nread".(¼™™¯şÿÿÿÿ
+E
+java:S1481Ø".Remove this unused "bytesRead" local variable.(ôÁã
+O
+java:S1481ß"3Remove this unused "avgBytesPerSec" local variable.(—ŞÀ¼ûÿÿÿÿ
+K
+java:S1481à"/Remove this unused "blockAlign" local variable.(œ®şÊüÿÿÿÿ
+=
+java:S1905º"&Remove this unnecessary cast to "int".(€Â´Ğ
+?
+java:S1905í"(Remove this unnecessary cast to "float".( ƒé
+?
+java:S1905ğ"(Remove this unnecessary cast to "float".(Æ¹â¶

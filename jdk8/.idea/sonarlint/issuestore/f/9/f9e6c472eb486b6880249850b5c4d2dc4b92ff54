@@ -1,0 +1,11 @@
+
+P
+java:S1161'":Add the "@Override" annotation above this method signature(¹šîÌ
+U
+java:S1161+":Add the "@Override" annotation above this method signature(ã‘íãþÿÿÿÿ
+i
+java:S29751"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+P
+java:S11611":Add the "@Override" annotation above this method signature(Ž²ÈÞ
+^
+java:S11821"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ

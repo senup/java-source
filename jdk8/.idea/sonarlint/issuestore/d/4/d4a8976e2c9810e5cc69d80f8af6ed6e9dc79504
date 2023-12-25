@@ -1,0 +1,16 @@
+
+n
+java:S1488y"YImmediately return this expression instead of assigning it to the temporary variable "i".(ïì‡.
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ´ õøÿÿÿÿ
+y	java:S1169"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+>
+java:S1172>"(Remove this unused method parameter "b".(àË”
+P
+java:S1161L":Add the "@Override" annotation above this method signature(À…âÈ
+P
+java:S1161U":Add the "@Override" annotation above this method signature(¬ôŒµ
+U
+java:S1161e":Add the "@Override" annotation above this method signature(¨©”¨ÿÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

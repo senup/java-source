@@ -1,0 +1,77 @@
+
+|
+java:S1488İ"`Immediately return this expression instead of assigning it to the temporary variable "newEntry".(“¹éÇùÿÿÿÿ
+r
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ctx".(ø–Üş
+o	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùş¯Ã
+q
+java:S1149@"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Çô±”ûÿÿÿÿ
+q
+java:S1149T"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‰ÄÓ£ùÿÿÿÿ
+r
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ï“ùêúÿÿÿÿ
+r
+java:S1149¤"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¸¯ôøÿÿÿÿ
+m
+java:S1149­"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íÙæ¡
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(Ùş¯Ã
+P
+java:S1161]":Add the "@Override" annotation above this method signature(êÒü÷
+Q
+java:S1854o"<Remove this useless assignment to local variable "newEntry".(±ı=
+P
+java:S1161c":Add the "@Override" annotation above this method signature(·Ø®à
+[
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(·Ø®à
+B
+java:S1481o"-Remove this unused "newEntry" local variable.(±ı=
+O
+java:S1161s":Add the "@Override" annotation above this method signature(¶™»
+Z
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(¶™»
+U
+java:S1161~":Add the "@Override" annotation above this method signature(–ÆêÂûÿÿÿÿ
+`
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(–ÆêÂûÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(Ì™…®ûÿÿÿÿ
+a
+java:S1124‰"EReorder the modifiers to comply with the Java Language Specification.(Ì™…®ûÿÿÿÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(Ÿœ¯äøÿÿÿÿ
+a
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(Ÿœ¯äøÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(Œö•·øÿÿÿÿ
+a
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(Œö•·øÿÿÿÿ
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(Ö–Ê¹ùÿÿÿÿ
+a
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(Ö–Ê¹ùÿÿÿÿ
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(àØÔØ
+\
+java:S1124Î"EReorder the modifiers to comply with the Java Language Specification.(àØÔØ
+a
+java:S1124á"EReorder the modifiers to comply with the Java Language Specification.(¨Ô‹Ïüÿÿÿÿ
+Q
+java:S1161ë":Add the "@Override" annotation above this method signature(÷¦úÜ
+\
+java:S1124ë"EReorder the modifiers to comply with the Java Language Specification.(÷¦úÜ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(ĞôëŒÿÿÿÿÿ
+a
+java:S1124€"EReorder the modifiers to comply with the Java Language Specification.(ĞôëŒÿÿÿÿÿ
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(ÍçÅ¿øÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(Ã­ã»
+a
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(ùØÔÏÿÿÿÿÿ
+\
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(áÈä˜
+\
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(˜Œ•˜
+?
+java:S1068.")Remove this unused "debug" private field.(Ùş¯Ã

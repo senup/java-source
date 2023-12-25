@@ -1,0 +1,20 @@
+
+I
+java:S1121h".Extract the assignment out of this expression.(ï½Ù÷ùÿÿÿÿ
+m	java:S127o"XRefactor the code in order to not assign to this loop counter from within the loop body.(éöó§
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(¾ˆþîøÿÿÿÿ
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(é€—ƒ
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(¢ë×çþÿÿÿÿ
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¸‹ãþ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(­ê›Éýÿÿÿÿ
+`
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(‘¯¯Åþÿÿÿÿ
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(’ÁŽ˜
+W
+java:S1126Q"AReplace this if-then-else statement by a single return statement.(ž„ÔÄ

@@ -1,0 +1,26 @@
+
+Z
+java:S2583J"DChange this condition so that it does not always evaluate to "false"(äž§³
+Z
+java:S2583W"DChange this condition so that it does not always evaluate to "false"(äž§³
+|
+java:S1149¼"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è”«Ï
+|
+java:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„§õ 
+{
+java:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(›¹‚
+V	java:S125d"<This block of commented-out lines of code should be removed.(á¨îûÿÿÿÿÿ
+|
+java:S1149¼"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è”«Ï
+|
+java:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„§õ 
+{
+java:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(›¹‚
+>
+java:S1125ê"'Remove the unnecessary boolean literal.(Ñ¨øÙ
+>
+java:S1125ƒ"(Remove the unnecessary boolean literals.(¯Èìw
+3
+java:S1116Œ"Remove this empty statement.(çËƒØ
+A
+java:S1068Š"*Remove this unused "parent" private field.(Ã»ÐÝ

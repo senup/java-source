@@ -1,0 +1,525 @@
+
+a	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112ƒO"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒØˆ§şÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖÄš
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔŒ×ø
+p
+java:S2293ù8"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÏ¾“
+p
+java:S2293ı8"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦øÄ
+m
+java:S1192Œ"QDefine a constant instead of duplicating this literal "Populating rows " 3 times.(Ï³º±ùÿÿÿÿ
+w
+java:S1192å"[Define a constant instead of duplicating this literal "cachedrowsetimpl.invalidop" 6 times.(ä·½óûÿÿÿÿ
+
+java:S1192"eDefine a constant instead of duplicating this literal "setting has exceeded max row setting" 3 times.(ÒÓÚşÿÿÿÿ
+y
+java:S1192<"]Define a constant instead of duplicating this literal "cachedrowsetimpl.opnotysupp" 27 times.(‹ã¾‡üÿÿÿÿ
+w
+java:S1192”"[Define a constant instead of duplicating this literal "cachedrowsetimpl.unableins" 4 times.(åİÜÓúÿÿÿÿ
+z
+java:S1192§>"^Define a constant instead of duplicating this literal "cachedrowsetimpl.featnotsupp" 70 times.(êçõÚıÿÿÿÿ
+v
+java:S1192¥"ZDefine a constant instead of duplicating this literal "cachedrowsetimpl.timefail" 4 times.(èİ‡÷ùÿÿÿÿ
+w
+java:S1192ò"[Define a constant instead of duplicating this literal "cachedrowsetimpl.invalidcp" 8 times.(ëŞéäúÿÿÿÿ
+t
+java:S1192ª"]Define a constant instead of duplicating this literal "cachedrowsetimpl.dtypemismt" 25 times.(ï¹Âş
+w
+java:S1192ˆ	"[Define a constant instead of duplicating this literal "cachedrowsetimpl.clonefail" 6 times.(é…¼Ãúÿÿÿÿ
+E
+java:S1121Ì7".Extract the assignment out of this expression.(œØ§Ê
+o	java:S135Ä"YReduce the total number of break and continue statements in this loop to use at most one.(ßùš¬
+t	java:S135š9"YReduce the total number of break and continue statements in this loop to use at most one.(®¸Óëøÿÿÿÿ
+K
+java:S1066 :"/Merge this if statement with the enclosing one.(ÖÙÀúúÿÿÿÿ
+y
+java:S1319Ã"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(¦’ˆÇ
+l	java:S117‰6"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§éšùÿÿÿÿ
+g	java:S117½6"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õœ´
+l	java:S117Ò6"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨úÿÿÿÿ
+g	java:S117Ó6"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¹À†
+l	java:S117Ô6"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§éšùÿÿÿÿ
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÖôÚÿÿÿÿÿ
+^
+java:S1226Ÿ8"BIntroduce a new variable instead of reusing the parameter "event".(Ú¾Ñıÿÿÿÿ
+a
+java:S2259÷"EA "NullPointerException" could be thrown; "tWriter" is nullable here.(­îêìúÿÿÿÿ
+j
+java:S2095§1"NUse try-with-resources or close this "CachedRowSetImpl" in a "finally" clause.(äã¡åşÿÿÿÿ
+j
+java:S2095ˆ1"NUse try-with-resources or close this "CachedRowSetImpl" in a "finally" clause.(äã¡åşÿÿÿÿ
+ƒ
+java:S4165ğ"gRemove this useless assignment; "cursorPos" already holds the assigned value along all execution paths.(¯½ÌÏÿÿÿÿÿ
+S
+java:S2589‡"7Remove this expression which always evaluates to "true"(öÙ˜úÿÿÿÿ
+i	java:S116V"ORename this field "RSMD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ãÊÎıÿÿÿÿ
+h	java:S116]"SRename this field "RowSetMD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•”ò
+u	java:S116Ï"`Rename this field "DEFAULT_SYNC_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úİÍ,
+˜
+java:S1186ÀC"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆ¶—
+˜
+java:S1186ØC"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´µıÖ
+
+java:S1186 D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£å‰±ÿÿÿÿÿ
+˜
+java:S1186·D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÇŸ§
+
+java:S1186ÒE"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£å‰±ÿÿÿÿÿ
+@
+java:S19489"*Make "provider" transient or serializable.(²äáÜ
+D
+java:S1948A".Make "rowSetReader" transient or serializable.(åÌÓĞ
+D
+java:S1948I".Make "rowSetWriter" transient or serializable.(Ÿı¬î
+;
+java:S1948w"%Make "rvh" transient or serializable.(ëÙëè
+E
+java:S1948¸")Make "tWriter" transient or serializable.(ğıãûÿÿÿÿ
+{
+java:S1149w"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëÙëè
+|
+java:S1149¨"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Óª
+
+java:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üıÎœıÿÿÿÿ
+m
+java:S1149Ã"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦’ˆÇ
+|
+java:S1149¢
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”°ı
+E
+java:S1197g"*Move the array designators [] to the type.(ÈôĞƒùÿÿÿÿ
+L
+java:S1905î"5Remove this unnecessary cast to "CachedRowSetReader".(ÙÉ³¾
+L
+java:S1905ï"5Remove this unnecessary cast to "CachedRowSetWriter".(œàÃ
+Y
+java:S1126‚"BReplace this if-then-else statement by a single method invocation.(¡ä
+U
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(¡ä
+>
+java:S1125‚"'Remove the unnecessary boolean literal.(¡ä
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(“ØÅÚûÿÿÿÿ
+H
+java:S2692¢"10 is a valid index, but is ignored by this check.(äì’ë
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(¡ŠÃ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆÜ‰•üÿÿÿÿ
+U
+java:S1854…">Remove this useless assignment to local variable "currentRow".(ş•”Ó
+V
+java:S1117í"?Rename "currentRow" which hides the field declared at line 175.(­ƒäí
+G
+java:S1905"1Remove this unnecessary cast to "RowSetInternal".(ãÛş)
+H
+java:S1905¢"1Remove this unnecessary cast to "RowSetInternal".(›üÃ†
+C
+java:S1125ä"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+H
+java:S1905ï"1Remove this unnecessary cast to "RowSetInternal".(üØí‘
+C
+java:S1125…"'Remove the unnecessary boolean literal.(É€Ïîúÿÿÿÿ
+V
+java:S1117¼"?Rename "currentRow" which hides the field declared at line 175.(­ƒäí
+>
+java:S1125¿"'Remove the unnecessary boolean literal.(ÊËáâ
+>
+java:S1125Ã"'Remove the unnecessary boolean literal.(¬üä
+C
+java:S1125Æ"'Remove the unnecessary boolean literal.(ÍÉùÿÿÿÿ
+C
+java:S1125ê"'Remove the unnecessary boolean literal.(ÎÖñ°ıÿÿÿÿ
+C
+java:S1125ñ"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+[
+java:S1117õ"?Rename "currentRow" which hides the field declared at line 175.(§È¢»üÿÿÿÿ
+>
+java:S1125ö"'Remove the unnecessary boolean literal.(¬üä
+C
+java:S1125"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+[
+java:S1117“"?Rename "currentRow" which hides the field declared at line 175.(§È¢»üÿÿÿÿ
+>
+java:S1125”"'Remove the unnecessary boolean literal.(ÊËáâ
+i
+java:S2975è"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+]
+java:S2147’	"FCombine this catch with the one at line 1168, which has the same body.(Ãôş•
+b
+java:S2147	"FCombine this catch with the one at line 1180, which has the same body.(´Î›¢úÿÿÿÿ
+]
+java:S2147 	"FCombine this catch with the one at line 1180, which has the same body.(Ãôş•
+R	java:S125—	"<This block of commented-out lines of code should be removed.(æÊ¯¥
+K
+java:S1905š	"/Remove this unnecessary cast to "CachedRowSet".(ÌÜÅøÿÿÿÿ
+D
+java:S1905®
+"-Remove this unnecessary cast to "Collection".(Ûó’Õ
+C
+java:S1125à"'Remove the unnecessary boolean literal.(¸ÒËçıÿÿÿÿ
+C
+java:S1125à"'Remove the unnecessary boolean literal.(¸ÒËçıÿÿÿÿ
+C
+java:S1125å"'Remove the unnecessary boolean literal.(¥Û†´şÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(‡—ï‡
+>
+java:S1125È"'Remove the unnecessary boolean literal.(’ªÌš
+>
+java:S1125È"'Remove the unnecessary boolean literal.(’ªÌš
+2
+java:S3626â"Remove this redundant jump.(ÉŠ©ƒ
+M
+java:S5261á"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+C
+java:S1125ğ"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+A
+java:S1905ñ"*Remove this unnecessary cast to "BaseRow".(Â¾´
+Z
+java:S3878Ø"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878ƒ"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878¯"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878Ú"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+>
+java:S1905ÿ"'Remove this unnecessary cast to "long".(·Û²“
+Z
+java:S3878…"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+?
+java:S1905ª"(Remove this unnecessary cast to "float".(¨—À
+Z
+java:S3878°"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+E
+java:S1905Ö")Remove this unnecessary cast to "double".(µŒ¿—üÿÿÿÿ
+Z
+java:S3878Ü"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Q
+java:S1133ö"5Do not forget to remove this deprecated code someday.(ïÀ°Ëşÿÿÿÿ
+@
+java:S1659ø"$Declare "retVal" on a separate line.(÷Èåšûÿÿÿÿ
+>
+java:S1125©"'Remove the unnecessary boolean literal.(Îû¿°
+Z
+java:S3878ç"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878ì"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878¦"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878«"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(ˆñè
+Z
+java:S3878é"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+Z
+java:S3878î"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+S
+java:S4719¥"<Replace charset name argument with StandardCharsets.US_ASCII(Ğêàò
+L
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(èËÇì
+>
+java:S1125Ï"'Remove the unnecessary boolean literal.(ßÙ§Ê
+>
+java:S1125Ğ"'Remove the unnecessary boolean literal.(ó“œ¼
+>
+java:S1125‡"'Remove the unnecessary boolean literal.(Îû¿°
+L
+java:S1133Ô"5Do not forget to remove this deprecated code someday.(È—ı¼
+L
+java:S1133Ø"5Do not forget to remove this deprecated code someday.(•İ¾Ğ
+K
+java:S1905Ô"4Remove this unnecessary cast to "ResultSetMetaData".(‘Ğ„±
+b
+java:S2147–"FCombine this catch with the one at line 2963, which has the same body.(å°Ş´şÿÿÿÿ
+F
+java:S1197›"*Move the array designators [] to the type.(¨§Ó£øÿÿÿÿ
+E
+java:S1905 ")Remove this unnecessary cast to "Object".(¿Éˆ¥şÿÿÿÿ
+Z
+java:S3878Ô"CDisambiguate this call by either casting as "Object" or "Object[]".(§®¯ñ
+]
+java:S1126…"AReplace this if-then-else statement by a single return statement.(ÙÓ£ìüÿÿÿÿ
+]
+java:S1126•"AReplace this if-then-else statement by a single return statement.(¯ëßÕúÿÿÿÿ
+>
+java:S1125›"'Remove the unnecessary boolean literal.(ÄÒ¶è
+>
+java:S1125›"'Remove the unnecessary boolean literal.(ÄÒ¶è
+C
+java:S1125¢"'Remove the unnecessary boolean literal.(¥Û†´şÿÿÿÿ
+>
+java:S1125×"'Remove the unnecessary boolean literal.(ÄÒ¶è
+>
+java:S1125×"'Remove the unnecessary boolean literal.(ÄÒ¶è
+C
+java:S1125İ"'Remove the unnecessary boolean literal.(¥Û†´şÿÿÿÿ
+C
+java:S1125ò"'Remove the unnecessary boolean literal.(ÄÓ×ÿÿÿÿÿ
+C
+java:S1125ò"'Remove the unnecessary boolean literal.(ÄÓ×ÿÿÿÿÿ
+>
+java:S1125ô"'Remove the unnecessary boolean literal.(ÿ¿Õô
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¸…æ™
+X
+java:S1126Ñ"AReplace this if-then-else statement by a single return statement.(Õºá„
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ö–¹„ûÿÿÿÿ
+X
+java:S1126°"AReplace this if-then-else statement by a single return statement.(Õºá„
+C
+java:S1125‘"'Remove the unnecessary boolean literal.(¸ÒËçıÿÿÿÿ
+C
+java:S1125‘"'Remove the unnecessary boolean literal.(¸ÒËçıÿÿÿÿ
+C
+java:S1125—"'Remove the unnecessary boolean literal.(¥Û†´şÿÿÿÿ
+C
+java:S1125µ"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+C
+java:S1125Ì"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+C
+java:S1125ó"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(·«Àş
+C
+java:S1125Š"'Remove the unnecessary boolean literal.(ïÑ‚…úÿÿÿÿ
+>
+java:S1125‹"'Remove the unnecessary boolean literal.(Ç£
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÄÍ¦éÿÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÄÍ¦éÿÿÿÿÿ
+C
+java:S1125€ "'Remove the unnecessary boolean literal.(™îºÛúÿÿÿÿ
+=
+java:S1125 "'Remove the unnecessary boolean literal.(À½Š
+=
+java:S1125 "'Remove the unnecessary boolean literal.(À½Š
+C
+java:S1125Â "'Remove the unnecessary boolean literal.(™îºÛúÿÿÿÿ
+>
+java:S1125Ã "'Remove the unnecessary boolean literal.(Ô¹šú
+>
+java:S1125Ã "'Remove the unnecessary boolean literal.(Ô¹šú
+F
+java:S1197Ö#"*Move the array designators [] to the type.(»—Ã–üÿÿÿÿ
+>
+java:S1125Ü#"'Remove the unnecessary boolean literal.(Îû¿°
+>
+java:S1125ï$"'Remove the unnecessary boolean literal.(†¼Îø
+>
+java:S1125ğ$"'Remove the unnecessary boolean literal.(éë¡–
+A
+java:S1197ô$"*Move the array designators [] to the type.(ôËˆû
+>
+java:S1125¤%"'Remove the unnecessary boolean literal.(Îû¿°
+A
+java:S1197¨%"*Move the array designators [] to the type.(ôËˆû
+>
+java:S1125×%"'Remove the unnecessary boolean literal.(†¼Îø
+>
+java:S1125Ø%"'Remove the unnecessary boolean literal.(éë¡–
+F
+java:S1197Ü%"*Move the array designators [] to the type.(¢šºøşÿÿÿÿ
+H
+java:S2201&",The return value of "setScale" must be used.(æßöâüÿÿÿÿ
+A
+java:S1197Ì("*Move the array designators [] to the type.(™¶ Ú
+C
+java:S1125Ê*"'Remove the unnecessary boolean literal.(—ìş‰şÿÿÿÿ
+>
+java:S1125Ë*"'Remove the unnecessary boolean literal.(Òâ¥á
+C
+java:S1125ü*"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+C
+java:S1125¯+"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+[
+java:S1117³+"?Rename "currentRow" which hides the field declared at line 175.(§È¢»üÿÿÿÿ
+C
+java:S1125Ê+"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+[
+java:S1117Î+"?Rename "currentRow" which hides the field declared at line 175.(§È¢»üÿÿÿÿ
+C
+java:S1125Ï+"'Remove the unnecessary boolean literal.(ÍÉùÿÿÿÿ
+2
+java:S3626’,"Remove this redundant jump.(ûÁİ…
+>
+java:S1125‘,"'Remove the unnecessary boolean literal.(Õ¥Á´
+b
+java:S2147Õ,"FCombine this catch with the one at line 5714, which has the same body.(å°Ş´şÿÿÿÿ
+F
+java:S1197Ú,"*Move the array designators [] to the type.(¨§Ó£øÿÿÿÿ
+E
+java:S1905ß,")Remove this unnecessary cast to "Object".(¿Éˆ¥şÿÿÿÿ
+O	java:S106¤-"9Replace this use of System.out or System.err by a logger.(è·¢ù
+O	java:S106Ì-"9Replace this use of System.out or System.err by a logger.(è·¢ù
+W	java:S1251"<This block of commented-out lines of code should be removed.(ªïûÿÿÿÿ
+H
+java:S1905˜1",Remove this unnecessary cast to "ResultSet".(Î›Íùÿÿÿÿ
+W	java:S125¯1"<This block of commented-out lines of code should be removed.(ªïûÿÿÿÿ
+H
+java:S1905·1",Remove this unnecessary cast to "ResultSet".(Î›Íùÿÿÿÿ
+C
+java:S1125Â1"'Remove the unnecessary boolean literal.(Í²ğöúÿÿÿÿ
+C
+java:S1125Ê1"'Remove the unnecessary boolean literal.(Ğ¢òÊûÿÿÿÿ
+=
+java:S1125Ù1"'Remove the unnecessary boolean literal.(¤ÒÏI
+>
+java:S1125İ1"'Remove the unnecessary boolean literal.(ÈŒí
+C
+java:S1125î1"'Remove the unnecessary boolean literal.(Ğ¢òÊûÿÿÿÿ
+R	java:S125×4"<This block of commented-out lines of code should be removed.(›òÊ
+D	java:S108™5")Either remove or fill this block of code.(¬£¹ıÿÿÿÿ
+…
+java:S1130§5"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(úä¢å
+?
+java:S1659­5"(Declare "indexComma" on a separate line.(ÛÅ¬”
+W	java:S125Ğ5"<This block of commented-out lines of code should be removed.(¥×ÍÏÿÿÿÿÿ
+W	java:S125Ô5"<This block of commented-out lines of code should be removed.(¥×ÍÏÿÿÿÿÿ
+W	java:S125Ö5"<This block of commented-out lines of code should be removed.(¥×ÍÏÿÿÿÿÿ
+W	java:S125·7"<This block of commented-out lines of code should be removed.(¯“ø–ùÿÿÿÿ
+W	java:S125Ñ7"<This block of commented-out lines of code should be removed.(æëÉ½şÿÿÿÿ
+U
+java:S1854Ÿ8"9Remove this useless assignment to local variable "event".(Ú¾Ñıÿÿÿÿ
+n
+java:S3776Ä8"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Ã°‡òùÿÿÿÿ
+U
+java:S18549">Remove this useless assignment to local variable "currentRow".(ş•”Ó
+V
+java:S1117Ç8"?Rename "currentRow" which hides the field declared at line 175.(­ƒäí
+G
+java:S1905æ9"1Remove this unnecessary cast to "RowSetInternal".(ãÛş)
+G
+java:S1905¶:"1Remove this unnecessary cast to "RowSetInternal".(ãÛş)
+G
+java:S1905Ã:"1Remove this unnecessary cast to "RowSetInternal".(ãÛş)
+R	java:S125Ô:"<This block of commented-out lines of code should be removed.(§­ğÇ
+W	java:S125ù:"<This block of commented-out lines of code should be removed.(á•ığüÿÿÿÿ
+W	java:S125§;"<This block of commented-out lines of code should be removed.(ï”ˆ²ùÿÿÿÿ
+W	java:S125Æ;"<This block of commented-out lines of code should be removed.(¿ˆ£Øøÿÿÿÿ
+C
+java:S1125‹<"'Remove the unnecessary boolean literal.(ÄÍİüÿÿÿÿ
+V
+java:S1161à=":Add the "@Override" annotation above this method signature(¾çûèşÿÿÿÿ
+Q
+java:S1161ì=":Add the "@Override" annotation above this method signature(«ò÷…
+Q
+java:S1161ü=":Add the "@Override" annotation above this method signature(•œø…
+V
+java:S1161‹>":Add the "@Override" annotation above this method signature(âÎÇïşÿÿÿÿ
+V
+java:S1161¦>":Add the "@Override" annotation above this method signature(Í¤®úÿÿÿÿ
+Q
+java:S1161¶>":Add the "@Override" annotation above this method signature(ûñé
+Q
+java:S1161ãE":Add the "@Override" annotation above this method signature(±Ó…ù
+V
+java:S1161şE":Add the "@Override" annotation above this method signature(±¸Ôãúÿÿÿÿ
+V
+java:S1161šF":Add the "@Override" annotation above this method signature(œÙøÿÿÿÿ
+V
+java:S1161µF":Add the "@Override" annotation above this method signature(±õí˜ÿÿÿÿÿ
+P
+java:S1161ÑF":Add the "@Override" annotation above this method signature(ÿ±°
+Q
+java:S1161âF":Add the "@Override" annotation above this method signature(ŒÚ±
+Q
+java:S1161öF":Add the "@Override" annotation above this method signature(¾ó‹
+Q
+java:S1161†G":Add the "@Override" annotation above this method signature( í±
+Q
+java:S1161™G":Add the "@Override" annotation above this method signature(˜†“©
+V
+java:S1161«G":Add the "@Override" annotation above this method signature(¸ÂÔŠüÿÿÿÿ
+Q
+java:S1161ÆG":Add the "@Override" annotation above this method signature(÷ØÂ£
+V
+java:S1161ßG":Add the "@Override" annotation above this method signature(ØÎ¼€øÿÿÿÿ
+V
+java:S1161ùG":Add the "@Override" annotation above this method signature(Î¹¹ûıÿÿÿÿ
+V
+java:S1161ŒH":Add the "@Override" annotation above this method signature(ÒùĞ¨ıÿÿÿÿ
+V
+java:S1161¥H":Add the "@Override" annotation above this method signature(é¼‹µüÿÿÿÿ
+Q
+java:S1161»H":Add the "@Override" annotation above this method signature(•ô®ë
+V
+java:S1161ÖH":Add the "@Override" annotation above this method signature(ÚØÿşÿÿÿÿ
+Q
+java:S1161êH":Add the "@Override" annotation above this method signature(ÇÓ°ç
+V
+java:S1161…I":Add the "@Override" annotation above this method signature(„Œ¤úÿÿÿÿ
+V
+java:S1161ŸI":Add the "@Override" annotation above this method signature(›á’Æÿÿÿÿÿ
+Q
+java:S1161·I":Add the "@Override" annotation above this method signature(§´é…
+V
+java:S1161ÕI":Add the "@Override" annotation above this method signature(ì¶¾åúÿÿÿÿ
+V
+java:S1161óI":Add the "@Override" annotation above this method signature(ášÄúÿÿÿÿ
+Q
+java:S1161“J":Add the "@Override" annotation above this method signature(¼Œ¤Ï
+V
+java:S1161¦J":Add the "@Override" annotation above this method signature(¤”Êıÿÿÿÿ
+V
+java:S1161ÀJ":Add the "@Override" annotation above this method signature(Ğ–ë‹úÿÿÿÿ
+Q
+java:S1161îJ":Add the "@Override" annotation above this method signature(ÀÇ¸ø
+Q
+java:S1161ŠK":Add the "@Override" annotation above this method signature(«ºç—
+Q
+java:S1161´K":Add the "@Override" annotation above this method signature(µıâµ
+V
+java:S1161ÎK":Add the "@Override" annotation above this method signature(¢İ™şÿÿÿÿ
+Q
+java:S1161éK":Add the "@Override" annotation above this method signature(Ü‚øç
+V
+java:S1161†L":Add the "@Override" annotation above this method signature(•—Áàûÿÿÿÿ
+V
+java:S1161£L":Add the "@Override" annotation above this method signature(³‹­Åıÿÿÿÿ
+Q
+java:S1161¾L":Add the "@Override" annotation above this method signature(ß„å
+V
+java:S1161İL":Add the "@Override" annotation above this method signature(•—Áàûÿÿÿÿ
+V
+java:S1161ñL":Add the "@Override" annotation above this method signature(©ÔÆøùÿÿÿÿ
+V
+java:S1161ˆM":Add the "@Override" annotation above this method signature(İç–¶ÿÿÿÿÿ
+Q
+java:S1161M":Add the "@Override" annotation above this method signature(œšı–
+A
+java:S1197M"*Move the array designators [] to the type.(œšı–
+V
+java:S1161³M":Add the "@Override" annotation above this method signature(‰îÇ“ıÿÿÿÿ
+P
+java:S1161ÅM":Add the "@Override" annotation above this method signature(íÃĞc
+V
+java:S1161êM":Add the "@Override" annotation above this method signature(øÑõêùÿÿÿÿ
+V
+java:S1161ÿM":Add the "@Override" annotation above this method signature(îÊÏÌùÿÿÿÿ
+V
+java:S1161“N":Add the "@Override" annotation above this method signature(‹¤§•úÿÿÿÿ
+V
+java:S1161§N":Add the "@Override" annotation above this method signature(¸åÊ¹ıÿÿÿÿ
+Q
+java:S1161ºN":Add the "@Override" annotation above this method signature(àğÆ¨
+V
+java:S1161ÍN":Add the "@Override" annotation above this method signature(Ğšôûÿÿÿÿ
+V
+java:S1161àN":Add the "@Override" annotation above this method signature(·ïÙ„ÿÿÿÿÿ
+V
+java:S1161óN":Add the "@Override" annotation above this method signature(òŠæ­ùÿÿÿÿ
+N
+java:S1068À"2Remove this unused "strMatchColumn" private field.(±Áıùÿÿÿÿ
+F
+java:S1068Å"0Remove this unused "iMatchColumn" private field.(­¹êJ
+E
+java:S1068Œ".Remove this unused "onLastPage" private field.(æñÃÊ

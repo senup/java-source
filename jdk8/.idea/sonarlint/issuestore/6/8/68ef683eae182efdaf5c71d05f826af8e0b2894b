@@ -1,0 +1,32 @@
+
+E
+java:S3740?"/Provide the parametrized type for this generic.(Î¨ÀÕ
+J
+java:S3740I"/Provide the parametrized type for this generic.(¡œ¥§ýÿÿÿÿ
+F
+java:S1066¦"/Merge this if statement with the enclosing one.(ä€šÄ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+f
+java:S1845Í"ORename method "debug" to prevent any misunderstanding/clash with field "debug".(½¡Òõ
+k
+java:S1845Ò"ORename method "debug" to prevent any misunderstanding/clash with field "debug".(©ÐÅêÿÿÿÿÿ
+l
+java:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Î¨ÀÕ
+q
+java:S1149I"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¡œ¥§ýÿÿÿÿ
+>	java:S108T")Either remove or fill this block of code.(à®¿­
+>	java:S108]")Either remove or fill this block of code.(à®¿­
+U
+java:S2130…"9Use "Integer.parseInt" for this string-to-int conversion.(™ãñŸúÿÿÿÿ
+U
+java:S2130‘"9Use "Integer.parseInt" for this string-to-int conversion.(¸ƒšËøÿÿÿÿ
+z
+java:S1157¦"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ä€šÄ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(´Õ Öøÿÿÿÿ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+;
+java:S1128 "%Remove this unused import 'java.awt'.(ï´µ©
+@
+java:S1128""*Remove this unused import 'sun.tools.jar'.(±ëÇÌ

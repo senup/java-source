@@ -1,0 +1,11 @@
+
+D
+java:S1604š"(Make this anonymous inner class a lambda(Æ™ŒÉùÿÿÿÿ
+D
+java:S1604°"(Make this anonymous inner class a lambda(Æ™ŒÉùÿÿÿÿ
+n	java:S115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Í£P
+o	java:S115B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Åïœ
+K
+java:S1133;"5Do not forget to remove this deprecated code someday.(Ð‰ÍŒ
+h
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“·ò¦

@@ -1,0 +1,21 @@
+
+C
+java:S11728"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+U
+java:S1161<":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+R
+java:S3252@"<Use static access with "java.awt.Adjustable" for "VERTICAL".( ç±¡
+P
+java:S1161E":Add the "@Override" annotation above this method signature(îÜÚ’
+U
+java:S1161I":Add the "@Override" annotation above this method signature(Õšå‰üÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(ÏûÑëþÿÿÿÿ
+U
+java:S1161T":Add the "@Override" annotation above this method signature(¤¤ß»ÿÿÿÿÿ
+I
+java:S1128".Remove this unused import 'javax.swing.event'.(œë»Žúÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'javax.swing.border'.(Õ˜ÀÆÿÿÿÿÿ
+F
+java:S1128%"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ

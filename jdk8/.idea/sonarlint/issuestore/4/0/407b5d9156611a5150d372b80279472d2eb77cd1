@@ -1,0 +1,9 @@
+
+f
+java:S1104)"PMake name a static final constant or non-public and provide accessors if needed.(ö„Ðû
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ý¦¥’
+3
+java:S1165)"Make this "name" field final.(ö„Ðû
+<
+java:S1948)"&Make "name" transient or serializable.(ö„Ðû

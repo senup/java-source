@@ -1,0 +1,67 @@
+
+E
+java:S3740g"/Provide the parametrized type for this generic.(ñ·±ñ
+F
+java:S3740…"/Provide the parametrized type for this generic.(ØËÒë
+K
+java:S3740§"/Provide the parametrized type for this generic.(Ãğƒ³şÿÿÿÿ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(Æïº²
+o	java:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(éÎû˜
+o	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(éÎû˜
+J
+java:S1066{"/Merge this if statement with the enclosing one.(ä¤ôÁşÿÿÿÿ
+F
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(¿Ö¦
+x
+java:S1319g"bThe type of "exp" should be an interface such as "Map" rather than the implementation "Hashtable".(ñ·±ñ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+l
+java:S1149g"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñ·±ñ
+m
+java:S1149…"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ØËÒë
+r
+java:S1149§"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ãğƒ³şÿÿÿÿ
+m
+java:S1149¬"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Æïº²
+@
+java:S1197*"*Move the array designators [] to the type.(³¼¹ò
+@
+java:S1197J"*Move the array designators [] to the type.(ÕŠ„Ï
+@
+java:S1197Z"*Move the array designators [] to the type.(²…€İ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¶ËÑ”ûÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(àÇÂù
+O
+java:S1172»"3Remove these unused method parameters "env", "ctx".(è¼öıÿÿÿÿ
+A
+java:S1172Â"*Remove this unused method parameter "env".(µ¯õ€
+F
+java:S1197Ä"*Move the array designators [] to the type.(•ŠôÕûÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(½¢ş¨üÿÿÿÿ
+N
+java:S1854÷"7Remove this useless assignment to local variable "def".(¡­î±
+F
+java:S1172Ù"*Remove this unused method parameter "env".(½¢ş¨üÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(ïº¬¦ûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(îç§İùÿÿÿÿ
+?
+java:S1481÷"(Remove this unused "def" local variable.(¡­î±
+8
+java:S2129ü"!Remove this "Integer" constructor(¿½°û
+A
+java:S1197§"*Move the array designators [] to the type.(¼ì‡á
+Q
+java:S1117§":Rename "labels" which hides the field declared at line 42.(¼ì‡á
+U
+java:S1172¼"9Remove these unused method parameters "ctx", "valNeeded".(‘á°şÿÿÿÿ
+O
+java:S1172À"3Remove these unused method parameters "env", "ctx".(àË¹áüÿÿÿÿ
+D
+java:S1172Í"-Remove this unused method parameter "indent".(ÿšŞØ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

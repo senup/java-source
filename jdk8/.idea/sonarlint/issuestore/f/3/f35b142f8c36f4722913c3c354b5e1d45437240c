@@ -1,0 +1,59 @@
+
+K
+java:S11915"5Use classes from the Java API instead of Sun classes.( ÍâÔ
+P
+java:S1133>"5Do not forget to remove this deprecated code someday.(ÖËÔ½ùÿÿÿÿ
+2
+java:S1116A"Remove this empty statement.(û¾°ÿ
+P
+java:S1133L"5Do not forget to remove this deprecated code someday.(©ş«Ïúÿÿÿÿ
+^
+java:S1214L"CMove constants defined in this interfaces to another class or enum.(©ş«Ïúÿÿÿÿ
+K
+java:S1133Œ"5Do not forget to remove this deprecated code someday.(š×ğA
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(÷¼Ïøıÿÿÿÿ
+L
+java:S1133±"5Do not forget to remove this deprecated code someday.(šû”ü
+Z
+java:S1214±"CMove constants defined in this interfaces to another class or enum.(šû”ü
+Q
+java:S1133¾"5Do not forget to remove this deprecated code someday.(öúêûÿÿÿÿ
+Q
+java:S1133Ì"5Do not forget to remove this deprecated code someday.(ÆñÓäüÿÿÿÿ
+L
+java:S1133Ú"5Do not forget to remove this deprecated code someday.(¿ï«ı
+L
+java:S1133è"5Do not forget to remove this deprecated code someday.(—àüä
+Q
+java:S1133ö"5Do not forget to remove this deprecated code someday.(¢¥Êƒûÿÿÿÿ
+L
+java:S1133„"5Do not forget to remove this deprecated code someday.(˜¸ù”
+L
+java:S1133’"5Do not forget to remove this deprecated code someday.(·«‹®
+Q
+java:S1133 "5Do not forget to remove this deprecated code someday.(é§òôıÿÿÿÿ
+Q
+java:S1133®"5Do not forget to remove this deprecated code someday.(µ¤ıûÿÿÿÿ
+Q
+java:S1133¼"5Do not forget to remove this deprecated code someday.(… Ì§şÿÿÿÿ
+L
+java:S1133Ê"5Do not forget to remove this deprecated code someday.(ƒ¯«Î
+Q
+java:S1133Ø"5Do not forget to remove this deprecated code someday.(Äöàºÿÿÿÿÿ
+K
+java:S1133æ"5Do not forget to remove this deprecated code someday.(—ü0
+L
+java:S1133ô"5Do not forget to remove this deprecated code someday.(Àé»ê
+L
+java:S1133‚"5Do not forget to remove this deprecated code someday.(Ü‚Ä©
+K
+java:S1133"5Do not forget to remove this deprecated code someday.(¿´¾*
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(š±¹Õùÿÿÿÿ
+Q
+java:S1133¬"5Do not forget to remove this deprecated code someday.(ğôº÷úÿÿÿÿ
+L
+java:S1133º"5Do not forget to remove this deprecated code someday.(Š‰—£
+L
+java:S1133É"5Do not forget to remove this deprecated code someday.(ÏÑù¯

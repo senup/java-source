@@ -1,0 +1,21 @@
+
+>
+java:S11721"(Remove this unused method parameter "b".(àË”
+U
+java:S11615":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
+U
+java:S1161;":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+C
+java:S1172@"(Remove this unused method parameter "c".(ûà›øÿÿÿÿ
+U
+java:S1161K":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
+—
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÉô
+—
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+—
+java:S1186d"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+œ
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åşÿÿÿÿ
+\
+java:S1128"GRemove this unused import 'javax.swing.plaf.basic.BasicButtonListener'.(ö§ÄG

@@ -1,0 +1,16 @@
+
+3
+java:S1643±"Use a StringBuilder instead.(ì«ÉÉ
+8
+java:S1643µ"Use a StringBuilder instead.(éúöĞùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+Y
+java:S1659%"CDeclare "bboxY0" and all following declarations on a separate line.(Ä•Ì¨
+;
+java:S16593" Declare "y0" on a separate line.(‹ÉÅÓÿÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(Áûşùÿÿÿÿ
+m
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¬Ÿæêşÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(×«èşÿÿÿÿ

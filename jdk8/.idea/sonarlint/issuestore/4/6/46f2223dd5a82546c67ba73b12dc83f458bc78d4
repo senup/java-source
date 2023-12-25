@@ -1,0 +1,73 @@
+
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Ÿ«ºşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(şé­ÿÿÿÿÿ
+h
+java:S2786f"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(…Ï–¼
+7
+java:S1116k"Remove this empty statement.(ôŸìúÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï¦‘
+>
+java:S4274¦"(Replace this assert with a proper check.(öéd
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(õ½²ÿ
+\
+java:S1659«"@Declare "vcy" and all following declarations on a separate line.(¦ÔÛ§şÿÿÿÿ
+8
+java:S1659á"!Declare "lim" on a separate line.(Ù³‚É
+<
+java:S1659—" Declare "sy" on a separate line.(à¯¬úÿÿÿÿ
+<
+java:S1659˜" Declare "ly" on a separate line.(ñ¦´ñùÿÿÿÿ
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ø‚áì
+7
+java:S1659õ" Declare "uy" on a separate line.(–šª¦
+7
+java:S1659ú" Declare "cy" on a separate line.(¬”‹Ò
+h
+java:S3457†"Q%n should be used in place of \n to produce the platform-specific line separator.(Âø£›
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Àœ•çüÿÿÿÿ
+m
+java:S3457“"Q%n should be used in place of \n to produce the platform-specific line separator.(¯øõèüÿÿÿÿ
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(åÖıöûÿÿÿÿ
+m
+java:S3457™"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù¼ş¾øÿÿÿÿ
+h
+java:S3457œ"Q%n should be used in place of \n to produce the platform-specific line separator.(‡ô‘ª
+h
+java:S3457¥"Q%n should be used in place of \n to produce the platform-specific line separator.(ëò”—
+h
+java:S3457©"Q%n should be used in place of \n to produce the platform-specific line separator.(ãÚ¯Ç
+m
+java:S3457¬"Q%n should be used in place of \n to produce the platform-specific line separator.(éß™Øıÿÿÿÿ
+h
+java:S3457°"Q%n should be used in place of \n to produce the platform-specific line separator.(¾š£Ñ
+m
+java:S3457Ï"Q%n should be used in place of \n to produce the platform-specific line separator.(åˆ‡¾ıÿÿÿÿ
+A
+java:S3457Ï"%String contains no format specifiers.(åˆ‡¾ıÿÿÿÿ
+h
+java:S3457×"Q%n should be used in place of \n to produce the platform-specific line separator.(òóŒÙ
+h
+java:S3457Ş"Q%n should be used in place of \n to produce the platform-specific line separator.(»Çƒª
+h
+java:S3457ı"Q%n should be used in place of \n to produce the platform-specific line separator.(ú™í§
+<
+java:S3457ı"%String contains no format specifiers.(ú™í§
+h
+java:S3457…"Q%n should be used in place of \n to produce the platform-specific line separator.(û…£š
+g
+java:S3457ˆ"Q%n should be used in place of \n to produce the platform-specific line separator.(Ñ²¼K
+;
+java:S3457ˆ"%String contains no format specifiers.(Ñ²¼K
+m
+java:S3457–"Q%n should be used in place of \n to produce the platform-specific line separator.(àºåªøÿÿÿÿ
+A
+java:S3457–"%String contains no format specifiers.(àºåªøÿÿÿÿ
+D	java:S108Ó")Either remove or fill this block of code.(Í›’‰øÿÿÿÿ

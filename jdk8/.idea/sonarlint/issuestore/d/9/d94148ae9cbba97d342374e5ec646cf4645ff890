@@ -1,0 +1,21 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+2
+java:S1165#"Make this "key" field final.(½İû»
+:
+java:S1165$"Make this "msgobj" field final.(Ï²Çüÿÿÿÿ
+2
+java:S1165?"Make this "amh" field final.(ŒéûÛ
+C
+java:S1948$"(Make "msgobj" transient or serializable.(Ï²Çüÿÿÿÿ
+E
+java:S1197$"*Move the array designators [] to the type.(Ï²Çüÿÿÿÿ
+D
+java:S1905.")Remove this unnecessary cast to "Object".(õÜÅêûÿÿÿÿ
+?
+java:S19054")Remove this unnecessary cast to "Object".(è·¿¡
+>
+java:S19055")Remove this unnecessary cast to "Object".(©ËÖ"
+U
+java:S11618":Add the "@Override" annotation above this method signature(«†âîøÿÿÿÿ

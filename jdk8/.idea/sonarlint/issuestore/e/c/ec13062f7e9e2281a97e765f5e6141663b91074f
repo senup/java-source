@@ -1,0 +1,45 @@
+
+n
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(€úˆ]
+7
+java:S1643Q"Use a StringBuilder instead.(¢·¶üÿÿÿÿ
+8
+java:S1643ª"Use a StringBuilder instead.(°Á‰Öÿÿÿÿÿ
+3
+java:S1643¬"Use a StringBuilder instead.(‹¥ï
+d
+java:S30142"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(²£ó±ûÿÿÿÿ
+_
+java:S30148"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(’İÏ
+s
+java:S3038*"]"launch" is defined in the "LaunchingConnector" interface and can be removed from this class.(§ş
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(§ş
+m
+java:S3038/"R"name" is defined in the "Connector" interface and can be removed from this class.(ùóö³ûÿÿÿÿ
+`
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(ùóö³ûÿÿÿÿ
+t
+java:S30380"Y"description" is defined in the "Connector" interface and can be removed from this class.(ß¹ıÀÿÿÿÿÿ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ß¹ıÀÿÿÿÿÿ
+m
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ô§Æ¥şÿÿÿÿ
+L
+java:S2446Ù"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+L
+java:S2446Ş"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+L
+java:S2446ã"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(“–ış
+u
+java:S2142ğ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(“–ış
+[
+java:S1117ÿ"?Rename "connection" which hides the field declared at line 154.(£´Ñûÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‰‰•Ù
+G
+java:S1068•"+Remove this unused "address" private field.(Çôîüÿÿÿÿ

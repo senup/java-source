@@ -1,0 +1,17 @@
+
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(ºÃØ
+C
+java:S1172C"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+U
+java:S1161O":Add the "@Override" annotation above this method signature(„¦¡öûÿÿÿÿ
+D
+java:S1172n".Remove this unused method parameter "bgColor".(¿¯Ú
+C
+java:S1125"'Remove the unnecessary boolean literal.(êÂÕØøÿÿÿÿ
+M
+java:S1172™"1Remove this unused method parameter "menuItemUI".(¡®”Šşÿÿÿÿ
+[
+java:S1172¤"?Remove these unused method parameters "menuItemUI", "menuItem".(•í‘™şÿÿÿÿ
+I
+java:S1135©"2Complete the task associated to this TODO comment.(ÎşÒÎ

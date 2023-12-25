@@ -1,0 +1,13 @@
+
+K
+java:S3740“"/Provide the parametrized type for this generic.(ã†ü­ÿÿÿÿÿ
+K
+java:S3740—"/Provide the parametrized type for this generic.(ƒ«Ğ¼øÿÿÿÿ
+b
+java:S1192q"GDefine a constant instead of duplicating this literal ".class" 3 times.(“›Û³ùÿÿÿÿ
+a
+java:S1192r"FDefine a constant instead of duplicating this literal ".java" 4 times.(®öèÒùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+‡
+java:S1130F"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¹£ş

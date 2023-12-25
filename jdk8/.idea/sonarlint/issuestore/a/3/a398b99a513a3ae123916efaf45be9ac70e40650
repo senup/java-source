@@ -1,0 +1,75 @@
+
+p
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(•íÛì
+g
+java:S1192¯"PDefine a constant instead of duplicating this literal "nextRadioButton" 5 times.(£Ùïï
+D
+java:S1604±"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…
+—
+java:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ¼õA
+
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
+>
+java:S16597"(Declare "passwordTF" on a separate line.(Å£·ê
+E
+java:S16598"/Declare "remoteRadioButton" on a separate line.(°úªˆ
+K
+java:S16599"0Declare "remoteMessageLabel" on a separate line.(ú¬ˆÊûÿÿÿÿ
+?
+java:S1659;"*Declare "cancelButton" on a separate line.(—ŸÌ3
+O
+java:S1659@"4Declare "disabledTableCellColor" on a separate line.(öÂ—“ûÿÿÿÿ
+E
+java:S1659H"*Declare "cancelAction" on a separate line.(÷€©Àıÿÿÿÿ
+I
+java:S1948>".Make "mastheadIcon" transient or serializable.(™¢‘íıÿÿÿÿ
+J
+java:S1948H"/Make "connectAction" transient or serializable.(÷€©Àıÿÿÿÿ
+I
+java:S1948H".Make "cancelAction" transient or serializable.(÷€©Àıÿÿÿÿ
+H
+java:S1905S"-Remove this unnecessary cast to "JComponent".(œÉÜùÿÿÿÿ
+W
+java:S3252Z"AUse static access with "javax.swing.SwingConstants" for "CENTER".(°æüØ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(çöî‡
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(óÇ’øÿÿÿÿ
+p
+java:S1171®"YMove the contents of this initializer to a standard constructor or to field initializers.(ˆ…¤‡
+G
+java:S1948û"0Make "rendererBorder" transient or serializable.(Â†µŞ
+V
+java:S1161Š":Add the "@Override" annotation above this method signature( ¶Ãßùÿÿÿÿ
+P
+java:S1161—":Add the "@Override" annotation above this method signature(Ï–Ì
+P
+java:S1161¥":Add the "@Override" annotation above this method signature(§¾…
+V
+java:S1161§":Add the "@Override" annotation above this method signature(Â›°úÿÿÿÿ
+W
+java:S3252½"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(é§…û
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»Øûá
+V
+java:S1161­":Add the "@Override" annotation above this method signature(Ö³›¥üÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†Ôºıûÿÿÿÿ
+o
+java:S3252ş"XUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_NEVER".(©ª™Ú
+x
+java:S3252ÿ"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(ªÀé‚øÿÿÿÿ
+D
+java:S1948"(Make "vmList" transient or serializable.(óÙä©ıÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(®‚Õ™şÿÿÿÿ
+>
+java:S4274"(Replace this assert with a proper check.(˜¬ôS
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(ÚÓ²¾ùÿÿÿÿ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ

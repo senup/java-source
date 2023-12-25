@@ -1,0 +1,33 @@
+
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(ÆÍ™¤ıÿÿÿÿ
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜…œ€ûÿÿÿÿ
+o	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+E
+java:S1066ˆ"/Merge this if statement with the enclosing one.(Åğê
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+Z
+java:S2583ô"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+Z
+java:S2583‘"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+Z
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+
+java:S1450A"fRemove the "cachedSenderInetAddress" field and declare it as a local variable in the relevant methods.(ÛŸªŸûÿÿÿÿ
+u
+java:S1450B"_Remove the "cachedSenderPort" field and declare it as a local variable in the relevant methods.(ÄÇ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ï€‰øÿÿÿÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¶¼›şÿÿÿÿ
+h
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÂÄÄ<
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(çÜÁµüÿÿÿÿ
+E
+java:S1481×".Remove this unused "localPort" local variable.(Û’¬¡
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Í©˜ì
+D
+java:S1113†"-Do not override the Object.finalize() method.(ÏæÉå

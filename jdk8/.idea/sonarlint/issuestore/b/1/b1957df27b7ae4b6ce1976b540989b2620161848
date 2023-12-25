@@ -1,0 +1,26 @@
+
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÃÖ¶ûÿÿÿÿ
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(äïì
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(åœáóøÿÿÿÿ
+n
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(½×À
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‡‡İûÿÿÿÿ
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÉËÀ
+t
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç°¿¡şÿÿÿÿ
+t
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åè™Ìøÿÿÿÿ
+t
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÎçĞÿÿÿÿÿ
+t	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+P
+java:S1118-":Add a private constructor to hide the implicit public one.(×¼­Æ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(¶ÍÄÛ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ãù‹Ü
+W	java:S125¶"<This block of commented-out lines of code should be removed.(ÜàÖèùÿÿÿÿ

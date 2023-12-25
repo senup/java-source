@@ -1,0 +1,39 @@
+
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(­œáèøÿÿÿÿ
+K
+java:S3740è"/Provide the parametrized type for this generic.(çÂœÂûÿÿÿÿ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ıÛÜá
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õòº
+p
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(áŞÔò
+b
+java:S2184†"FCast one of the operands of this multiplication operation to a "long".(œ¯Üâıÿÿÿÿ
+{
+java:S1149D"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Õòº
+|
+java:S1149±"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(áŞÔò
+
+java:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éÏ®Ïøÿÿÿÿ
+{
+java:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ĞÁôG
+V	java:S107O"AConstructor has 9 parameters, which is greater than 7 authorized.(©™Ç°
+V	java:S107^"AConstructor has 8 parameters, which is greater than 7 authorized.(´™èï
+U
+java:S1161r":Add the "@Override" annotation above this method signature(²¯ò™şÿÿÿÿ
+2
+java:S3626…"Remove this redundant jump.(ûÁİ…
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(¥İë
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Á»›ê
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(¸ìºÂúÿÿÿÿ
+V
+java:S1161é":Add the "@Override" annotation above this method signature(‡¼ıÆıÿÿÿÿ
+C
+java:S1905",Remove this unnecessary cast to "JavaThing".(–‰ÈÄ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(‹½Ç¥şÿÿÿÿ
+F
+java:S1197ò"*Move the array designators [] to the type.(Ğˆ¬ÿÿÿÿÿ

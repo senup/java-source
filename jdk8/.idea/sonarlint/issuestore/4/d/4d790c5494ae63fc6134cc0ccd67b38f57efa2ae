@@ -1,0 +1,40 @@
+
+J
+java:S1191$"5Use classes from the Java API instead of Sun classes.(ÜÚâ
+O
+java:S5993u"9Change the visibility of this constructor to "protected".(þÕ¡
+X	java:S107š"=Method has 10 parameters, which is greater than 7 authorized.(É¹Àýÿÿÿÿ
+`
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(¦¯á³úÿÿÿÿ
+`
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(ü¢¦€üÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(Àž†ª
+Z
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(ÙïìN
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(ºÇ úÿÿÿÿ
+[
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(¥ªéä
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(žà·þüÿÿÿÿ
+[
+java:S1124p"EReorder the modifiers to comply with the Java Language Specification.(ÈÃ‹
+Q
+java:S1874s";Remove this use of "TlsPrfParameterSpec"; it is deprecated.(óéùþ
+=
+java:S1125~"'Remove the unnecessary boolean literal.(†º²’
+Q
+java:S1874~";Remove this use of "TlsPrfParameterSpec"; it is deprecated.(†º²’
+W
+java:S1874";Remove this use of "TlsPrfParameterSpec"; it is deprecated.(ƒÄ×øúÿÿÿÿ
+>
+java:S1125ƒ"'Remove the unnecessary boolean literal.(…ƒ¯È
+\
+java:S2147Ÿ"ECombine this catch with the one at line 157, which has the same body.(’§È§
+P
+java:S4719•"9Replace charset name argument with StandardCharsets.UTF_8(ÐŒÞ§
+\
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(þúÑ¯
+a
+java:S1124ú"EReorder the modifiers to comply with the Java Language Specification.(ø–ëÞûÿÿÿÿ

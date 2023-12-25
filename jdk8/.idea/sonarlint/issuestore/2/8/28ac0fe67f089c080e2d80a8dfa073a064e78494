@@ -1,0 +1,143 @@
+
+a	java:S112ñ
+"FDefine and throw a dedicated exception instead of using a generic one.(ŸÛÈÆüÿÿÿÿ
+J
+java:S1121Û".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121ı".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121 ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121¼".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121ã".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121ÿ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121Ÿ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121½".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121×".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121ï".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121ƒ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121—".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121­".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+J
+java:S1121¿".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
+E
+java:S1121Í
+".Extract the assignment out of this expression.(ÂÊâö
+t	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎÎ™
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøŒŞ
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‡”Ùùÿÿÿÿ
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àˆº´
+g
+java:S1301´"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301Æ"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+m	java:S116ê
+"WRename this field "input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¢à
+9
+java:S2386Ø
+"Make this member "protected".(éŸì¯ÿÿÿÿÿ
+9
+java:S2386á
+"Make this member "protected".(¼Íîüÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼š‘Ğ
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(¼š‘Ğ
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü–Ğ²üÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ä
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢õ§
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áıŠÉ
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ñ©ùÿÿÿÿ
+=
+java:S1110Û"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ïä·ùÿÿÿÿ
+=
+java:S1110ı"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é•Õ¨ûÿÿÿÿ
+=
+java:S1110 "!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¼Öàúÿÿÿÿ
+=
+java:S1110¼"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦‚úÿÿÿÿ
+=
+java:S1110ã"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÀ««ûÿÿÿÿ
+=
+java:S1110ÿ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ĞÉ€
+=
+java:S1110Ÿ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ìö÷üÿÿÿÿ
+=
+java:S1110½"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¦€Åşÿÿÿÿ
+=
+java:S1110×"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùé„¶
+=
+java:S1110ï"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¸ø£
+=
+java:S1110ƒ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£á Ç
+=
+java:S1110—"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæ¼
+=
+java:S1110­"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë—«„
+=
+java:S1110¿"!Remove these useless parentheses.(İæöıüÿÿÿÿ
+i	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄà®şÿÿÿÿ
+o
+java:S3776ò"SRefactor this method to reduce its Cognitive Complexity from 836 to the 15 allowed.(ôÄà®şÿÿÿÿ
+>
+java:S1659ù""Declare "kind" on a separate line.(ø€Â¤ıÿÿÿÿ
+K
+java:S1481ô"/Remove this unused "nextStates" local variable.(¼¶òúÿÿÿÿ
+B
+java:S1481ù"&Remove this unused "j" local variable.(ø€Â¤ıÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065"Remove this unused label.(Ÿ£µ™
+^
+java:S1479ƒ"BReduce the number of non-empty switch cases from 49 to at most 30.(±Ø¹Ìúÿÿÿÿ
+R
+java:S1119á";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065á"Remove this unused label.(Ÿ£µ™
+R
+java:S1119²
+";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065²
+"Remove this unused label.(Ÿ£µ™
+i	java:S100ù
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ï¿êşÿÿÿÿ
+d	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ºà
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‰²Øøÿÿÿÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µøú†
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ù¿©Œúÿÿÿÿ
+E
+java:S1481ª")Remove this unused "kind" local variable.(Øî©¬úÿÿÿÿ
+M
+java:S1481«"1Remove this unused "specialToken" local variable.(Œ£Î¼şÿÿÿÿ
+R
+java:S1119¯";Refactor the code to remove this label and the need for it.(œÈ‹ã
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+R
+java:S1144ê"6Remove this unused private "jjCheckNAddStates" method.(ÜÇ˜µÿÿÿÿÿ

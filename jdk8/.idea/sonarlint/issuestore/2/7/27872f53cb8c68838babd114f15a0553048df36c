@@ -1,0 +1,31 @@
+
+C
+java:S1604i"(Make this anonymous inner class a lambda(¶Ò‰ýúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+C
+java:S1172B"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+U
+java:S1161I":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+>
+java:S1172h"(Remove this unused method parameter "m".(¬å‚½
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û²éË
+P
+java:S1161n":Add the "@Override" annotation above this method signature(Û¹å«
+a
+java:S3252p"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(¯ÂçÝùÿÿÿÿ
+F
+java:S1128 "+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+E
+java:S1128!"/Remove this unused import 'java.awt.Component'.(Ÿð¯ö
+E
+java:S1128""/Remove this unused import 'java.awt.Container'.(˜ƒ×‹
+@
+java:S1128&"+Remove this unused import 'java.awt.Frame'.(žÂ Q
+I
+java:S1128'".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
+F
+java:S1128*"+Remove this unused import 'java.awt.Point'.(îÞ˜Úüÿÿÿÿ
+E
+java:S1128+"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û

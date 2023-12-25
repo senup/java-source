@@ -1,0 +1,16 @@
+
+n
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÅ¡!
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+z
+java:S1149w"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øÅ¡!
+P
+java:S1161Q":Add the "@Override" annotation above this method signature(ðÜþŠ
+U
+java:S1161]":Add the "@Override" annotation above this method signature(ÐÎØ¶ùÿÿÿÿ
+\
+java:S1126_"AReplace this if-then-else statement by a single return statement.(÷êº«úÿÿÿÿ
+\
+java:S1126m"AReplace this if-then-else statement by a single return statement.(Ñÿ€èúÿÿÿÿ
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(Á»›ê

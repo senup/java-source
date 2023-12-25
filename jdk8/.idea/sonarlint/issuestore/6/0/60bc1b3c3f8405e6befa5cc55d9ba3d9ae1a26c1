@@ -1,0 +1,31 @@
+
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ê¿øÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¹°Ø
+F
+java:S1066"/Merge this if statement with the enclosing one.(æÏë§
+K
+java:S1066®"/Merge this if statement with the enclosing one.(ò»Ùûøÿÿÿÿ
+S
+java:S4973­"<Strings and Boxed types should be compared using "equals()".(¤Ú—ø
+S
+java:S4973¼"<Strings and Boxed types should be compared using "equals()".(¤Ú—ø
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊıÿÿÿÿ
+U
+java:S1118#":Add a private constructor to hide the implicit public one.(²èÑüÿÿÿÿ
+m
+java:S3077)"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‡ù’Â
+r
+java:S3077*"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ş©Íûÿÿÿÿ
+K
+java:S1133B"5Do not forget to remove this deprecated code someday.(´÷ ±
+h
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(’şÀ
+e
+java:S1854«"IRemove this useless assignment to local variable "gotIsSameClassPackage".(æÙÓ³şÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(‘­ıšşÿÿÿÿ
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÎÈ¬áøÿÿÿÿ

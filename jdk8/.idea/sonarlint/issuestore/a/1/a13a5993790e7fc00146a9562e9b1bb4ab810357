@@ -1,0 +1,90 @@
+
+]
+java:S1192Z"GDefine a constant instead of duplicating this literal "Class " 3 times.(áÂ½ò
+P
+java:S1191("5Use classes from the Java API instead of Sun classes.(ö åÿÿÿÿÿ
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ö» Æ
+p
+java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Û…Ñ§
+L
+java:S1874—"5Remove this use of "SSLContextSpi"; it is deprecated.(ÎÛÇÀ
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¬•®
+H
+java:S1874 "2Remove this use of "KeyManager"; it is deprecated.(¬•®
+J
+java:S1874 "4Remove this use of "TrustManager"; it is deprecated.(¬•®
+R
+java:S1874»"6Remove this use of "X509KeyManager"; it is deprecated.(†ÙæŞøÿÿÿÿ
+D
+java:S1905¼"-Remove this unnecessary cast to "KeyManager".(›²“ò
+R
+java:S1874¾"6Remove this use of "X509KeyManager"; it is deprecated.(‡±Ğ¿ùÿÿÿÿ
+O
+java:S1874á"8Remove this use of "X509TrustManager"; it is deprecated.(şÕ
+K
+java:S1905â"/Remove this unnecessary cast to "TrustManager".(çŞÜ¯úÿÿÿÿ
+O
+java:S1874ä"8Remove this use of "X509TrustManager"; it is deprecated.(™İş
+U
+java:S1874†">Remove this use of "TrustManagerFactorySpi"; it is deprecated.(ì«ÂÌ
+P
+java:S1874”"4Remove this use of "TrustManager"; it is deprecated.(ä¬¢‘ıÿÿÿÿ
+P
+java:S1874œ"4Remove this use of "TrustManager"; it is deprecated.(œµ³ÿÿÿÿÿ
+P
+java:S1874œ"4Remove this use of "TrustManager"; it is deprecated.(œµ³ÿÿÿÿÿ
+K
+java:S1874Ÿ"4Remove this use of "TrustManager"; it is deprecated.(­˜«é
+F
+java:S1905£"/Remove this unnecessary cast to "TrustManager".(´ŒƒÉ
+K
+java:S1874£"4Remove this use of "TrustManager"; it is deprecated.(´ŒƒÉ
+K
+java:S1874©"4Remove this use of "TrustManager"; it is deprecated.(üëí¡
+P
+java:S1874°"4Remove this use of "TrustManager"; it is deprecated.(‰²úşùÿÿÿÿ
+P
+java:S1874±"4Remove this use of "TrustManager"; it is deprecated.(¿¤·Èıÿÿÿÿ
+X
+java:S1874¹"<Remove this use of "KeyManagerFactorySpi"; it is deprecated.(¦Ú¯Õÿÿÿÿÿ
+H
+java:S1874É"2Remove this use of "KeyManager"; it is deprecated.(ŠøÂ>
+N
+java:S1874Ñ"2Remove this use of "KeyManager"; it is deprecated.(Õ—¦Šıÿÿÿÿ
+N
+java:S1874Ñ"2Remove this use of "KeyManager"; it is deprecated.(Õ—¦Šıÿÿÿÿ
+I
+java:S1874Ô"2Remove this use of "KeyManager"; it is deprecated.(¹œïÊ
+D
+java:S1905Ø"-Remove this unnecessary cast to "KeyManager".(ÖŸ°ê
+I
+java:S1874Ø"2Remove this use of "KeyManager"; it is deprecated.(ÖŸ°ê
+I
+java:S1874Ş"2Remove this use of "KeyManager"; it is deprecated.(ç§ç‰
+N
+java:S1874å"2Remove this use of "KeyManager"; it is deprecated.(Şá‘óıÿÿÿÿ
+H
+java:S1874æ"2Remove this use of "KeyManager"; it is deprecated.(êâ
+R
+java:S1874ó"6Remove this use of "X509KeyManager"; it is deprecated.(ûîıÿÿÿÿ
+M
+java:S1874õ"6Remove this use of "X509KeyManager"; it is deprecated.(§Ïıû
+I
+java:S1172˜"-Remove this unused method parameter "engine".(É¡•ùÿÿÿÿ
+I
+java:S1172¿"-Remove this unused method parameter "engine".(É¡•ùÿÿÿÿ
+T
+java:S1874Ô"8Remove this use of "X509TrustManager"; it is deprecated.(Ùéû‘úÿÿÿÿ
+N
+java:S1874Ö"8Remove this use of "X509TrustManager"; it is deprecated.(–ò
+
+R
+java:S1874ñ"6Remove this use of "X509KeyManager"; it is deprecated.(í§µùúÿÿÿÿ
+O
+java:S1874”"8Remove this use of "X509TrustManager"; it is deprecated.(ãÃ«Š
+<
+java:S1128""&Remove this unused import 'java.util'.(Î€ŒÙ
+9
+java:S1128#"$Remove this unused import 'java.io'.(¬›ãD

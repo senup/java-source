@@ -1,0 +1,34 @@
+
+f
+java:S1301m"KReplace this "switch" statement by "if" statements to increase readability.(‘Š’üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+E
+java:S1197)"*Move the array designators [] to the type.(ñ¥˜½ÿÿÿÿÿ
+@
+java:S1197."*Move the array designators [] to the type.(ı‰ö
+E
+java:S1197>"*Move the array designators [] to the type.(ˆä”ëÿÿÿÿÿ
+U
+java:S1161I":Add the "@Override" annotation above this method signature(Ãğƒ³şÿÿÿÿ
+m
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(è¼öıÿÿÿÿ
+U
+java:S1161[":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+<	java:S131m""Add a default case to this switch.(‘Š’üÿÿÿÿ
+@
+java:S1197z"*Move the array designators [] to the type.(ÏªŒ”
+@
+java:S1197"*Move the array designators [] to the type.(áß«£
+V
+java:S1161":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+Q
+java:S1161²":Add the "@Override" annotation above this method signature(ºŞ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(ÿšŞØ
+F
+java:S1128"0Remove this unused import 'sun.tools.asm.Label'.(¦Ï×Î

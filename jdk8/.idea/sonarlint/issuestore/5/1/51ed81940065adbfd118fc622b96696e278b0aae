@@ -1,0 +1,13 @@
+
+t
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(š¸ü­ÿÿÿÿÿ
+n
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(À—Ô8
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+d
+java:S3824Z"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÂîªÚ
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Æ’®˜þÿÿÿÿ
+J
+java:S2864|"4Iterate over the "entrySet" instead of the "keySet".(Žšæì

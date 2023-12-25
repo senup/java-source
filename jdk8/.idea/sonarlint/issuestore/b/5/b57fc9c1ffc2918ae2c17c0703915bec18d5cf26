@@ -1,0 +1,20 @@
+
+a	java:S112ž"FDefine and throw a dedicated exception instead of using a generic one.(á°äàýÿÿÿÿ
+=
+java:S1604T"(Make this anonymous inner class a lambda(ÆÞÖ
+P
+java:S1191+"5Use classes from the Java API instead of Sun classes.(Š­ ¾ûÿÿÿÿ
+I
+java:S1905;".Remove this unnecessary cast to "Constructor".(¥˜Ã«ùÿÿÿÿ
+_
+java:S2147N"DCombine this catch with the one at line 76, which has the same body.(¼¯•¶ùÿÿÿÿ
+B
+java:S3011V",This accessibility update should be removed.(Ô…Ÿ¿
+`
+java:S2147m"ECombine this catch with the one at line 107, which has the same body.(„ï×Ÿýÿÿÿÿ
+`
+java:S2147o"ECombine this catch with the one at line 107, which has the same body.(–ÁÑãûÿÿÿÿ
+a
+java:S2147–"ECombine this catch with the one at line 148, which has the same body.(“£ÖÀþÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.net.SocketImplFactory'.(ïæÞíùÿÿÿÿ

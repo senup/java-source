@@ -1,0 +1,57 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­§óùÿÿÿÿ
+P
+java:S1161m":Add the "@Override" annotation above this method signature( ‚¨ß
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(±¦Õ¿şÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(ÿ§øÙ
+Q
+java:S1161ï":Add the "@Override" annotation above this method signature(¹şñü
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(õ¶Òëÿÿÿÿÿ
+A
+java:S1197Œ"*Move the array designators [] to the type.(®”‘¡
+A
+java:S1197Œ"*Move the array designators [] to the type.(®”‘¡
+F
+java:S1197¤"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+F
+java:S1197¤"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(®Æ®úÿÿÿÿ
+A
+java:S1197È"*Move the array designators [] to the type.(£À¨¤
+A
+java:S1197È"*Move the array designators [] to the type.(£À¨¤
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(ÿë”Íıÿÿÿÿ
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(¤—åÇÿÿÿÿÿ
+F
+java:S1197‡"*Move the array designators [] to the type.(¤—åÇÿÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(„ä«Â
+A
+java:S1197˜"*Move the array designators [] to the type.(„ä«Â
+I
+java:S1113Î"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+B
+java:S1174Î"&Make this finalize() method protected.(­§óùÿÿÿÿ
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(­§óùÿÿÿÿ
+o
+java:S1114Î"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(­§óùÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(Á»›ê
+L
+java:S1133ß"5Do not forget to remove this deprecated code someday.(•ù¯Á
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(•ù¯Á
+V
+java:S1161î":Add the "@Override" annotation above this method signature(Ä•õÔşÿÿÿÿ
+Q
+java:S1161‚	":Add the "@Override" annotation above this method signature(÷®¹

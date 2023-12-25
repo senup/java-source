@@ -1,0 +1,110 @@
+
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÃÓøÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(½»Šë
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÖÓ
+p
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñäÂ¸
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øƒ·
+u
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸çÔüÿÿÿÿ
+
+java:S1192ˆ"cDefine a constant instead of duplicating this literal "Ignoring unrecognized record type " 3 times.(»Ù±Øúÿÿÿÿ
+r
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(øÿÌüÿÿÿÿ
+m
+java:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(×èá‚
+r
+java:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÉóØŒûÿÿÿÿ
+m
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°Íå
+m
+java:S1149’"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íÊ¼
+m
+java:S1149–"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(åî‰¡
+`
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(ú¦·ñüÿÿÿÿ
+[
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(°Ã•ú
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(Ù—ı‘şÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(ƒÎ´‡
+Z
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(İëÅ7
+`
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(¯‰‡âüÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(ÊÂ¯Ï
+b
+java:S1854à"FRemove this useless assignment to local variable "stackTraceSerialNo".(­´ö›ıÿÿÿÿ
+Y
+java:S1854¾"=Remove this useless assignment to local variable "threadSeq".(×€à—ÿÿÿÿÿ
+^
+java:S1126²"BReplace this if-then-else statement by a single method invocation.(Ã­Üÿÿÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¥•çÄúÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Ç‹üåùÿÿÿÿ
+5
+java:S2129Ú"Remove this "Long" constructor(û¼Ğö
+S
+java:S1481à"7Remove this unused "stackTraceSerialNo" local variable.(­´ö›ıÿÿÿÿ
+:
+java:S2129â"Remove this "Long" constructor(Øô«şøÿÿÿÿ
+8
+java:S2129æ"!Remove this "Integer" constructor(Ğ‘Ñ¸
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(ü•¸àÿÿÿÿÿ
+=
+java:S2129¬"!Remove this "Integer" constructor(‹ÒŠ‚ıÿÿÿÿ
+5
+java:S2129²"Remove this "Long" constructor(¡Ñğ‹
+J
+java:S1481¾".Remove this unused "threadSeq" local variable.(×€à—ÿÿÿÿÿ
+5
+java:S2129Â"Remove this "Long" constructor(•İªî
+=
+java:S2129Ç"!Remove this "Integer" constructor(àõì£ùÿÿÿÿ
+[
+java:S1854"?Remove this useless assignment to local variable "globalRefId".(®²“ûÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ç£†ùÿÿÿÿ
+=
+java:S2129—"!Remove this "Integer" constructor(âˆô±úÿÿÿÿ
+L
+java:S1481"0Remove this unused "globalRefId" local variable.(®²“ûÿÿÿÿ
+O	java:S106ü"9Replace this use of System.out or System.err by a logger.(Ú³µ
+C
+java:S1905‚"'Remove this unnecessary cast to "long".(Î÷±˜ÿÿÿÿÿ
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(£Ö™Û
+8
+java:S2129å"!Remove this "Integer" constructor(—­ª
+:
+java:S2129î"Remove this "Long" constructor(½ÙÃäûÿÿÿÿ
+ˆ
+java:S1130ñ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(õÄÓºùÿÿÿÿ
+ˆ
+java:S1130ı"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(íä—şÿÿÿÿ
+8
+java:S2129"!Remove this "Integer" constructor(±´
+Y
+java:S1854”"=Remove this useless assignment to local variable "reserved2".(ã‚¤÷øÿÿÿÿ
+T
+java:S1854“"=Remove this useless assignment to local variable "reserved1".(œ¤êğ
+U
+java:S1854›"9Remove this useless assignment to local variable "index".(ÕŸÈ–ıÿÿÿÿ
+E
+java:S1481“".Remove this unused "reserved1" local variable.(œ¤êğ
+J
+java:S1481”".Remove this unused "reserved2" local variable.(ã‚¤÷øÿÿÿÿ
+F
+java:S1481›"*Remove this unused "index" local variable.(ÕŸÈ–ıÿÿÿÿ
+:
+java:S2129Â"Remove this "Long" constructor(çåÙËşÿÿÿÿ
+8	java:S131ı""Add a default case to this switch.(µ•“Å
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(¤Ø“Íøÿÿÿÿ
+Q
+java:S10689"6Remove this unused "VERSION_JDK12BETA3" private field.(Ù—ı‘şÿÿÿÿ
+H
+java:S1068~"-Remove this unused "callStack" private field.(¾³±ıÿÿÿÿ

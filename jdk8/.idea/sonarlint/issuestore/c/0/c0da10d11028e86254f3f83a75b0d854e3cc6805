@@ -1,0 +1,25 @@
+
+F
+java:S1066Ô"/Merge this if statement with the enclosing one.(„Ì¾±
+_
+java:S2259ê"HA "NullPointerException" could be thrown; "getFormat()" can return null.(ÌÚ¾Š
+q	java:S116,"WRename this field "framesize_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÄó±ûÿÿÿÿ
+P
+java:S11617":Add the "@Override" annotation above this method signature(ÂãíÕ
+U
+java:S1161U":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+P
+java:S1161`":Add the "@Override" annotation above this method signature(š€ñµ
+P
+java:S1161l":Add the "@Override" annotation above this method signature(ª©ˆ›
+U
+java:S1161p":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+U
+java:S1161t":Add the "@Override" annotation above this method signature(Èı……øÿÿÿÿ
+P
+java:S1161y":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
+W
+java:S1117°";Rename "format" which hides the field declared at line 132.(ó¿®ûÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125¹"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125É"<This block of commented-out lines of code should be removed.(†€éˆ

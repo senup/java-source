@@ -1,0 +1,63 @@
+
+F
+java:S3740¼"/Provide the parametrized type for this generic.(€Ò™Ø
+{
+java:S1488Ÿ"_Immediately return this expression instead of assigning it to the temporary variable "opImage".(„øèêüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+m
+java:S3008×"VRename this field "s_useNative" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×Ï‘
+m
+java:S1149¼"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(€Ò™Ø
+W	java:S107Ð"<Method has 9 parameters, which is greater than 7 authorized.(É¾Åñúÿÿÿÿ
+X	java:S107Ó"=Method has 13 parameters, which is greater than 7 authorized.(ðÙŸøÿÿÿÿ
+W	java:S107³"<Method has 8 parameters, which is greater than 7 authorized.(¿°™ïþÿÿÿÿ
+X	java:S107Ó"=Method has 12 parameters, which is greater than 7 authorized.(¿°™ïþÿÿÿÿ
+`
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(òÜí‹ýÿÿÿÿ
+H
+java:S1172¼"1Remove this unused method parameter "properties".(€Ò™Ø
+Q
+java:S2209Ô"5Change this instance-reference to a static reference.(«¥ØÜûÿÿÿÿ
+A
+java:S1197Ÿ"*Move the array designators [] to the type.(á“†
+A
+java:S1197»"*Move the array designators [] to the type.( œš­
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(»˜ñÆ
+@
+java:S1197Û"*Move the array designators [] to the type.(´–p
+G
+java:S1481Þ"+Remove this unused "newLUT" local variable.(éâö¦ùÿÿÿÿ
+A
+java:S1481Ì"*Remove this unused "pixel" local variable.(ÏþŸ¿
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(°¨Òƒ
+A
+java:S1197 "*Move the array designators [] to the type.(Ô¾
+Q
+java:S2209Í"5Change this instance-reference to a static reference.(…«‹‹þÿÿÿÿ
+L
+java:S2209Î"5Change this instance-reference to a static reference.(í©²
+W
+java:S1117×";Rename "sstride" which hides the field declared at line 74.(´ÔÂ‹ùÿÿÿÿ
+@
+java:S1197™"*Move the array designators [] to the type.(ëî²+
+F
+java:S1172”"*Remove this unused method parameter "img".(¿°™ïþÿÿÿÿ
+F
+java:S1172³"*Remove this unused method parameter "img".(¿°™ïþÿÿÿÿ
+F
+java:S1172Ó"*Remove this unused method parameter "img".(¿°™ïþÿÿÿÿ
+F
+java:S1172ö"*Remove this unused method parameter "img".(¿°™ïþÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.awt.Transparency'.(«Ö¿õùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.awt.AWTException'.(¾À«Ìþÿÿÿÿ
+j
+java:S1128'"TRemove this unnecessary import: same package classes are always implicitly imported.(­ÆÞ—
+j
+java:S1128("TRemove this unnecessary import: same package classes are always implicitly imported.(”ƒŠ
+j
+java:S1128/"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ¨Òò

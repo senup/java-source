@@ -1,0 +1,48 @@
+
+K
+java:S1066­"/Merge this if statement with the enclosing one.(Û½”­ÿÿÿÿÿ
+F
+java:S1066¾"/Merge this if statement with the enclosing one.(ÃÂÍƒ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²±Ñşÿÿÿÿ
+
+java:S1488|"dImmediately return this expression instead of assigning it to the temporary variable "bytesWritten".(ú¶ÜŒşÿÿÿÿ
+j
+java:S2095”"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ã¶ï÷ıÿÿÿÿ
+X
+java:S1854«"<Remove this useless assignment to local variable "encoding".(Ç§¶Áûÿÿÿÿ
+K
+java:S1481°"/Remove this unused "sampleRate" local variable.( ’•ûıÿÿÿÿ
+I
+java:S1481²"-Remove this unused "channels" local variable.(²º©­şÿÿÿÿ
+J
+java:S1481³".Remove this unused "frameSize" local variable.(Ïòşûùÿÿÿÿ
+E
+java:S1481´".Remove this unused "frameRate" local variable.(Ç²±
+Y
+java:S1854ù"=Remove this useless assignment to local variable "maxLength".(˜Å„Óıÿÿÿÿ
+F
+java:S1197ì"*Move the array designators [] to the type.(â¤™Ûøÿÿÿÿ
+=
+java:S1905ó"&Remove this unnecessary cast to "int".(–ùÇ
+B
+java:S1905÷"&Remove this unnecessary cast to "int".(æˆ’ùÿÿÿÿ
+=
+java:S1905ı"&Remove this unnecessary cast to "int".(–ùÇ
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(áƒı‚ûÿÿÿÿ
+V
+java:S1854™":Remove this useless assignment to local variable "length".(²½À¾ÿÿÿÿÿ
+Y
+java:S1854”"=Remove this useless assignment to local variable "frameRate".(ê×ŒÈùÿÿÿÿ
+=
+java:S1905“"&Remove this unnecessary cast to "int".(¢’•ï
+J
+java:S1481”".Remove this unused "frameRate" local variable.(ê×ŒÈùÿÿÿÿ
+3
+java:S1116•"Remove this empty statement.(ÁÊ­†
+G
+java:S1481™"+Remove this unused "length" local variable.(²½À¾ÿÿÿÿÿ
+F
+java:S1197œ"*Move the array designators [] to the type.(âˆÂÊıÿÿÿÿ
+J
+java:S1905ï".Remove this unnecessary cast to "InputStream".(ƒ²‚àúÿÿÿÿ

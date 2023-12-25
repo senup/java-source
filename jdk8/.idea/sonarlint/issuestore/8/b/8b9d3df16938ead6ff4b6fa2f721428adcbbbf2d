@@ -1,0 +1,33 @@
+
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‹ú þÿÿÿÿ
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊîÀ§øÿÿÿÿ
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(—†—°ÿÿÿÿÿ
+u
+java:S2293ž"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã´âÑÿÿÿÿÿ
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(—†—°ÿÿÿÿÿ
+p
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜Ý›§
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ìÿçûÿÿÿÿ
+X
+java:S4973ƒ"<Strings and Boxed types should be compared using "equals()".(¢úÝ’øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Û«ê
+j
+java:S3824Ö"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿÊªÄûÿÿÿÿ
+j
+java:S3824œ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´“¥€üÿÿÿÿ
+R	java:S107ë"<Method has 8 parameters, which is greater than 7 authorized.(¨‡ºâ
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(ü·â¢
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(ûÒªý
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Òëê±
+P
+java:S2864Œ"4Iterate over the "entrySet" instead of the "keySet".(ÎŒÿÿÿÿÿ
+K
+java:S2864›"4Iterate over the "entrySet" instead of the "keySet".(ãù•˜

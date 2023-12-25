@@ -1,0 +1,130 @@
+
+a	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(Ñ¤Èûÿÿÿÿ
+a	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(˜óŠúøÿÿÿÿ
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(œÛ­
+p
+java:S2293É
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(éò€Õ
+p
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì³û®
+t	java:S135ò"YReduce the total number of break and continue statements in this loop to use at most one.(Ç¹Âùùÿÿÿÿ
+K
+java:S1066Ë"/Merge this if statement with the enclosing one.(½ô·ıÿÿÿÿ
+Q
+java:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604€"(Make this anonymous inner class a lambda(ôÎú
+…
+java:S1488‹"iImmediately return this expression instead of assigning it to the temporary variable "hardwiredFontList".(±‘•“ÿÿÿÿÿ
+
+java:S1488é"eImmediately return this expression instead of assigning it to the temporary variable "theEventQueue".(«‰ò†şÿÿÿÿ
+e
+java:S3014¡"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ó©äŸıÿÿÿÿ
+e
+java:S3014¥"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(µßÄïøÿÿÿÿ
+>
+java:S5411A"(Use a primitive boolean expression here.(àÖ’–
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+d
+java:S2259ø"HA "NullPointerException" could be thrown; "appContext" is nullable here.(·æ¬Øúÿÿÿÿ
+`
+java:S2259†"I"NullPointerException" will be thrown when invoking method "postEvent()".(³×³
+e
+java:S2259¿"I"NullPointerException" will be thrown when invoking method "postEvent()".(õÀ¯°ÿÿÿÿÿ
+]
+java:S2259Î"AA "NullPointerException" could be thrown; "ctx" is nullable here.(“‡ñ­ùÿÿÿÿ
+]
+java:S2259Ä"AA "NullPointerException" could be thrown; "ctx" is nullable here.(“‡ñ­ùÿÿÿÿ
+e
+java:S3824ı"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ó„´
+e
+java:S3824ê"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ˆæÍ
+ƒ
+java:S3008À	"gRename this field "DEFAULT_MODAL_EXCLUSION_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š§º²ùÿÿÿÿ
+=
+java:S1170Š"!Make this final field static too.(ô‘ìäüÿÿÿÿ
+{
+java:S1845ç"dRename field "DESKTOPFONTHINTS" to prevent any misunderstanding/clash with field "desktopFontHints".(èóò—
+O
+java:S5993"9Change the visibility of this constructor to "protected".(â»ıõ
+|
+java:S1149É
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éò€Õ
+L
+java:S2065ó"0Remove the "transient" modifier from this field.(¤åÆêúÿÿÿÿ
+7
+java:S1116D"Remove this empty statement.(ôŸìúÿÿÿÿ
+`
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(€šÿÑûÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(şç´ 
+W
+java:S2274†";Remove this call to "await" or move it into a "while" loop.(´€˜»øÿÿÿÿ
+U	java:S899Œ":Do something with the "boolean" value returned by "await".(É‚¹èûÿÿÿÿ
+W
+java:S2274Œ";Remove this call to "await" or move it into a "while" loop.(É‚¹èûÿÿÿÿ
+8
+java:S1116§"Remove this empty statement.(ôŸìúÿÿÿÿ
+a
+java:S2147»"ECombine this catch with the one at line 440, which has the same body.(ÌæÄıÿÿÿÿ
+\
+java:S2147¾"ECombine this catch with the one at line 440, which has the same body.(™è“î
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(ÆÌñ
+^
+java:S2094Ş"BRemove this empty class, write its code or make it an "interface".(·™ûµúÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(õ÷şß
+?	java:S108ï")Either remove or fill this block of code.(”ı¾
+?	java:S108‚")Either remove or fill this block of code.(”ı¾
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸ôæÙøÿÿÿÿ
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¾Ğë¤ùÿÿÿÿ
+P
+java:S1481ñ"4Remove this unused "bestScaleFactor" local variable.(ÓŸ–½üÿÿÿÿ
+E
+java:S1905°")Remove this unnecessary cast to "double".(ÒÂŒëøÿÿÿÿ
+?
+java:S1905±")Remove this unnecessary cast to "double".(’÷)
+@
+java:S1905´")Remove this unnecessary cast to "double".(€á’
+@
+java:S1905µ")Remove this unnecessary cast to "double".(õÄÏİ
+Y
+java:S1659Ã"CDeclare "region" and all following declarations on a separate line.(êÛ
+V
+java:S1161˜	":Add the "@Override" annotation above this method signature(¯ÅÛùÿÿÿÿ
+|
+java:S1149É
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éò€Õ
+n
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢øÄÚùÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(•ÓÜ‘şÿÿÿÿ
+z
+java:S2142¼"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+z
+java:S2142Ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+;
+java:S1168½"$Return an empty map instead of null.(¥¹ï
+]
+java:S2130Õ"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(á—ƒíùÿÿÿÿ
+;
+java:S1168ë"$Return an empty map instead of null.(¥¹ï
+;
+java:S1168û"$Return an empty map instead of null.(¥¹ï
+;
+java:S1168ƒ"$Return an empty map instead of null.(¥¹ï
+a
+java:S1124¯"EReorder the modifiers to comply with the Java Language Specification.(ŸÆû¸ÿÿÿÿÿ
+@
+java:S1172å")Remove this unused method parameter "gc".(úÿ ™
+P
+java:S3400Ÿ"9Remove this method and declare a constant for this value.(›…Ú
+R
+java:S1128+"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ
+S
+java:S1144±"7Remove this unused private "createLayoutPolicy" method.(ÇËĞúÿÿÿÿ

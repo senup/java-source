@@ -1,0 +1,12 @@
+
+`	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+O
+java:S59935"9Change the visibility of this constructor to "protected".(­Ùè
+_
+java:S3551K"IMake this method "synchronized" to match the parent class implementation.(îïÔñ
+J
+java:S1874T"/Remove this use of "getPeer"; it is deprecated.(‡ù¶‚şÿÿÿÿ
+E
+java:S1874m"/Remove this use of "getPeer"; it is deprecated.(í‘ÕŒ

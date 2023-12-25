@@ -1,0 +1,23 @@
+
+9
+java:S1165E"Make this "msgID" field final.(ÁîëÇıÿÿÿÿ
+@
+java:S1197b"*Move the array designators [] to the type.(§°«„
+O
+java:S1172ˆ"8Remove this unused method parameter "originalException".(™ÏÌ
+A
+java:S1197ˆ"*Move the array designators [] to the type.(™ÏÌ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(Á»›ê
+V
+java:S1161°":Add the "@Override" annotation above this method signature(â«üåşÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(Å«ß«
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(©¸È¥
+D
+java:S1185»"(Remove this method to simply inherit it.(åšòµüÿÿÿÿ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(åšòµüÿÿÿÿ
+D
+java:S1185Ä"(Remove this method to simply inherit it.(å‹ßşÿÿÿÿ
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(å‹ßşÿÿÿÿ

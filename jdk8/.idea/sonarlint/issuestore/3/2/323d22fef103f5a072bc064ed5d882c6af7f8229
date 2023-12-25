@@ -1,0 +1,21 @@
+
+t
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò½¼ƒûÿÿÿÿ
+p
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(—¡¾
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ĞÛ
+Q
+java:S1141ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+D
+java:S1604¯"(Make this anonymous inner class a lambda(×´½Áøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã«¨ğ
+c
+java:S3973Ú"GUse indentation to denote the code conditionally executed by this "if".(‰‘†Ìÿÿÿÿÿ
+U
+java:S11183":Add a private constructor to hide the implicit public one.(å·Ö»ıÿÿÿÿ
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÓŞñ°ûÿÿÿÿ

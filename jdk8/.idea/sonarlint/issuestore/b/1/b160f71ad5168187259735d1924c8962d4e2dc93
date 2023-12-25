@@ -1,0 +1,33 @@
+
+o
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Î¶
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïé¶‘
+s	java:S135M"YReduce the total number of break and continue statements in this loop to use at most one.(ÕÈñúÿÿÿÿ
+m	java:S127R"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜ù÷¦
+n	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜ù÷¦
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜ù÷¦
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜ù÷¦
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(ã÷¯ë
+?
+java:S1604´"(Make this anonymous inner class a lambda(÷—ğÅ
+?
+java:S1604Å"(Make this anonymous inner class a lambda(÷—ğÅ
+?
+java:S1604Ô"(Make this anonymous inner class a lambda(÷—ğÅ
+S
+java:S2589ÿ"7Remove this expression which always evaluates to "true"(ç»ˆÍşÿÿÿÿ
+M
+java:S2589ö"7Remove this expression which always evaluates to "true"(ïøÏ
+m
+java:S3008Ã"VRename this field "BUNDLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿šá
+s
+java:S3008Ä"WRename this field "PROGRAM_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­²ßúÿÿÿÿ
+m
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ó–¨€úÿÿÿÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Õâ«úÿÿÿÿ
+V
+java:S1854ˆ":Remove this useless assignment to local variable "hitEOF".(âúÇ–ùÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¢Ò¥Ëşÿÿÿÿ

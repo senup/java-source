@@ -1,0 +1,186 @@
+
+J
+java:S3740n"/Provide the parametrized type for this generic.(¯Ášàøÿÿÿÿ
+F
+java:S3740õ
+"/Provide the parametrized type for this generic.(Â³“˜
+F
+java:S3740õ
+"/Provide the parametrized type for this generic.(Â³“˜
+K
+java:S3740ø
+"/Provide the parametrized type for this generic.(µƒ»­úÿÿÿÿ
+F
+java:S3740¤"/Provide the parametrized type for this generic.(Éò¾¯
+F
+java:S3740¤"/Provide the parametrized type for this generic.(Éò¾¯
+F
+java:S3740¥"/Provide the parametrized type for this generic.(úÖË¸
+F
+java:S3740Â"/Provide the parametrized type for this generic.(Éò¾¯
+F
+java:S3740Â"/Provide the parametrized type for this generic.(Éò¾¯
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(úÖË¸
+E
+java:S3740"/Provide the parametrized type for this generic.(Ìò’
+K
+java:S3740‚"/Provide the parametrized type for this generic.(À£¯ïúÿÿÿÿ
+K
+java:S1066¢"/Merge this if statement with the enclosing one.(ğì­Èÿÿÿÿÿ
+F
+java:S1066Ñ"/Merge this if statement with the enclosing one.(˜È×û
+F
+java:S1066Ç
+"/Merge this if statement with the enclosing one.(ÿÒúÊ
+K
+java:S1066Ò
+"/Merge this if statement with the enclosing one.(ÿ©ñÏüÿÿÿÿ
+g	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÑà°
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‰‡Ğûÿÿÿÿ
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÏÿğüÿÿÿÿ
+g	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÑ˜
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªâƒøÿÿÿÿ
+l	java:S117ö
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‡®üÿÿÿÿ
+l	java:S117÷
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®®Åşÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıãà
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶à’Á
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ®·°şÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹…†°
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úæ¿¿ıÿÿÿÿ
+g	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıãà
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÓå²øÿÿÿÿ
+?
+java:S1604´"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191C"5Use classes from the Java API instead of Sun classes.(ğ¢ì
+b
+java:S2259„	"KA "NullPointerException" could be thrown; "streamQTables" is nullable here.(¾‡ü
+S	java:S107"=Method has 26 parameters, which is greater than 7 authorized.(ÂŠ»‹
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(ë‚òûÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(ÖÑ¥ìúÿÿÿÿ
+J
+java:S1905Â".Remove this unnecessary cast to "Dimension[]".(ãûœ×şÿÿÿÿ
+=
+java:S1168Ä"&Return an empty array instead of null.(¥¹ï
+L
+java:S1172É"5Remove this unused method parameter "streamMetadata".(­µ³
+Y
+java:S1117Ñ"=Rename "metadata" which hides the field declared at line 139.(ëæœ¯üÿÿÿÿ
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(íîÚå
+o
+java:S3776ó"SRefactor this method to reduce its Cognitive Complexity from 392 to the 15 allowed.(Ëû™³ûÿÿÿÿ
+T
+java:S1854Ô"=Remove this useless assignment to local variable "inputType".(ØãÇ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ùÍŠëùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âµ‘äıÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(¯™©§øÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(“–¥
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(Ñ†ÚÜıÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(°€ë®
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+=	java:S131Ä""Add a default case to this switch.(ÛÕÍŠùÿÿÿÿ
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
+C
+java:S1125¡"'Remove the unnecessary boolean literal.(åº×Èüÿÿÿÿ
+E
+java:S1481Ô".Remove this unused "inputType" local variable.(ØãÇ
+8	java:S131Û""Add a default case to this switch.(ıíŞ‡
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(§¯ØË
+C
+java:S1125Ù"'Remove the unnecessary boolean literal.(°œ…ğıÿÿÿÿ
+C
+java:S1125Û"'Remove the unnecessary boolean literal.(ÁåÓ…úÿÿÿÿ
+C
+java:S1125ù"'Remove the unnecessary boolean literal.(ˆò¨ûÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(èïõóüÿÿÿÿ
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(”™²ê
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(çşÄÃÿÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Şé¿ßşÿÿÿÿ
+>
+java:S1125ï"'Remove the unnecessary boolean literal.(ºÔµï
+>
+java:S1125ú"'Remove the unnecessary boolean literal.(âãé“
+O	java:S106‚	"9Replace this use of System.out or System.err by a logger.(ËÊÑ‚
+Q
+java:S1161 	":Add the "@Override" annotation above this method signature(ÈÔ—ù
+C
+java:S1125¦	"'Remove the unnecessary boolean literal.(»Íá·ùÿÿÿÿ
+V
+java:S1161°	":Add the "@Override" annotation above this method signature(ŞèØåşÿÿÿÿ
+C
+java:S1125µ	"'Remove the unnecessary boolean literal.(»Íá·ùÿÿÿÿ
+V
+java:S1161¾	":Add the "@Override" annotation above this method signature(›ĞÌ¿øÿÿÿÿ
+Q
+java:S1161Ù	":Add the "@Override" annotation above this method signature(¡ÀØ”
+V
+java:S1161ä	":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
+i
+java:S3776ó
+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(èêç
+U
+java:S1155¯">Use isEmpty() to check whether the collection is empty or not.(ğà¡á
+n
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«Æ«ùÿÿÿÿ
+U
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(ğà¡á
+h
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŠçäP
+V
+java:S1854":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
+V
+java:S1854‘":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
+g	java:S128Œ"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
+8	java:S131ú""Add a default case to this switch.(ıíŞ‡
+V
+java:S1854¶":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
+V
+java:S1854¸":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
+g	java:S128³"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
+8	java:S131¡""Add a default case to this switch.(ıíŞ‡
+h
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©§ÁR
+V
+java:S1854ä":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
+V
+java:S1854æ":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
+g	java:S128á"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
+8	java:S131Ï""Add a default case to this switch.(ıíŞ‡
+V
+java:S1854ó":Remove this useless assignment to local variable "vsamp0".(ÈñŞ†ÿÿÿÿÿ
+G
+java:S1481ó"+Remove this unused "vsamp0" local variable.(ÈñŞ†ÿÿÿÿÿ
+a
+java:S1764ö"KCorrect one of the identical sub-expressions on both sides of operator "||"(Í¾¥6
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(œıœ§úÿÿÿÿ
+u	java:S115õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çİæ™øÿÿÿÿ
+u	java:S115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”šË®ùÿÿÿÿ
+n
+java:S2786ô"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(º¿¸˜ıÿÿÿÿ
+M
+java:S1128."7Remove this unused import 'java.awt.image.SampleModel'.(’ïÎÒ
+Q
+java:S1128/"6Remove this unused import 'java.awt.image.DataBuffer'.(İ²Âüÿÿÿÿ
+M
+java:S3398•"1Move this method into "JPEGWriterDisposerRecord".(Ü•—øÿÿÿÿ
+N
+java:S1144œ"2Remove this unused private "getDestCSType" method.(È•‡âûÿÿÿÿ
+N
+java:S1144¬"2Remove this unused private "writeMetadata" method.(ÕóÅœúÿÿÿÿ
+E
+java:S1144Ò"/Remove this unused private "grabPixels" method.(¢ìÌE
+K
+java:S1144®"4Remove this unused private "writeOutputData" method.(ïâçş

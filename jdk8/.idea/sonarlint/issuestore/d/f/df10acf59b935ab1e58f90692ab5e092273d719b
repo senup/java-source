@@ -1,0 +1,65 @@
+
+a	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+a	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(´ä©Óûÿÿÿÿ
+a	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(ŠÄÇûÿÿÿÿ
+a	java:S112â"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+a	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+u
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÁÆÂûÿÿÿÿ
+u
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊêÂƒùÿÿÿÿ
+p
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ—ô×
+
+java:S1192å"qDefine a constant instead of duplicating this literal "unexpected exception computing intetrface hash: " 4 times.(¢ü„²ùÿÿÿÿ
+g
+java:S1192Œ"PDefine a constant instead of duplicating this literal "class.not.found" 5 times.(˜†çá
+t	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(ªŞ“ÿÿÿÿÿ
+o	java:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÜÍ
+s	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(İ…ÁŞÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚ÙÊ¥ùÿÿÿÿ
+o
+java:S1450œ"XRemove the "defRemote" field and declare it as a local variable in the relevant methods.(Œõ”¬
+|
+java:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚ Š§
+r
+java:S1149¶"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÊêÂƒùÿÿÿÿ
+m
+java:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(äëÊ×
+
+java:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ü¯Øãùÿÿÿÿ
+|
+java:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éúö£
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(„ŒÛ®
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(†‰Ğã
+W	java:S125œ"<This block of commented-out lines of code should be removed.(ì›ğÀùÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(Øë†–şÿÿÿÿ
+N	java:S106ì"9Replace this use of System.out or System.err by a logger.(òÏP
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(·ò¥¬ÿÿÿÿÿ
+O	java:S106ò"9Replace this use of System.out or System.err by a logger.(Û®÷â
+h
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(÷¼Ô	
+R	java:S125—"<This block of commented-out lines of code should be removed.(í•†î
+R
+java:S1119«";Refactor the code to remove this label and the need for it.(èŒ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(ĞÂÑ…ûÿÿÿÿ
+[
+java:S2147æ"ECombine this catch with the one at line 611, which has the same body.(ÿÒ„p
+@
+java:S1197Õ"*Move the array designators [] to the type.(‘”:
+F
+java:S1197ß"*Move the array designators [] to the type.(×Ğ¾ôùÿÿÿÿ
+|
+java:S1149™"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿ—ô×
+i
+java:S2975ş"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+[
+java:S2147ä"ECombine this catch with the one at line 865, which has the same body.(ÿÒ„p
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(È¸«ºÿÿÿÿÿ
+F
+java:S1197İ"*Move the array designators [] to the type.(×Ğ¾ôùÿÿÿÿ

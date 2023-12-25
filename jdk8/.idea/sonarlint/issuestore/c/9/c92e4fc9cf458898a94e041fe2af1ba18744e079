@@ -1,0 +1,25 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+>
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+`
+java:S1124["EReorder the modifiers to comply with the Java Language Specification.(ñ¹³ëùÿÿÿÿ
+`
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(”šĞ´ÿÿÿÿÿ
+‡
+java:S1130l"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(±İ©ûûÿÿÿÿ
+V
+java:S1172l";Remove these unused method parameters "aStream", "bStream".(±İ©ûûÿÿÿÿ
+F
+java:S1197…"*Move the array designators [] to the type.(²Ì´ıøÿÿÿÿ
+K
+java:S1481™"/Remove this unused "totalBytes" local variable.(ßÌ”¦øÿÿÿÿ
+X
+java:S1195º"<Move the array designators [] to the end of the return type.(·Œ‘¿ùÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(˜îğ‘şÿÿÿÿ
+G
+java:S1874¿"0Remove this use of "getBytes"; it is deprecated.(çÔ•Ö
+S
+java:S1195É"<Move the array designators [] to the end of the return type.(Áı¡

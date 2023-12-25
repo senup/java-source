@@ -1,0 +1,15 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+{
+java:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘¸îûşÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(ÊÓ„ÿÿÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(ÊÓ„ÿÿÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+{
+java:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘¸îûşÿÿÿÿ
+^
+java:S1128!"CRemove this unused import 'sun.java2d.pipe.hw.ContextCapabilities'.(±ÙŠ¬øÿÿÿÿ
+0
+java:S2183¬"Remove this useless shift(Ë±‰‚

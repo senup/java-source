@@ -1,0 +1,160 @@
+
+k
+java:S1192ü	"ODefine a constant instead of duplicating this literal "beginRowAction" 8 times.(Ååï“şÿÿÿÿ
+d
+java:S1192•"MDefine a constant instead of duplicating this literal "endRowAction" 8 times.(°†Ñ”
+b
+java:S1192Õ"FDefine a constant instead of duplicating this literal "check" 3 times.(Šà¶üÿÿÿÿ
+Q
+java:S1141Ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+~
+java:S1488¿"bImmediately return this expression instead of assigning it to the temporary variable "notifsInfo".(¥¿Š†şÿÿÿÿ
+S
+java:S2589†"7Remove this expression which always evaluates to "true"(Ó¡ëøÿÿÿÿ
+S
+java:S2589¡"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
+S
+java:S2589•"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
+N
+java:S2589£"7Remove this expression which always evaluates to "true"(³ Êª
+N
+java:S2589î"7Remove this expression which always evaluates to "true"(³ Êª
+S
+java:S2589ù"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
+N
+java:S2589—"7Remove this expression which always evaluates to "true"(³ Êª
+N
+java:S2589û"7Remove this expression which always evaluates to "true"(³ Êª
+S
+java:S2589±"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
+N
+java:S2589Œ"7Remove this expression which always evaluates to "true"(­Ê¬
+S
+java:S2589ì"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
+N
+java:S2589³"7Remove this expression which always evaluates to "true"(³ Êª
+[
+java:S2583Ä"DChange this condition so that it does not always evaluate to "false"(¤€
+j
+java:S3824‡"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´ÁÈùÿÿÿÿ
+p	java:S115Ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡·Åì
+O
+java:S5993a"9Change the visibility of this constructor to "protected".(àÒ’–
+E
+java:S1948Á")Make "factory" transient or serializable.(Ñ½‰çûÿÿÿÿ
+E
+java:S1948ñ"/Make "handbackTable" transient or serializable.(£ãÎ
+D
+java:S1948ø"-Make "filterTable" transient or serializable.(¤á²À
+
+java:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´ÁÈùÿÿÿÿ
+
+java:S1149ˆ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŒÔ©ıÿÿÿÿ
+|
+java:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ‹”Î
+|
+java:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ‹”Î
+
+java:S1149±"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰ÖàÜüÿÿÿÿ
+
+java:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şĞø†øÿÿÿÿ
+
+java:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œ–°µüÿÿÿÿ
+l
+java:S1149ñ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£ãÎ
+r
+java:S1149÷"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“èêÙÿÿÿÿÿ
+W	java:S107œ"<Method has 8 parameters, which is greater than 7 authorized.(İìîÂùÿÿÿÿ
+Q
+java:S6213˜":Rename this variable to not match a restricted identifier.(ğ“Å»
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ó±ò¬
+i
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‰¼•í
+C
+java:S1125å"'Remove the unnecessary boolean literal.(‘ÚÈÏøÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(Ô‹¼¹ÿÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Ô‹¼¹ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(å£Öêøÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(ÃÁò’
+Q
+java:S6213÷":Rename this variable to not match a restricted identifier.(•Á¢ 
+u
+java:S3252ä"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+i
+java:S3776ï	"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(úÖæĞ
+l
+java:S3252ÿ	"PUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNoAccess".(Êòœãûÿÿÿÿ
+l
+java:S3252–
+"PUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNoAccess".(Üœæóıÿÿÿÿ
+u
+java:S3252¡
+"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+l
+java:S3252µ
+"PUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNoAccess".(Êòœãûÿÿÿÿ
+u
+java:S3252Ä
+"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+u
+java:S3252Ñ
+"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(µ”€ùûÿÿÿÿ
+u
+java:S3252à"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+Q
+java:S6213‰":Rename this variable to not match a restricted identifier.(ø­ı°
+Q
+java:S6213¯":Rename this variable to not match a restricted identifier.(ø­ı°
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(©‘üä
+W	java:S125ê"<This block of commented-out lines of code should be removed.(‘úøÿÿÿÿ
+Q	java:S125‹"<This block of commented-out lines of code should be removed.(òóİ
+\
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(ìİ«º
+Q
+java:S6213©":Rename this variable to not match a restricted identifier.(ìİ«º
+a
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(üÛ©­ùÿÿÿÿ
+V
+java:S6213¾":Rename this variable to not match a restricted identifier.(üÛ©­ùÿÿÿÿ
+\
+java:S1124Ô"EReorder the modifiers to comply with the Java Language Specification.(âéâ¨
+Q
+java:S6213Ô":Rename this variable to not match a restricted identifier.(âéâ¨
+a
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(»Ó·šûÿÿÿÿ
+\
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(ñÿ‰
+a
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(ƒËƒ—úÿÿÿÿ
+e
+java:S3252¿"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(ßü«Û
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(Èø‰†
+l
+java:S3252Ş"PUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNoAccess".(–Ùç©øÿÿÿÿ
+Q
+java:S6213á":Rename this variable to not match a restricted identifier.(çòœá
+V
+java:S6213’":Rename this variable to not match a restricted identifier.(ˆÌ’Õøÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "oid".(›Áı–üÿÿÿÿ
+Q
+java:S6213 ":Rename this variable to not match a restricted identifier.(ŠÎô±
+Q	java:S125´"<This block of commented-out lines of code should be removed.(è¯ğI
+R	java:S125"<This block of commented-out lines of code should be removed.(Š˜Ô×
+W	java:S125“"<This block of commented-out lines of code should be removed.(âªß§şÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Üßç
+C
+java:S1125"'Remove the unnecessary boolean literal.(äˆ£¬ıÿÿÿÿ
+o
+java:S3252Á"SUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNotWritable".(²Àèïûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(âªß§şÿÿÿÿ
+\
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(‡·Åì
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(šèß«
+R	java:S125×"<This block of commented-out lines of code should be removed.(úŸíĞ
+@
+java:S1197Û"*Move the array designators [] to the type.(¦†©9
+R	java:S125ì"<This block of commented-out lines of code should be removed.(óŞó

@@ -1,0 +1,26 @@
+
+K
+java:S3740€"/Provide the parametrized type for this generic.(Ð™Ì´øÿÿÿÿ
+o
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùûî×
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(÷´·™ûÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.( ‘™¶þÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ï£þÜùÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ÂÎ­±
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Á·ÄÝ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(‰¦ßý
+m
+java:S3776o"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(€öê™úÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(Á·ÄÝ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(“–ýþ
+=
+java:S2129ª"!Remove this "Integer" constructor(³ºüÈÿÿÿÿÿ
+i
+java:S1871­"MThis branch's code block is the same as the block for the branch on line 171.(ôÁì‰ûÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(‰¦ßý

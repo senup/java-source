@@ -1,0 +1,30 @@
+
+>
+java:S1604j"(Make this anonymous inner class a lambda(’­Ûü
+>
+java:S1604y"(Make this anonymous inner class a lambda(’­Ûü
+t
+java:S1488í"]Immediately return this expression instead of assigning it to the temporary variable "value".(Î¤«Û
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+d
+java:S2095µ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€µÒÈ
+l
+java:S2095š"UUse try-with-resources or close this "StringBufferInputStream" in a "finally" clause.(ìŞè®
+E
+java:S1197R"*Move the array designators [] to the type.(ĞÕ•ıÿÿÿÿ
+V
+java:S1874š"?Remove this use of "StringBufferInputStream"; it is deprecated.(ìŞè®
+V
+java:S1874š"?Remove this use of "StringBufferInputStream"; it is deprecated.(ìŞè®
+?	java:S108")Either remove or fill this block of code.(Æâ­ê
+J
+java:S1481§".Remove this unused "fileProps" local variable.(ŸÃ–ÿÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(İ Ãñ
+a
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(í÷¾×úÿÿÿÿ
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(úÑÛ
+a
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(»û‚¦ùÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(ûÍÙ‘ÿÿÿÿÿ

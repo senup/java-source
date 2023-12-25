@@ -1,0 +1,25 @@
+
+D
+java:S1121o".Extract the assignment out of this expression.(ÆÙßÍ
+s	java:S135?"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+E
+java:S1066B"/Merge this if statement with the enclosing one.(Ý×õˆ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+n	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±„=
+€
+java:S1149-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼Êö©ÿÿÿÿÿ
+z
+java:S11498"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ÷Ùøûÿÿÿÿ
+|
+java:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âƒõÙ
+g
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ˆ©Ù<
+]
+java:S1854d"BRemove this useless assignment to local variable "continuingCode".(Ï¶î÷úÿÿÿÿ
+1
+java:S3626a"Remove this redundant jump.(ÉŠ©ƒ
+1
+java:S3626i"Remove this redundant jump.(ÉŠ©ƒ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ëÕ®úÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ü™™’

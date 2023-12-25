@@ -1,0 +1,99 @@
+
+K
+java:S1066™"/Merge this if statement with the enclosing one.(¤ìŸºÿÿÿÿÿ
+F
+java:S1066½"/Merge this if statement with the enclosing one.(¾ŒÄ
+D
+java:S1604‹"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ËÖñ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¸ÉÊ¥øÿÿÿÿ
+`
+java:S2583¯"DChange this condition so that it does not always evaluate to "false"(Æ¢ı’şÿÿÿÿ
+o	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÁèÙ 
+o	java:S115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯”ıš
+n	java:S115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çïç
+˜
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­úˆË
+˜
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÛ—
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÓ¬™
+
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı‚Şùÿÿÿÿ
+˜
+java:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢«Óƒ
+-
+java:S2176D"Rename this class.(Û ñêúÿÿÿÿ
+W
+java:S1075r"ARefactor your code to get this URI from a customizable parameter.(ÁèÙ 
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(ĞÚŞ´
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(ã–Èõ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(²‚ı²ùÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(é©¤ùÿÿÿÿ
+U
+java:S1117Ô"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(¼³¹™
+U
+java:S1117ğ"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(·ø
+=
+java:S1872­"'Use an "instanceof" comparison instead.(ŞŒüA
+^
+java:S1126Û"BReplace this if-then-else statement by a single method invocation.(Ï·éğüÿÿÿÿ
+>
+java:S1125ã"'Remove the unnecessary boolean literal.(«º
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(£çşêÿÿÿÿÿ
+M
+java:S2696û"6Make the enclosing method "static" or remove this set.(Ì±¤˜
+R
+java:S2696„"6Make the enclosing method "static" or remove this set.(÷ §ûÿÿÿÿ
+R
+java:S2696í"6Make the enclosing method "static" or remove this set.(¼Ø„Éúÿÿÿÿ
+h
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ğÑÁj
+?	java:S108›")Either remove or fill this block of code.(’ú—§
+?	java:S108Ô")Either remove or fill this block of code.(’ú—§
+i
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²õ¾
+Q
+java:S1161ä":Add the "@Override" annotation above this method signature(²õ¾
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“İœøüÿÿÿÿ
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(“İœøüÿÿÿÿ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(çæØ—
+U
+java:S1117È"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+Q
+java:S1161Õ":Add the "@Override" annotation above this method signature(ßé§Ä
+U
+java:S1117Ö"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(€¾õè
+U
+java:S1117ã"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+U
+java:S1117ğ"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+U
+java:S1117•"?Rename "inputMethod" which hides the field declared at line 78.(ÈÔ©z
+e
+java:S4201–"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ò¹ÁÙşÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆºÂİøÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ÒÄ±×
+M
+java:S2696‘"6Make the enclosing method "static" or remove this set.(Åü­¿
+M
+java:S2696–"6Make the enclosing method "static" or remove this set.(Åü­¿
+D	java:S108§")Either remove or fill this block of code.(Öşäµùÿÿÿÿ

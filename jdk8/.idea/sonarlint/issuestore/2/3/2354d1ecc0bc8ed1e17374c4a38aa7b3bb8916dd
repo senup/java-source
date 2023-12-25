@@ -1,0 +1,49 @@
+
+a	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.( †£ıÿÿÿÿ
+p
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÎşŠ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÎşŠ
+p
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¼éÁ
+^
+java:S1192¥"GDefine a constant instead of duplicating this literal "empty" 10 times.(˜éà¡
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+T
+java:S5993m"9Change the visibility of this constructor to "protected".(ŒÌ¡„ùÿÿÿÿ
+\
+java:S2147¦"ECombine this catch with the one at line 164, which has the same body.(‚°„–
+\
+java:S2147¨"ECombine this catch with the one at line 164, which has the same body.(Ãôş•
+\
+java:S2147ª"ECombine this catch with the one at line 164, which has the same body.(¶ùø
+=
+java:S1168£"&Return an empty array instead of null.(¥¹ï
+\
+java:S2147ä"ECombine this catch with the one at line 226, which has the same body.(Ãôş•
+=
+java:S1168à"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÿØŞûøÿÿÿÿ
+V
+java:S1117û":Rename "writer" which hides the field declared at line 97.(»Ó®Äÿÿÿÿÿ
+[
+java:S1117ü"?Rename "excludeNode" which hides the field declared at line 96.(Ÿ´Óùÿÿÿÿ
+Z
+java:S1117ı"CRename "includeComments" which hides the field declared at line 89.(””É›
+\
+java:S2147ù"ECombine this catch with the one at line 375, which has the same body.(Ãôş•
+=
+java:S1168ö"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(‹£…
+V
+java:S1117–":Rename "writer" which hides the field declared at line 97.(Øïèˆûÿÿÿÿ
+]
+java:S1126¿"AReplace this if-then-else statement by a single return statement.(è«Õ»ùÿÿÿÿ
+i
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Éû–ï

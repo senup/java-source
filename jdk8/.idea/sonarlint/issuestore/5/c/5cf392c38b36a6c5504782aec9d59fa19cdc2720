@@ -1,0 +1,87 @@
+
+Š
+java:S1192Š"sDefine a constant instead of duplicating this literal "\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD" 869 times.(í½Ë»
+›
+java:S1192Æ"Define a constant instead of duplicating this literal "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000" 570 times.(¼×§şÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+N
+java:S2589Ö"7Remove this expression which always evaluates to "true"(ö¦¬ÿ
+p	java:S115Ü"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–Æ‹Ù
+p	java:S115İ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê†Á½
+p	java:S115Ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡Ëà
+u	java:S115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„®ıºøÿÿÿÿ
+b	java:S116C"MRename this field "G0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûôË³
+b	java:S116D"MRename this field "G1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÊÁ‘
+b	java:S116E"MRename this field "G2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿öğ
+g	java:S116F"MRename this field "G3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¾ğ¼şÿÿÿÿ
+g	java:S116G"MRename this field "G4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñãÔ¸øÿÿÿÿ
+c	java:S116H"NRename this field "SS2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼¥­
+c	java:S116I"NRename this field "SS3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿áÎ¯
+7
+java:S1170C"!Make this final field static too.(ûôË³
+7
+java:S1170D"!Make this final field static too.(ŸÊÁ‘
+7
+java:S1170E"!Make this final field static too.(¿öğ
+<
+java:S1170F"!Make this final field static too.(Ø¾ğ¼şÿÿÿÿ
+<
+java:S1170G"!Make this final field static too.(ñãÔ¸øÿÿÿÿ
+7
+java:S1170H"!Make this final field static too.(¶¼¥­
+7
+java:S1170I"!Make this final field static too.(¿áÎ¯
+>
+java:S1659K"#Declare "state" on a separate line.(ÒÉíİúÿÿÿÿ
+h
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ú¶îå
+>
+java:S1659_"#Declare "byte2" on a separate line.(ÑíÓàûÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(É˜î³
+?
+java:S1659"#Declare "byte2" on a separate line.(ÑíÓàûÿÿÿÿ
+>
+java:S1125Ö"'Remove the unnecessary boolean literal.(ö¦¬ÿ
+\
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(–Æ‹Ù
+\
+java:S1124İ"EReorder the modifiers to comply with the Java Language Specification.(Ê†Á½
+\
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(‡Ëà
+a
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(„®ıºøÿÿÿÿ
+u	java:S115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â‚Æüÿÿÿÿ
+u	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÿÏ†üÿÿÿÿ
+u	java:S115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÑçóıÿÿÿÿ
+M
+java:S2387»"6"index1" is the name of a field in "SimpleEUCEncoder".(¬÷®¹
+R
+java:S2387¿"6"index2" is the name of a field in "SimpleEUCEncoder".(Â‚Æüÿÿÿÿ
+S
+java:S2387À"7"index2a" is the name of a field in "SimpleEUCEncoder".(ïÿÏ†üÿÿÿÿ
+S
+java:S2387Á"7"index2b" is the name of a field in "SimpleEUCEncoder".(îÑçóıÿÿÿÿ
+A
+java:S1197»"*Move the array designators [] to the type.(¬÷®¹
+a
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(Â‚Æüÿÿÿÿ
+a
+java:S1124À"EReorder the modifiers to comply with the Java Language Specification.(ïÿÏ†üÿÿÿÿ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(îÑçóıÿÿÿÿ
+<
+java:S1068C"&Remove this unused "G0" private field.(ûôË³
+<
+java:S1068D"&Remove this unused "G1" private field.(ŸÊÁ‘
+<
+java:S1068E"&Remove this unused "G2" private field.(¿öğ
+A
+java:S1068F"&Remove this unused "G3" private field.(Ø¾ğ¼şÿÿÿÿ
+A
+java:S1068G"&Remove this unused "G4" private field.(ñãÔ¸øÿÿÿÿ
+H
+java:S1068K"-Remove this unused "firstByte" private field.(ÒÉíİúÿÿÿÿ
+D
+java:S1068K")Remove this unused "state" private field.(ÒÉíİúÿÿÿÿ

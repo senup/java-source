@@ -1,0 +1,8 @@
+
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.( ÍâÔ
+R
+java:S18741"7Remove this use of "UCharacterEnums"; it is deprecated.(ÆÁ˜ýþÿÿÿÿ
+V
+java:S18741";Remove this use of "ECharacterDirection"; it is deprecated.(ÆÁ˜ýþÿÿÿÿ
+<	java:S131D""Add a default case to this switch.(ßõàíúÿÿÿÿ

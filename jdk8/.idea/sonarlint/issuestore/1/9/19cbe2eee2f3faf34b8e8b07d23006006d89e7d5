@@ -1,0 +1,21 @@
+
+o
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(æĞˆ¨
+‡
+java:S1192˜"pDefine a constant instead of duplicating this literal "Referral context not an instance of LdapContext" 7 times.(ÌÕÖ
+D
+java:S1121B".Extract the assignment out of this expression.(íƒí
+s	java:S135["YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¸ü”ÿÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Êƒüÿÿÿÿ
+r
+java:S14504"WRemove the "hopCount" field and declare it as a local variable in the relevant methods.(ÊÒèÂıÿÿÿÿ
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÁÇĞ­ùÿÿÿÿ
+e
+java:S4201Ä"IRemove this unnecessary null check; "instanceof" returns false for nulls.(İ¤®ãşÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(²¼•ó
+–
+java:S1130ş"zRemove the declaration of thrown exception 'javax.naming.InvalidNameException', as it cannot be thrown from method's body.(‘ÀÛÔıÿÿÿÿ
+G
+java:S10684",Remove this unused "hopCount" private field.(ÊÒèÂıÿÿÿÿ

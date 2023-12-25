@@ -1,0 +1,15 @@
+
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Íâ–þÿÿÿÿ
+D
+java:S1066`"/Merge this if statement with the enclosing one.(œ»þ
+8
+java:S1643³"Use a StringBuilder instead.(º€¶îøÿÿÿÿ
+8
+java:S1643´"Use a StringBuilder instead.(ô¡þ¶þÿÿÿÿ
+i
+java:S3824k"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÖÑêùÿÿÿÿ
+h
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(þ‚«Ì
+Y
+java:S3252H">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(úÆÜ¼ûÿÿÿÿ

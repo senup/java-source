@@ -1,0 +1,88 @@
+
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ı˜
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãüš—
+g
+java:S1301Ê"KReplace this "switch" statement by "if" statements to increase readability.(»ÿÃùÿÿÿÿ
+b
+java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+g
+java:S1301ñ"KReplace this "switch" statement by "if" statements to increase readability.(ùÙ‘úÿÿÿÿ
+g
+java:S1301¹"KReplace this "switch" statement by "if" statements to increase readability.(ùÙ‘úÿÿÿÿ
+8
+java:S1643¹	"Use a StringBuilder instead.(úİµşÿÿÿÿ
+2
+java:S1643¼	"Use a StringBuilder instead.(Ë—y
+8
+java:S1643¿	"Use a StringBuilder instead.(ƒ“¢ûûÿÿÿÿ
+3
+java:S1643Â	"Use a StringBuilder instead.(’Çàù
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+[
+java:S1659X"@Declare "sy0" and all following declarations on a separate line.(İÅ®üÿÿÿÿ
+V
+java:S1659Z"@Declare "cy0" and all following declarations on a separate line.(‘¹×†
+[
+java:S1659a"@Declare "smy" and all following declarations on a separate line.(³¢şáüÿÿÿÿ
+W	java:S107£"<Method has 8 parameters, which is greater than 7 authorized.(‘—û‰øÿÿÿÿ
+X	java:S107¤"=Method has 10 parameters, which is greater than 7 authorized.(İ¥¥“ıÿÿÿÿ
+S	java:S107¶"=Method has 11 parameters, which is greater than 7 authorized.(ÎŒ¿ 
+W	java:S107ß"<Method has 9 parameters, which is greater than 7 authorized.(˜ì…‡ùÿÿÿÿ
+S	java:S107ï"=Method has 10 parameters, which is greater than 7 authorized.(Û“¼Ö
+H
+java:S1135#"2Complete the task associated to this TODO comment.(›¡Ê¹
+=	java:S131Ê""Add a default case to this switch.(»ÿÃùÿÿÿÿ
+<
+java:S1659İ" Declare "ny" on a separate line.(™…øüÿÿÿÿ
+8
+java:S1659à"!Declare "mmy" on a separate line.(±ıŒ¬
+R	java:S125â"<This block of commented-out lines of code should be removed.(µ©Øš
+7
+java:S1659­" Declare "y1" on a separate line.(Ã¼şì
+<
+java:S1659®" Declare "y2" on a separate line.(ÆÖ¹Œøÿÿÿÿ
+6
+java:S1659¯" Declare "y3" on a separate line.(Õ¤-
+<
+java:S1659°" Declare "y4" on a separate line.(íª«¦üÿÿÿÿ
+9
+java:S1659É""Declare "l4sq" on a separate line.(¦ùŸ
+=
+java:S1659‚"!Declare "dym" on a separate line.(Îó²ûÿÿÿÿ
+W
+java:S1659˜"@Declare "y2p" and all following declarations on a separate line.(Ú»®Š
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(†¿»ö
+7
+java:S1659¼" Declare "y1" on a separate line.(Ã¼şì
+<
+java:S1659½" Declare "y2" on a separate line.(ÆÖ¹Œøÿÿÿÿ
+6
+java:S1659¾" Declare "y3" on a separate line.(Õ¤-
+N
+java:S1135Š"2Complete the task associated to this TODO comment.(şÊ€Èøÿÿÿÿ
+8	java:S131‰""Add a default case to this switch.(ÜŸ•
+h
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Õ˜V
+<
+java:S1659¸" Declare "yf" on a separate line.(†•±şÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¿ã„ûÿÿÿÿ
+I
+java:S1135µ"2Complete the task associated to this TODO comment.(­¨áˆ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¿ã„ûÿÿÿÿ
+I
+java:S1135µ"2Complete the task associated to this TODO comment.(­¨áˆ
+=	java:S131ñ""Add a default case to this switch.(ùÙ‘úÿÿÿÿ
+<
+java:S1659" Declare "yf" on a separate line.(“éÉúıÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¿ã„ûÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(­¨áˆ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¿ã„ûÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(­¨áˆ
+=	java:S131¹""Add a default case to this switch.(ùÙ‘úÿÿÿÿ
+8	java:S131Ÿ	""Add a default case to this switch.(ÜŸ•
+O
+java:S1117²	"9Rename "end" which hides the field declared at line 1111.(›É¶q
+8	java:S131·	""Add a default case to this switch.(ÜŸ•

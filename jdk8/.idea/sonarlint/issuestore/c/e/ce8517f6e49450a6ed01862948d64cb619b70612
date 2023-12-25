@@ -1,0 +1,339 @@
+
+Q
+java:S1121Ó".Extract the assignment out of this expression.(È½šÍúÿÿÿÿ8—ô†“Ç1
+Q
+java:S1121á".Extract the assignment out of this expression.(Ž£ëÜüÿÿÿÿ8—ô†“Ç1
+Q
+java:S1121â".Extract the assignment out of this expression.(åˆ»·ùÿÿÿÿ8—ô†“Ç1
+Q
+java:S1121÷".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8˜ô†“Ç1
+Q
+java:S1121ù".Extract the assignment out of this expression.(žû›µüÿÿÿÿ8˜ô†“Ç1
+Q
+java:S1121ƒ".Extract the assignment out of this expression.(Ñ¸µþÿÿÿÿ8˜ô†“Ç1
+L
+java:S1121½".Extract the assignment out of this expression.(ø°¼ˆ8˜ô†“Ç1
+L
+java:S1121—".Extract the assignment out of this expression.(Áã‚­8˜ô†“Ç1
+L
+java:S1121Æ".Extract the assignment out of this expression.(òææÿ8˜ô†“Ç1
+L
+java:S1121ó".Extract the assignment out of this expression.(«µêö8˜ô†“Ç1
+Q
+java:S1121Ö".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8˜ô†“Ç1
+Q
+java:S1121×".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ8˜ô†“Ç1
+L
+java:S1121Ù".Extract the assignment out of this expression.(¡ç…ž8˜ô†“Ç1
+Q
+java:S1121 	".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8˜ô†“Ç1
+Q
+java:S1121¡	".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ8˜ô†“Ç1
+L
+java:S1121£	".Extract the assignment out of this expression.(¡ç…ž8˜ô†“Ç1
+Q
+java:S1121×	".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8™ô†“Ç1
+Q
+java:S1121Ø	".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ8™ô†“Ç1
+L
+java:S1121Ú	".Extract the assignment out of this expression.(¡ç…ž8™ô†“Ç1
+L
+java:S1121¥".Extract the assignment out of this expression.(Ñ‡‹à8™ô†“Ç1
+Q
+java:S1121ù".Extract the assignment out of this expression.(Æ¹°¼þÿÿÿÿ8™ô†“Ç1
+Q
+java:S1121ù".Extract the assignment out of this expression.(Æ¹°¼þÿÿÿÿ8™ô†“Ç1
+L
+java:S1121Á".Extract the assignment out of this expression.(ÿà°‡8™ô†“Ç1
+L
+java:S1121Á".Extract the assignment out of this expression.(ÿà°‡8™ô†“Ç1
+L
+java:S1121ˆ".Extract the assignment out of this expression.(¸Û‚Ï8™ô†“Ç1
+L
+java:S1121ˆ".Extract the assignment out of this expression.(¸Û‚Ï8™ô†“Ç1
+Q
+java:S1121‹".Extract the assignment out of this expression.(»ëñûÿÿÿÿ8™ô†“Ç1
+Q
+java:S1121".Extract the assignment out of this expression.(˜ö–ðøÿÿÿÿ8™ô†“Ç1
+Q
+java:S1121Ž".Extract the assignment out of this expression.(ÌÉÒÃüÿÿÿÿ8™ô†“Ç1
+L
+java:S1121".Extract the assignment out of this expression.(Ê–á¨8šô†“Ç1
+L
+java:S1121Ÿ".Extract the assignment out of this expression.(ðÃÜê8šô†“Ç1
+Q
+java:S1121 ".Extract the assignment out of this expression.(Ùÿ÷°øÿÿÿÿ8šô†“Ç1
+L
+java:S1121¾".Extract the assignment out of this expression.(€¬¡‘8šô†“Ç1
+Q
+java:S1121Ó".Extract the assignment out of this expression.(ùõ©‡ûÿÿÿÿ8šô†“Ç1
+v	java:S135‡"YReduce the total number of break and continue statements in this loop to use at most one.(ÒŸƒÝ8›ô†“Ç1
+z	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(òŒöÿÿÿÿÿ8œô†“Ç1
+z	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(É„”Ÿüÿÿÿÿ8œô†“Ç1
+z	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ÆãÛýÿÿÿÿ8œô†“Ç1
+u	java:S127‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª8ô†“Ç1
+u	java:S127Ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª8ô†“Ç1
+z	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(™¦ÀŸøÿÿÿÿ8ô†“Ç1
+z	java:S127¯"XRefactor the code in order to not assign to this loop counter from within the loop body.(û©¡ÿúÿÿÿÿ8ô†“Ç1
+z	java:S127³"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘–Ø‚úÿÿÿÿ8ô†“Ç1
+u	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(šåÅ­8ô†“Ç1
+u	java:S127¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ‘‹­8ô†“Ç1
+u	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8ô†“Ç1
+u	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8ô†“Ç1
+u	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8ô†“Ç1
+u	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8ô†“Ç1
+u	java:S127ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÆ±Ã8ô†“Ç1
+u	java:S127ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(å˜’á8ô†“Ç1
+z	java:S127ð"XRefactor the code in order to not assign to this loop counter from within the loop body.(òæ®úÿÿÿÿ8ô†“Ç1
+z	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ8ô†“Ç1
+z	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ8žô†“Ç1
+z	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌÞùÿÿÿÿ8žô†“Ç1
+z	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌÞùÿÿÿÿ8žô†“Ç1
+u	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ8žô†“Ç1
+u	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ8žô†“Ç1
+z	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìþÿÿÿÿ8žô†“Ç1
+z	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìþÿÿÿÿ8žô†“Ç1
+u
+java:S2259Ð"R"NullPointerException" will be thrown when invoking method "compareComparables()".(ª¥è úÿÿÿÿ8º…‡“Ç1
+g
+java:S2583š"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8º…‡“Ç1
+g
+java:S2583
+"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8º…‡“Ç1
+g
+java:S2583Û"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8º…‡“Ç1
+g
+java:S2583 
+"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8º…‡“Ç1
+g
+java:S2583¯"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8º…‡“Ç1
+¤
+java:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿û»Ïÿÿÿÿÿ8¼…‡“Ç1
+Ÿ
+java:S1186ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥‰‚š8¼…‡“Ç1
+¤
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¶’ùÿÿÿÿ8½…‡“Ç1
+I
+java:S2160‰"+Override the "equals" method in this class.(Ùß“8½…‡“Ç1
+b
+java:S1659Ü"?Declare "ts" and all following declarations on a separate line.(ÐµÃÐüÿÿÿÿ8Í…‡“Ç1
+g
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ž†ÁŸüÿÿÿÿ8Ï…‡“Ç1
+K
+java:S1905ø"(Remove this unnecessary cast to "float".(îž¯æüÿÿÿÿ8Ô…‡“Ç1
+F
+java:S1905ù"(Remove this unnecessary cast to "float".(í™Í±8Ô…‡“Ç1
+X
+java:S1161":Add the "@Override" annotation above this method signature(‚¨—£8Ö…‡“Ç1
+X
+java:S1161–":Add the "@Override" annotation above this method signature(ûÄ•8Ö…‡“Ç1
+]
+java:S1161«":Add the "@Override" annotation above this method signature(ÉŽ±»ûÿÿÿÿ8Ö…‡“Ç1
+u
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(„ëÊ’úÿÿÿÿ8×…‡“Ç1
+`
+java:S1659¸"BDeclare "first" and all following declarations on a separate line.(íµÛ8Ø…‡“Ç1
+]
+java:S1161Ó":Add the "@Override" annotation above this method signature(ô·ŒÛøÿÿÿÿ8Ù…‡“Ç1
+X
+java:S1161ã":Add the "@Override" annotation above this method signature(µ„Ô›8Ù…‡“Ç1
+p
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ó‹ÕÔ8Ý…‡“Ç1
+\
+java:S1659ô">Declare "p" and all following declarations on a separate line.(œ¶Öž8Ý…‡“Ç1
+B
+java:S1659ý"Declare "k" on a separate line.(Í¶­øÿÿÿÿ8Þ…‡“Ç1
+u
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(Ž—âúÿÿÿÿ8à…‡“Ç1
+A
+java:S1659µ"$Declare "newThr" on a separate line.(üñ­8á…‡“Ç1
+K
+java:S1905Æ"(Remove this unnecessary cast to "float".(½Éóûÿÿÿÿ8â…‡“Ç1
+F
+java:S1905Ç"(Remove this unnecessary cast to "float".(ýû†Ú8â…‡“Ç1
+L
+java:S1905Ì")Remove this unnecessary cast to "Node[]".(Øª¬ûÿÿÿÿ8â…‡“Ç1
+G
+java:S1659Ø"$Declare "loTail" on a separate line.(œ¸ë•þÿÿÿÿ8ã…‡“Ç1
+G
+java:S1659Ù"$Declare "hiTail" on a separate line.(¡×üÊûÿÿÿÿ8ã…‡“Ç1
+`
+java:S1659€"BDeclare "index" and all following declarations on a separate line.(¬‘œù8ä…‡“Ç1
+C
+java:S1659„" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ8å…‡“Ç1
+]
+java:S1161œ":Add the "@Override" annotation above this method signature(ÏÇêºúÿÿÿÿ8å…‡“Ç1
+]
+java:S1161©":Add the "@Override" annotation above this method signature(›¹Þáýÿÿÿÿ8æ…‡“Ç1
+u
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(·ÊƒÒüÿÿÿÿ8æ…‡“Ç1
+\
+java:S1659»">Declare "p" and all following declarations on a separate line.(¹ŽÙô8ç…‡“Ç1
+a
+java:S1659¾">Declare "e" and all following declarations on a separate line.(ŸÝÊ×ýÿÿÿÿ8è…‡“Ç1
+]
+java:S1161æ":Add the "@Override" annotation above this method signature(Þ‚ÄÔýÿÿÿÿ8é…‡“Ç1
+X
+java:S1161ø":Add the "@Override" annotation above this method signature( ©þ™8ê…‡“Ç1
+<
+java:S1659ù"Declare "v" on a separate line.(œúÅ!8ê…‡“Ç1
+X
+java:S1161•":Add the "@Override" annotation above this method signature(æËÊŽ8ê…‡“Ç1
+W
+java:S1161œ":Add the "@Override" annotation above this method signature(àÍèt8ë…‡“Ç1
+]
+java:S1161ž":Add the "@Override" annotation above this method signature(Â‰“éûÿÿÿÿ8ì…‡“Ç1
+]
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(íÂãÑøÿÿÿÿ8í…‡“Ç1
+]
+java:S1161¢":Add the "@Override" annotation above this method signature(Ëž’ñÿÿÿÿÿ8í…‡“Ç1
+]
+java:S1161¥":Add the "@Override" annotation above this method signature(•î’üÿÿÿÿ8î…‡“Ç1
+X
+java:S1161Ä":Add the "@Override" annotation above this method signature(±ì½Þ8ð…‡“Ç1
+W
+java:S1161Ë":Add the "@Override" annotation above this method signature(àÍèt8ñ…‡“Ç1
+]
+java:S1161Í":Add the "@Override" annotation above this method signature(àà…åúÿÿÿÿ8ò…‡“Ç1
+X
+java:S1161Î":Add the "@Override" annotation above this method signature(¨”Õý8ò…‡“Ç1
+]
+java:S1161Ñ":Add the "@Override" annotation above this method signature(Îå®åýÿÿÿÿ8ó…‡“Ç1
+W
+java:S1161ø":Add the "@Override" annotation above this method signature(àÍèt8õ…‡“Ç1
+X
+java:S1161ü":Add the "@Override" annotation above this method signature(·ö’€8ö…‡“Ç1
+]
+java:S1161„":Add the "@Override" annotation above this method signature(—¨í¡ûÿÿÿÿ8÷…‡“Ç1
+X
+java:S1161":Add the "@Override" annotation above this method signature(ÛÆëô8ø…‡“Ç1
+X
+java:S1161":Add the "@Override" annotation above this method signature(ß™Í8ø…‡“Ç1
+B
+java:S1659´"Declare "v" on a separate line.(‚òÇàùÿÿÿÿ8û…‡“Ç1
+p
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(íŽ°8ü…‡“Ç1
+e
+java:S1659Ð"BDeclare "first" and all following declarations on a separate line.(ºÏåÒùÿÿÿÿ8ý…‡“Ç1
+=
+java:S1659Û"Declare "k" on a separate line.(±Œ÷Ö8þ…‡“Ç1
+]
+java:S1161€	":Add the "@Override" annotation above this method signature(Ÿà¯±ûÿÿÿÿ8ÿ…‡“Ç1
+I
+java:S1659„	"&Declare "oldValue" on a separate line.(½öŒìÿÿÿÿÿ8€†‡“Ç1
+u
+java:S3776•	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(²‘šÂÿÿÿÿÿ8†‡“Ç1
+e
+java:S1659š	"BDeclare "first" and all following declarations on a separate line.(ºÏåÒùÿÿÿÿ8‚†‡“Ç1
+=
+java:S1659¥	"Declare "k" on a separate line.(±Œ÷Ö8ƒ†‡“Ç1
+u
+java:S3776Ê	"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ô†úûøÿÿÿÿ8„†‡“Ç1
+e
+java:S1659Ñ	"BDeclare "first" and all following declarations on a separate line.(ºÏåÒùÿÿÿÿ8…†‡“Ç1
+=
+java:S1659Ü	"Declare "k" on a separate line.(±Œ÷Ö8††‡“Ç1
+q
+java:S2975°
+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ8‰†‡“Ç1
+b
+java:S3358Á
+"DExtract this nested ternary operation into an independent statement.(Œúèë8Š†‡“Ç1
+F
+java:S1905ï
+"(Remove this unnecessary cast to "float".(ˆ¤—ú8†‡“Ç1
+g
+java:S3358ò
+"DExtract this nested ternary operation into an independent statement.(ûá¤óûÿÿÿÿ8†‡“Ç1
+K
+java:S1905õ
+"(Remove this unnecessary cast to "float".(—‰ãèÿÿÿÿÿ8†‡“Ç1
+G
+java:S1905ù
+")Remove this unnecessary cast to "Node[]".(êµ¸Ð8†‡“Ç1
+K	java:S108–")Either remove or fill this block of code.(ÃâÕ—þÿÿÿÿ8†‡“Ç1
+K	java:S108¦")Either remove or fill this block of code.(ÃâÕ—þÿÿÿÿ8†‡“Ç1
+E
+java:S1905ê"'Remove this unnecessary cast to "long".(¸à°¢8“†‡“Ç1
+b
+java:S1659÷"?Declare "lo" and all following declarations on a separate line.(Ö£¶ìÿÿÿÿÿ8”†‡“Ç1
+p
+java:S3776ý"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷ƒµ—8”†‡“Ç1
+X
+java:S1161ý":Add the "@Override" annotation above this method signature(÷ƒµ—8•†‡“Ç1
+]
+java:S1659þ"?Declare "hi" and all following declarations on a separate line.(¯ŸÎ8•†‡“Ç1
+b
+java:S1659¿"?Declare "lo" and all following declarations on a separate line.(Ö£¶ìÿÿÿÿÿ8˜†‡“Ç1
+p
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ð¸¯¡8™†‡“Ç1
+X
+java:S1161Å":Add the "@Override" annotation above this method signature(ð¸¯¡8™†‡“Ç1
+]
+java:S1659Æ"?Declare "hi" and all following declarations on a separate line.(¯ŸÎ8™†‡“Ç1
+b
+java:S1659†"?Declare "lo" and all following declarations on a separate line.(Ö£¶ìÿÿÿÿÿ8œ†‡“Ç1
+u
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆ¶÷ºþÿÿÿÿ8œ†‡“Ç1
+]
+java:S1161Œ":Add the "@Override" annotation above this method signature(ˆ¶÷ºþÿÿÿÿ8†‡“Ç1
+]
+java:S1659"?Declare "hi" and all following declarations on a separate line.(¯ŸÎ8†‡“Ç1
+o
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®¤Ö38¦†‡“Ç1
+^
+java:S1659Â"@Declare "dir" and all following declarations on a separate line.(Ê¿æ‘8§†‡“Ç1
+b
+java:S1659Ã"?Declare "pr" and all following declarations on a separate line.(Ï¨õíýÿÿÿÿ8§†‡“Ç1
+p
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(íºý˜8©†‡“Ç1
+C
+java:S1659…" Declare "ph" on a separate line.(Î’­ùÿÿÿÿ8©†‡“Ç1
+C
+java:S1659¥" Declare "tl" on a separate line.(¾Õ”Ìûÿÿÿÿ8ª†‡“Ç1
+u
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(«›ðñÿÿÿÿÿ8«†‡“Ç1
+]
+java:S1659º"?Declare "ph" and all following declarations on a separate line.(Ç€Ñ˜8¬†‡“Ç1
+C
+java:S1659Å" Declare "ch" on a separate line.(©ß¹‰øÿÿÿÿ8¬†‡“Ç1
+u
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(à‡ŒÝûÿÿÿÿ8­†‡“Ç1
+^
+java:S1659ò"ADeclare "root" and all following declarations on a separate line.(ÇÛîJ8®†‡“Ç1
+@
+java:S1659ó""Declare "pred" on a separate line.(ÝÑà½8®†‡“Ç1
+\
+java:S1659ƒ"?Declare "pl" and all following declarations on a separate line.(·¬óx8®†‡“Ç1
+C
+java:S1659…" Declare "sl" on a separate line.(‰ñÈÝúÿÿÿÿ8¯†‡“Ç1
+p
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(‹úíŸ8°†‡“Ç1
+B
+java:S1659Ø"$Declare "loTail" on a separate line.(¶í ³8±†‡“Ç1
+B
+java:S1659Ù"$Declare "hiTail" on a separate line.(‚™½Ñ8±†‡“Ç1
+C
+java:S1659Ú" Declare "hc" on a separate line.(…ÃÁüÿÿÿÿ8±†‡“Ç1
+b
+java:S1659‰"?Declare "pp" and all following declarations on a separate line.(ê¾ˆùûÿÿÿÿ8²†‡“Ç1
+]
+java:S1659›"?Declare "pp" and all following declarations on a separate line.(Ú»Òâ8³†‡“Ç1
+u
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(”Ñ¯Âþÿÿÿÿ8³†‡“Ç1
+v
+java:S3776â"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(Öú“¡ýÿÿÿÿ8µ†‡“Ç1
+>
+java:S1659ù" Declare "sr" on a separate line.(ñÁ™8·†‡“Ç1
+E
+java:S1125‰"'Remove the unnecessary boolean literal.(°™à8·†‡“Ç1
+>
+java:S1659Ÿ" Declare "sr" on a separate line.(ã•±û8¸†‡“Ç1
+E
+java:S1125¯"'Remove the unnecessary boolean literal.(›Ó·Î8¸†‡“Ç1
+o
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÉêŸ*8¸†‡“Ç1
+b
+java:S1659Â"?Declare "tl" and all following declarations on a separate line.(‹ç¯Åûÿÿÿÿ8¹†‡“Ç1
+_
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(Ï¸ÁÖ8¹†‡“Ç1

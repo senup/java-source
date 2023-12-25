@@ -1,0 +1,15 @@
+
+g
+java:S1104*"QMake name1 a static final constant or non-public and provide accessors if needed.(‰§­
+l
+java:S1104+"QMake name2 a static final constant or non-public and provide accessors if needed.(ÆõÔÕûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+4
+java:S1165*"Make this "name1" field final.(‰§­
+9
+java:S1165+"Make this "name2" field final.(ÆõÔÕûÿÿÿÿ
+=
+java:S1948*"'Make "name1" transient or serializable.(‰§­
+B
+java:S1948+"'Make "name2" transient or serializable.(ÆõÔÕûÿÿÿÿ

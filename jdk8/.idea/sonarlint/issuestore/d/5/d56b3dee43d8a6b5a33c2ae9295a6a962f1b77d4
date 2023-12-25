@@ -1,0 +1,44 @@
+
+\	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+K
+java:S1191""5Use classes from the Java API instead of Sun classes.(¸Ê‰
+W
+java:S2259ö"AA "NullPointerException" could be thrown; "md5" is nullable here.(âèåe
+—
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğª¾
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(†êÆŠ
+^
+java:S18741"CRemove this use of "TlsKeyMaterialParameterSpec"; it is deprecated.(ÚÀ°ıÿÿÿÿ
+B
+java:S1125>"'Remove the unnecessary boolean literal.(ÒÛ–õıÿÿÿÿ
+^
+java:S1874>"CRemove this use of "TlsKeyMaterialParameterSpec"; it is deprecated.(ÒÛ–õıÿÿÿÿ
+Y
+java:S1874A"CRemove this use of "TlsKeyMaterialParameterSpec"; it is deprecated.(±º÷ 
+=
+java:S1125B"'Remove the unnecessary boolean literal.(î¶º²
+m
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿ†„ôıÿÿÿÿ
+R
+java:S1854t"<Remove this useless assignment to local variable "keyBlock".(˜Ğæ¾
+N
+java:S1854Ò"7Remove this useless assignment to local variable "ofs".(ßÑ€Ñ
+Q
+java:S1874¶":Remove this use of "TlsKeyMaterialSpec"; it is deprecated.(ïÎ­ÿ
+C
+java:S1125Ä"'Remove the unnecessary boolean literal.(Ä—Æ½úÿÿÿÿ
+>
+java:S3329Ï"'Use a dynamically-generated, random IV.(ú÷ô÷
+>
+java:S3329Ó"'Use a dynamically-generated, random IV.(ü£ÿã
+>
+java:S3329î"'Use a dynamically-generated, random IV.(ú÷ô÷
+>
+java:S3329ğ"'Use a dynamically-generated, random IV.(ü£ÿã
+>
+java:S3329ˆ"'Use a dynamically-generated, random IV.(ú÷ô÷
+>
+java:S3329"'Use a dynamically-generated, random IV.(ü£ÿã
+V
+java:S1874’":Remove this use of "TlsKeyMaterialSpec"; it is deprecated.(‰ê‰¥úÿÿÿÿ

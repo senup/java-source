@@ -1,0 +1,15 @@
+
+}
+java:S1488V"bImmediately return this expression instead of assigning it to the temporary variable "baseLocale".(îÑğÊûÿÿÿÿ
+X
+java:S4973³"<Strings and Boxed types should be compared using "equals()".(¯é¥øÿÿÿÿ
+X
+java:S4973´"<Strings and Boxed types should be compared using "equals()".(Í®ˆ¢ÿÿÿÿÿ
+X
+java:S4973½"<Strings and Boxed types should be compared using "equals()".(Ë©ö‹ÿÿÿÿÿ
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(åŠéÌ
+i
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ó¥ì’
+—
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éäåj

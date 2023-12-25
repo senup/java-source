@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚Ê“·ùÿÿÿÿ
+\
+java:S22598"AA "NullPointerException" could be thrown; "src" is nullable here.(ÏèØ›ùÿÿÿÿ
+=
+java:S4274K"(Replace this assert with a proper check.(§Ä“*
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(½’é•ýÿÿÿÿ
+?
+java:S1172¿"(Remove this unused method parameter "i".(ÉîÃ¬

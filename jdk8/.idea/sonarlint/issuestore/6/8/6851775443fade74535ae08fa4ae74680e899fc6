@@ -1,0 +1,19 @@
+
+b
+java:S1192Â"FDefine a constant instead of duplicating this literal "ascii" 4 times.(ªçßıúÿÿÿÿ
+F
+java:S1066»"/Merge this if statement with the enclosing one.(ŞöëÇ
+X
+java:S4719Â"<Replace charset name argument with StandardCharsets.US_ASCII(ªçßıúÿÿÿÿ
+S
+java:S4719Ä"<Replace charset name argument with StandardCharsets.US_ASCII(¿šÙ
+X
+java:S4719Æ"<Replace charset name argument with StandardCharsets.US_ASCII(À”Çıÿÿÿÿ
+X
+java:S4719Î"<Replace charset name argument with StandardCharsets.US_ASCII(À”Çıÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+F
+java:S1197†"*Move the array designators [] to the type.(èöò¡şÿÿÿÿ

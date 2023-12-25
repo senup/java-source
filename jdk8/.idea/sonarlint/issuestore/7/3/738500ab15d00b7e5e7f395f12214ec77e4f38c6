@@ -1,0 +1,41 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(“»¬Ûüÿÿÿÿ
+a	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(„„Òûÿÿÿÿ
+a	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(ŒéÊ‚ıÿÿÿÿ
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÚÑ¡øÿÿÿÿ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(é«é
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(š¾†õ
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎªÖııÿÿÿÿ
+o
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(æóî(
+o	java:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(ÌçºÇ
+_
+java:S3824¾"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(º¥ÑÇ
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(“öğÿÿÿÿÿ
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ø°ôÁ
+N
+java:S1135•"2Complete the task associated to this TODO comment.(ĞÌá¯ûÿÿÿÿ
+n
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(©Öçÿùÿÿÿÿ
+7	java:S131ï""Add a default case to this switch.(ºŸ„
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(õí™Ûÿÿÿÿÿ
+N
+java:S1135×"2Complete the task associated to this TODO comment.(ĞÌá¯ûÿÿÿÿ
+N
+java:S1135¦"2Complete the task associated to this TODO comment.(ĞÌá¯ûÿÿÿÿ
+N
+java:S1135¹"2Complete the task associated to this TODO comment.(ĞÌá¯ûÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(’˜ÌÒúÿÿÿÿ
+G
+java:S2160å"+Override the "equals" method in this class.(¦¡·¶úÿÿÿÿ
+;
+java:S1168Ñ"$Return an empty map instead of null.(¥¹ï
+B
+java:S1168…"+Return an empty collection instead of null.(¥¹ï

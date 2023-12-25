@@ -1,0 +1,29 @@
+
+n	java:S127ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŽÖ¿ý
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ö†°ûÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎäžËÿÿÿÿÿ
+f	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°æ™5
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ðæƒùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ýä©Ëùÿÿÿÿ
+j
+java:S3824Ì"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(áûÜØÿÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ë‰¾Å
+`
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(ê”ê½þÿÿÿÿ
+[
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(ÅÜ®Û
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(×Ç¬¸
+•
+java:S1130›"yRemove the declaration of thrown exception 'javax.crypto.BadPaddingException', as it cannot be thrown from method's body.(óƒðÿùÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÊÊžÐ
+M
+java:S1854ë"7Remove this useless assignment to local variable "bpe".(Ô×Ù~
+W	java:S125—"<This block of commented-out lines of code should be removed.(’‹Íèüÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+K
+java:S1128 "5Remove this unused import 'java.security.interfaces'.(éè¡Á

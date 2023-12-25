@@ -1,0 +1,38 @@
+
+Q	java:S110%"<This class has 6 parents which is greater than 5 authorized.(•ã…
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+z
+java:S1149["_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üÎÏ¿ùÿÿÿÿ
+P
+java:S11610":Add the "@Override" annotation above this method signature(³‚œÅ
+g
+java:S18714"LThis branch's code block is the same as the block for the branch on line 49.(ÿ÷Íƒıÿÿÿÿ
+P
+java:S1161;":Add the "@Override" annotation above this method signature(†Ñ÷
+U
+java:S1161C":Add the "@Override" annotation above this method signature(–¦€Ëûÿÿÿÿ
+P
+java:S1161F":Add the "@Override" annotation above this method signature(éË«
+P
+java:S1161I":Add the "@Override" annotation above this method signature(‰›¬±
+P
+java:S1161L":Add the "@Override" annotation above this method signature(êÖåŠ
+P
+java:S1161O":Add the "@Override" annotation above this method signature(¦ŒŠ
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+Q
+java:S1161“":Add the "@Override" annotation above this method signature(ÀÜä
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(ûáªø
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+Q
+java:S1161Å":Add the "@Override" annotation above this method signature(¿‘Æ
+Q
+java:S1161Ï":Add the "@Override" annotation above this method signature(Üäç÷
+Q
+java:S1161Ú":Add the "@Override" annotation above this method signature(çé½Ì
+a
+java:S2147ö"ECombine this catch with the one at line 244, which has the same body.(«¨òøÿÿÿÿ

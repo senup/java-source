@@ -1,0 +1,15 @@
+
+n
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÂ»X
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(èá≈¡
+<
+java:S2129m"!Remove this "Integer" constructor(—ûòÈ˚ˇˇˇˇ
+B
+java:S1128",Remove this unused import 'java.util.regex'.(£ë¨ﬁ
+9
+java:S1128"$Remove this unused import 'java.io'.(¨õ„D
+Q
+java:S1128!"6Remove this unused import 'sun.jvmstat.monitor.event'.(¯¶òª˚ˇˇˇˇ
+C
+java:S10683"(Remove this unused "user" private field.(áœ«≥¯ˇˇˇˇ

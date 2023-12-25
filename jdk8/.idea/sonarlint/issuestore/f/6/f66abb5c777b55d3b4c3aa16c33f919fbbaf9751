@@ -1,0 +1,32 @@
+
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ËÎøÿÿÿÿ
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û˜€¨ûÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ËÎøÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û˜€¨ûÿÿÿÿ
+t
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ËÎøÿÿÿÿ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û˜€¨ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+C
+java:S1948ƒ"'Make "princ" transient or serializable.(‚êÌ«şÿÿÿÿ
+F
+java:S1948…"*Make "permList" transient or serializable.(ˆ¼ƒ¹şÿÿÿÿ
+
+java:S1149…"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ¼ƒ¹şÿÿÿÿ
+{
+java:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÆÅ„2
+–
+java:S11304"{Remove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from constructor's body.(îŠãüıÿÿÿÿ
+–
+java:S1130Q"{Remove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from constructor's body.(„©Ëãüÿÿÿÿ
+i
+java:S2975\"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+D
+java:S1905c")Remove this unnecessary cast to "Object".(¡ö¢şÿÿÿÿ
+^
+java:S1182\"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ

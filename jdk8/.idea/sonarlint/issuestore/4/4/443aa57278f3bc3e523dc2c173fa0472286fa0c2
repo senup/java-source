@@ -1,0 +1,17 @@
+
+F
+java:S1905w"0Remove this unnecessary cast to "SnmpPduPacket".(Μ±©
+j
+java:S1128%"TRemove this unnecessary import: same package classes are always implicitly imported.(†εβ
+o
+java:S1128&"TRemove this unnecessary import: same package classes are always implicitly imported.(λ¶ÿÿÿÿÿ
+j
+java:S1128'"TRemove this unnecessary import: same package classes are always implicitly imported.(‘©ξ‚
+j
+java:S1128)"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Υ
+i
+java:S1128*"TRemove this unnecessary import: same package classes are always implicitly imported.(ΐλG
+o
+java:S1128+"TRemove this unnecessary import: same package classes are always implicitly imported.(‘³ηϋÿÿÿÿ
+i
+java:S1128/"TRemove this unnecessary import: same package classes are always implicitly imported.(·„χz

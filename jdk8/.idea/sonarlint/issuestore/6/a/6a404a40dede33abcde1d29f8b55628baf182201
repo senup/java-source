@@ -1,0 +1,23 @@
+
+p
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(´©°×
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎßŸ‘ÿÿÿÿÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Áğ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÎ§üÿÿÿÿ
+x
+java:S1488—"bImmediately return this expression instead of assigning it to the temporary variable "fileformat".(ÿ‡¹g
+v
+java:S1149¥"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+\	java:S107M"BConstructor has 11 parameters, which is greater than 7 authorized.(â™¢òÿÿÿÿÿ
+[
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(®ë„ù
+]
+java:S1126ˆ"AReplace this if-then-else statement by a single return statement.( »²—úÿÿÿÿ
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Öí±üÿÿÿÿ
+n
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( Öí±üÿÿÿÿ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(¼³‚ó
+F
+java:S2093´"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093À"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

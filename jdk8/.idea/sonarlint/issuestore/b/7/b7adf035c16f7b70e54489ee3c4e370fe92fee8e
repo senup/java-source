@@ -1,0 +1,22 @@
+
+n	java:S135_"YReduce the total number of break and continue statements in this loop to use at most one.(Úÿˆ†
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+m
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ãğƒ³şÿÿÿÿ
+U
+java:S11616":Add the "@Override" annotation above this method signature(Ãğƒ³şÿÿÿÿ
+U
+java:S1161~":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+A
+java:S1197’"*Move the array designators [] to the type.(˜¹
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(ÿšŞØ
+F
+java:S1128"0Remove this unused import 'sun.tools.asm.Label'.(¦Ï×Î

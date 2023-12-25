@@ -1,0 +1,127 @@
+
+E
+java:S1121«".Extract the assignment out of this expression.(Ûþ˜Æ
+J
+java:S1121’
+".Extract the assignment out of this expression.(ƒôèµÿÿÿÿÿ
+J
+java:S1121Ø
+".Extract the assignment out of this expression.(ê¡‡Ýüÿÿÿÿ
+K
+java:S1066ò"/Merge this if statement with the enclosing one.(ÍÕÄóÿÿÿÿÿ
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+U
+java:S3516¾"9Refactor this method to not always return the same value.(“ò´›þÿÿÿÿ
+W	java:S107‰"<Method has 8 parameters, which is greater than 7 authorized.(¸áÿ’ùÿÿÿÿ
+R	java:S107™	"<Method has 8 parameters, which is greater than 7 authorized.(”õãç
+W	java:S107ý
+"<Method has 8 parameters, which is greater than 7 authorized.(ÂÄ×ºýÿÿÿÿ
+@
+java:S1172À")Remove this unused method parameter "nx".(Áª¥é
+E
+java:S1172Û".Remove this unused method parameter "options".(çù­
+`
+java:S1172ƒ"DRemove these unused method parameters "src", "start", "limit", "nx".(êú»¬ûÿÿÿÿ
+D
+java:S1172"(Remove this unused method parameter "c".(ÑÈË¾øÿÿÿÿ
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(“ò´›þÿÿÿÿ
+Q
+java:S1161®":Add the "@Override" annotation above this method signature(çù­
+V
+java:S1161²":Add the "@Override" annotation above this method signature(¿ˆÕµÿÿÿÿÿ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(â­ØÂ
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(³ÿ—‚
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(Úº‚ç
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(Ë´ìÀ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ÑÈË¾øÿÿÿÿ
+V
+java:S1161ã":Add the "@Override" annotation above this method signature(“ò´›þÿÿÿÿ
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(çù­
+V
+java:S1161ð":Add the "@Override" annotation above this method signature(¿ˆÕµÿÿÿÿÿ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(â­ØÂ
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(³ÿ—‚
+Q
+java:S1161ü":Add the "@Override" annotation above this method signature(Úº‚ç
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(Ë´ìÀ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ÑÈË¾øÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(“ò´›þÿÿÿÿ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(çù­
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(¿ˆÕµÿÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(â­ØÂ
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(³ÿ—‚
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(Úº‚ç
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(Ë´ìÀ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(ÑÈË¾øÿÿÿÿ
+8
+java:S1116Ï"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(“ò´›þÿÿÿÿ
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(çù­
+V
+java:S1161æ":Add the "@Override" annotation above this method signature(¿ˆÕµÿÿÿÿÿ
+Q
+java:S1161ë":Add the "@Override" annotation above this method signature(â­ØÂ
+Q
+java:S1161î":Add the "@Override" annotation above this method signature(³ÿ—‚
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(Úº‚ç
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(Ë´ìÀ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(ÑÈË¾øÿÿÿÿ
+8
+java:S1116‰"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+j
+java:S2975ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+=
+java:S1659”"!Declare "src" on a separate line.(Ùá ¢üÿÿÿÿ
+Q
+java:S1133ú"5Do not forget to remove this deprecated code someday.(—Äœ®ÿÿÿÿÿ
+Q
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(áíÄëüÿÿÿÿ
+Q
+java:S1133•"5Do not forget to remove this deprecated code someday.(‚°¨—üÿÿÿÿ
+V
+java:S1854†	":Remove this useless assignment to local variable "newBuf".(¥ÀÞ®üÿÿÿÿ
+i
+java:S3776™	"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(”õãç
+F
+java:S1659¡	"*Declare "bufferLength" on a separate line.( œ“‡ûÿÿÿÿ
+7
+java:S1659£	" Declare "c2" on a separate line.(–¼Ÿ
+i
+java:S3776Ç
+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(âÀ«
+n
+java:S3776ý
+"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÂÄ×ºýÿÿÿÿ
+7
+java:S1659‡" Declare "c2" on a separate line.(–¼Ÿ
+h
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¦ì›2
+D
+java:S1068µ"-Remove this unused "modeValue" private field.(Šœ†·
+K
+java:S1068‘"/Remove this unused "resultValue" private field.(Øî“ñþÿÿÿÿ

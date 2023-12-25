@@ -1,0 +1,22 @@
+
+a	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÛÛÏÕþÿÿÿÿ
+j
+java:S3824Þ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(éœ¿¬úÿÿÿÿ
+v
+java:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šö³á
+t
+java:S2142W"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®
+p	java:S115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘âœà
+H
+java:S1172ª",Remove this unused method parameter "event".(ŸÂ„¼ÿÿÿÿÿ
+D	java:S108É")Either remove or fill this block of code.(¯ÇÊ÷ýÿÿÿÿ
+B
+java:S1172Ó",Remove this unused method parameter "event".(¯ƒïC
+u
+java:S2142˜"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®
+H
+java:S1172ž",Remove this unused method parameter "event".(Õª¸Íýÿÿÿÿ
+H
+java:S1172Ö",Remove this unused method parameter "event".(•õ’áÿÿÿÿÿ
+H
+java:S1172Û",Remove this unused method parameter "event".(ü‡«ˆúÿÿÿÿ

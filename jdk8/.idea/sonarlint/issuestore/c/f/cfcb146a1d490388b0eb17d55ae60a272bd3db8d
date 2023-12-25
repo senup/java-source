@@ -1,0 +1,14 @@
+
+K
+java:S1066‡"/Merge this if statement with the enclosing one.(¹­•Ìþÿÿÿÿ
+O
+java:S2675°"3Remove the "synchronized" keyword from this method.(¤ð¹òÿÿÿÿÿ
+r
+java:S1149â"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü´žºýÿÿÿÿ
+D
+java:S1172?".Remove this unused method parameter "actions".(‰Öá•
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(‘¹ÿÖþÿÿÿÿ
+q	java:S116ã"VRename this field "all_allowed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ†Ù­úÿÿÿÿ
+;
+java:S1659®"$Declare "offset" on a separate line.(åŽ‡î

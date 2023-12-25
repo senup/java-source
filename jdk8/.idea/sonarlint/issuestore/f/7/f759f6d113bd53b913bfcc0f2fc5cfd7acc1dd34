@@ -1,0 +1,32 @@
+
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ù—Õ
+a	java:S116p"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­€
+a	java:S116q"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÁŞ–
+b	java:S116s"MRename this field "KS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¯Ş¯
+a	java:S116u"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É€Î
+b	java:S116Û"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Óà×
+Z
+java:S1659ƒ">Declare "j" and all following declarations on a separate line.(Æ™‚ùÿÿÿÿ
+u
+java:S3012¡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Î××Êşÿÿÿÿ
+G
+java:S1172á"+Remove this unused method parameter "fake".(¾ƒìüÿÿÿÿ
+U
+java:S1659ã">Declare "j" and all following declarations on a separate line.(”¶âù
+p
+java:S3012ˆ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€ù”
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¤ˆ£¯üÿÿÿÿ
+U
+java:S1659®">Declare "i" and all following declarations on a separate line.(Î¾àÜ
+R	java:S125é"<This block of commented-out lines of code should be removed.(¦ª™“
+F
+java:S1197ü"*Move the array designators [] to the type.(ÎÍµúÿÿÿÿ
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(æ”´¿
+A
+java:S1197…"*Move the array designators [] to the type.(Â—üÄ
+U
+java:S4719†">Replace charset name argument with StandardCharsets.ISO_8859_1(Ú¢šŠ
+U
+java:S4719†">Replace charset name argument with StandardCharsets.ISO_8859_1(Ú¢šŠ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Óü²ƒúÿÿÿÿ

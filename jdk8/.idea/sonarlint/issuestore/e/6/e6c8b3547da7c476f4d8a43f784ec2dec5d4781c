@@ -1,0 +1,79 @@
+
+a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(ÔÊá‰úÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(›•Í±
+
+java:S1192”"cDefine a constant instead of duplicating this literal "Unrecognized command.  Try help..." 3 times.(š–Ìãúÿÿÿÿ
+l
+java:S1192ô"PDefine a constant instead of duplicating this literal "Could not open:" 3 times.(è‹ÔÁÿÿÿÿÿ
+{
+java:S1192—"dDefine a constant instead of duplicating this literal "cannot redefine existing connection" 3 times.(¢¢‹ı
+{
+java:S1192Œ"_Define a constant instead of duplicating this literal "com.sun.jdi.CommandLineLaunch:" 3 times.(Ğî‹åÿÿÿÿÿ
+s	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(›æ•ˆÿÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ÑÒ
+n	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(Á‘¹¬
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Å¼Œ†
+s	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îã³ˆúÿÿÿÿ
+s	java:S127á"XRefactor the code in order to not assign to this loop counter from within the loop body.(â°Óûÿÿÿÿ
+n	java:S127ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(©¤´Ş
+n	java:S127ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(©¤´Ş
+K
+java:S1066¯"/Merge this if statement with the enclosing one.(âŒ‡óşÿÿÿÿ
+3
+java:S1643„"Use a StringBuilder instead.(á€Ìô
+3
+java:S1643‡"Use a StringBuilder instead.(şÀÁÑ
+3
+java:S1643Ä"Use a StringBuilder instead.(Ç‹Ä…
+8
+java:S1643É"Use a StringBuilder instead.(‘àÃ¨üÿÿÿÿ
+I
+java:S1199Ü"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+>
+java:S2189î""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›Òş­
+œ
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü‚ïÇûÿÿÿÿ
+œ
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï˜ÒŒüÿÿÿÿ
+œ
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌË÷¢øÿÿÿÿ
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üœ§üÿÿÿÿ
+—
+java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š™Åõ
+œ
+java:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©öŸûÿÿÿÿ
+
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú°ä»üÿÿÿÿ
+{
+java:S1149¾"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶»‹ışÿÿÿÿ
+R
+java:S1854b"7Remove this useless assignment to local variable "obj".(™Š–ïÿÿÿÿÿ
+C
+java:S1481b"(Remove this unused "obj" local variable.(™Š–ïÿÿÿÿÿ
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦ÄÚ¹üÿÿÿÿ
+8
+java:S2129ô"!Remove this "Integer" constructor(„ˆ¹ø
+8
+java:S1116æ"Remove this empty statement.(ôŸìúÿÿÿÿ
+8
+java:S1116ú"Remove this empty statement.(ôŸìúÿÿÿÿ
+j
+java:S3776ı"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(ş‹¢æ
+d
+java:S1871«"MThis branch's code block is the same as the block for the branch on line 424.(’ûÉ¸
+Q
+java:S1854Û":Remove this useless assignment to local variable "monNum".(“Çì
+B
+java:S1481Ù"+Remove this unused "monNum" local variable.(ø›’ß
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+D	java:S108“")Either remove or fill this block of code.(ä±üÿÿÿÿ
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(ú¶ç”ıÿÿÿÿ
+F
+java:S1197Î"*Move the array designators [] to the type.(ú¶ç”ıÿÿÿÿ

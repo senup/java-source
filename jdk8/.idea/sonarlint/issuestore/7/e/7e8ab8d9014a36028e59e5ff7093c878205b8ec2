@@ -1,0 +1,22 @@
+
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ñ®üÿÿÿÿ
+J
+java:S1066L"/Merge this if statement with the enclosing one.(â¶úÿÿÿÿ
+F
+java:S1948<"1Make "currentFrameRef" transient or serializable.(ŸÂÇ#
+h
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¡ÙÒê
+P
+java:S1161>":Add the "@Override" annotation above this method signature(¡ÙÒê
+C	java:S108a")Either remove or fill this block of code.(Ğçõÿÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'javax.swing.JLayeredPane'.(ÚÂİíüÿÿÿÿ
+E
+java:S1128 "/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
+E
+java:S1128!"/Remove this unused import 'java.awt.Container'.(˜ƒ×‹
+E
+java:S1128""/Remove this unused import 'java.awt.Dimension'.(˜‚º·
+H
+java:S1128$"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

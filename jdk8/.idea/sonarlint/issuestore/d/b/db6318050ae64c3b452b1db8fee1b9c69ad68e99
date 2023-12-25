@@ -1,0 +1,13 @@
+
+s	java:S135W"YReduce the total number of break and continue statements in this loop to use at most one.(†§¡±øÿÿÿÿ
+t	java:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(†§¡±øÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÊõÙûÿÿÿÿ
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶ÿ·ú
+h
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(š½–°
+A
+java:S1197"*Move the array designators [] to the type.(÷Îæ•
+A
+java:S1197­"*Move the array designators [] to the type.(…‹€˜

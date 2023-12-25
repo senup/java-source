@@ -1,0 +1,16 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+t	java:S115B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ­ôæúÿÿÿÿ
+
+java:S1130z"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÊÈÉh
+Q	java:S125"<This block of commented-out lines of code should be removed.(ì’Ê`
+V
+java:S1161§":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(¡íè
+>	java:S108å")Either remove or fill this block of code.(–î€~
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(É¸äŞúÿÿÿÿ
+D
+java:S1128!")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ

@@ -1,0 +1,16 @@
+
+l
+java:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¤ô‰
+z
+java:S1149j"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+\	java:S107A"BConstructor has 10 parameters, which is greater than 7 authorized.(ÜĞß»üÿÿÿÿ
+[
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(­şŸĞ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(û¿Úûÿÿÿÿ
+P
+java:S1161Y":Add the "@Override" annotation above this method signature(ÜÑã
+P
+java:S1161d":Add the "@Override" annotation above this method signature(ğÜşŠ
+P
+java:S1161h":Add the "@Override" annotation above this method signature(Á»›ê

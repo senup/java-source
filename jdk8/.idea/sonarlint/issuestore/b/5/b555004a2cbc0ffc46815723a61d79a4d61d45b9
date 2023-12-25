@@ -1,0 +1,49 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿¢ü
+`
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(‹‹²ßúÿÿÿÿ
+[
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(‰ŞÇÃ
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(Ò±Ñ¬ÿÿÿÿÿ
+Z
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(øŞ~
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(ë¯°ûÿÿÿÿ
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(–Áù¦
+[
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(¶—‹«
+`
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ûî¨Ÿüÿÿÿÿ
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(µÃŠ
+`
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(é­Âªúÿÿÿÿ
+[
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(ñšÕ“
+[
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(èš­è
+Z
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(õÑè#
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(™İí
+Z
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¼Ü6
+`
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(éƒ…Âüÿÿÿÿ
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(õÎ³³ûÿÿÿÿ
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(‰ææ´ÿÿÿÿÿ
+`
+java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(‹Âªşÿÿÿÿ
+`
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(“¬îùúÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(¯É÷éùÿÿÿÿ
+V
+java:S10686";Remove this unused "SUPPORTED_MAJOR_VERSION" private field.(‹‹²ßúÿÿÿÿ
+Q
+java:S10687";Remove this unused "SUPPORTED_MINOR_VERSION" private field.(‰ŞÇÃ

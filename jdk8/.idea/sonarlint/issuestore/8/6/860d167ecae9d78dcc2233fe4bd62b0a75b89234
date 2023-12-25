@@ -1,0 +1,25 @@
+
+C
+java:S1604:"(Make this anonymous inner class a lambda(ô”°Ãÿÿÿÿÿ
+C
+java:S1604G"(Make this anonymous inner class a lambda(ô”°Ãÿÿÿÿÿ
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(ë¤ºÎþÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(’ÍîÕ
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(¹Ü Æ
+Z
+java:S2147@"DCombine this catch with the one at line 63, which has the same body.(Ò©ïÿ
+_
+java:S2147A"DCombine this catch with the one at line 63, which has the same body.(“£ÖÀþÿÿÿÿ
+_
+java:S2147B"DCombine this catch with the one at line 63, which has the same body.(„ï×Ÿýÿÿÿÿ
+>	java:S108?")Either remove or fill this block of code.(äžºì
+>	java:S108@")Either remove or fill this block of code.(Ò©ïÿ
+C	java:S108A")Either remove or fill this block of code.(“£ÖÀþÿÿÿÿ
+C	java:S108B")Either remove or fill this block of code.(„ï×Ÿýÿÿÿÿ
+7
+java:S1116C"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‰‰•Ù

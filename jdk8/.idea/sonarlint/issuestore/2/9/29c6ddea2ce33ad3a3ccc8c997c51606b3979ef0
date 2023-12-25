@@ -1,0 +1,13 @@
+
+K
+java:S1066ì"/Merge this if statement with the enclosing one.(ÑòŠ«øÿÿÿÿ
+K
+java:S1066‡"/Merge this if statement with the enclosing one.(Ö¥Ê€úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+A
+java:S1948:"+Make "entryList" transient or serializable.(‡×›â
+{
+java:S1149:"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡×›â
+|
+java:S1149Â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’Æ°ç
+P	java:S125"<This block of commented-out lines of code should be removed.(çÑžj

@@ -1,0 +1,72 @@
+
+J
+java:S37408"/Provide the parametrized type for this generic.(ƒ´¥½ıÿÿÿÿ
+E
+java:S3740l"/Provide the parametrized type for this generic.(‹‚©û
+t	java:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(çòÉùûÿÿÿÿ
+f	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€€…9
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å»Ïÿÿÿÿÿ
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º´ê
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‡²Ÿüÿÿÿÿ
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘àŒ†
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äı´î
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…æ¼’ıÿÿÿÿ
+l	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¸¡üÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò›úŒıÿÿÿÿ
+`
+java:S2583É"DChange this condition so that it does not always evaluate to "false"(Ê¥³øÿÿÿÿ
+l	java:S116¿"QRename this field "TforY1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿİÛÉşÿÿÿÿ
+g	java:S116À"QRename this field "YforT1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¯ñÉ
+l	java:S116Á"QRename this field "TforY2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¿ƒÃúÿÿÿÿ
+g	java:S116Â"QRename this field "YforT2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÚÇ
+l	java:S116Ã"QRename this field "TforY3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÂÎ×şÿÿÿÿ
+g	java:S116Ä"QRename this field "YforT3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¦÷ü
+€
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒ´¥½ıÿÿÿÿ
+{
+java:S1149l"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹‚©û
+W	java:S1078"=Method has 11 parameters, which is greater than 7 authorized.(ƒ´¥½ıÿÿÿÿ
+R	java:S107l"=Method has 10 parameters, which is greater than 7 authorized.(‹‚©û
+\	java:S107â"AConstructor has 9 parameters, which is greater than 7 authorized.(ªº™ôıÿÿÿÿ
+E
+java:S11978"*Move the array designators [] to the type.(ƒ´¥½ıÿÿÿÿ
+F
+java:S1197£"*Move the array designators [] to the type.(ÌîÍøÿÿÿÿ
+@
+java:S1197Â"*Move the array designators [] to the type.(ğæ”
+[
+java:S1659Ã"?Declare "y0" and all following declarations on a separate line.(Ï ÷üÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(÷àµı
+F
+java:S1481Û"*Remove this unused "roots" local variable.(ü§Øéüÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(ÏŸ­ùÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(òåËˆ
+K
+java:S1172™"4Remove these unused method parameters "a", "b", "c".(òåËˆ
+<
+java:S1659 " Declare "t1" on a separate line.(Ã¦«¼ıÿÿÿÿ
+C
+java:S1125É"'Remove the unnecessary boolean literal.(Ê¥³øÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Ë‡»âıÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ó›Ë
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(µ¤Ê¬
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Æ›Øé
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(×ÆÓ‘ıÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(©™ºäÿÿÿÿÿ
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(’ÅÎÉ
+F
+java:S1197”"*Move the array designators [] to the type.(‘–ÔÎşÿÿÿÿ
+F
+java:S1197 "*Move the array designators [] to the type.(‘–ÔÎşÿÿÿÿ
+<
+java:S1659°" Declare "t1" on a separate line.(Ã¦«¼ıÿÿÿÿ
+F
+java:S1197¯"*Move the array designators [] to the type.(áéÃıÿÿÿÿÿ
+A
+java:S1197ã"*Move the array designators [] to the type.(ôáªÄ
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(ó†öóûÿÿÿÿ

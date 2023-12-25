@@ -1,0 +1,38 @@
+
+j
+java:S1192¸"NUse already-defined constant 'endTable' instead of duplicating its value here.(½›´ãûÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(©½œıüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+D
+java:S1199"-Extract this nested code block into a method.(¿Ó¯é
+I
+java:S1199¯"-Extract this nested code block into a method.(â“•’úÿÿÿÿ
+D
+java:S1199Ë"-Extract this nested code block into a method.(ËÙ¯„
+D
+java:S1199ï"-Extract this nested code block into a method.(ÒÂŒ
+I
+java:S1199™"-Extract this nested code block into a method.(ÕÁµ‰ÿÿÿÿÿ
+t	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·‚øÅÿÿÿÿÿ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ›û»ûÿÿÿÿ
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ¬×û
+o	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ˆº•
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¥³
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ËíÓşÿÿÿÿ
+U
+java:S1161T":Add the "@Override" annotation above this method signature(àÖØ¼úÿÿÿÿ
+P
+java:S1161[":Add the "@Override" annotation above this method signature(æ˜»õ
+y
+java:S2142g"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+C	java:S108g")Either remove or fill this block of code.(è®ã¶øÿÿÿÿ
+m
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(êüÈúÿÿÿÿ
+a
+java:S2147°"ECombine this catch with the one at line 298, which has the same body.(¨Ÿıÿÿÿÿ
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(áŸ‹Åıÿÿÿÿ
+L
+java:S1659Ø"0Declare "prevProcessCpuTime" on a separate line.(èúÏñûÿÿÿÿ

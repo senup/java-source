@@ -1,0 +1,91 @@
+
+E
+java:S3740E"/Provide the parametrized type for this generic.(˜ì¤
+E
+java:S3740F"/Provide the parametrized type for this generic.(ÑÂş×
+E
+java:S3740G"/Provide the parametrized type for this generic.(°Ş‡ï
+J
+java:S3740x"/Provide the parametrized type for this generic.(éª¯øÿÿÿÿ
+K
+java:S3740é"/Provide the parametrized type for this generic.(³õÕçıÿÿÿÿ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ñÆÃÙ
+F
+java:S3740ñ"/Provide the parametrized type for this generic.(ê¤©Â
+m
+java:S1192"QDefine a constant instead of duplicating this literal "already printing" 3 times.(ÿ¿ÿ¤ıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+`
+java:S2259È"DA "NullPointerException" could be thrown; "reqSet" is nullable here.(–¿Ö€şÿÿÿÿ
+k
+java:S1450Z"URemove the "copies" field and declare it as a local variable in the relevant methods.(‡²™
+r
+java:S1450J"WRemove the "fidelity" field and declare it as a local variable in the relevant methods.(²Ñ†Ôùÿÿÿÿ
+l
+java:S1450Y"VRemove the "jobName" field and declare it as a local variable in the relevant methods.(Ğ Û—
+{
+java:S1149E"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜ì¤
+{
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÑÂş×
+{
+java:S1149G"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°Ş‡ï
+F
+java:S2065E"0Remove the "transient" modifier from this field.(˜ì¤
+F
+java:S2065F"0Remove the "transient" modifier from this field.(ÑÂş×
+F
+java:S2065G"0Remove the "transient" modifier from this field.(°Ş‡ï
+[
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(˜ì¤
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ÑÂş×
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(°Ş‡ï
+?	java:S108¡")Either remove or fill this block of code.(ï­£Ä
+?	java:S108©")Either remove or fill this block of code.(ï­£Ä
+?	java:S108±")Either remove or fill this block of code.(ï­£Ä
+?	java:S108·")Either remove or fill this block of code.(ï­£Ä
+2
+java:S3626ü"Remove this redundant jump.(ûÁİ…
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Éç•
+2
+java:S3626²"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¿"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Ç"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Ò"Remove this redundant jump.(ûÁİ…
+2
+java:S3626ı"Remove this redundant jump.(ûÁİ…
+^
+java:S3252ï"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(Šê
+]
+java:S3252ğ"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(º€“0
+2
+java:S3626•"Remove this redundant jump.(ûÁİ…
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(·÷æ²
+D	java:S108Ã")Either remove or fill this block of code.(äßîêüÿÿÿÿ
+R
+java:S1117×";Rename "jobName" which hides the field declared at line 89.(€•ÌĞ
+?	java:S108ä")Either remove or fill this block of code.(ï­£Ä
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹ƒšîÿÿÿÿÿ
+C
+java:S1125ı"'Remove the unnecessary boolean literal.(™»µ¥ÿÿÿÿÿ
+2
+java:S3626¡"Remove this redundant jump.(ûÁİ…
+J
+java:S1128%"4Remove this unused import 'javax.print.DocPrintJob'.(¼ïÆÑ
+Z
+java:S1128-"?Remove this unused import 'javax.print.attribute.AttributeSet'.(ƒÒü•ıÿÿÿÿ
+A
+java:S1068Y"+Remove this unused "jobName" private field.(Ğ Û—
+@
+java:S1068Z"*Remove this unused "copies" private field.(‡²™
+L
+java:S1144"5Remove this unused private "closeDataStreams" method.(òİÓ­

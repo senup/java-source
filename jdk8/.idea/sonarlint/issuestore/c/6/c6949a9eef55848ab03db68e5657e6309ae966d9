@@ -1,0 +1,23 @@
+
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ©ïùÿÿÿÿ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‡·¼Ğ
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü²æ›ÿÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(²œä¸şÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê—…¢ùÿÿÿÿ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…àŞÆşÿÿÿÿ
+7	java:S131m""Add a default case to this switch.(†·îá
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ùî¿‡øÿÿÿÿ
+D
+java:S4274¼"(Replace this assert with a proper check.(Ò–¬Õûÿÿÿÿ
+?
+java:S4274Ù"(Replace this assert with a proper check.(æÄóë
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…àŞÆşÿÿÿÿ
+C
+java:S1905³"'Remove this unnecessary cast to "byte".(Ø€šûûÿÿÿÿ

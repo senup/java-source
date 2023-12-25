@@ -1,0 +1,129 @@
+
+E
+java:S3740D"/Provide the parametrized type for this generic.(›‰ëş
+E
+java:S3740D"/Provide the parametrized type for this generic.(›‰ëş
+F
+java:S3740É"/Provide the parametrized type for this generic.(í÷Í¦
+K
+java:S3740Ê"/Provide the parametrized type for this generic.(¦˜ÍŠşÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(–ÃáÅ
+o
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(öÉÍZ
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ÁŠì
+o
+java:S1192ì"SDefine a constant instead of duplicating this literal " entry_offset = 0x" 7 times.(½’Şıùÿÿÿÿ
+k
+java:S1192í"ODefine a constant instead of duplicating this literal ", type_code = " 4 times.(öø–·ÿÿÿÿÿ
+f
+java:S1192Ë"JDefine a constant instead of duplicating this literal ", name = " 3 times.(Ş¤©åÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÏ‹ñıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿¢ü
+d
+java:S3824³"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(‰æßÙÿÿÿÿÿ
+o	java:S115B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É†ø
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(ÍÏ‹ñıÿÿÿÿ
+`
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(Í¨¥‚şÿÿÿÿ
+`
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.( ƒåÜùÿÿÿÿ
+`
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(ª£Ê«ÿÿÿÿÿ
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(ÕÈßíøÿÿÿÿ
+`
+java:S1124P"EReorder the modifiers to comply with the Java Language Specification.(ı„‰®úÿÿÿÿ
+`
+java:S1124Q"EReorder the modifiers to comply with the Java Language Specification.(Î¯İËøÿÿÿÿ
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(é°Ã­ûÿÿÿÿ
+[
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(¦é–
+[
+java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(¦ûÅï
+`
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(–ÆÖøÿÿÿÿ
+`
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(×¤¨Áùÿÿÿÿ
+Z
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(•š
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(À‹ƒİ
+[
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(£‰Ÿ©
+`
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(«ÿ¼¶ûÿÿÿÿ
+[
+java:S1124["EReorder the modifiers to comply with the Java Language Specification.(§©çï
+†
+java:S3252Ø"oUse static access with "sun.jvmstat.perfdata.monitor.AbstractPerfDataBufferPrologue" for "PERFDATA_MAJOR_NAME".(”¬×«
+‹
+java:S3252Ş"oUse static access with "sun.jvmstat.perfdata.monitor.AbstractPerfDataBufferPrologue" for "PERFDATA_MINOR_NAME".(Š‹µúÿÿÿÿ
+u
+java:S2142‘"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Ú¾ÓÄ
+?	java:S108‘")Either remove or fill this block of code.(Ú¾ÓÄ
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(‘´×æ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(üÎõ³
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(íœîçÿÿÿÿÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(÷ÔM
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(üÆ‹Óÿÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(¥ÿ²³ûÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÏ‹ñıÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(åÕì°ùÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(£‡»Ê
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(„‘¹€ûÿÿÿÿ
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(úíû—
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(èËË¶
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(µû§“ûÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(¨ªåÂşÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(Ç…Ñÿÿÿÿÿ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïòÁ‰øÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(ƒÀĞ
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(³ŞËä
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(”øªŠüÿÿÿÿ
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(áØŒŸùÿÿÿÿ
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ìú­
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(šäœÎùÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(öÁ¹åùÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş
+Z
+java:S1068L"?Remove this unused "PERFDATA_ENTRYLENGTH_OFFSET" private field.(Í¨¥‚şÿÿÿÿ
+X
+java:S1068M"=Remove this unused "PERFDATA_ENTRYLENGTH_SIZE" private field.( ƒåÜùÿÿÿÿ
+Y
+java:S1068N">Remove this unused "PERFDATA_NAMEOFFSET_OFFSET" private field.(ª£Ê«ÿÿÿÿÿ
+W
+java:S1068O"<Remove this unused "PERFDATA_NAMEOFFSET_SIZE" private field.(ÕÈßíøÿÿÿÿ
+[
+java:S1068P"@Remove this unused "PERFDATA_VECTORLENGTH_OFFSET" private field.(ı„‰®úÿÿÿÿ
+Y
+java:S1068Q">Remove this unused "PERFDATA_VECTORLENGTH_SIZE" private field.(Î¯İËøÿÿÿÿ
+W
+java:S1068R"<Remove this unused "PERFDATA_DATATYPE_OFFSET" private field.(é°Ã­ûÿÿÿÿ
+P
+java:S1068S":Remove this unused "PERFDATA_DATATYPE_SIZE" private field.(¦é–
+O
+java:S1068T"9Remove this unused "PERFDATA_FLAGS_OFFSET" private field.(¦ûÅï
+R
+java:S1068U"7Remove this unused "PERFDATA_FLAGS_SIZE" private field.(–ÆÖøÿÿÿÿ
+X
+java:S1068V"=Remove this unused "PERFDATA_DATAUNITS_OFFSET" private field.(×¤¨Áùÿÿÿÿ
+P
+java:S1068W";Remove this unused "PERFDATA_DATAUNITS_SIZE" private field.(•š
+Q
+java:S1068X";Remove this unused "PERFDATA_DATAVAR_OFFSET" private field.(À‹ƒİ
+O
+java:S1068Y"9Remove this unused "PERFDATA_DATAVAR_SIZE" private field.(£‰Ÿ©
+Y
+java:S1068Z">Remove this unused "PERFDATA_DATAOFFSET_OFFSET" private field.(«ÿ¼¶ûÿÿÿÿ
+R
+java:S1068["<Remove this unused "PERFDATA_DATAOFFSET_SIZE" private field.(§©çï
+H
+java:S1144‰",Remove this unused private "dumpAll" method.(ø³Ö”ıÿÿÿÿ

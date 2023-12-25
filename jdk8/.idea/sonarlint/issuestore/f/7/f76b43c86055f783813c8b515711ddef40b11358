@@ -1,0 +1,13 @@
+
+n
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹“ç
+p
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Åà¯
+z
+java:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®‚‡ê¯ˇˇˇˇ
+X
+java:S1117f"=Rename "signature" which hides the field declared at line 37.(ô§øÃ˚ˇˇˇˇ
+Y
+java:S1155|">Use isEmpty() to check whether the collection is empty or not.(£’Äˇ˝ˇˇˇˇ
+T
+java:S1155è">Use isEmpty() to check whether the collection is empty or not.(’ÜÈ

@@ -1,0 +1,43 @@
+
+J
+java:S37401"/Provide the parametrized type for this generic.(Ë¾Ê«ùÿÿÿÿ
+E
+java:S3740B"/Provide the parametrized type for this generic.(‰¢¬ 
+J
+java:S3740\"/Provide the parametrized type for this generic.(ô¢¾®ıÿÿÿÿ
+J
+java:S3740a"/Provide the parametrized type for this generic.(ŒÿÕÃüÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(ô¢¾®ıÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(ŒÿÕÃüÿÿÿÿ
+E
+java:S3740£"/Provide the parametrized type for this generic.(¥÷½C
+K
+java:S3740µ"/Provide the parametrized type for this generic.(§³öıÿÿÿÿ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(ô¢¾®ıÿÿÿÿ
+K
+java:S3740Ä"/Provide the parametrized type for this generic.(øÍøÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(ÂÒÂùÿÿÿÿ
+K
+java:S3740Ê"/Provide the parametrized type for this generic.(­Àüÿÿÿÿ
+F
+java:S3740Ë"/Provide the parametrized type for this generic.(êÚûú
+F
+java:S3740‰"/Provide the parametrized type for this generic.(ˆ¡âå
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+j
+java:S3824ƒ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ô¢¾®ıÿÿÿÿ
+i
+java:S3824\"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ô¢¾®ıÿÿÿÿ
+{
+java:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+M
+java:S1135W"2Complete the task associated to this TODO comment.(êØœğùÿÿÿÿ
+M
+java:S1135~"2Complete the task associated to this TODO comment.(êØœğùÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

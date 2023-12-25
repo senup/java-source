@@ -1,0 +1,7 @@
+
+t
+java:S11043"^Make httpsURLConnection a static final constant or non-public and provide accessors if needed.(¡«ŸÈ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤¹þf
+:
+java:S1111Q"Remove this call to finalize().(¯¶ú“üÿÿÿÿ

@@ -1,0 +1,16 @@
+
+t
+java:S1192¥"^Define a constant instead of duplicating this literal "hasMoreDescendants returning " 3 times.(Ãş”+
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ëæß±ùÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(Çêûûùÿÿÿÿ
+N	java:S106¥"9Replace this use of System.out or System.err by a logger.(Ãş”+
+N	java:S106ª"9Replace this use of System.out or System.err by a logger.(Ãş”+
+N	java:S106¯"9Replace this use of System.out or System.err by a logger.(Ãş”+
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(Ù÷–¬ÿÿÿÿÿ
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(‹ÎÓ
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(ªÑ—œ
+h
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ç£—<
+O	java:S106Õ"9Replace this use of System.out or System.err by a logger.(¦ºØ‰
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(ß¡Ê‘şÿÿÿÿ
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(çí¢ˆ

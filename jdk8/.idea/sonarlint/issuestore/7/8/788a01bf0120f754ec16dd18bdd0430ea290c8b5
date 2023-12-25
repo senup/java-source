@@ -1,0 +1,15 @@
+
+p
+java:S1104Q"UMake IS_STRING a static final constant or non-public and provide accessors if needed.(³ð×Þøÿÿÿÿ
+p
+java:S1104X"UMake codepoint a static final constant or non-public and provide accessors if needed.(Šïï‹ýÿÿÿÿ
+s
+java:S1104c"XMake codepointEnd a static final constant or non-public and provide accessors if needed.(ÛÕˆðÿÿÿÿÿ
+m
+java:S1104k"RMake string a static final constant or non-public and provide accessors if needed.(«¿Õêýÿÿÿÿ
+J
+java:S1444Q"/Make this "public static IS_STRING" field final(³ð×Þøÿÿÿÿ
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+o
+java:S3008Q"TRename this field "IS_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ð×Þøÿÿÿÿ

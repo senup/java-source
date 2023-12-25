@@ -1,0 +1,9 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(®®ƒa
+J
+java:S1133%"5Do not forget to remove this deprecated code someday.(Ï‹Õ]
+=
+java:S1123%"(Add the missing @deprecated Javadoc tag.(Ï‹Õ]
+7
+java:S1116*"Remove this empty statement.(ôŸŽìúÿÿÿÿ

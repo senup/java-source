@@ -1,0 +1,53 @@
+
+k
+java:S1192û"ODefine a constant instead of duplicating this literal "Invalid name: " 6 times.(Ò—ÏÑşÿÿÿÿ
+s	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆûƒéùÿÿÿÿ
+s	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ô¼Öˆûÿÿÿÿ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æı¾óÿÿÿÿÿ
+€
+java:S1149R"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÒŠ¢ßüÿÿÿÿ
+€
+java:S1149f"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ü¸Õşüÿÿÿÿ
+€
+java:S1149p"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×Îğºÿÿÿÿÿ
+{
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+
+java:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­Ã¡íÿÿÿÿÿ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÁüÿÿÿÿ
+
+java:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»øûüÿÿÿÿ
+{
+java:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦ö«Êüÿÿÿÿ
+u
+java:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ØöÍc
+v
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï›­
+i
+java:S2975y"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+^
+java:S1182y"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÁüÿÿÿÿ
+–
+java:S1130‘"Remove the declaration of thrown exception 'javax.naming.InvalidNameException', as it cannot be thrown from constructor's body.(ÁŞäı
+‘
+java:S1130…"zRemove the declaration of thrown exception 'javax.naming.InvalidNameException', as it cannot be thrown from method's body.(¸¸ôê
+
+java:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»øûüÿÿÿÿ
+{
+java:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦ö«Êüÿÿÿÿ
+u
+java:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ØöÍc
+v
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï›­
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Œ¶ÇÂøÿÿÿÿ
+U
+java:S4719ˆ"9Replace charset name argument with StandardCharsets.UTF_8(•àÃéıÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(Çµí‘

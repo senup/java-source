@@ -1,0 +1,67 @@
+
+f
+java:S1192ä"JDefine a constant instead of duplicating this literal "iTXtEntry" 7 times.(æÕßšşÿÿÿÿ
+`
+java:S1192 "IDefine a constant instead of duplicating this literal "sBIT_RGB" 4 times.(ö„”å
+m
+java:S1192N"RDefine a constant instead of duplicating this literal "compressionMethod" 4 times.(À’©¶şÿÿÿÿ
+f
+java:S1192”"ODefine a constant instead of duplicating this literal "sBIT_GrayAlpha" 3 times.(ƒ«Ğõ
+a
+java:S1192Î"JDefine a constant instead of duplicating this literal "zTXtEntry" 4 times.(–”ˆŸ
+i
+java:S1192à"MDefine a constant instead of duplicating this literal "UnknownChunk" 3 times.(áäÚ©üÿÿÿÿ
+a
+java:S1192Ç"JDefine a constant instead of duplicating this literal "hISTEntry" 3 times.(û·ä•
+d
+java:S1192ç"HDefine a constant instead of duplicating this literal "keyword" 3 times.(ï– ÿÿÿÿÿ
+\
+java:S1192j"FDefine a constant instead of duplicating this literal "green" 7 times.(Œ®„å
+a
+java:S1192ü"JDefine a constant instead of duplicating this literal "tEXtEntry" 3 times.(‹ğ³Ò
+d
+java:S1192¾"MDefine a constant instead of duplicating this literal "tRNS_Palette" 3 times.(ĞİáÍ
+\
+java:S1192›"FDefine a constant instead of duplicating this literal "alpha" 4 times.(®ÿ¬m
+a
+java:S1192b"FDefine a constant instead of duplicating this literal "index" 5 times.(±Şî¤ùÿÿÿÿ
+i
+java:S1192Ä"MDefine a constant instead of duplicating this literal "sBIT_Palette" 4 times.(¢¤ñûÿÿÿÿ
+e
+java:S1192°"NDefine a constant instead of duplicating this literal "sBIT_RGBAlpha" 5 times.(Ê´é¶
+a
+java:S1192Ø"JDefine a constant instead of duplicating this literal "sPLTEntry" 6 times.(÷âÌ
+`
+java:S1192_"JDefine a constant instead of duplicating this literal "PLTEEntry" 5 times.(×®‚”
+`
+java:S1192®"IDefine a constant instead of duplicating this literal "tRNS_RGB" 4 times.( ğğ¦
+d
+java:S1192"IDefine a constant instead of duplicating this literal "bKGD_RGB" 4 times.(š’‹šşÿÿÿÿ
+b
+java:S1192¾"FDefine a constant instead of duplicating this literal "value" 3 times.(º¿Î¨üÿÿÿÿ
+h
+java:S3008("RRename this field "VALUE_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢›ã
+h
+java:S3008)"RRename this field "VALUE_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ïø
+n
+java:S3008*"SRename this field "VALUE_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’×ß¦ûÿÿÿÿ
+n
+java:S3008+"SRename this field "VALUE_23" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÊèâûÿÿÿÿ
+n
+java:S3008,"SRename this field "VALUE_31" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‘Ğ—úÿÿÿÿ
+i
+java:S3008-"SRename this field "VALUE_59" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šªŠ
+n
+java:S3008."SRename this field "VALUE_60" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÓ¯ñûÿÿÿÿ
+j
+java:S3008/"TRename this field "VALUE_255" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÉ“€
+r
+java:S30080"WRename this field "VALUE_MAX_16" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®å¡¡şÿÿÿÿ
+m
+java:S30081"WRename this field "VALUE_MAX_32" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ğ²
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.util.ListResourceBundle'.(ÄÄÇÿÿÿÿÿ

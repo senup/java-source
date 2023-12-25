@@ -1,0 +1,21 @@
+
+>
+java:S11727"(Remove this unused method parameter "b".(àË”
+U
+java:S1161;":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
+U
+java:S1161A":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+C
+java:S1172F"(Remove this unused method parameter "c".(ûà›øÿÿÿÿ
+2
+java:S2066J"Make this inner class static(¥ƒ¤Ó
+U
+java:S1161Q":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
+—
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÉô
+—
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+œ
+java:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åşÿÿÿÿ

@@ -1,0 +1,66 @@
+
+o	java:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(·Ø‰£
+F
+java:S1066š"/Merge this if statement with the enclosing one.(¸ õª
+F
+java:S1066ª"/Merge this if statement with the enclosing one.(š…ñ
+K
+java:S1066º"/Merge this if statement with the enclosing one.(û©â’şÿÿÿÿ
+F
+java:S1066ˆ"/Merge this if statement with the enclosing one.(Ë»–
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(ïÛ±úÿÿÿÿ
+F
+java:S1066Î"/Merge this if statement with the enclosing one.(ë¦„ğ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Œ’ôûÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŞ° 
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ëî
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ñì§úÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò ¬¡ÿÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒ¼ú
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ñì§úÿÿÿÿ
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò ¬¡ÿÿÿÿÿ
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒ¼ú
+g	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂË§«
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àšëşÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉİÏ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉİÏ
+X
+java:S2184ƒ"ACast one of the operands of this addition operation to a "float".(ñ ‹î
+]
+java:S2184µ"FCast one of the operands of this multiplication operation to a "long".(™ıÖ
+X
+java:S2184•"ACast one of the operands of this addition operation to a "float".(Éó›™
+X
+java:S2184¤"ACast one of the operands of this addition operation to a "float".(äÑøå
+X
+java:S2184×"ACast one of the operands of this addition operation to a "float".(äÑøå
+w
+java:S4165"aRemove this useless assignment; "eof" already holds the assigned value along all execution paths.(İ¢ù
+R	java:S107ÿ"<Method has 8 parameters, which is greater than 7 authorized.(ÂË§«
+j	java:S116+"URename this field "stream_eof" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÚÅ
+q	java:S1160"WRename this field "target_pitch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŞ³öøÿÿÿÿ
+r	java:S1161"XRename this field "current_pitch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÜ¬ğüÿÿÿÿ
+o	java:S1164"URename this field "sector_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠüùÿÿÿÿ
+p	java:S1165"VRename this field "sector_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´æµ£øÿÿÿÿ
+u	java:S1166"[Rename this field "sector_loopstart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ëüùÿÿÿÿ
+l	java:S116;"WRename this field "noteOff_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃóÅí
+l	java:S116="XRename this field "ibuffer_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ®ÅN
+œ
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹óÕûÿÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(‹Äâôıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(©óÚÛùÿÿÿÿ
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(–ğ â
+N
+java:S1854â"7Remove this useless assignment to local variable "ret".(í¥å 
+R
+java:S1117×"6Rename "ix" which hides the field declared at line 65.(¶¥Åéùÿÿÿÿ
+R
+java:S1117Ù"6Rename "ox" which hides the field declared at line 66.(õ‡Ûİıÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(½¡—Ùûÿÿÿÿ
+X
+java:S1117"ARename "current_pitch" which hides the field declared at line 49.(ûŞ° 
+M
+java:S1117‘"6Rename "ox" which hides the field declared at line 66.(ŠÜİ

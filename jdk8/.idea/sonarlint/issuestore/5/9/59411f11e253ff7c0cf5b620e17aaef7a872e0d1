@@ -1,0 +1,14 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ş‹…ú
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ãûÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(£‰¸£
+V	java:S125,"<This block of commented-out lines of code should be removed.(åàşşÿÿÿÿ
+P
+java:S1161t":Add the "@Override" annotation above this method signature(™¬±
+9
+java:S1128#"$Remove this unused import 'java.io'.(¬›ãD
+C
+java:S1128$"(Remove this unused import 'sun.net.www'.(ÀÌÚøÿÿÿÿ
+J
+java:S1128&"4Remove this unused import 'sun.net.smtp.SmtpClient'.(ªêğŞ

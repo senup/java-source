@@ -1,0 +1,31 @@
+
+v
+java:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Œˆÿü
+{
+java:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149´"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ğ«Íìûÿÿÿÿ
+{
+java:S1149Ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(â«²
+<
+java:S2437‰" Remove this silly bit operation.(à½õ“ûÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(ˆØ‚„ûÿÿÿÿ
+?	java:S108ê")Either remove or fill this block of code.(˜¹Ãÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿ°§ãûÿÿÿÿ
+[
+java:S3358¼"DExtract this nested ternary operation into an independent statement.(£‰ÿ¼
+?	java:S108¾")Either remove or fill this block of code.(Äşí²
+T
+java:S1117‘"8Rename "buf" which hides the field declared at line 200.(åûÒ¸ûÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(â«²
+W	java:S125¢"<This block of commented-out lines of code should be removed.(ë”À£ùÿÿÿÿ

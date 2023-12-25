@@ -1,0 +1,12 @@
+
+o
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ì†
+F
+java:S1066‹"/Merge this if statement with the enclosing one.(®‹öÍ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(îº¹À
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îº¹À
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(ïÈÙšşÿÿÿÿ
+Q
+java:S1068ö":Remove this unused "EMPTY_ANNOTATION_ARRAY" private field.(£’¨

@@ -1,0 +1,47 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+g
+java:S1223~"LRename this method to prevent any misunderstanding or make it a constructor.(øõÖ®úÿÿÿÿ
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úœçá
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ÚÆ±ùÿÿÿÿ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Û×Û
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊİÄ
+W	java:S107~"=Method has 10 parameters, which is greater than 7 authorized.(øõÖ®úÿÿÿÿ
+R	java:S107ƒ"<Method has 9 parameters, which is greater than 7 authorized.(Âåù—
+X	java:S107‰"=Method has 11 parameters, which is greater than 7 authorized.(¶ş¯ıÿÿÿÿ
+O
+java:S18585"9there's no need to call "toString()" on a string literal.(Úœçá
+O
+java:S18587"9there's no need to call "toString()" on a string literal.(ëÛÖÚ
+O
+java:S18589"9there's no need to call "toString()" on a string literal.(”ÁÌÈ
+h	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øõÖ®úÿÿÿÿ
+d	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âåù—
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ş¯ıÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(ÇéÏ«üÿÿÿÿ
+F
+java:S1197½"*Move the array designators [] to the type.(ÉÇ»Ìüÿÿÿÿ
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(ù» 
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(„¥±–
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(¸Ê”Ğüÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(Î²ŞŠÿÿÿÿÿ
+P
+java:S1161‘":Add the "@Override" annotation above this method signature(İ›©e
+A
+java:S1128"+Remove this unused import 'java.awt.Paint'.(²ğ©
+G
+java:S1128"2Remove this unused import 'java.awt.PaintContext'.(ìÅ½(
+E
+java:S1128"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+Q
+java:S1128 "6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍşÿÿÿÿ
+P
+java:S1128"":Remove this unused import 'java.awt.image.WritableRaster'.(Üï€
+j
+java:S1128$"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê

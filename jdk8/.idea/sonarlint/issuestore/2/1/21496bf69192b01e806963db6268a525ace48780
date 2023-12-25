@@ -1,0 +1,31 @@
+
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Éà¢
+d
+java:S1192·"MDefine a constant instead of duplicating this literal "KeyTransport" 3 times.(‘”½Ö
+d
+java:S1192?"NDefine a constant instead of duplicating this literal "MessageDigest" 6 times.(õãÿâ
+l
+java:S1192›"PDefine a constant instead of duplicating this literal "BlockEncryption" 7 times.(ëžû…ûÿÿÿÿ
+m
+java:S1192Ç"QDefine a constant instead of duplicating this literal "SymmetricKeyWrap" 4 times.(ïÙ©Äúÿÿÿÿ
+h
+java:S1192ß"QDefine a constant instead of duplicating this literal "Request for URI " 4 times.(ßŸ ´
+o
+java:S1192Ÿ"XDefine a constant instead of duplicating this literal "AES/CBC/ISO10126Padding" 3 times.(Íý‰Û
+d
+java:S1192Ë"HDefine a constant instead of duplicating this literal "AESWrap" 3 times.(äçµ¨øÿÿÿÿ
+f
+java:S1192W"KDefine a constant instead of duplicating this literal "Signature" 11 times.(õÖèãÿÿÿÿÿ
+i
+java:S1192«"RDefine a constant instead of duplicating this literal "AES/GCM/NoPadding" 3 times.(£¾Âì
+U
+java:S1118$":Add a private constructor to hide the implicit public one.(Ÿôè­üÿÿÿÿ
+b
+java:S3457ß"KFormat specifiers or lambda should be used instead of string concatenation.(ßŸ ´
+b
+java:S3457ð"KFormat specifiers or lambda should be used instead of string concatenation.(ßŸ ´
+b
+java:S3457‚"KFormat specifiers or lambda should be used instead of string concatenation.(ßŸ ´
+b
+java:S3457“"KFormat specifiers or lambda should be used instead of string concatenation.(ßŸ ´

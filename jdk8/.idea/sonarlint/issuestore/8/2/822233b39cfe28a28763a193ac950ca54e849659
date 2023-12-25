@@ -1,0 +1,59 @@
+
+y
+java:S1192‘"]Define a constant instead of duplicating this literal "Input message incorrect size" 4 times.(âé¾¼ùÿÿÿÿ
+m
+java:S1192¹"VDefine a constant instead of duplicating this literal "UnicodeLittleUnmarked" 4 times.(ÕÎ…·
+a
+java:S1192¹"JDefine a constant instead of duplicating this literal "ISO8859_1" 3 times.(ÕÎ…·
+P
+java:S1191R"5Use classes from the Java API instead of Sun classes.(ªâ›ùÿÿÿÿ
+Z
+java:S3034˜">Prevent "int" promotion by adding "& 0xff" to this expression.(ÉË²úÿÿÿÿ
+Y
+java:S2147W"DCombine this catch with the one at line 85, which has the same body.(ÿÒ„p
+/
+java:S5542Q"Use a secure cipher mode.(–¢íº
+4
+java:S5547Q"Use a strong cipher algorithm.(–¢íº
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(Ò²À÷ûÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ëŒâË
+=
+java:S1110˜"!Remove these useless parentheses.(ÉË²úÿÿÿÿ
+B
+java:S1168ª"&Return an empty array instead of null.(Ñ‹Â¿ûÿÿÿÿ
+[
+java:S3358¹"DExtract this nested ternary operation into an independent statement.(ÕÎ…·
+[
+java:S3358ú"DExtract this nested ternary operation into an independent statement.(¯õÆ¥
+\
+java:S2147´"ECombine this catch with the one at line 305, which has the same body.(Õ˜ÁÏ
+\
+java:S2147·"ECombine this catch with the one at line 305, which has the same body.(ĞÇĞš
+\
+java:S2147º"ECombine this catch with the one at line 305, which has the same body.(Ûµ»î
+B
+java:S1168¾"&Return an empty array instead of null.(ÂÎòùÿÿÿÿ
+a
+java:S2147â"ECombine this catch with the one at line 352, which has the same body.(­Ñˆ®ûÿÿÿÿ
+\
+java:S2147ä"ECombine this catch with the one at line 352, which has the same body.(¶£½Á
+a
+java:S2147æ"ECombine this catch with the one at line 352, which has the same body.(ªâŞ¿üÿÿÿÿ
+=
+java:S1168é"&Return an empty array instead of null.(¥¹ï
+a
+java:S2147ö"ECombine this catch with the one at line 372, which has the same body.(È¶ƒÈşÿÿÿÿ
+=
+java:S1168ù"&Return an empty array instead of null.(¥¹ï
+X
+java:S4719ÿ"<Replace charset name argument with StandardCharsets.UTF_16LE(è¿æÙıÿÿÿÿ
+=
+java:S1168Š"&Return an empty array instead of null.(¥¹ï
+U
+java:S4719Ÿ">Replace charset name argument with StandardCharsets.ISO_8859_1(ïƒ¹
+=
+java:S1168¡"&Return an empty array instead of null.(¥¹ï
+X
+java:S4719§"<Replace charset name argument with StandardCharsets.UTF_16LE(ûı¯şÿÿÿÿ
+=
+java:S1168©"&Return an empty array instead of null.(¥¹ï

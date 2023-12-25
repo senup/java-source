@@ -1,0 +1,24 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ØËÒë
+P
+java:S1161<":Add the "@Override" annotation above this method signature(ØËÒë
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(è¼öıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(åƒÕÒûÿÿÿÿ
+R	java:S125¹"<This block of commented-out lines of code should be removed.(×ß¨
+W	java:S125¾"<This block of commented-out lines of code should be removed.(†½¬òıÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(×ß¨
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(éù„À
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ÿšŞØ

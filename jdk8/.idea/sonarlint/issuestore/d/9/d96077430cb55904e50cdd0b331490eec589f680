@@ -1,0 +1,27 @@
+
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(€Õı‘
+|
+java:S1192‹"eDefine a constant instead of duplicating this literal "DIGEST-MD5: digest response format " 12 times.(¿ä¼
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(Ø±¥“üÿÿÿÿ
+­
+java:S1845~"‘Rename field "NONCE" to prevent any misunderstanding/clash with field "nonce" defined in superclass "com.sun.security.sasl.digest.DigestMD5Base".(ù³ÌÖûÿÿÿÿ
+­
+java:S1845‡"•Rename field "AUTHZID" to prevent any misunderstanding/clash with field "authzid" defined in superclass "com.sun.security.sasl.digest.DigestMD5Base".(İŒ©
+{
+java:S1149Î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+E
+java:S1905›")Remove this unnecessary cast to "String".(ëİŠôÿÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ã“Ÿ÷
+›
+java:S1130¨"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(§õ™şşÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(Ù‡¨ëúÿÿÿÿ
+\
+java:S2147í"ECombine this catch with the one at line 618, which has the same body.(ï­£Ä
+\
+java:S2147Ç"ECombine this catch with the one at line 709, which has the same body.(ï­£Ä
+J
+java:S1068ˆ".Remove this unused "AUTH_PARAM" private field.(¼˜¶üÿÿÿÿ

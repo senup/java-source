@@ -1,0 +1,44 @@
+
+u
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ŸÒŒşÿÿÿÿ
+n
+java:S1192Ü"RDefine a constant instead of duplicating this literal "group is inactive" 3 times.(û’ÔÓùÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+Q
+java:S1141ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+A
+java:S2160>"+Override the "equals" method in this class.(İ–âü
+l
+java:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¼øà–
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(í•†î
+z
+java:S2142©"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(­¤ß”øÿÿÿÿ
+D	java:S108©")Either remove or fill this block of code.(­¤ß”øÿÿÿÿ
+c
+java:S2445¹"G"id" is a method parameter, and should not be used for synchronization.(†ÿ¢»ùÿÿÿÿ
+C
+java:S1125Û"'Remove the unnecessary boolean literal.(û—×·üÿÿÿÿ
+C
+java:S3011„",This accessibility update should be removed.(”İÙ®
+V
+java:S1161å":Add the "@Override" annotation above this method signature(–şÂÛúÿÿÿÿ
+¶
+java:S1130æ"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(£ß”öúÿÿÿÿ
+C
+java:S1125ì"'Remove the unnecessary boolean literal.(û—×·üÿÿÿÿ
+C
+java:S1125÷"'Remove the unnecessary boolean literal.(¡ˆåıÿÿÿÿ
+?	java:S108ù")Either remove or fill this block of code.(Øº°¶
+?	java:S108ş")Either remove or fill this block of code.(øææø
+U
+java:S1155’">Use isEmpty() to check whether the collection is empty or not.(Ì¿©ë
+C
+java:S1125“"'Remove the unnecessary boolean literal.(‘½ÓÀşÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(²œØÍûÿÿÿÿ
+?	java:S108¢")Either remove or fill this block of code.(ü¡ë×
+¶
+java:S1130¶"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(£ß”öúÿÿÿÿ
+C
+java:S1125¼"'Remove the unnecessary boolean literal.(û—×·üÿÿÿÿ

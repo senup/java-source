@@ -1,0 +1,9 @@
+
+O
+java:S2675É"3Remove the "synchronized" keyword from this method.(¤ğ¹òÿÿÿÿÿ
+|
+java:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(û­
+D
+java:S1172n".Remove this unused method parameter "actions".(Çò½›
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ

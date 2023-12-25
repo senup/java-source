@@ -1,0 +1,49 @@
+
+v
+java:S1192Š"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 9 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+[
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(Ÿ°Âß
+?
+java:S1905Ò"(Remove this unnecessary cast to "int[]".(é„×Ä
+V
+java:S1161†":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+A
+java:S1197Œ"*Move the array designators [] to the type.(—é‹ğ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+A
+java:S1197¼"*Move the array designators [] to the type.(—é‹ğ
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Èı¤™
+Q
+java:S1161Ï":Add the "@Override" annotation above this method signature(ç×‹“
+A
+java:S1197Õ"*Move the array designators [] to the type.(éÿÇ
+D
+java:S1905Ù"(Remove this unnecessary cast to "short".(À›¿Àıÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯³äi
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(Í°—
+A
+java:S1197·"*Move the array designators [] to the type.(éÿÇ
+?
+java:S1905Ã"(Remove this unnecessary cast to "short".(ÉÈ¾
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(Ç§æ
+E
+java:S1905Ç")Remove this unnecessary cast to "Raster".(èƒ¶úÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ÌŸ­
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(îíÒ•ÿÿÿÿÿ
+7
+java:S2129æ" Remove this "String" constructor(Ô°ï
+R	java:S125é"<This block of commented-out lines of code should be removed.(‡°ÑĞ

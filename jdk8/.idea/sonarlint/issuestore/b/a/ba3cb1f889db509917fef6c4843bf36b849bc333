@@ -1,0 +1,21 @@
+
+p	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ËÃÉ
+G
+java:S11725",Remove this unused method parameter "dummy".(»¤ÁÓşÿÿÿÿ
+7	java:S131W""Add a default case to this switch.(¹ŠÒÓ
+[
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
+i
+java:S2975~"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–ïêã
+[
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(–ïêã
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(êÙëšşÿÿÿÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(áçÉüÿÿÿÿ
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(Ÿ¶ê
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(ÒºèÀÿÿÿÿÿ
+\
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(€ËÃÉ

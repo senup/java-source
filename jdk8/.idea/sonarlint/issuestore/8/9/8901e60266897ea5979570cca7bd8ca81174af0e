@@ -1,0 +1,59 @@
+
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(€éî•
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜İ¬z
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë÷ãŸûÿÿÿÿ
+F
+java:S1066ª"/Merge this if statement with the enclosing one.(Ñ‘ÒÕ
+F
+java:S1066­"/Merge this if statement with the enclosing one.(‘³‹”
+F
+java:S1066´"/Merge this if statement with the enclosing one.(Š±¬Õ
+K
+java:S1066·"/Merge this if statement with the enclosing one.(ˆ«¿Äÿÿÿÿÿ
+F
+java:S1066¥"/Merge this if statement with the enclosing one.(Çü¥¹
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Æ±
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‘§©şÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áş²´
+f	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßñà	
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¶ûX
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ıîæıÿÿÿÿ
+D
+java:S1604â"(Make this anonymous inner class a lambda(òÚ™äüÿÿÿÿ
+X
+java:S2184é"ACast one of the operands of this addition operation to a "float".(÷Ğ±´
+]
+java:S2184î"FCast one of the operands of this multiplication operation to a "long".(ÇÑ†ï
+^
+java:S2184Ä"GCast one of the operands of this multiplication operation to a "float".(Ìå‹”
+]
+java:S2184Ï"GCast one of the operands of this multiplication operation to a "float".(¹ íE
+]
+java:S2184‚"GCast one of the operands of this multiplication operation to a "float".(Š›«T
+c
+java:S2184"GCast one of the operands of this multiplication operation to a "float".(†³¿»úÿÿÿÿ
+[
+java:S2184¢"ECast one of the operands of this subtraction operation to a "double".(íïÿ
+d
+java:S2184Î"HCast one of the operands of this multiplication operation to a "double".(ù¿Ç‹şÿÿÿÿ
+_
+java:S2184Ó"HCast one of the operands of this multiplication operation to a "double".(’ÖÀù
+_
+java:S2184Û"HCast one of the operands of this multiplication operation to a "double".(Æ¢€à
+U
+java:S1161;":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ
+P
+java:S1161C":Add the "@Override" annotation above this method signature(²…à¬
+o
+java:S3776„"SRefactor this method to reduce its Cognitive Complexity from 234 to the 15 allowed.(Ÿì£øÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(Ÿì£øÿÿÿÿ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(éš¾ã
+R	java:S125ß"<This block of commented-out lines of code should be removed.(åÁÜÅ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ƒÈˆë
+Y
+java:S1479à"BReduce the number of non-empty switch cases from 33 to at most 30.(Ô„Ù‹

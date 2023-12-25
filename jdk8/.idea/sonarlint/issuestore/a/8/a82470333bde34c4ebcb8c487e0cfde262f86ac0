@@ -1,0 +1,13 @@
+
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å…èÒ
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ò·üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+d
+java:S3824>"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(­†»‰
+N
+java:S5993M"9Change the visibility of this constructor to "protected".(…ùèx
+W	java:S107º"<Method has 8 parameters, which is greater than 7 authorized.(°£ø™üÿÿÿÿ
+<	java:S131""Add a default case to this switch.(Ò·üÿÿÿÿ

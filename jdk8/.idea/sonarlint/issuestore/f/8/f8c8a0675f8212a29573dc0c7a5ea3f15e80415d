@@ -1,0 +1,212 @@
+
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(åêáÔ
+E
+java:S1121Ø".Extract the assignment out of this expression.(ÿÎç±
+J
+java:S1121ß".Extract the assignment out of this expression.(¢ÔËŞùÿÿÿÿ
+E
+java:S1121ê".Extract the assignment out of this expression.(ÿÎç±
+J
+java:S1121Â".Extract the assignment out of this expression.(êŒë¶ıÿÿÿÿ
+J
+java:S1121Ì".Extract the assignment out of this expression.(Ëå³ïüÿÿÿÿ
+s	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ôğ»úûÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶‰§ñûÿÿÿÿ
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö÷µÒ
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­áÀ•
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Îå
+f	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‘ÿ
+
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Øéí
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¿•Ï
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬Ö´ÿÿÿÿÿ
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆóÄûÿÿÿÿ
+h
+java:S1104®"QMake eargb a static final constant or non-public and provide accessors if needed.(òë©÷
+g
+java:S1104¯"QMake pixel a static final constant or non-public and provide accessors if needed.(‚ô”J
+s
+java:S1104±"WMake surfaceData a static final constant or non-public and provide accessors if needed.(Ø‰¿°üÿÿÿÿ
+j
+java:S1104³"TMake drawpipe a static final constant or non-public and provide accessors if needed.(Û !
+k
+java:S1104´"TMake fillpipe a static final constant or non-public and provide accessors if needed.(îÀ¦È
+l
+java:S1104µ"UMake imagepipe a static final constant or non-public and provide accessors if needed.(éû¶
+l
+java:S1104¶"UMake shapepipe a static final constant or non-public and provide accessors if needed.(¹³ïË
+k
+java:S1104·"TMake textpipe a static final constant or non-public and provide accessors if needed.(İ¸íğ
+l
+java:S1104¸"UMake alphafill a static final constant or non-public and provide accessors if needed.(Â“ËÃ
+f
+java:S1104º"QMake loops a static final constant or non-public and provide accessors if needed.(ÈÓK
+l
+java:S1104¼"UMake imageComp a static final constant or non-public and provide accessors if needed.(°Œ’
+l
+java:S1104¾"VMake paintState a static final constant or non-public and provide accessors if needed.(ÚÖÑr
+v
+java:S1104¿"ZMake compositeState a static final constant or non-public and provide accessors if needed.(’ß¸ğøÿÿÿÿ
+s
+java:S1104À"WMake strokeState a static final constant or non-public and provide accessors if needed.(‘ï‘£ûÿÿÿÿ
+v
+java:S1104Á"ZMake transformState a static final constant or non-public and provide accessors if needed.(©é¤‹ıÿÿÿÿ
+l
+java:S1104Â"UMake clipState a static final constant or non-public and provide accessors if needed.(æ¥¾º
+w
+java:S1104Ä"[Make foregroundColor a static final constant or non-public and provide accessors if needed.(¡ŸÏ”üÿÿÿÿ
+r
+java:S1104Å"[Make backgroundColor a static final constant or non-public and provide accessors if needed.(‘»¦
+l
+java:S1104Ç"UMake transform a static final constant or non-public and provide accessors if needed.(®íìí
+i
+java:S1104È"RMake transX a static final constant or non-public and provide accessors if needed.(Áº¦Ë
+i
+java:S1104É"RMake transY a static final constant or non-public and provide accessors if needed.(ò¹Ëí
+h
+java:S1104Ğ"QMake paint a static final constant or non-public and provide accessors if needed.(—‘Å·
+n
+java:S1104Ñ"RMake stroke a static final constant or non-public and provide accessors if needed.(¬Å®²şÿÿÿÿ
+q
+java:S1104Ò"UMake composite a static final constant or non-public and provide accessors if needed.(“ë“İûÿÿÿÿ
+l
+java:S1104Ö"VMake renderHint a static final constant or non-public and provide accessors if needed.(ÉÛ×\
+u
+java:S1104×"YMake antialiasHint a static final constant or non-public and provide accessors if needed.(ëÕıûÿÿÿÿ
+t
+java:S1104Ø"]Make textAntialiasHint a static final constant or non-public and provide accessors if needed.(›íÁé
+w
+java:S1104Ü"[Make lcdTextContrast a static final constant or non-public and provide accessors if needed.(„£Óúıÿÿÿÿ
+m
+java:S1104à"VMake strokeHint a static final constant or non-public and provide accessors if needed.(’¸˜£
+y
+java:S1104â"]Make interpolationType a static final constant or non-public and provide accessors if needed.(‡÷ßøÿÿÿÿ
+m
+java:S1104å"QMake hints a static final constant or non-public and provide accessors if needed.(ßü«Šøÿÿÿÿ
+p
+java:S1104ç"YMake constrainClip a static final constant or non-public and provide accessors if needed.(ìÇÚº
+r
+java:S1104è"VMake constrainX a static final constant or non-public and provide accessors if needed.(‘ãë”øÿÿÿÿ
+r
+java:S1104é"VMake constrainY a static final constant or non-public and provide accessors if needed.(±‡…Àûÿÿÿÿ
+m
+java:S1104ë"VMake clipRegion a static final constant or non-public and provide accessors if needed.(õ»Ú
+j
+java:S1104ì"SMake usrClip a static final constant or non-public and provide accessors if needed.(¸Â†É
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(½ò…Ëıÿÿÿÿ
+[
+java:S2259º"?A "NullPointerException" could be thrown; "s" is nullable here.(¹ö¿²üÿÿÿÿ
+b
+java:S2259–"FA "NullPointerException" could be thrown; "getClip()" can return null.(‰Š®ßúÿÿÿÿ
+V
+java:S2259ù"?A "NullPointerException" could be thrown; "s" is nullable here.(Ãï‰‹
+o	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è¬Ö6
+p	java:S115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìüÍˆ
+o	java:S115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ìæ9
+u	java:S115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñãıüüÿÿÿÿ
+n
+java:S1845Ç"WRename field "transform" to prevent any misunderstanding/clash with method "transform".(®íìí
+X	java:S107ñ"=Method has 11 parameters, which is greater than 7 authorized.(ì¹™Ôøÿÿÿÿ
+W	java:S107"<Method has 9 parameters, which is greater than 7 authorized.(¹ğ‘ìşÿÿÿÿ
+[
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(è¬Ö6
+i
+java:S2975©"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ÿ—¨çÿÿÿÿÿ
+?	java:S108Ä")Either remove or fill this block of code.(õ¹á
+0
+java:S2225Æ"Return a non null object.(¥¹ï
+6
+java:S1659‚" Declare "a2" on a separate line.(Õ¥’L
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(€úüÿÿÿÿÿ
+U
+java:S1854Ó">Remove this useless assignment to local variable "txFontType".(‰¦ÉÉ
+U
+java:S1854ç">Remove this useless assignment to local variable "txFontType".(ìÜ¥™
+;
+java:S1659Ï"$Declare "textAt" on a separate line.(‚´ÃŠ
+K
+java:S1481Î"/Remove this unused "txFontType" local variable.(º®óâıÿÿÿÿ
+W
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(½ñË5
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(±¦Õ¿şÿÿÿÿ
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ò‰½
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(è„‰‹
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(²¹³‰ûÿÿÿÿ
+i
+java:S3776’	"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¤˜æú
+8	java:S131‘
+""Add a default case to this switch.(ö®·ÿ
+=
+java:S2129Ÿ
+"!Remove this "Integer" constructor(½’øÄüÿÿÿÿ
+8	java:S131¡
+""Add a default case to this switch.(Îì•Ô
+Q
+java:S1117¶":Rename "eargb" which hides the field declared at line 174.(õï¯Û
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(÷®¹
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ä•õÔşÿÿÿÿ
+A
+java:S1197´"*Move the array designators [] to the type.(¦œ€
+F
+java:S1197ç"*Move the array designators [] to the type.(²Ó›îüÿÿÿÿ
+A
+java:S1197¿"*Move the array designators [] to the type.(’ä÷›
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’³üŸ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(°æ›úúÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(áĞ´¤ûÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(áĞ´¤ûÿÿÿÿ
+F
+java:S1197 "*Move the array designators [] to the type.(Ø¹¨ªøÿÿÿÿ
+F
+java:S1197 "*Move the array designators [] to the type.(Ø¹¨ªøÿÿÿÿ
+F
+java:S1197±"*Move the array designators [] to the type.(Àû¾„ûÿÿÿÿ
+F
+java:S1197±"*Move the array designators [] to the type.(Àû¾„ûÿÿÿÿ
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(¼ÚÓ²ıÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ƒûòµ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(‚Üëùÿÿÿÿ
+V
+java:S1659ƒ"?Declare "x1" and all following declarations on a separate line.(Àü¾î
+@
+java:S1197ø"*Move the array designators [] to the type.(‰ŞØ
+?
+java:S1905"(Remove this unnecessary cast to "float".(Ÿœµá
+?
+java:S1905"(Remove this unnecessary cast to "float".(Ÿœµá
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(¤—åÇÿÿÿÿÿ
+F
+java:S1197¦"*Move the array designators [] to the type.(¤—åÇÿÿÿÿÿ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(„ä«Â
+A
+java:S1197Ç"*Move the array designators [] to the type.(„ä«Â
+A
+java:S1197Ï"*Move the array designators [] to the type.(‚ØšÉ
+]
+java:S1659²"ADeclare "srcY" and all following declarations on a separate line.(†şá§øÿÿÿÿ
+I
+java:S1113í"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+B
+java:S1174í"&Make this finalize() method protected.(­§óùÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(­§óùÿÿÿÿ
+o
+java:S1114í"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(­§óùÿÿÿÿ
+O
+java:S1068÷"9Remove this unused "slowTextTransformMask" private field.(è¬Ö6

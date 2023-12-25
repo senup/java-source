@@ -1,0 +1,13 @@
+
+e
+java:S1192§"NDefine a constant instead of duplicating this literal "NOT_SPECIFIED" 5 times.(–ßþ›
+u
+java:S1488M"ZImmediately return this expression instead of assigning it to the temporary variable "dB".(ÿ½–Àüÿÿÿÿ
+t
+java:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "linear".(Ôæ“”
+D
+java:S1905M")Remove this unnecessary cast to "double".(ÿ½–Àüÿÿÿÿ
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¯ø¯ÿýÿÿÿÿ
+X
+java:S1126Å"AReplace this if-then-else statement by a single return statement.(ã¯ÎÓ

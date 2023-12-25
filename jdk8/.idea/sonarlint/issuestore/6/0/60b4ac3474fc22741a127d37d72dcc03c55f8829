@@ -1,0 +1,25 @@
+
+u
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯”ßãøÿÿÿÿ
+{
+java:S1488N"`Immediately return this expression instead of assigning it to the temporary variable "location".(Î¦íåøÿÿÿÿ
+_
+java:S2259N"DA "NullPointerException" could be thrown; "method" is nullable here.(Î¦íåøÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(à…Ï7
+v
+java:S1149ä"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Üà¥ö
+{
+java:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º¢ßúÿÿÿÿ
+]
+java:S1126Ë"AReplace this if-then-else statement by a single return statement.(ÑÈì¨øÿÿÿÿ
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—¢è®
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Í ˜ıÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ğ˜İûøÿÿÿÿ
+C
+java:S1125Â"'Remove the unnecessary boolean literal.(ìÔ¨¼ıÿÿÿÿ
+=
+java:S1144Ö"'Remove this unused private "vm" method.(˜š‚

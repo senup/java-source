@@ -1,0 +1,19 @@
+
+a	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(òøÅŞøÿÿÿÿ
+t	java:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(Ã£Ó®şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+X
+java:S2259Ğ"AA "NullPointerException" could be thrown; "era" is nullable here.(Ù±—¯
+P
+java:S3516“"9Refactor this method to not always return the same value.(ı¯Úë
+u
+java:S1149h"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+A
+java:S2160-"+Override the "equals" method in this class.(Û¤·
+u
+java:S1149h"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+h
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŒÍ±‘
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ı¯Úë

@@ -1,0 +1,47 @@
+
+p
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÄíŞ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îƒ–äÿÿÿÿÿ
+u
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îƒ–äÿÿÿÿÿ
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(œûôøüÿÿÿÿ
+o
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÛ™
+p
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(óôœ—
+o
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹şÙ
+k
+java:S1192Ç"TDefine a constant instead of duplicating this literal "purgeUnserializable" 4 times.(Æ®°
+b
+java:S1192"KDefine a constant instead of duplicating this literal "Attribute " 3 times.(—™¡ƒ
+o
+java:S1192¢"SDefine a constant instead of duplicating this literal "getNotifBufferSize" 4 times.(‰‡ŞÌşÿÿÿÿ
+†
+java:S1319ß"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(úùŒÃ
+l
+java:S2095×"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(²Òå«üÿÿÿÿ
+m
+java:S1149ß"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(úùŒÃ
+U
+java:S11187":Add a private constructor to hide the implicit public one.(ŞÃáÌıÿÿÿÿ
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ç¡Ô˜
+B
+java:S1481É"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÆÖø¨şÿÿÿÿ
+R
+java:S1119È";Refactor the code to remove this label and the need for it.(­î³Ì
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ‘–Ôÿÿÿÿÿ
+—
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÇçN
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ÿ‘–Ôÿÿÿÿÿ
+W
+java:S11284"ARemove this unused import 'javax.management.remote.JMXConnector'.(—Ä¶è
+b
+java:S11285"GRemove this unused import 'javax.management.remote.JMXConnectorServer'.(êÓÖ™úÿÿÿÿ

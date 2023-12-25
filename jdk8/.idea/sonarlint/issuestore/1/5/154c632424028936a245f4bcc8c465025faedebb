@@ -1,0 +1,18 @@
+
+[	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(¶Éš
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Ö‡É
+o
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Éõê
+q
+java:S1488¸"ZImmediately throw this expression instead of assigning it to the temporary variable "ioe".(ûæ¬Ì
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+@
+java:S19480"%Make "hci" transient or serializable.(›óÚáÿÿÿÿÿ
+G
+java:S1948;",Make "negotiator" transient or serializable.(²œÕ—ÿÿÿÿÿ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(›óÚáÿÿÿÿÿ
+`
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(ÙŸÿûÿÿÿÿ

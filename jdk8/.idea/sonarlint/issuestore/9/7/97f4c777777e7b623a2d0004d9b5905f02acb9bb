@@ -1,0 +1,20 @@
+
+a	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(„©òèşÿÿÿÿ
+?
+java:S1604®"(Make this anonymous inner class a lambda(ÈØ¿»
+D
+java:S1604×"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+U
+java:S1161T":Add the "@Override" annotation above this method signature(º£Ïâùÿÿÿÿ
+f
+java:S3252œ"OUse static access with "javax.swing.WindowConstants" for "DO_NOTHING_ON_CLOSE".(ö®èİ
+u
+java:S2142³"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+=
+java:S2129©"!Remove this "Integer" constructor(‹öÄ¿úÿÿÿÿ
+D	java:S108¹")Either remove or fill this block of code.(éÍ¢øÿÿÿÿ

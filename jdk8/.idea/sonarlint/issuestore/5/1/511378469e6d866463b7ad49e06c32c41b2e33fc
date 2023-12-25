@@ -1,0 +1,39 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊıÿÿÿÿ
+j
+java:S3038#"U"get" is defined in the "FieldAccessor" interface and can be removed from this class.(ä£ï
+r
+java:S3038'"\"getBoolean" is defined in the "FieldAccessor" interface and can be removed from this class.(üÖÈ
+o
+java:S3038+"Y"getByte" is defined in the "FieldAccessor" interface and can be removed from this class.(…Éµ
+o
+java:S3038/"Y"getChar" is defined in the "FieldAccessor" interface and can be removed from this class.(¦Ì¿Ù
+p
+java:S30383"Z"getShort" is defined in the "FieldAccessor" interface and can be removed from this class.(ñúˆ“
+s
+java:S30387"X"getInt" is defined in the "FieldAccessor" interface and can be removed from this class.(ÔªËûúÿÿÿÿ
+t
+java:S3038;"Y"getLong" is defined in the "FieldAccessor" interface and can be removed from this class.(¤™•»üÿÿÿÿ
+u
+java:S3038?"Z"getFloat" is defined in the "FieldAccessor" interface and can be removed from this class.(¶¨Ä¥ùÿÿÿÿ
+q
+java:S3038C"["getDouble" is defined in the "FieldAccessor" interface and can be removed from this class.(èôç¢
+k
+java:S3038G"U"set" is defined in the "FieldAccessor" interface and can be removed from this class.(’¯“ß
+r
+java:S3038K"\"setBoolean" is defined in the "FieldAccessor" interface and can be removed from this class.(àğŒ£
+o
+java:S3038O"Y"setByte" is defined in the "FieldAccessor" interface and can be removed from this class.(¦ŠÜ¤
+o
+java:S3038S"Y"setChar" is defined in the "FieldAccessor" interface and can be removed from this class.(“ş±
+p
+java:S3038W"Z"setShort" is defined in the "FieldAccessor" interface and can be removed from this class.(è¯
+s
+java:S3038["X"setInt" is defined in the "FieldAccessor" interface and can be removed from this class.(š—Ìâÿÿÿÿÿ
+o
+java:S3038_"Y"setLong" is defined in the "FieldAccessor" interface and can be removed from this class.(´³„¶
+p
+java:S3038c"Z"setFloat" is defined in the "FieldAccessor" interface and can be removed from this class.(™úô‡
+q
+java:S3038g"["setDouble" is defined in the "FieldAccessor" interface and can be removed from this class.(öáì×

@@ -1,0 +1,16 @@
+
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßİ§Èøÿÿÿÿ
+x
+java:S1319G"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(»Ğ¹“
+H
+java:S1113l"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+[
+java:S1874ğ"?Remove this use of "SocketSecurityException"; it is deprecated.(Å€ôÎıÿÿÿÿ
+V
+java:S1874£":Remove this use of "RMISecurityManager"; it is deprecated.(éŸÉÖşÿÿÿÿ
+?	java:S108¤")Either remove or fill this block of code.(”ı¾
+I
+java:S1113²"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+6
+java:S1111Û"Remove this call to finalize().(±½ïÔ

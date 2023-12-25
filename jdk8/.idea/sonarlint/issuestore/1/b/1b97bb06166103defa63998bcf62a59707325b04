@@ -1,0 +1,21 @@
+
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(åØÿùÿÿÿÿ
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó°Î©ùÿÿÿÿ
+p
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Õ‰°
+p
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¼›‡
+Q
+java:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604õ"(Make this anonymous inner class a lambda(š©½
+P
+java:S1161f":Add the "@Override" annotation above this method signature(ÜÑã
+^
+java:S4201g"IRemove this unnecessary null check; "instanceof" returns false for nulls.(±³Á
+P
+java:S1161r":Add the "@Override" annotation above this method signature(ğÜşŠ
+E
+java:S1128#"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ

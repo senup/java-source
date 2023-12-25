@@ -1,0 +1,14 @@
+
+D
+java:S1604Î"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+l
+java:S1149K"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ü•©ž
+k
+java:S1149L"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Î‰‚
+d
+java:S4201j"IRemove this unnecessary null check; "instanceof" returns false for nulls.(É¡˜ïùÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(ªžï½ûÿÿÿÿ
+I
+java:S1144Ê"-Remove this unused private "dispatch" method.(™—Êèüÿÿÿÿ

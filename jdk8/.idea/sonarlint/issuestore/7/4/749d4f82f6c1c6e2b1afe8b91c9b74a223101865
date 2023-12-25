@@ -1,0 +1,17 @@
+
+=
+java:S1700;""Rename field "apacheCanonicalizer"(îŸóýüÿÿÿÿ
+o
+java:S4144Y"TUpdate this method so that its implementation is not identical to "init" on line 71.(ç‹Í°üÿÿÿÿ
+h
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ãÄ«Œ
+?
+java:S1172q")Remove this unused method parameter "xc".(ãÄ«Œ
+f
+java:S3457x"KFormat specifiers or lambda should be used instead of string concatenation.(Ñžƒýüÿÿÿÿ
+b
+java:S3457¯"KFormat specifiers or lambda should be used instead of string concatenation.(ÕŠÒÀ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Œ¶»ô
+a
+java:S3457Ø"KFormat specifiers or lambda should be used instead of string concatenation.(Æ¡ü_

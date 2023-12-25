@@ -1,0 +1,15 @@
+
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ıÎş
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øòû“üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ñ…¿
+e
+java:S3824È"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ş¥’©
+n	java:S115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±„=
+j
+java:S1845J"ORename method "debug" to prevent any misunderstanding/clash with field "debug".(„¦ğíüÿÿÿÿ
+€
+java:S1149E"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åò¸´şÿÿÿÿ
+m
+java:S1149Ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ûÉ•Ä
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ˆ‹Ãò

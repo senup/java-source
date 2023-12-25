@@ -1,0 +1,39 @@
+
+E
+java:S37402"/Provide the parametrized type for this generic.(÷ŸÈ®
+E
+java:S37403"/Provide the parametrized type for this generic.(¢úÁ–
+J
+java:S3740L"/Provide the parametrized type for this generic.(ŒĞ™èûÿÿÿÿ
+J
+java:S3740L"/Provide the parametrized type for this generic.(ŒĞ™èûÿÿÿÿ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢úÁ–
+>
+java:S16049"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(åµé¡
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿŞÈ³
+s
+java:S3008."XRename this field "RGBcolormodel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ü©Ñúÿÿÿÿ
+o
+java:S3008/"YRename this field "ARGBcolormodel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àå‰¸
+t
+java:S30080"YRename this field "Graycolormodel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šû¿‘ıÿÿÿÿ
+q
+java:S1149L"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ŒĞ™èûÿÿÿÿ
+@
+java:S1197B"*Move the array designators [] to the type.(å¾íÎ
+?
+java:S1197I"*Move the array designators [] to the type.(ıíÃ
+T
+java:S1854n"9Remove this useless assignment to local variable "flags".(ª… Êùÿÿÿÿ
+@
+java:S1481l"*Remove this unused "flags" local variable.(¿¾ÿš
+?
+java:S1197v"*Move the array designators [] to the type.(ó‚‡9
+?
+java:S1197"*Move the array designators [] to the type.(ªØà	
+H
+java:S1128""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+@
+java:S1144U"*Remove this unused private "error" method.(Ğ˜…Š

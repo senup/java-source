@@ -1,0 +1,32 @@
+
+u
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÃ¬’ùÿÿÿÿ
+†
+java:S1319Ç"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(²šÀ€
+~
+java:S1319È"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(­ã¡æıÿÿÿÿ
+y
+java:S1319Œ"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(ö©Â
+~
+java:S1319Ê"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(è†ìúûÿÿÿÿ
+~
+java:S1319"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(´‹íÍÿÿÿÿÿ
+S
+java:S4973‚"<Strings and Boxed types should be compared using "equals()".(ÿĞÀÃ
+O
+java:S2589˜"8Remove this expression which always evaluates to "false"(‚¿Á¨
+d
+java:S3824Õ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ƒ™S
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(²šÀ€
+=
+java:S1452Ç"&Remove usage of generic wildcard type.(²šÀ€
+=
+java:S1452Ç"&Remove usage of generic wildcard type.(²šÀ€
+Z
+java:S1155á">Use isEmpty() to check whether the collection is empty or not.(›ÙÁœıÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(»ƒÎá
+R	java:S125ò"<This block of commented-out lines of code should be removed.(¢˜œ“
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´‹íÍÿÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(”ı¼üÿÿÿÿ

@@ -1,0 +1,38 @@
+
+i
+java:S1192Ï"RDefine a constant instead of duplicating this literal "LOCAL ENGINE ID: " 4 times.(½•¯¿
+v
+java:S1192ğ"ZDefine a constant instead of duplicating this literal "LOCAL ENGINE START TIME: " 3 times.(º‘‰øüÿÿÿÿ
+t
+java:S1192ï"XDefine a constant instead of duplicating this literal "LOCAL ENGINE NB BOOTS: " 3 times.(½·Ğüÿÿÿÿ
+K
+java:S1066¢"/Merge this if statement with the enclosing one.(ù·Ãèøÿÿÿÿ
+t	java:S115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÀ¨úÿÿÿÿÿ
+t	java:S115T"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ îĞüÿÿÿÿ
+o	java:S115Y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÍ˜¡
+n	java:S115]"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©§²I
+o	java:S115b"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿö¢Ş
+o	java:S115f"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓóüÇ
+o	java:S115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÓÂ
+q
+java:S1450m"VRemove the "factory" field and declare it as a local variable in the relevant methods.(äşâÿÿÿÿÿ
+D
+java:S1948m")Make "factory" transient or serializable.(äşâÿÿÿÿÿ
+`
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(úÅ¤Èúÿÿÿÿ
+`
+java:S1124t"EReorder the modifiers to comply with the Java Language Specification.(ŒÖï›şÿÿÿÿ
+`
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(ŞŸ’ùÿÿÿÿ
+[
+java:S1124x"EReorder the modifiers to comply with the Java Language Specification.(“Ù¥×
+`
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(€æàİşÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+]
+java:S1128&"GRemove this unused import 'com.sun.jmx.snmp.SnmpUnknownModelException'.(Øƒ™¦
+j
+java:S1128("TRemove this unnecessary import: same package classes are always implicitly imported.(«îÂ’
+F
+java:S1068m"+Remove this unused "factory" private field.(äşâÿÿÿÿÿ

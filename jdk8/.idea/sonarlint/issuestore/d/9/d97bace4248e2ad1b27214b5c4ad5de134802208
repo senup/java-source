@@ -1,0 +1,23 @@
+
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬àçöşÿÿÿÿ
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–ûã¿
+@
+java:S11978"*Move the array designators [] to the type.(¿Ù½ú
+@
+java:S1197>"*Move the array designators [] to the type.(¯õÖ
+Z
+java:S1659c"?Declare "b2" and all following declarations on a separate line.(ùìÃ»üÿÿÿÿ
+Z
+java:S1659z"?Declare "b2" and all following declarations on a separate line.(ùìÃ»üÿÿÿÿ
+8
+java:S1659"!Declare "low" on a separate line.(‹®¨±
+8
+java:S1659¤"!Declare "low" on a separate line.(‹®¨±
+A
+java:S1197À"*Move the array designators [] to the type.(®úæ
+A
+java:S1197Å"*Move the array designators [] to the type.(§ìî·
+`
+java:S3551Ù"IMake this method "synchronized" to match the parent class implementation.(İ—ºÌ
+_
+java:S3551Ş"IMake this method "synchronized" to match the parent class implementation.(”ŸÀ8

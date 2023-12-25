@@ -1,0 +1,102 @@
+
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(†…Ë›üÿÿÿÿ
+o
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(úòÝ¡
+t
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùÿ·§úÿÿÿÿ
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ýæ€‚ûÿÿÿÿ
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(€…Óÿþÿÿÿÿ
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(€éî•
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(€éî•
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãˆ¬‚
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÙÊÜÿÿÿÿÿ
+u
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ö„¯ýÿÿÿÿ
+u
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ö„¯ýÿÿÿÿ
+t	java:S135ö"YReduce the total number of break and continue statements in this loop to use at most one.(Ü‡ö¾üÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€…Óÿþÿÿÿÿ
+g	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öºÊä
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ìšáøÿÿÿÿ
+l	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÙÊÜÿÿÿÿÿ
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á½Ãýûÿÿÿÿ
+f	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ç´
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Úòýÿÿÿÿ
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÚË¸ýÿÿÿÿ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ªŽƒùÿÿÿÿ
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ÿ¬Üÿÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‰¡´úÿÿÿÿ
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï×Šûÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¬æ”
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôòÊÞ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÍëÌ
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù·”Éûÿÿÿÿ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äèŸ™
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ìøúùÿÿÿÿ
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÔÔ§üÿÿÿÿ
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÞÖ’ÿÿÿÿÿ
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ŸÚ¹ùÿÿÿÿ
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëðµñ
+f	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ššÐP
+f	java:S117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®¾d
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÖ¢ø
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ºô‚
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºïÄŸøÿÿÿÿ
+f	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¾ó
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑã¨
+I
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+E
+java:S2093i"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(úåÞûÿÿÿÿ
+T
+java:S1117±">Rename "sampleData" which hides the field declared at line 80.(àÇé>
+W	java:S125À"<This block of commented-out lines of code should be removed.(Ü¶çŽøÿÿÿÿ
+\
+java:S1117È"@Rename "sampleData24" which hides the field declared at line 81.(­ÊàËûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(€´ííÿÿÿÿÿ
+o
+java:S3776á"SRefactor this method to reduce its Cognitive Complexity from 191 to the 15 allowed.(ªã†ûÿÿÿÿ
+V
+java:S1117ê"?Rename "instruments" which hides the field declared at line 84.(Ãˆ¬‚
+R	java:S125°"<This block of commented-out lines of code should be removed.(øÅ•õ
+l
+java:S3252Í"PUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_SAMPLEID".(¬ï¨ùÿÿÿÿ
+g
+java:S3252Ï"PUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_SAMPLEID".(Ù…ˆÖ
+g
+java:S3252Ð"PUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_SAMPLEID".(„ˆõý
+n
+java:S3252ç"RUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_INSTRUMENT".(Ëò³¥úÿÿÿÿ
+n
+java:S3252é"RUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_INSTRUMENT".(‰Ùªÿÿÿÿÿ
+n
+java:S3252ê"RUse static access with "com.sun.media.sound.SF2Region" for "GENERATOR_INSTRUMENT".(¾Ÿ—äùÿÿÿÿ
+X
+java:S4719•"<Replace charset name argument with StandardCharsets.US_ASCII(€æÀ¸þÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ì¡¸øÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(û–Çà
+D
+java:S1905ì"(Remove this unnecessary cast to "Short".(ÿ¶ÐŸþÿÿÿÿ
+?
+java:S1905í"(Remove this unnecessary cast to "Short".(ÇŽ…‡
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ä¹Ÿ
+=
+java:S1905Å"&Remove this unnecessary cast to "int".(ôïþ·
+L
+java:S1905¿"0Remove this unnecessary cast to "SF2Instrument".(†Í½øÿÿÿÿÿ
+B
+java:S1905Á"+Remove this unnecessary cast to "SF2Layer".(¢ÀÙ
+C
+java:S1905Ã",Remove this unnecessary cast to "SF2Sample".(ñ°â

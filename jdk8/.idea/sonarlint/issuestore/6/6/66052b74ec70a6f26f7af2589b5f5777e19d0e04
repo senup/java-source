@@ -1,0 +1,13 @@
+
+E
+java:S3740("/Provide the parametrized type for this generic.(Õñµƒ
+J
+java:S3740M"/Provide the parametrized type for this generic.(”ƒöšùÿÿÿÿ
+o
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¬—ï
+>
+java:S1604o"(Make this anonymous inner class a lambda(ÙÎÄÀ
+c
+java:S3824U"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(þš÷úûÿÿÿÿ
+_
+java:S3358>"DExtract this nested ternary operation into an independent statement.(°¾øµüÿÿÿÿ

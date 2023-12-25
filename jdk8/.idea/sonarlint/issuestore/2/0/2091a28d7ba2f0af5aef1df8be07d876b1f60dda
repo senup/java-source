@@ -1,0 +1,16 @@
+
+g	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã”ê½ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûþÿÿÿÿ
+U
+java:S1161'":Add the "@Override" annotation above this method signature(þêåÂþÿÿÿÿ
+U
+java:S1161+":Add the "@Override" annotation above this method signature(ÌÍ•¹üÿÿÿÿ
+U
+java:S11611":Add the "@Override" annotation above this method signature(ú¥ó±ÿÿÿÿÿ
+U
+java:S11615":Add the "@Override" annotation above this method signature(ÿØÀßøÿÿÿÿ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(³ñ•ßüÿÿÿÿ
+`
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(›åŠîûÿÿÿÿ

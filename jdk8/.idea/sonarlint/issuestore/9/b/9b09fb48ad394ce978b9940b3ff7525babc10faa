@@ -1,0 +1,510 @@
+
+\	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(†³ˆø
+a	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(À»û£ûÿÿÿÿ
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öè¸ïúÿÿÿÿ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ûš
+p
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ­¾Æ
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢÷éøÿÿÿÿ
+u
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÄ°Éÿÿÿÿÿ
+o
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(© ªz
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñù•çÿÿÿÿÿ
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÅñöÿÿÿÿÿ
+p
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ßŞï
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Š¶
+u
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óßñûÿÿÿÿ
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(îõØ®
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôèÜ
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨÷Ãü
+u
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÀ›­şÿÿÿÿ
+u
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¶»õüÿÿÿÿ
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(â»˜»
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùî‹øÿÿÿÿ
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ø»øÿÿÿÿ
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÏŒÇ
+u
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜çÁ§ùÿÿÿÿ
+u
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ö¬ìıÿÿÿÿ
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆˆÃ¬ûÿÿÿÿ
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬²‰®
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä½Öıÿÿÿÿ
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÜªÿÿÿÿÿ
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ö´„ûÿÿÿÿ
+c
+java:S1192B"HDefine a constant instead of duplicating this literal "deflate" 4 times.(İÑì€ıÿÿÿÿ
+i
+java:S1192à"RDefine a constant instead of duplicating this literal "compressionMethod" 8 times.(ÙŸÊ®
+c
+java:S1192Ò"GDefine a constant instead of duplicating this literal "minute" 4 times.(‘Ëÿÿÿÿÿ
+j
+java:S1192Í"NDefine a constant instead of duplicating this literal " not present!" 4 times.(Âö¯–ûÿÿÿÿ
+`
+java:S1192Ğ"IDefine a constant instead of duplicating this literal "keyword" 10 times.(Ë¯¿Ä
+c
+java:S1192ó"GDefine a constant instead of duplicating this literal "green" 18 times.(‰Á¬Îúÿÿÿÿ
+h
+java:S1192ş"LDefine a constant instead of duplicating this literal "compression" 5 times.(–ÄŞšüÿÿÿÿ
+p
+java:S1192Í"TDefine a constant instead of duplicating this literal "Required attribute " 4 times.(Âö¯–ûÿÿÿÿ
+]
+java:S1192Ï"FDefine a constant instead of duplicating this literal "month" 4 times.(³ ÿã
+]
+java:S1192ú"FDefine a constant instead of duplicating this literal "alpha" 9 times.(ïŒ¶İ
+c
+java:S1192ğ"GDefine a constant instead of duplicating this literal "index" 12 times.(–¶»âıÿÿÿÿ
+c
+java:S1192Ó"GDefine a constant instead of duplicating this literal "second" 4 times.(Å¶®£ÿÿÿÿÿ
+^
+java:S11923"HDefine a constant instead of duplicating this literal "Palette" 3 times.(Å—µø
+f
+java:S1192ú"JDefine a constant instead of duplicating this literal "TextEntry" 4 times.(„åëìûÿÿÿÿ
+c
+java:S1192¦"GDefine a constant instead of duplicating this literal "value" 36 times.(ôœ½£şÿÿÿÿ
+K
+java:S1066¿"/Merge this if statement with the enclosing one.(ğÖ‰åúÿÿÿÿ
+ˆ
+java:S1319¯"lThe type of "iTXt_keyword" should be an interface such as "List" rather than the implementation "ArrayList".(Öè¸ïúÿÿÿÿ
+‹
+java:S1319°"tThe type of "iTXt_compressionFlag" should be an interface such as "List" rather than the implementation "ArrayList".(¸ûš
+
+java:S1319±"vThe type of "iTXt_compressionMethod" should be an interface such as "List" rather than the implementation "ArrayList".(œ­¾Æ
+Œ
+java:S1319²"pThe type of "iTXt_languageTag" should be an interface such as "List" rather than the implementation "ArrayList".(¢÷éøÿÿÿÿ
+’
+java:S1319³"vThe type of "iTXt_translatedKeyword" should be an interface such as "List" rather than the implementation "ArrayList".(èÄ°Éÿÿÿÿÿ
+
+java:S1319´"iThe type of "iTXt_text" should be an interface such as "List" rather than the implementation "ArrayList".(© ªz
+ˆ
+java:S1319Ô"lThe type of "tEXt_keyword" should be an interface such as "List" rather than the implementation "ArrayList".(Ñù•çÿÿÿÿÿ
+…
+java:S1319Õ"iThe type of "tEXt_text" should be an interface such as "List" rather than the implementation "ArrayList".(ŸÅñöÿÿÿÿÿ
+ƒ
+java:S1319ì"lThe type of "zTXt_keyword" should be an interface such as "List" rather than the implementation "ArrayList".(­ßŞï
+
+java:S1319í"vThe type of "zTXt_compressionMethod" should be an interface such as "List" rather than the implementation "ArrayList".(†Š¶
+…
+java:S1319î"iThe type of "zTXt_text" should be an interface such as "List" rather than the implementation "ArrayList".(Óßñûÿÿÿÿ
+‡
+java:S1319ñ"pThe type of "unknownChunkType" should be an interface such as "List" rather than the implementation "ArrayList".(îõØ®
+‡
+java:S1319ò"pThe type of "unknownChunkData" should be an interface such as "List" rather than the implementation "ArrayList".(ôèÜ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáúúüÿÿÿÿ
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÍÛ€úÿÿÿÿ
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Å‡áÿÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ê€¤ùÿÿÿÿ
+g	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Œê³
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š†²©
+f	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á÷¿P
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®è‰ş
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê˜¦Ğıÿÿÿÿ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³üÿÿÿÿ
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ú·û
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ«ÛW
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç«Õ´ùÿÿÿÿ
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡Ü©
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†óëŠ
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‘êßıÿÿÿÿ
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šƒæ¤
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›óá
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼çÌşÿÿÿÿ
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡²—Öşÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Òç’ûÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŒ™Û
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇÌ›úÿÿÿÿ
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅµÇüÿÿÿÿ
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ€Ñıÿÿÿÿ
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅĞè
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¨çùÿÿÿÿ
+l	java:S117ş	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºâø£øÿÿÿÿ
+g	java:S117¥
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ å
+g	java:S117©
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æßš
+l	java:S117Ï
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ª‹²ÿÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ô‘“úÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óã¨øÿÿÿÿ
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‚øÿÿÿÿ
+l	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸›§øÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑ¥«
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß«úÔ
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­·ııÿÿÿÿ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¼ÃÔ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŞ¡Šÿÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âúÙÈ
+s
+java:S1104t"XMake IHDR_present a static final constant or non-public and provide accessors if needed.(Ä”¹Ïûÿÿÿÿ
+l
+java:S1104u"VMake IHDR_width a static final constant or non-public and provide accessors if needed.(§î„
+r
+java:S1104v"WMake IHDR_height a static final constant or non-public and provide accessors if needed.(üÌÁÍûÿÿÿÿ
+t
+java:S1104w"YMake IHDR_bitDepth a static final constant or non-public and provide accessors if needed.(õ³Ÿòüÿÿÿÿ
+p
+java:S1104x"ZMake IHDR_colorType a static final constant or non-public and provide accessors if needed.(÷ù§ã
+x
+java:S1104y"bMake IHDR_compressionMethod a static final constant or non-public and provide accessors if needed.(áŞ÷»
+x
+java:S1104z"]Make IHDR_filterMethod a static final constant or non-public and provide accessors if needed.(Í¦à°ÿÿÿÿÿ
+v
+java:S1104{"`Make IHDR_interlaceMethod a static final constant or non-public and provide accessors if needed.(µîË°
+n
+java:S1104~"XMake PLTE_present a static final constant or non-public and provide accessors if needed.(å±°Õ
+j
+java:S1104"TMake PLTE_red a static final constant or non-public and provide accessors if needed.(Áò…ı
+r
+java:S1104€"VMake PLTE_green a static final constant or non-public and provide accessors if needed.(£¡µµøÿÿÿÿ
+q
+java:S1104"UMake PLTE_blue a static final constant or non-public and provide accessors if needed.(˜Å¯øÿÿÿÿ
+m
+java:S1104ˆ"VMake PLTE_order a static final constant or non-public and provide accessors if needed.(÷î´
+t
+java:S1104"XMake bKGD_present a static final constant or non-public and provide accessors if needed.(¯ã«€úÿÿÿÿ
+p
+java:S1104"ZMake bKGD_colorType a static final constant or non-public and provide accessors if needed.(ÇÆ²S
+m
+java:S1104"VMake bKGD_index a static final constant or non-public and provide accessors if needed.(Ãì§ğ
+l
+java:S1104"UMake bKGD_gray a static final constant or non-public and provide accessors if needed.(ñá•Ø
+p
+java:S1104‘"TMake bKGD_red a static final constant or non-public and provide accessors if needed.(€Ëó¶ùÿÿÿÿ
+r
+java:S1104’"VMake bKGD_green a static final constant or non-public and provide accessors if needed.(ƒê—Ìüÿÿÿÿ
+q
+java:S1104“"UMake bKGD_blue a static final constant or non-public and provide accessors if needed.(†ãìÀøÿÿÿÿ
+t
+java:S1104–"XMake cHRM_present a static final constant or non-public and provide accessors if needed.(“ÿã±ÿÿÿÿÿ
+x
+java:S1104—"\Make cHRM_whitePointX a static final constant or non-public and provide accessors if needed.(´†ö•øÿÿÿÿ
+s
+java:S1104˜"\Make cHRM_whitePointY a static final constant or non-public and provide accessors if needed.(ÏöÛ
+k
+java:S1104™"UMake cHRM_redX a static final constant or non-public and provide accessors if needed.(¬ã¬T
+q
+java:S1104š"UMake cHRM_redY a static final constant or non-public and provide accessors if needed.(—©Ï»ÿÿÿÿÿ
+n
+java:S1104›"WMake cHRM_greenX a static final constant or non-public and provide accessors if needed.(Ü¯ğ
+s
+java:S1104œ"WMake cHRM_greenY a static final constant or non-public and provide accessors if needed.(‰ğ©Õøÿÿÿÿ
+r
+java:S1104"VMake cHRM_blueX a static final constant or non-public and provide accessors if needed.(üşÓøÿÿÿÿ
+m
+java:S1104"VMake cHRM_blueY a static final constant or non-public and provide accessors if needed.(¥İƒ…
+o
+java:S1104¡"XMake gAMA_present a static final constant or non-public and provide accessors if needed.(¤ããï
+m
+java:S1104¢"VMake gAMA_gamma a static final constant or non-public and provide accessors if needed.(ÙŒ¼Ü
+t
+java:S1104¥"XMake hIST_present a static final constant or non-public and provide accessors if needed.(‹–€Åÿÿÿÿÿ
+q
+java:S1104¦"ZMake hIST_histogram a static final constant or non-public and provide accessors if needed.(ğ«¤õ
+n
+java:S1104©"XMake iCCP_present a static final constant or non-public and provide accessors if needed.(Ë ÄD
+x
+java:S1104ª"\Make iCCP_profileName a static final constant or non-public and provide accessors if needed.(çÖäÙøÿÿÿÿ
+y
+java:S1104«"bMake iCCP_compressionMethod a static final constant or non-public and provide accessors if needed.(ŞÂø
+y
+java:S1104¬"bMake iCCP_compressedProfile a static final constant or non-public and provide accessors if needed.(ºãªÉ
+t
+java:S1104¯"XMake iTXt_keyword a static final constant or non-public and provide accessors if needed.(Öè¸ïúÿÿÿÿ
+w
+java:S1104°"`Make iTXt_compressionFlag a static final constant or non-public and provide accessors if needed.(¸ûš
+y
+java:S1104±"bMake iTXt_compressionMethod a static final constant or non-public and provide accessors if needed.(œ­¾Æ
+x
+java:S1104²"\Make iTXt_languageTag a static final constant or non-public and provide accessors if needed.(¢÷éøÿÿÿÿ
+~
+java:S1104³"bMake iTXt_translatedKeyword a static final constant or non-public and provide accessors if needed.(èÄ°Éÿÿÿÿÿ
+k
+java:S1104´"UMake iTXt_text a static final constant or non-public and provide accessors if needed.(© ªz
+t
+java:S1104·"XMake pHYs_present a static final constant or non-public and provide accessors if needed.(Ì•ªşÿÿÿÿ
+
+java:S1104¸"cMake pHYs_pixelsPerUnitXAxis a static final constant or non-public and provide accessors if needed.(Øœà·üÿÿÿÿ
+z
+java:S1104¹"cMake pHYs_pixelsPerUnitYAxis a static final constant or non-public and provide accessors if needed.(ŠÖğ¿
+u
+java:S1104º"^Make pHYs_unitSpecifier a static final constant or non-public and provide accessors if needed.(†Û¹¾
+o
+java:S1104½"XMake sBIT_present a static final constant or non-public and provide accessors if needed.(ì˜ŒŸ
+v
+java:S1104¾"ZMake sBIT_colorType a static final constant or non-public and provide accessors if needed.(üĞŞ“üÿÿÿÿ
+u
+java:S1104¿"YMake sBIT_grayBits a static final constant or non-public and provide accessors if needed.(Óğüúùÿÿÿÿ
+n
+java:S1104À"XMake sBIT_redBits a static final constant or non-public and provide accessors if needed.( ØÍ
+v
+java:S1104Á"ZMake sBIT_greenBits a static final constant or non-public and provide accessors if needed.(ÕÖ Îøÿÿÿÿ
+p
+java:S1104Â"YMake sBIT_blueBits a static final constant or non-public and provide accessors if needed.(§²Óß
+v
+java:S1104Ã"ZMake sBIT_alphaBits a static final constant or non-public and provide accessors if needed.(ÏàÒ­úÿÿÿÿ
+n
+java:S1104Æ"XMake sPLT_present a static final constant or non-public and provide accessors if needed.(­Øî^
+x
+java:S1104Ç"\Make sPLT_paletteName a static final constant or non-public and provide accessors if needed.(Úàåşÿÿÿÿ
+s
+java:S1104È"\Make sPLT_sampleDepth a static final constant or non-public and provide accessors if needed.(Î÷æª
+p
+java:S1104É"TMake sPLT_red a static final constant or non-public and provide accessors if needed.(ßÅ°‹ùÿÿÿÿ
+r
+java:S1104Ê"VMake sPLT_green a static final constant or non-public and provide accessors if needed.(¾¿ÇÃûÿÿÿÿ
+q
+java:S1104Ë"UMake sPLT_blue a static final constant or non-public and provide accessors if needed.(ß›Óıüÿÿÿÿ
+r
+java:S1104Ì"VMake sPLT_alpha a static final constant or non-public and provide accessors if needed.(ğƒñØûÿÿÿÿ
+q
+java:S1104Í"ZMake sPLT_frequency a static final constant or non-public and provide accessors if needed.(Æ‰­­
+o
+java:S1104Ğ"XMake sRGB_present a static final constant or non-public and provide accessors if needed.(…Ò¡û
+|
+java:S1104Ñ"`Make sRGB_renderingIntent a static final constant or non-public and provide accessors if needed.(²ã®ßúÿÿÿÿ
+t
+java:S1104Ô"XMake tEXt_keyword a static final constant or non-public and provide accessors if needed.(Ñù•çÿÿÿÿÿ
+q
+java:S1104Õ"UMake tEXt_text a static final constant or non-public and provide accessors if needed.(ŸÅñöÿÿÿÿÿ
+o
+java:S1104Ø"XMake tIME_present a static final constant or non-public and provide accessors if needed.(öÁãº
+l
+java:S1104Ù"UMake tIME_year a static final constant or non-public and provide accessors if needed.(åŠ­ü
+m
+java:S1104Ú"VMake tIME_month a static final constant or non-public and provide accessors if needed.(°Š»É
+k
+java:S1104Û"TMake tIME_day a static final constant or non-public and provide accessors if needed.(ÏËÒ‘
+l
+java:S1104Ü"UMake tIME_hour a static final constant or non-public and provide accessors if needed.(šÅî¶
+s
+java:S1104İ"WMake tIME_minute a static final constant or non-public and provide accessors if needed.(ÿÜÍöøÿÿÿÿ
+n
+java:S1104Ş"WMake tIME_second a static final constant or non-public and provide accessors if needed.(ÏõÙÏ
+o
+java:S1104ã"XMake tRNS_present a static final constant or non-public and provide accessors if needed.(öîŞŸ
+v
+java:S1104ä"ZMake tRNS_colorType a static final constant or non-public and provide accessors if needed.(æˆû´øÿÿÿÿ
+m
+java:S1104å"VMake tRNS_alpha a static final constant or non-public and provide accessors if needed.(‘¨»—
+l
+java:S1104æ"UMake tRNS_gray a static final constant or non-public and provide accessors if needed.(·¡ÉÛ
+k
+java:S1104ç"TMake tRNS_red a static final constant or non-public and provide accessors if needed.(½°á§
+r
+java:S1104è"VMake tRNS_green a static final constant or non-public and provide accessors if needed.(Ï¡Ğ£şÿÿÿÿ
+l
+java:S1104é"UMake tRNS_blue a static final constant or non-public and provide accessors if needed.(´Êˆ
+o
+java:S1104ì"XMake zTXt_keyword a static final constant or non-public and provide accessors if needed.(­ßŞï
+y
+java:S1104í"bMake zTXt_compressionMethod a static final constant or non-public and provide accessors if needed.(†Š¶
+q
+java:S1104î"UMake zTXt_text a static final constant or non-public and provide accessors if needed.(Óßñûÿÿÿÿ
+s
+java:S1104ñ"\Make unknownChunkType a static final constant or non-public and provide accessors if needed.(îõØ®
+s
+java:S1104ò"\Make unknownChunkData a static final constant or non-public and provide accessors if needed.(ôèÜ
+D
+java:S5411Ò"(Use a primitive boolean expression here.(×Àòùüÿÿÿÿ
+D
+java:S5411‰"(Use a primitive boolean expression here.(„ÖÄ¶ùÿÿÿÿ
+\
+java:S2184Š"@Cast one of the operands of this integer division to a "double".(Õ¼€´ÿÿÿÿÿ
+o	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯ú·ê
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÊíÚüÿÿÿÿ
+q	java:S116t"WRename this field "IHDR_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”¹Ïûÿÿÿÿ
+j	java:S116u"URename this field "IHDR_width" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§î„
+p	java:S116v"VRename this field "IHDR_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÌÁÍûÿÿÿÿ
+r	java:S116w"XRename this field "IHDR_bitDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ³Ÿòüÿÿÿÿ
+n	java:S116x"YRename this field "IHDR_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ù§ã
+v	java:S116y"aRename this field "IHDR_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŞ÷»
+v	java:S116z"\Rename this field "IHDR_filterMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¦à°ÿÿÿÿÿ
+t	java:S116{"_Rename this field "IHDR_interlaceMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µîË°
+l	java:S116~"WRename this field "PLTE_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å±°Õ
+h	java:S116"SRename this field "PLTE_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áò…ı
+p	java:S116€"URename this field "PLTE_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡µµøÿÿÿÿ
+o	java:S116"TRename this field "PLTE_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Å¯øÿÿÿÿ
+k	java:S116ˆ"URename this field "PLTE_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷î´
+r	java:S116"WRename this field "bKGD_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ã«€úÿÿÿÿ
+n	java:S116"YRename this field "bKGD_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÆ²S
+k	java:S116"URename this field "bKGD_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãì§ğ
+j	java:S116"TRename this field "bKGD_gray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñá•Ø
+n	java:S116‘"SRename this field "bKGD_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ëó¶ùÿÿÿÿ
+p	java:S116’"URename this field "bKGD_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒê—Ìüÿÿÿÿ
+o	java:S116“"TRename this field "bKGD_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ãìÀøÿÿÿÿ
+r	java:S116–"WRename this field "cHRM_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÿã±ÿÿÿÿÿ
+v	java:S116—"[Rename this field "cHRM_whitePointX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†ö•øÿÿÿÿ
+q	java:S116˜"[Rename this field "cHRM_whitePointY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏöÛ
+i	java:S116™"TRename this field "cHRM_redX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ã¬T
+o	java:S116š"TRename this field "cHRM_redY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—©Ï»ÿÿÿÿÿ
+l	java:S116›"VRename this field "cHRM_greenX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¯ğ
+q	java:S116œ"VRename this field "cHRM_greenY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ğ©Õøÿÿÿÿ
+p	java:S116"URename this field "cHRM_blueX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÓøÿÿÿÿ
+k	java:S116"URename this field "cHRM_blueY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥İƒ…
+m	java:S116¡"WRename this field "gAMA_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ããï
+k	java:S116¢"URename this field "gAMA_gamma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒ¼Ü
+r	java:S116¥"WRename this field "hIST_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹–€Åÿÿÿÿÿ
+o	java:S116¦"YRename this field "hIST_histogram" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ«¤õ
+l	java:S116©"WRename this field "iCCP_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë ÄD
+v	java:S116ª"[Rename this field "iCCP_profileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÖäÙøÿÿÿÿ
+w	java:S116«"aRename this field "iCCP_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÂø
+w	java:S116¬"aRename this field "iCCP_compressedProfile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãªÉ
+r	java:S116¯"WRename this field "iTXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öè¸ïúÿÿÿÿ
+u	java:S116°"_Rename this field "iTXt_compressionFlag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ûš
+w	java:S116±"aRename this field "iTXt_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ­¾Æ
+v	java:S116²"[Rename this field "iTXt_languageTag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢÷éøÿÿÿÿ
+|	java:S116³"aRename this field "iTXt_translatedKeyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÄ°Éÿÿÿÿÿ
+i	java:S116´"TRename this field "iTXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(© ªz
+r	java:S116·"WRename this field "pHYs_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•ªşÿÿÿÿ
+}	java:S116¸"bRename this field "pHYs_pixelsPerUnitXAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øœà·üÿÿÿÿ
+x	java:S116¹"bRename this field "pHYs_pixelsPerUnitYAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÖğ¿
+s	java:S116º"]Rename this field "pHYs_unitSpecifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Û¹¾
+m	java:S116½"WRename this field "sBIT_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ŒŸ
+t	java:S116¾"YRename this field "sBIT_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üĞŞ“üÿÿÿÿ
+s	java:S116¿"XRename this field "sBIT_grayBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óğüúùÿÿÿÿ
+l	java:S116À"WRename this field "sBIT_redBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ØÍ
+t	java:S116Á"YRename this field "sBIT_greenBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÖ Îøÿÿÿÿ
+n	java:S116Â"XRename this field "sBIT_blueBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²Óß
+t	java:S116Ã"YRename this field "sBIT_alphaBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÒ­úÿÿÿÿ
+l	java:S116Æ"WRename this field "sPLT_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Øî^
+v	java:S116Ç"[Rename this field "sPLT_paletteName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úàåşÿÿÿÿ
+q	java:S116È"[Rename this field "sPLT_sampleDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î÷æª
+n	java:S116É"SRename this field "sPLT_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅ°‹ùÿÿÿÿ
+p	java:S116Ê"URename this field "sPLT_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¿ÇÃûÿÿÿÿ
+o	java:S116Ë"TRename this field "sPLT_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›Óıüÿÿÿÿ
+p	java:S116Ì"URename this field "sPLT_alpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğƒñØûÿÿÿÿ
+o	java:S116Í"YRename this field "sPLT_frequency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‰­­
+m	java:S116Ğ"WRename this field "sRGB_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ò¡û
+z	java:S116Ñ"_Rename this field "sRGB_renderingIntent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ã®ßúÿÿÿÿ
+r	java:S116Ô"WRename this field "tEXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñù•çÿÿÿÿÿ
+o	java:S116Õ"TRename this field "tEXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅñöÿÿÿÿÿ
+m	java:S116Ø"WRename this field "tIME_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÁãº
+j	java:S116Ù"TRename this field "tIME_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŠ­ü
+k	java:S116Ú"URename this field "tIME_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Š»É
+i	java:S116Û"SRename this field "tIME_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏËÒ‘
+j	java:S116Ü"TRename this field "tIME_hour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÅî¶
+q	java:S116İ"VRename this field "tIME_minute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÜÍöøÿÿÿÿ
+l	java:S116Ş"VRename this field "tIME_second" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏõÙÏ
+m	java:S116ã"WRename this field "tRNS_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öîŞŸ
+t	java:S116ä"YRename this field "tRNS_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æˆû´øÿÿÿÿ
+k	java:S116å"URename this field "tRNS_alpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¨»—
+j	java:S116æ"TRename this field "tRNS_gray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¡ÉÛ
+i	java:S116ç"SRename this field "tRNS_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°á§
+p	java:S116è"URename this field "tRNS_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¡Ğ£şÿÿÿÿ
+j	java:S116é"TRename this field "tRNS_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Êˆ
+m	java:S116ì"WRename this field "zTXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßŞï
+w	java:S116í"aRename this field "zTXt_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Š¶
+o	java:S116î"TRename this field "zTXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óßñûÿÿÿÿ
+Y
+java:S2387,"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(¯ú·ê
+c
+java:S2387."H"nativeMetadataFormatClassName" is the name of a field in "IIOMetadata".(·ÊíÚüÿÿÿÿ
+{
+java:S4144µ	"dUpdate this method so that its implementation is not identical to "getStringAttribute" on line 1093.(šøòÅ
+{
+java:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ÿ™å‹ÿÿÿÿÿ
+N
+java:S1135ü"2Complete the task associated to this TODO comment.(à½¶ìşÿÿÿÿ
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ÈÈ£§
+@
+java:S1905Û")Remove this unnecessary cast to "byte[]".(¼ßò•
+E
+java:S1905Ü")Remove this unnecessary cast to "byte[]".(ı”Àıÿÿÿÿ
+?
+java:S1905İ")Remove this unnecessary cast to "byte[]".(’Ì©-
+B
+java:S1168­"+Return an empty collection instead of null.(¥¹ï
+j
+java:S2975¸"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+0
+java:S2225½"Return a non null object.(¥¹ï
+h
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Üš„f
+T
+java:S1155Ì">Use isEmpty() to check whether the collection is empty or not.(¬èè
+U
+java:S1155¾">Use isEmpty() to check whether the collection is empty or not.(ı»ª…
+?
+java:S1905Â")Remove this unnecessary cast to "String".(¥»ó=
+@
+java:S1905Ã")Remove this unnecessary cast to "String".(ØµÔÊ
+Z
+java:S1155ö">Use isEmpty() to check whether the collection is empty or not.(Ãñ°½ÿÿÿÿÿ
+@
+java:S1905ú")Remove this unnecessary cast to "String".(…¿Ìî
+F
+java:S1905ü"*Remove this unnecessary cast to "Integer".(å°³²ıÿÿÿÿ
+@
+java:S1905€")Remove this unnecessary cast to "String".(©”ğ…
+Z
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(ğÛœãúÿÿÿÿ
+E
+java:S1905")Remove this unnecessary cast to "String".(Ÿ²·–üÿÿÿÿ
+@
+java:S1905‘")Remove this unnecessary cast to "byte[]".(äº¿ô
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ƒ•Ğ”ıÿÿÿÿ
+V
+java:S1161§":Add the "@Override" annotation above this method signature(ƒ•Ğ”ıÿÿÿÿ
+U
+java:S1659Ü">Declare "g" and all following declarations on a separate line.(¬…ñı
+Q
+java:S1161ï":Add the "@Override" annotation above this method signature(ªÙ“¹
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŠôïÇùÿÿÿÿ
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(¿ÌÆ­
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(”Â÷òüÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(ú´ëÄúÿÿÿÿ
+?
+java:S1905û")Remove this unnecessary cast to "String".(èŞ¶7
+E
+java:S1905ü")Remove this unnecessary cast to "String".(‘¿ï‘øÿÿÿÿ
+@
+java:S1905”")Remove this unnecessary cast to "String".(Ğÿóõ
+E
+java:S1905•")Remove this unnecessary cast to "String".(ã¢ü³úÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(ÿû·,
+o
+java:S3776Û	"SRefactor this method to reduce its Cognitive Complexity from 190 to the 15 allowed.(ï”ËÀşÿÿÿÿ
+@
+java:S1905ü
+")Remove this unnecessary cast to "byte[]".(•êØş
+=
+java:S2129ğ"!Remove this "Integer" constructor(˜ÊÈÿÿÿÿÿ
+j
+java:S3776Ç"SRefactor this method to reduce its Cognitive Complexity from 162 to the 15 allowed.(¦…‘Ê
+R	java:S125"<This block of commented-out lines of code should be removed.(·‡„õ
+W	java:S125š"<This block of commented-out lines of code should be removed.(Ê­Ò’úÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(ˆ°É™øÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(ì‘ä£üÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(ó¿Ò§ıÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(Î½ë

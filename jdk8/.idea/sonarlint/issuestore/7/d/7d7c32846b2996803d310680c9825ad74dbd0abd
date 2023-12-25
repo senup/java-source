@@ -1,0 +1,20 @@
+
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ÔÍşÿÿÿÿ
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ˆ©ùøÿÿÿÿ
+E
+java:S1197l"*Move the array designators [] to the type.(Üñ¦Ùşÿÿÿÿ
+h	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šä¬’ÿÿÿÿÿ
+@
+java:S1197y"*Move the array designators [] to the type.(¨ˆÃş
+:
+java:S2129"Remove this "Byte" constructor(µ‡ºøÿÿÿÿ
+C
+java:S1905£"'Remove this unnecessary cast to "long".(‹–¼úÿÿÿÿ
+\
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
+j
+java:S2975õ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ïÉ”’
+\
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(ïÉ”’
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¤ÔÍşÿÿÿÿ

@@ -1,0 +1,16 @@
+
+s	java:S135F"YReduce the total number of break and continue statements in this loop to use at most one.(δ‡ΐωÿÿÿÿ
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μ »όÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΨΉ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Σ²νωÿÿÿÿ
+=
+java:S1165=""Make this "errorCode" field final.(ƒλ‡Πϋÿÿÿÿ
+z
+java:S1149D"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥§Κϊÿÿÿÿ
+h	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μ »όÿÿÿÿ
+J
+java:S1172|"/Remove this unused method parameter "lexState".(Μ »όÿÿÿÿ
+<
+java:S1185"(Remove this method to simply inherit it.(‡+
+N
+java:S1161":Add the "@Override" annotation above this method signature(‡+

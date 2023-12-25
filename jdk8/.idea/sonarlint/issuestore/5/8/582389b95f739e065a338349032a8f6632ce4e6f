@@ -1,0 +1,66 @@
+
+K
+java:S3740·	"/Provide the parametrized type for this generic.(Ã–¥¸úÿÿÿÿ
+F
+java:S3740¸	"/Provide the parametrized type for this generic.(Ùã¼ï
+F
+java:S3740¹	"/Provide the parametrized type for this generic.(€¹şù
+F
+java:S3740Ò	"/Provide the parametrized type for this generic.(âˆâ‡
+l
+java:S1192ñ"PDefine a constant instead of duplicating this literal "output == null!" 3 times.(çŸâŞùÿÿÿÿ
+K
+java:S1191:"5Use classes from the Java API instead of Sun classes.(­ÆŞ—
+S	java:S107±"=Method has 13 parameters, which is greater than 7 authorized.(Û¹»
+S	java:S107Ñ"=Method has 10 parameters, which is greater than 7 authorized.(šû¬Ô
+W	java:S107¡"<Method has 9 parameters, which is greater than 7 authorized.(•ŒíÈşÿÿÿÿ
+R	java:S107ß	"<Method has 8 parameters, which is greater than 7 authorized.(Çñ“·
+A
+java:S1481"*Remove this unused "param" local variable.(ÕñÜ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(Çí‚­øÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(±ßÆÎ
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ù÷ïÿ
+Q
+java:S2209è"5Change this instance-reference to a static reference.(ÿÊ…£ûÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(ŞèØåşÿÿÿÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(çşÄÃÿÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(¡ÀØ”
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(ÈÔ—ù
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(›Ô…¸
+W	java:S125´"<This block of commented-out lines of code should be removed.(¿¸¿ğüÿÿÿÿ
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(íÄâøÿÿÿÿ
+Z
+java:S1854è">Remove this useless assignment to local variable "colorModel".(€•³‰üÿÿÿÿ
+K
+java:S1481è"/Remove this unused "colorModel" local variable.(€•³‰üÿÿÿÿ
+`
+java:S3358¦"DExtract this nested ternary operation into an independent statement.(–¡™ÿÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(¤àé¸
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Š™±ÿÿÿÿÿ
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¼İÿ±ùÿÿÿÿ
+\
+java:S1854ò"@Remove this useless assignment to local variable "sourceHeight".(ñõ¶Éúÿÿÿÿ
+M
+java:S1481ò"1Remove this unused "sourceHeight" local variable.(ñõ¶Éúÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(’ëÄÖıÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(øş…Îûÿÿÿÿ
+Q
+java:S1161Ÿ
+":Add the "@Override" annotation above this method signature(•ÿŒÆ
+P
+java:S1128%":Remove this unused import 'java.awt.image.WritableRaster'.(Üï€
+X
+java:S11280"=Remove this unused import 'javax.imageio.spi.ImageWriterSpi'.(®„·íøÿÿÿÿ

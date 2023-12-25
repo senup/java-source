@@ -1,0 +1,21 @@
+
+F
+java:S21607"+Override the "equals" method in this class.(»•ÿ­şÿÿÿÿ
+U
+java:S1161g":Add the "@Override" annotation above this method signature(¿‡¾ïşÿÿÿÿ
+f
+java:S3457r"KFormat specifiers or lambda should be used instead of string concatenation.(®ÍÖüÿÿÿÿ
+O
+java:S1161{":Add the "@Override" annotation above this method signature(ã÷‹E
+O
+java:S2130~"9Use "Integer.parseInt" for this string-to-int conversion.(…¤©
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(Ñƒñ¿ÿÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(ÂÄæğıÿÿÿÿ
+H
+java:S1905§",Remove this unnecessary cast to "SecretKey".(ú—ôúùÿÿÿÿ
+H
+java:S1905Â",Remove this unnecessary cast to "SecretKey".(ú—ôúùÿÿÿÿ
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(ÂŞ—·şÿÿÿÿ

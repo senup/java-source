@@ -1,0 +1,76 @@
+
+F
+java:S3740¿"/Provide the parametrized type for this generic.(ú˜€Æ
+F
+java:S3740®"/Provide the parametrized type for this generic.(ğì¨Ú
+F
+java:S3740²"/Provide the parametrized type for this generic.(İºÍó
+K
+java:S3740Ê"/Provide the parametrized type for this generic.(Æ¡´ıÿÿÿÿ
+d
+java:S1192è"HDefine a constant instead of duplicating this literal "enabled" 3 times.(úÿĞ¦úÿÿÿÿ
+D
+java:S1604‹"(Make this anonymous inner class a lambda(ÖÂ§Ÿúÿÿÿÿ
+>
+java:S1604¢"(Make this anonymous inner class a lambda(ÆŞÖ
+m
+java:S1104Á"VMake traceflags a static final constant or non-public and provide accessors if needed.(œ„ÿ÷
+q
+java:S1104Â"UMake tracefile a static final constant or non-public and provide accessors if needed.(àÈìÅùÿÿÿÿ
+k
+java:S1104Ã"TMake traceout a static final constant or non-public and provide accessors if needed.(òµ€÷
+G
+java:S1444Á"0Make this "public static traceflags" field final(œ„ÿ÷
+K
+java:S1444Â"/Make this "public static tracefile" field final(àÈìÅùÿÿÿÿ
+E
+java:S1444Ã".Make this "public static traceout" field final(òµ€÷
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(”²ÆÂ
+S
+java:S4973³"<Strings and Boxed types should be compared using "equals()".(È£¶¸
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+e
+java:S3824Í"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ƒÇµ
+R	java:S107¢"<Method has 8 parameters, which is greater than 7 authorized.(÷ÛÎ«
+W	java:S107µ"<Method has 8 parameters, which is greater than 7 authorized.(…Áâûÿÿÿÿ
+`
+java:S1124w"EReorder the modifiers to comply with the Java Language Specification.(ªÔû¤ûÿÿÿÿ
+`
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(Íë¥àÿÿÿÿÿ
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(İÀ¸ 
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(³ƒ‰Œùÿÿÿÿ
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(Šéë÷
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(éÛ™‰şÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(úÿĞ¦úÿÿÿÿ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(ö¼Èå
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(úÿĞ¦úÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(¾Ü¤–
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(†ÍˆÕûÿÿÿÿ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(ÌÄËŠüÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(úÿĞ¦úÿÿÿÿ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(¾Ü¤–
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(øö„ùÿÿÿÿ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ğö›°ûÿÿÿÿ
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(¼ÏßÛøÿÿÿÿ
+N	java:S106—"9Replace this use of System.out or System.err by a logger.(›½½(
+N	java:S106š"9Replace this use of System.out or System.err by a logger.(›½½(
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(“–ış
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(¢ÿ†¤
+c
+java:S1659ã"GDeclare "convertdst" and all following declarations on a separate line.(ÎÁĞÿÿÿÿÿ
+`
+java:S1117ß"DRename "methodSignature" which hides the field declared at line 109.(¶Ô»Şıÿÿÿÿ
+_
+java:S1854ü"CRemove this useless assignment to local variable "methodSignature".(‰»†áøÿÿÿÿ
+`
+java:S1117ü"DRename "methodSignature" which hides the field declared at line 109.(‰»†áøÿÿÿÿ
+P
+java:S1481ü"4Remove this unused "methodSignature" local variable.(‰»†áøÿÿÿÿ
+?	java:S108Ğ")Either remove or fill this block of code.(”ı¾
+L
+java:S1128,"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ

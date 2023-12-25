@@ -1,0 +1,29 @@
+
+o	java:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+c
+java:S3973¸"GUse indentation to denote the code conditionally executed by this "if".(¨„ëöşÿÿÿÿ
+^
+java:S3973÷"GUse indentation to denote the code conditionally executed by this "if".(§×Ú³
+e
+java:S3973ù"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+[
+java:S2583ó"DChange this condition so that it does not always evaluate to "false"(Óò×í
+Z
+java:S2583š"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+>	java:S108F")Either remove or fill this block of code.(ˆÿò
+P
+java:S1161o":Add the "@Override" annotation above this method signature(Ä…©
+@
+java:S1197~"*Move the array designators [] to the type.(½âå§
+A
+java:S1197"*Move the array designators [] to the type.(è‡Ó¨
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(±ä§í
+>
+java:S1125ó"'Remove the unnecessary boolean literal.(Óò×í
+`
+java:S3358‡"DExtract this nested ternary operation into an independent statement.(ãáÈ†úÿÿÿÿ
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(°ö®Ö

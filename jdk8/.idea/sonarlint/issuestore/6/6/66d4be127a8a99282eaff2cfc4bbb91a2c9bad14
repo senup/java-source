@@ -1,0 +1,32 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ÿßç¾
+J
+java:S3740N"/Provide the parametrized type for this generic.(Äş·üÿÿÿÿ
+F
+java:S3740´"/Provide the parametrized type for this generic.(•¥äŒ
+s	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯…ƒŒıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+F
+java:S1874#"+Remove this use of "Ref"; it is deprecated.(½¿Äûÿÿÿÿ
+E
+java:S1197R"*Move the array designators [] to the type.(ùşÃŞùÿÿÿÿ
+F
+java:S1197¼"*Move the array designators [] to the type.(‰¨æóüÿÿÿÿ
+A
+java:S1197Î"*Move the array designators [] to the type.(Àéˆº
+A
+java:S1197Ñ"*Move the array designators [] to the type.(Ç—ñË
+W	java:S125×"<This block of commented-out lines of code should be removed.(ŞŞƒÁùÿÿÿÿ
+F
+java:S1197ø"*Move the array designators [] to the type.(‰¨æóüÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(‰¨æóüÿÿÿÿ
+B
+java:S1150´"+Implement Iterator rather than Enumeration.(•¥äŒ
+F
+java:S1197·"*Move the array designators [] to the type.(Â÷‡¦úÿÿÿÿ
+F
+java:S1197º"*Move the array designators [] to the type.(›ç”Üúÿÿÿÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³“¹Ë

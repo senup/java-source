@@ -1,0 +1,40 @@
+
+q
+java:S1192±"ZDefine a constant instead of duplicating this literal "Problem displaying MBean " 3 times.(É¬É¹
+r
+java:S1488ï"[Immediately return this expression instead of assigning it to the temporary variable "mbi".(ƒÇš½
+>
+java:S5411Ÿ"(Use a primitive boolean expression here.(ò…©;
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+b
+java:S1659Q"LDeclare "subscribeButton" and all following declarations on a separate line.(’ˆĞ
+=
+java:S1948E"'Make "mbean" transient or serializable.(âÓ˜®
+m
+java:S3077C"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¿ï˜€
+m
+java:S3077E"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(âÓ˜®
+u
+java:S2142ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(ãËÕüÿÿÿÿ
+t	java:S131ö"YComplete cases by adding the missing enum constants or add a default case to this switch.(†ğæîÿÿÿÿÿ
+u
+java:S2142®"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(É¬É¹
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+O	java:S106"9Replace this use of System.out or System.err by a logger.(É¬É¹
+u
+java:S2142¿"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(É¬É¹
+u
+java:S2142†"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(º¨¨—
+u
+java:S2142£"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(Û¾Çşÿÿÿÿ
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ùµó şÿÿÿÿ
+2
+java:S3626é"Remove this redundant jump.(ûÁİ…

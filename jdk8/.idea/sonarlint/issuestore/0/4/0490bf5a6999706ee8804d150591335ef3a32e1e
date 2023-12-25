@@ -1,0 +1,96 @@
+
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÑÁäÅÿÿÿÿÿ
+F
+java:S3740Ö"/Provide the parametrized type for this generic.(íÒ«
+F
+java:S3740Ö"/Provide the parametrized type for this generic.(íÒ«
+F
+java:S3740ö"/Provide the parametrized type for this generic.(Ï¶Äü
+F
+java:S3740‚"/Provide the parametrized type for this generic.(Çı´İ
+F
+java:S3740•"/Provide the parametrized type for this generic.(Çı´İ
+g
+java:S1192¬"KDefine a constant instead of duplicating this literal "-classpath" 3 times.(É¸ÒÏÿÿÿÿÿ
+a
+java:S1192ã"JDefine a constant instead of duplicating this literal "-encoding" 3 times.(¿™¥
+_
+java:S1192í"HDefine a constant instead of duplicating this literal "-target" 3 times.(ìÓ
+c
+java:S1192·"LDefine a constant instead of duplicating this literal "-sourcepath" 3 times.(Ó¥ğ™
+i
+java:S1192¦"MDefine a constant instead of duplicating this literal "-Xinterclass" 4 times.(”ÊØ¥ùÿÿÿÿ
+o
+java:S1192¯"YDefine a constant instead of duplicating this literal "main.option.already.seen" 8 times.(²ÎçA
+_
+java:S1192ö"HDefine a constant instead of duplicating this literal "-g:none" 4 times.(ÉÀ¯
+z
+java:S1192³"^Define a constant instead of duplicating this literal "main.option.requires.argument" 8 times.(ÈÜñ—ıÿÿÿÿ
+k
+java:S1192Í"ODefine a constant instead of duplicating this literal "-bootclasspath" 3 times.(¸Ïë›úÿÿÿÿ
+j
+java:S1192Â"NDefine a constant instead of duplicating this literal "-sysclasspath" 3 times.(Ó´œàüÿÿÿÿ
+`
+java:S1192Ø"IDefine a constant instead of duplicating this literal "-extdirs" 3 times.(÷¶Çá
+u
+java:S1192ñ"YDefine a constant instead of duplicating this literal "main.conflicting.options" 6 times.(•òÜÕşÿÿÿÿ
+o	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(Çı´İ
+n	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(´ƒç¸
+n	java:S127¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(À³¹ß
+s	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(ó­æ‹úÿÿÿÿ
+s	java:S127Ò"XRefactor the code in order to not assign to this loop counter from within the loop body.(ó­æ‹úÿÿÿÿ
+s	java:S127İ"XRefactor the code in order to not assign to this loop counter from within the loop body.(áÍÎııÿÿÿÿ
+n	java:S127ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(´Òæ
+n	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ¶À“
+n	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨ÜÚÃ
+Q
+java:S1141ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141‡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141é"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½–’Îùÿÿÿÿ
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûô°•
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠıà
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(®®ƒa
+P
+java:S11333"5Do not forget to remove this deprecated code someday.(«Š’üÿÿÿÿ
+|
+java:S1149Ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+M
+java:S1117e"7Rename "out" which hides the field declared at line 60.(Ë„àó
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªí”ûşÿÿÿÿ
+j
+java:S3776Ã"SRefactor this method to reduce its Cognitive Complexity from 309 to the 15 allowed.(ì„êª
+A
+java:S1197Ã"*Move the array designators [] to the type.(ì„êª
+A
+java:S1481Ø"*Remove this unused "props" local variable.(ƒœ‰¦
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(Ñô üÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(Å­ú¯ıÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(Å­ú¯ıÿÿÿÿ
+Z
+java:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(±è´ûÿÿÿÿ
+z
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò™õŸÿÿÿÿÿ
+D	java:S108‰")Either remove or fill this block of code.(à¾±øÿÿÿÿ
+8	java:S131™""Add a default case to this switch.(ÔÕêÊ
+N
+java:S1117ê"7Rename "out" which hides the field declared at line 60.(çü¼»
+=
+java:S2129Ÿ"!Remove this "Integer" constructor(™¡ö®üÿÿÿÿ
+=
+java:S2129Ÿ"!Remove this "Integer" constructor(™¡ö®üÿÿÿÿ
+=
+java:S2129¢"!Remove this "Integer" constructor(º‚Şûÿÿÿÿ
+=
+java:S2129§"!Remove this "Integer" constructor(™¡ö®üÿÿÿÿ
+=
+java:S2129§"!Remove this "Integer" constructor(™¡ö®üÿÿÿÿ
+=
+java:S2129ª"!Remove this "Integer" constructor(º‚Şûÿÿÿÿ
+A
+java:S1197ã"*Move the array designators [] to the type.(ÈšÉ÷
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(èÀåâ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(Å­ú¯ıÿÿÿÿ

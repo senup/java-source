@@ -1,0 +1,41 @@
+
+z
+java:S1192€"cDefine a constant instead of duplicating this literal "<th nowrap align=right valign=top>" 3 times.(ÜÐÎÛ
+d
+java:S1192þ"HDefine a constant instead of duplicating this literal ":&nbsp;" 3 times.(üî×¸ùÿÿÿÿ
+y
+java:S1488Š"]Immediately return this expression instead of assigning it to the temporary variable "value".(ýà÷’üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+t	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ²ž¯ÿÿÿÿÿ
+o	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ý»ûŽ
+{
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(ó¾´âÿÿÿÿÿ
+`
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(‚‚âáøÿÿÿÿ
+[
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(Œáéä
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(ÙØµø
+Z
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(Üó´
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(õ²ž¯ÿÿÿÿÿ
+9
+java:S2885("#Make "timeDF" an instance variable.(¡ùÓ’
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(¡ùÓ’
+I
+java:S2885)".Make "timeWithSecondsDF" an instance variable.(€ùœ†ýÿÿÿÿ
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(€ùœ†ýÿÿÿÿ
+>
+java:S2885*"#Make "dateDF" an instance variable.(›ÙŸïûÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(›ÙŸïûÿÿÿÿ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ý»ûŽ
+@
+java:S1905´")Remove this unnecessary cast to "double".(Å·®†

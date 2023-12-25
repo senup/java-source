@@ -1,0 +1,57 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+—
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÖÂ¡
+—
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìßİË
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÇÃ¼
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(Ş¢Æø
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(¬çÌ—
+[
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(¿À”›
+C
+java:S1172D"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(ïÆ•ø
+P
+java:S1161_":Add the "@Override" annotation above this method signature(ÒÖÂ¡
+P
+java:S1161b":Add the "@Override" annotation above this method signature(ìßİË
+U
+java:S1161e":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(¦¬ûú
+V
+java:S1161":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+V
+java:S1161¤":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(¶¼Óıÿÿÿÿ
+f
+java:S1874÷"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+V
+java:S1161û":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(¶øÂÁ
+B
+java:S1948§"&Make "icon" transient or serializable.(âïìœøÿÿÿÿ
+f
+java:S1874Ñ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+V
+java:S1161ß":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+D	java:S108ã")Either remove or fill this block of code.(·Üÿ¢üÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(ïÌ»‚ùÿÿÿÿ
+L
+java:S1128%"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ

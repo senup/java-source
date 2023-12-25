@@ -1,0 +1,39 @@
+
+t
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(·«æışÿÿÿÿ
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÀ­
+p
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÇæ¯
+u
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÇõÙûÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604§"(Make this anonymous inner class a lambda(š©½
+?
+java:S1604½"(Make this anonymous inner class a lambda(š©½
+F
+java:S2160 "+Override the "equals" method in this class.(•Ş¼¥øÿÿÿÿ
+Y
+java:S1117U">Rename "superclass" which hides the field declared at line 36.(„©¡‰şÿÿÿÿ
+Y
+java:S1117f">Rename "superclass" which hides the field declared at line 36.(ÒÅëøÿÿÿÿ
+Y
+java:S1117q">Rename "superclass" which hides the field declared at line 36.(ê½“Œøÿÿÿÿ
+\
+java:S1126r"AReplace this if-then-else statement by a single return statement.(­‘ÁÚşÿÿÿÿ
+G
+java:S1905Ñ"0Remove this unnecessary cast to "ReferenceType".(˜¥šñ
+•
+java:S1130Ú"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(š¼Ëùÿÿÿÿ
+”
+java:S1130Û"xRemove the declaration of thrown exception 'com.sun.jdi.InvocationException', as it cannot be thrown from method's body.(ƒÙËßıÿÿÿÿ
+•
+java:S1130ï"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(š¼Ëùÿÿÿÿ
+”
+java:S1130ğ"xRemove the declaration of thrown exception 'com.sun.jdi.InvocationException', as it cannot be thrown from method's body.(ƒÙËßıÿÿÿÿ
+Z
+java:S1117">Rename "interfaces" which hides the field declared at line 38.(“ Ú‚üÿÿÿÿ
+B
+java:S1068%",Remove this unused "lastLine" private field.(¦Û©Ø

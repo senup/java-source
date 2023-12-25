@@ -1,0 +1,32 @@
+
+K
+java:S3740¢"/Provide the parametrized type for this generic.(õß°»úÿÿÿÿ
+K
+java:S3740¢"/Provide the parametrized type for this generic.(õß°»úÿÿÿÿ
+n	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(ûşâ 
+m
+java:S1450D"WRemove the "wbmpType" field and declare it as a local variable in the relevant methods.(œø‘
+P
+java:S1161P":Add the "@Override" annotation above this method signature(­°§é
+U
+java:S1161o":Add the "@Override" annotation above this method signature(Šßƒ†şÿÿÿÿ
+V
+java:S1161§":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨É×úÿÿÿÿ
+W
+java:S1854Ó";Remove this useless assignment to local variable "yOffset".(÷¶ãÊüÿÿÿÿ
+W
+java:S1854Ò";Remove this useless assignment to local variable "xOffset".(¼ş¬˜úÿÿÿÿ
+H
+java:S1481Ò",Remove this unused "xOffset" local variable.(¼ş¬˜úÿÿÿÿ
+H
+java:S1481Ó",Remove this unused "yOffset" local variable.(÷¶ãÊüÿÿÿÿ
+=
+java:S1481"&Remove this unused "y" local variable.(ñÙ€Ø
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(Š«äÜ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(Ñ¡œ
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(¡ÀØ”

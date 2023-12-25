@@ -1,0 +1,32 @@
+
+b
+java:S1192»"FDefine a constant instead of duplicating this literal "false" 4 times.(Ö×®çøÿÿÿÿ
+F
+java:S1066Ï"/Merge this if statement with the enclosing one.(æÒ”
+F
+java:S1066›"/Merge this if statement with the enclosing one.(‰¦İ
+?
+java:S1604Â"(Make this anonymous inner class a lambda(óêµÇ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+A
+java:S1659"*Declare "nativeHeight" on a separate line.(Ì±µü
+?
+java:S1905¸")Remove this unnecessary cast to "String".(å°‰g
+E
+java:S1905¾")Remove this unnecessary cast to "String".(…Ã¥¡ıÿÿÿÿ
+E
+java:S1905Ä")Remove this unnecessary cast to "String".(ºÚ§ôøÿÿÿÿ
+@
+java:S1905Ê")Remove this unnecessary cast to "String".(Ù‡Ì
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(È¹µ‰ÿÿÿÿÿ
+V
+java:S1161›":Add the "@Override" annotation above this method signature(µ›Ğ”ûÿÿÿÿ
+n
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(—û şÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(—û şÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(¦Íñ¨
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(ã®¸Â

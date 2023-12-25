@@ -1,0 +1,11 @@
+
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.( ÍâÔ
+e
+java:S2674O"JCheck the return value of the "read" call to see how many bytes were read.(„‚ı½ıÿÿÿÿ
+?
+java:S1197["*Move the array designators [] to the type.(ñõé
+E
+java:S1197z"*Move the array designators [] to the type.(í¬¹”ıÿÿÿÿ
+@
+java:S1197|"*Move the array designators [] to the type.(áú¹Ú

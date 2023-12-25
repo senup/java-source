@@ -1,0 +1,41 @@
+
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ö®ö
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëğÊşüÿÿÿÿ
+o
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Ó´_
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÛš»
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604Õ"(Make this anonymous inner class a lambda(š©½
+C
+java:S1172X"-Remove this unused method parameter "method".(Á¯ÁÆ
+Q
+java:S1161ƒ":Add the "@Override" annotation above this method signature(ÜÑã
+e
+java:S4201„"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‹¥Œœÿÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ğÜşŠ
+D
+java:S1905²"(Remove this unnecessary cast to "Field".(‚œ»êûÿÿÿÿ
+Z
+java:S1155Â">Use isEmpty() to check whether the collection is empty or not.(ñ””Ëûÿÿÿÿ
+O
+java:S1117ï"8Rename "type" which hides the field declared at line 37.(•²î
+\
+java:S1854¾"@Remove this useless assignment to local variable "invokedClass".(“÷É ùÿÿÿÿ
+\
+java:S1854È"@Remove this useless assignment to local variable "invokedClass".(³’şØıÿÿÿÿ
+•
+java:S1130–"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(š¼Ëùÿÿÿÿ
+”
+java:S1130—"xRemove the declaration of thrown exception 'com.sun.jdi.InvocationException', as it cannot be thrown from method's body.(ƒÙËßıÿÿÿÿ
+M
+java:S1481»"1Remove this unused "invokedClass" local variable.(òÕÍÇøÿÿÿÿ
+O
+java:S1117ö"8Rename "type" which hides the field declared at line 37.(ÉˆÃ‚
+2
+java:S3626¸"Remove this redundant jump.(ûÁİ…

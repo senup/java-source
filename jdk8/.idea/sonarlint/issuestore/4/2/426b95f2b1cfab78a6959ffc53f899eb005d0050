@@ -1,0 +1,10 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¯üú•ÿÿÿÿÿ
+?	java:S108’")Either remove or fill this block of code.(é¢¦é
+=
+java:S1168²"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¹"&Return an empty array instead of null.(¥¹ï

@@ -1,0 +1,72 @@
+
+l
+java:S1192—"UDefine a constant instead of duplicating this literal "Error using keystore" 3 times.(¸ü×É
+s
+java:S1192í"\Define a constant instead of duplicating this literal "Error initializing keystore" 3 times.(¡Ó´
+^
+java:S1192İ"HDefine a constant instead of duplicating this literal "Error: " 3 times.(‰ì¢6
+r
+java:S1192ß"[Define a constant instead of duplicating this literal " information from the user" 3 times.(±ƒË
+€
+java:S1192‘"dDefine a constant instead of duplicating this literal "The login module is not initialized" 3 times.(Çç¶ÿÿÿÿÿ
+Š
+java:S1192Ş"nDefine a constant instead of duplicating this literal " is not available to retrieve authentication " 3 times.(ø–Æ‘şÿÿÿÿ
+g
+java:S1192å"PDefine a constant instead of duplicating this literal "Login cancelled" 3 times.(¨š÷¶
+C
+java:S1604u"(Make this anonymous inner class a lambda(•„òíıÿÿÿÿ
+T
+java:S1163¥"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+T
+java:S1163Á"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+T
+java:S1163ı"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+K
+java:S1143¥"4Remove this throw statement from this finally block.(€¬­ô
+K
+java:S1143Á"4Remove this throw statement from this finally block.(€¬­ô
+K
+java:S1143ı"4Remove this throw statement from this finally block.(€¬­ô
+P
+java:S11915"5Use classes from the Java API instead of Sun classes.( ¤úÊşÿÿÿÿ
+Z
+java:S2583î"CChange this condition so that it does not always evaluate to "true"(ÀÜ¢ï
+j
+java:S1845«"NRename field "token" to prevent any misunderstanding/clash with field "TOKEN".(Å‚íéûÿÿÿÿ
+w
+java:S1450¦"[Remove the "fromKeyStore" field and declare it as a local variable in the relevant methods.(å˜€Äøÿÿÿÿ
+q
+java:S1450—"ZRemove the "sharedState" field and declare it as a local variable in the relevant methods.(¥Å‹Ì
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ß™“øÿÿÿÿ
+G
+java:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+=	java:S131Ñ""Add a default case to this switch.(š¯¡¾øÿÿÿÿ
+=	java:S131ñ""Add a default case to this switch.(š¯¡¾øÿÿÿÿ
+i
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(«ğó
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÍĞÇ›ûÿÿÿÿ
+\
+java:S2147ğ"ECombine this catch with the one at line 619, which has the same body.(ï­£Ä
+u
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¦ÏÈŒùÿÿÿÿ
+[
+java:S2147¶"ECombine this catch with the one at line 690, which has the same body.(ÿÒ„p
+`
+java:S4201©"IRemove this unnecessary null check; "instanceof" returns false for nulls.(—åŸñ
+G
+java:S4524è"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+e
+java:S1871©"IThis case's code block is the same as the block for the case on line 806.(”ß§åşÿÿÿÿ
+G
+java:S4524¢"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+G
+java:S4524É"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(©º»À
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ‡Ëùÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(ğÿŸƒüÿÿÿÿ
+F
+java:S1068—"/Remove this unused "sharedState" private field.(¥Å‹Ì

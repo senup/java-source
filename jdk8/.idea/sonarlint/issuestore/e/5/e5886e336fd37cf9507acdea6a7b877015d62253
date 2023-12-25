@@ -1,0 +1,17 @@
+
+[	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(¥ˆù’
+[	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(ìå›Ü
+[	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(ìå›Ü
+[	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ìå›Ü
+J
+java:S3740,"/Provide the parametrized type for this generic.(ÑŞøüüÿÿÿÿ
+J
+java:S37408"/Provide the parametrized type for this generic.(ù¢ôüÿÿÿÿ
+J
+java:S3740S"/Provide the parametrized type for this generic.(Ê­Ûøşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+Z
+java:S2147]"DCombine this catch with the one at line 91, which has the same body.(¨¦Š½
+Z
+java:S2147_"DCombine this catch with the one at line 91, which has the same body.(ã€ 

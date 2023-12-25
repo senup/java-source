@@ -1,0 +1,11 @@
+
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“íŽÿÿÿÿÿ
+>
+java:S1604K"(Make this anonymous inner class a lambda(‘úø’
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éýÿÿÿÿ
+h
+java:S2786&"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ãÕ¯ù
+`
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(¼“íŽÿÿÿÿÿ

@@ -1,0 +1,69 @@
+
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ôàÂøÿÿÿÿ
+o
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ×«
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬øÎ
+K
+java:S1066Á"/Merge this if statement with the enclosing one.(ÉÔèˆùÿÿÿÿ
+D
+java:S1604Š"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+D
+java:S1604ì"(Make this anonymous inner class a lambda(êÓÅÿÿÿÿÿ
+D
+java:S1604‹"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+D
+java:S1604±"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+X
+java:S4973¶"<Strings and Boxed types should be compared using "equals()".(„×Õîüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+H
+java:S1948/"-Make "proxyClient" transient or serializable.(¾Øñ°üÿÿÿÿ
+B
+java:S19480"'Make "timer" transient or serializable.(å¡Ê˜ûÿÿÿÿ
+D
+java:S1948J")Make "plugins" transient or serializable.(İä°¤øÿÿÿÿ
+B
+java:S1948…",Make "lockObject" transient or serializable.(»ê 
+U
+java:S1161~":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+a
+java:S3252"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(•¥î‘úÿÿÿÿ
+V
+java:S1161š":Add the "@Override" annotation above this method signature(ËØÙëùÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(ÈÊ“À
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(˜¼‡øûÿÿÿÿ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(ÜÄÃÆ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(°£Ö‹üÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(ƒìæ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(“–ış
+Q
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+z
+java:S2142†"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+O
+java:S1117—"8Rename "vmIF" which hides the field declared at line 55.(Ùì³ï
+N
+java:S1135©"2Complete the task associated to this TODO comment.(—ƒ“Ìøÿÿÿÿ
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ê‚Êˆ
+b
+java:S1659Ò"KDeclare "msgExplanation" and all following declarations on a separate line.(ò‚¸é
+Z
+java:S1117Ñ">Rename "optionPane" which hides the field declared at line 78.(Û‚«Êüÿÿÿÿ
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¸ñ®Æ
+J
+java:S2864»"4Iterate over the "entrySet" instead of the "keySet".(–×¹)
+J
+java:S1144Î".Remove this unused private "insertTab" method.(âãÌÇøÿÿÿÿ

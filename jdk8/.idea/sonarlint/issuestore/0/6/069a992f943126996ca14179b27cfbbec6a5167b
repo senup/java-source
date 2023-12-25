@@ -1,0 +1,35 @@
+
+l	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ïš‰şÿÿÿÿ
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İåÏ
+g	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ƒƒ¨
+t
+java:S1488è"]Immediately return this expression instead of assigning it to the temporary variable "index".(Ğ“¤º
+u
+java:S1488â"YImmediately return this expression instead of assigning it to the temporary variable "c".(•îôùÿÿÿÿ
+i
+java:S1104¯"RMake isLeaf a static final constant or non-public and provide accessors if needed.(µËµù
+r
+java:S1104°"VMake childCount a static final constant or non-public and provide accessors if needed.(ÒœÜÔùÿÿÿÿ
+m
+java:S1104³"VMake colorCount a static final constant or non-public and provide accessors if needed.(…ìäø
+f
+java:S1104´"OMake red a static final constant or non-public and provide accessors if needed.(ºç’
+l
+java:S1104µ"PMake blue a static final constant or non-public and provide accessors if needed.(ÕÇÖæıÿÿÿÿ
+h
+java:S1104¶"QMake green a static final constant or non-public and provide accessors if needed.(¥¼‰ÿ
+t
+java:S1104¸"XMake paletteIndex a static final constant or non-public and provide accessors if needed.(êµËøÿÿÿÿ
+h
+java:S1104º"QMake level a static final constant or non-public and provide accessors if needed.(Ì–íï
+U
+java:S3516Ÿ"9Refactor this method to not always return the same value.(Úş¦¶şÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ú“»şÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(È‚õÏşÿÿÿÿ
+Q
+java:S1854˜":Remove this useless assignment to local variable "aDepth".(©Ñ—¿
+D
+java:S1481ü"(Remove this unused "cnt" local variable.(áÌÇ¦üÿÿÿÿ
+B
+java:S1481˜"+Remove this unused "aDepth" local variable.(©Ñ—¿

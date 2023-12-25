@@ -1,0 +1,36 @@
+
+j	java:S116Y"PRename this field "_nunp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µé–±ÿÿÿÿÿ
+œ
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¤¬Àÿÿÿÿÿ
+e
+java:S1874?"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¦¦½Œúÿÿÿÿ
+U
+java:S1161?":Add the "@Override" annotation above this method signature(¦¦½Œúÿÿÿÿ
+`
+java:S1874H"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Úëá
+P
+java:S1161H":Add the "@Override" annotation above this method signature(Úëá
+B
+java:S5164’"&Use "remove()" instead of "set(null)".(™×ëÜþÿÿÿÿ
+E
+java:S2093y"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+V	java:S899¬";Do something with the "boolean" value returned by "delete".(ï¬ü·üÿÿÿÿ
+j
+java:S4042¬"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ï¬ü·üÿÿÿÿ
+u
+java:S1171³"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Â"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+>
+java:S1125É"'Remove the unnecessary boolean literal.(àÚÎ¨
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(†²«Áýÿÿÿÿ
+n
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Öú¬ôùÿÿÿÿ
+V
+java:S3252‚"?Use static access with "java.util.zip.ZipEntry" for "DEFLATED".(ô÷“Í
+T
+java:S3252‚"=Use static access with "java.util.zip.ZipEntry" for "STORED".(ô÷“Í
+Y
+java:S3252‡"=Use static access with "java.util.zip.ZipEntry" for "STORED".(‹õ‰Ñÿÿÿÿÿ
+B
+java:S1905–"+Remove this unnecessary cast to "ZipEntry".(Úõ®ø

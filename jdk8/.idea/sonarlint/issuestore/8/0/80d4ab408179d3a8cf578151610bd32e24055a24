@@ -1,0 +1,17 @@
+
+h
+java:S1104+"RMake field1 a static final constant or non-public and provide accessors if needed.(‰ìŸŸ
+m
+java:S1104,"RMake field2 a static final constant or non-public and provide accessors if needed.(©¿Ôöùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+5
+java:S1165+"Make this "field1" field final.(‰ìŸŸ
+:
+java:S1165,"Make this "field2" field final.(©¿Ôöùÿÿÿÿ
+>
+java:S1948+"(Make "field1" transient or serializable.(‰ìŸŸ
+C
+java:S1948,"(Make "field2" transient or serializable.(©¿Ôöùÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®

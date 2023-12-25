@@ -1,0 +1,144 @@
+
+K
+java:S3740¥"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(Ğˆ«ø
+F
+java:S3740³"/Provide the parametrized type for this generic.(½’¤¦
+F
+java:S3740³"/Provide the parametrized type for this generic.(½’¤¦
+F
+java:S3740½"/Provide the parametrized type for this generic.(½’¤¦
+F
+java:S3740½"/Provide the parametrized type for this generic.(½’¤¦
+o
+java:S2293 
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ÅğT
+b
+java:S1192ä"FDefine a constant instead of duplicating this literal "ms950" 3 times.(Òó±Ôüÿÿÿÿ
+^
+java:S1192Ä"GDefine a constant instead of duplicating this literal "UTF-16" 3 times.(Š¿Ê®
+E
+java:S1121İ".Extract the assignment out of this expression.(ÚÉ³ì
+E
+java:S1121ç".Extract the assignment out of this expression.(ÚÉ³ì
+E
+java:S1121ì".Extract the assignment out of this expression.(ÚÉ³ì
+K
+java:S1066–"/Merge this if statement with the enclosing one.(şÒ€Òúÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÔ¿øÿÿÿÿ
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºĞ„‘
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øã™ìúÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙĞ¾Úúÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÔ¿øÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŠÍúÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+g
+java:S1301ù"KReplace this "switch" statement by "if" statements to increase readability.(Óğ±¦øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+e
+java:S2259‡"IA "NullPointerException" could be thrown; "nativeFonts" is nullable here.(»óù·üÿÿÿÿ
+o	java:S115B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°ç­
+o	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸÏ¥é
+t	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷£í¯ıÿÿÿÿ
+n	java:S115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è–ø5
+n	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÁÍ¼=
+t	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ã¶—úÿÿÿÿ
+n	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©øØ^
+t	java:S115I"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ³—Àÿÿÿÿÿ
+t	java:S115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éôÛ÷şÿÿÿÿ
+n	java:S115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÄš;
+t	java:S115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïåÄşûÿÿÿÿ
+t	java:S115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄË¸¬ıÿÿÿÿ
+t	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(şôçÄùÿÿÿÿ
+n	java:S115Q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÈÒ¨3
+o	java:S115T"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¬ºÍ
+t	java:S115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì² ¹üÿÿÿÿ
+t	java:S115V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨ƒ¨Şùÿÿÿÿ
+o	java:S115W"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØšÏµ
+o	java:S115X"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘±‰­
+o	java:S115["ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´üÿñ
+o	java:S115\"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šîÎÿ
+t	java:S115]"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ‘÷Ãıÿÿÿÿ
+n	java:S115^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õâêd
+u	java:S115é"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªœ‚Çûÿÿÿÿ
+u	java:S115ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•şƒşÿÿÿÿ
+u	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µİ‚ûÿÿÿÿ
+p	java:S115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ò„™
+u	java:S115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ãí†Óıÿÿÿÿ
+A
+java:S2160?"+Override the "equals" method in this class.(Õ¬
+Y
+java:S1659ù"BDeclare "stPos" and all following declarations on a separate line.(•áãè
+?	java:S108„")Either remove or fill this block of code.(ï­£Ä
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¨ïííüÿÿÿÿ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‘äÈ¶
+M
+java:S2692ä"10 is a valid index, but is ignored by this check.(ôÿ’ïşÿÿÿÿ
+M
+java:S2692ø"10 is a valid index, but is ignored by this check.(•ùæšüÿÿÿÿ
+\
+java:S2147À"ECombine this catch with the one at line 308, which has the same body.(ï­£Ä
+D	java:S108©")Either remove or fill this block of code.(€®ÏÄùÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(‚¸şùÿÿÿÿ
+\
+java:S2147Ó"ECombine this catch with the one at line 458, which has the same body.(ï­£Ä
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(™õıîúÿÿÿÿ
+F
+java:S1197Ï"*Move the array designators [] to the type.(Ş†Ú®ÿÿÿÿÿ
+C
+java:S1197ÿ",Move the array designators [][] to the type.(ÿ›¥»
+A
+java:S1197®"*Move the array designators [] to the type.(ãìˆİ
+h
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(’â·H
+E
+java:S1905È")Remove this unnecessary cast to "String".(äùö‘úÿÿÿÿ
+Q
+java:S1854Š":Remove this useless assignment to local variable "range2".(ÿ•Øù
+B
+java:S1481Š"+Remove this unused "range2" local variable.(ÿ•Øù
+R	java:S125"<This block of commented-out lines of code should be removed.(“Ó“ß
+\
+java:S2147İ"ECombine this catch with the one at line 859, which has the same body.(Û†¥
+=
+java:S1168ö"&Return an empty array instead of null.(¥¹ï
+D	java:S108ú")Either remove or fill this block of code.(ûí¡°üÿÿÿÿ
+i
+java:S1871á"MThis branch's code block is the same as the block for the branch on line 989.(§áŠÛúÿÿÿÿ
+Q	java:S125Ü"<This block of commented-out lines of code should be removed.(àÕû
+=	java:S131æ""Add a default case to this switch.(ÈÎˆ—ùÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¼Ë–şÿÿÿÿ
+B
+java:S1905ö"&Remove this unnecessary cast to "int".(ÇˆöÜşÿÿÿÿ
+B
+java:S1905÷"&Remove this unnecessary cast to "int".(â“ÔĞÿÿÿÿÿ
+=	java:S131ù""Add a default case to this switch.(Óğ±¦øÿÿÿÿ
+W	java:S125Œ	"<This block of commented-out lines of code should be removed.(ÛåÎáúÿÿÿÿ
+B
+java:S1905É	"&Remove this unnecessary cast to "int".(Ğ€¬øøÿÿÿÿ
+B
+java:S1905Ô	"&Remove this unnecessary cast to "int".(ÇˆöÜşÿÿÿÿ
+B
+java:S1905Õ	"&Remove this unnecessary cast to "int".(â“ÔĞÿÿÿÿÿ
+R	java:S125¥
+"<This block of commented-out lines of code should be removed.(¯Óÿ“
+?
+java:S1905ã"(Remove this unnecessary cast to "Short".(±ş×š
+V
+java:S1854¤":Remove this useless assignment to local variable "langID".(Ùê¶ ÿÿÿÿÿ
+B
+java:S1905œ"&Remove this unnecessary cast to "int".(Ğ€¬øøÿÿÿÿ
+G
+java:S1481¤"+Remove this unused "langID" local variable.(Ùê¶ ÿÿÿÿÿ
+B
+java:S1905¦"&Remove this unnecessary cast to "int".(ÇˆöÜşÿÿÿÿ
+B
+java:S1905§"&Remove this unnecessary cast to "int".(â“ÔĞÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(­œÏ

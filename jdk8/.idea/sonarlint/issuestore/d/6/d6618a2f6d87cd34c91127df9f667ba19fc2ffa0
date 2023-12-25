@@ -1,0 +1,212 @@
+
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(…¬—´øÿÿÿÿ
+\	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(‚­Œ‘
+\	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(ğÀ‚í
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(…¬—´øÿÿÿÿ
+a	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(Ä‘ãÒøÿÿÿÿ
+\	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ëê¥¥
+F
+java:S3740‹"/Provide the parametrized type for this generic.(±–ƒÙ
+F
+java:S3740‹"/Provide the parametrized type for this generic.(±–ƒÙ
+E
+java:S3740Œ"/Provide the parametrized type for this generic.(¦Ë
+E
+java:S3740Œ"/Provide the parametrized type for this generic.(¦Ë
+F
+java:S3740•"/Provide the parametrized type for this generic.(íÒ«
+F
+java:S3740•"/Provide the parametrized type for this generic.(íÒ«
+K
+java:S3740å"/Provide the parametrized type for this generic.(–É´Îıÿÿÿÿ
+K
+java:S3740å"/Provide the parametrized type for this generic.(–É´Îıÿÿÿÿ
+K
+java:S3740æ"/Provide the parametrized type for this generic.(ÄÏÛ‰şÿÿÿÿ
+K
+java:S3740æ"/Provide the parametrized type for this generic.(ÄÏÛ‰şÿÿÿÿ
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(—ñ °
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(—ñ °
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(æÿà€úÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(æÿà€úÿÿÿÿ
+j
+java:S1192Ş"NDefine a constant instead of duplicating this literal "type.expected" 4 times.(ûŸò«şÿÿÿÿ
+j
+java:S1192á"NDefine a constant instead of duplicating this literal "not.supported" 3 times.(·Â‚ëÿÿÿÿÿ
+s	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁşÕ¬şÿÿÿÿ
+Q
+java:S1141ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+b
+java:S1301°"KReplace this "switch" statement by "if" statements to increase readability.(Ä“á
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+h	java:S116²"RRename this field "FPstate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑ™¥
+|
+java:S1149‹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±–ƒÙ
+{
+java:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦Ë
+v
+java:S1149ö
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÛÿÌ
+|
+java:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+
+java:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–É´Îıÿÿÿÿ
+
+java:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÄÏÛ‰şÿÿÿÿ
+|
+java:S1149ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—ñ °
+|
+java:S1149ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—ñ °
+
+java:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æÿà€úÿÿÿÿ
+
+java:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æÿà€úÿÿÿÿ
+W	java:S107‡"<Method has 8 parameters, which is greater than 7 authorized.( œ€œüÿÿÿÿ
+‡
+java:S1130Q"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ÿçšø
+P
+java:S1133|"5Do not forget to remove this deprecated code someday.(ê×úİÿÿÿÿÿ
+Q
+java:S1133…"5Do not forget to remove this deprecated code someday.(ú¼¶Çÿÿÿÿÿ
+K
+java:S1133"5Do not forget to remove this deprecated code someday.(öÕ)
+Q
+java:S1133—"5Do not forget to remove this deprecated code someday.(ªêÈøÿÿÿÿ
+Q
+java:S1133 "5Do not forget to remove this deprecated code someday.(ÿáæ şÿÿÿÿ
+Q
+java:S1133©"5Do not forget to remove this deprecated code someday.(ê“Ôûÿÿÿÿ
+Q
+java:S1133²"5Do not forget to remove this deprecated code someday.(ò£°Ìıÿÿÿÿ
+A
+java:S1197µ"*Move the array designators [] to the type.(Ï¸€ï
+A
+java:S1197¹"*Move the array designators [] to the type.(Èüí÷
+L
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(„²†ğ
+F
+java:S1197È"*Move the array designators [] to the type.(¸µÅÿÿÿÿÿ
+Q
+java:S1133Ú"5Do not forget to remove this deprecated code someday.(ÃŞû ûÿÿÿÿ
+L
+java:S1133ã"5Do not forget to remove this deprecated code someday.(†§¯à
+L
+java:S1133ì"5Do not forget to remove this deprecated code someday.(‡·îû
+@
+java:S1197î"*Move the array designators [] to the type.(‚óİ
+F
+java:S1197ï"*Move the array designators [] to the type.(¦Ş›øÿÿÿÿ
+@
+java:S1197ò"*Move the array designators [] to the type.(ú±¾<
+A
+java:S1197ó"*Move the array designators [] to the type.(Á¢–Ä
+Q
+java:S1133‡"5Do not forget to remove this deprecated code someday.( œ€œüÿÿÿÿ
+A
+java:S1197ˆ"*Move the array designators [] to the type.(‡ûà†
+A
+java:S1197‰"*Move the array designators [] to the type.(ï‡÷Æ
+F
+java:S1197’"*Move the array designators [] to the type.(¸ª…ıÿÿÿÿ
+A
+java:S1197—"*Move the array designators [] to the type.(¦È£
+X
+java:S1195"<Move the array designators [] to the end of the return type.(‘Íš¦ıÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ï¥ù—üÿÿÿÿ
+X
+java:S1195£"<Move the array designators [] to the end of the return type.(Ó—ó™øÿÿÿÿ
+F
+java:S1197¤"*Move the array designators [] to the type.(ôÂ£—øÿÿÿÿ
+=	java:S131Á""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(èË¢
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Ò÷•áúÿÿÿÿ
+Q
+java:S1854ß"5Remove this useless assignment to local variable "e".(âèåıÿÿÿÿ
+=	java:S131 ""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+=	java:S131á""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+=	java:S131û""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+=	java:S131£""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¡Ë´íùÿÿÿÿ
+B
+java:S1481ß"&Remove this unused "e" local variable.(âèåıÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(’°ÁÅ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÏŸÑù
+^
+java:S1479"BReduce the number of non-empty switch cases from 38 to at most 30.(×â¬ÿÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(ÆÂæ¹ùÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(»•Ïùÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ÜÈıüÿÿÿÿ
+=	java:S131œ""Add a default case to this switch.(Ñ—ö¥ûÿÿÿÿ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(™íûö
+=	java:S131¸""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(È¯­Ùúÿÿÿÿ
+=
+java:S1659Ú"!Declare "inc" on a separate line.(Ş±¥Ùùÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(âª‹Ìùÿÿÿÿ
+Q	java:S125†"<This block of commented-out lines of code should be removed.(²Òú	
+W	java:S125"<This block of commented-out lines of code should be removed.(ÈÔŒáÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Çşî–
+R	java:S125ª"<This block of commented-out lines of code should be removed.(õîšù
+R	java:S125·"<This block of commented-out lines of code should be removed.(şÑéª
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(¬š¶Æ
+W	java:S125€	"<This block of commented-out lines of code should be removed.(âÒé™ûÿÿÿÿ
+>
+java:S1125†	"'Remove the unnecessary boolean literal.(·ê´§
+R	java:S125›	"<This block of commented-out lines of code should be removed.(ºÜé¬
+R	java:S125¨	"<This block of commented-out lines of code should be removed.(€ú¹ö
+W	java:S125À	"<This block of commented-out lines of code should be removed.(¶ğêÓüÿÿÿÿ
+R	java:S125İ	"<This block of commented-out lines of code should be removed.(´àÛ
+W	java:S125Ï
+"<This block of commented-out lines of code should be removed.(¼œ÷Ìøÿÿÿÿ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(‹ƒø“
+F
+java:S1197â"*Move the array designators [] to the type.(æÚÏ«ÿÿÿÿÿ
+F
+java:S1197ã"*Move the array designators [] to the type.(ÿùˆşúÿÿÿÿ
+F
+java:S1197è"*Move the array designators [] to the type.(—ß¸ùÿÿÿÿ
+A
+java:S1197ë"*Move the array designators [] to the type.(ºª«Ø
+=	java:S131ƒ""Add a default case to this switch.(×â¬ÿÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ş¸ÉÇıÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(›Ëƒìÿÿÿÿÿ
+A
+java:S1197‰"*Move the array designators [] to the type.(¨€³»
+F
+java:S1197Œ"*Move the array designators [] to the type.(ú‹–Ãúÿÿÿÿ
+F
+java:S1197“"*Move the array designators [] to the type.(’®Ôôøÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(‹Ö¾
+A
+java:S1197º"*Move the array designators [] to the type.(åŸø©
+A
+java:S1172‹"*Remove this unused method parameter "ctx".(óÜ‚
+U
+java:S1155‘">Use isEmpty() to check whether the collection is empty or not.(ŒÔ©Ï
+Z
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.(«é€Šÿÿÿÿÿ
+F
+java:S1197£"*Move the array designators [] to the type.(÷§ºÛùÿÿÿÿ
+2
+java:S3626ª"Remove this redundant jump.(ûÁİ…
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(Ñææ”úÿÿÿÿ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(¢•ìªùÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®

@@ -1,0 +1,72 @@
+
+e	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ù¾|
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŠ–Ö
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šòõð
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸ßý
+V	java:S110,"<This class has 6 parents which is greater than 5 authorized.(íªÖ½ýÿÿÿÿ
+|
+java:S4144Ë"`Update this method so that its implementation is not identical to "a_getSchema_nns" on line 198.(Á‚ýÿÿÿÿÿ
+|
+java:S4144„"`Update this method so that its implementation is not identical to "c_getSchema_nns" on line 382.(·™®éÿÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜±êþÿÿÿÿ
+b	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ù¾|
+c	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ð¯Ÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø÷ï­úÿÿÿÿ
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êéŒøÿÿÿÿ
+c	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëžœ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…ýÙùÿÿÿÿ
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…ýÙùÿÿÿÿ
+h	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…ýÙùÿÿÿÿ
+c	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíÐ´
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÇÔúÿÿÿÿ
+c	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÃàÒ
+I
+java:S1172".Remove this unused method parameter "attrIds".(“©ÈÑþÿÿÿÿ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŠ–Ö
+O
+java:S1172†"8Remove these unused method parameters "mod_op", "attrs".(ÃŠ–Ö
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¸Áøÿÿÿÿÿ
+G
+java:S1172Ž"+Remove this unused method parameter "mods".(»ßþÿÿÿÿ
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×™î 
+L
+java:S1172”"5Remove these unused method parameters "obj", "attrs".(×™î 
+c	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òùÖ
+K
+java:S1172›"5Remove these unused method parameters "obj", "attrs".(òùÖ
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆì„èúÿÿÿÿ
+H
+java:S1172£",Remove this unused method parameter "attrs".(—Ÿ÷…úÿÿÿÿ
+d	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÇÐ¨
+g
+java:S1172«"QRemove these unused method parameters "matchingAttributes", "attributesToReturn".(’Æäo
+i	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨©«Õúÿÿÿÿ
+e
+java:S1172´"IRemove these unused method parameters "filterExpr", "filterArgs", "cons".(ÜÕ¬ýÿÿÿÿ
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨©«Õúÿÿÿÿ
+N
+java:S1172¾"7Remove these unused method parameters "filter", "cons".(ëþÊ
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¢¬Íûÿÿÿÿ
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚ýÿÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(öÑÅšþÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(’¸ßý
+V
+java:S1161À":Add the "@Override" annotation above this method signature(çþ³Âúÿÿÿÿ
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(ÿŠž±üÿÿÿÿ
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(÷‰·ÿýÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(²”ÄÕúÿÿÿÿ
+V
+java:S1161Þ":Add the "@Override" annotation above this method signature(æÚ•ñÿÿÿÿÿ
+V
+java:S1161è":Add the "@Override" annotation above this method signature(½í±µþÿÿÿÿ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(½í±µþÿÿÿÿ
+V
+java:S1161þ":Add the "@Override" annotation above this method signature(“îÂãûÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(·™®éÿÿÿÿÿ

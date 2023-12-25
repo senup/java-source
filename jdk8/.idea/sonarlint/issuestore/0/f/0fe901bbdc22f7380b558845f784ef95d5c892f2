@@ -1,0 +1,18 @@
+
+C
+java:S1604r"(Make this anonymous inner class a lambda(Š²•ÿÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(‘Úğ
+o	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¼ªÚ
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Àşİ
+o	java:S115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€Ôˆø
+o	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦€àı
+o	java:S115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ˜‰Ï
+2
+java:S1116-"Remove this empty statement.(¤Ÿ…ş
+m
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÌÕ®Îûÿÿÿÿ
+F
+java:S1481ì"*Remove this unused "lvmid" local variable.(›’½µıÿÿÿÿ
+D	java:S108ñ")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
+D	java:S108ş")Either remove or fill this block of code.(¿åÓúÿÿÿÿ

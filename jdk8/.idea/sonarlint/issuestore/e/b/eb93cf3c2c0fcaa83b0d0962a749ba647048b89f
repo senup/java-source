@@ -1,0 +1,13 @@
+
+s
+java:S11929"]Define a constant instead of duplicating this literal "read on a closed InputStream" 3 times.(ãŸ‘¥
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆò
+˜
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â´ï
+J
+java:S4517?"/Convert this signed byte into an unsigned byte.(¯áÉÜüÿÿÿÿ
+@
+java:S1197H"*Move the array designators [] to the type.(®úæ
+@
+java:S1197W"*Move the array designators [] to the type.(§ìî·

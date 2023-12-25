@@ -1,0 +1,29 @@
+
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ë ÿ
+b
+java:S1192‚"FDefine a constant instead of duplicating this literal "xmlns" 3 times.(°óâªøÿÿÿÿ
+^
+java:S1192…"GDefine a constant instead of duplicating this literal "xmlns:" 4 times.(ÚË«á
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•³
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şïÆÃøÿÿÿÿ
+T
+java:S5993?"9Change the visibility of this constructor to "protected".(¸ˆïßúÿÿÿÿ
+T
+java:S5993G"9Change the visibility of this constructor to "protected".(èµ¤İüÿÿÿÿ
+O
+java:S5993X"9Change the visibility of this constructor to "protected".(®•³
+a
+java:S3457^"KFormat specifiers or lambda should be used instead of string concatenation.(“¿ç
+b
+java:S3457¸"KFormat specifiers or lambda should be used instead of string concatenation.(ƒ›•¹
+A
+java:S1197û"*Move the array designators [] to the type.(Ú³§º
+Q
+java:S1133ç"5Do not forget to remove this deprecated code someday.(êÖÕ·şÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(‰Ğü¨ÿÿÿÿÿ
+F
+java:S1197Ç"*Move the array designators [] to the type.(¿¦™¤üÿÿÿÿ
+F
+java:S1197İ"*Move the array designators [] to the type.(ª¡·Ôùÿÿÿÿ

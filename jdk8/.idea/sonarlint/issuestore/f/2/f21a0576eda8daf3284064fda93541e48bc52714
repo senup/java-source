@@ -1,0 +1,38 @@
+
+K
+java:S3740É"/Provide the parametrized type for this generic.(‘ˆÅèıÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(‘ˆÅèıÿÿÿÿ
+K
+java:S3740Ê"/Provide the parametrized type for this generic.(ößÎ•ûÿÿÿÿ
+F
+java:S3740Ñ"/Provide the parametrized type for this generic.(ßÕâ€
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(ößÎ•ûÿÿÿÿ
+F
+java:S3740å"/Provide the parametrized type for this generic.(ßÕâ€
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(ÉÄ‚¨
+F
+java:S3740„"/Provide the parametrized type for this generic.(ü›é¡
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÉé°şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(‡ÅÁ
+˜
+java:S1130O"}Remove the declaration of thrown exception 'sun.jvmstat.monitor.MonitorException', as it cannot be thrown from method's body.(ÊÉµûÿÿÿÿ
+O
+java:S1161\":Add the "@Override" annotation above this method signature(íàE
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(³ØÓ
+V
+java:S1161§":Add the "@Override" annotation above this method signature(Î¿—àüÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(“–ış
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÏÊ—™
+W	java:S125‹"<This block of commented-out lines of code should be removed.(áÖàùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ä‹Šïıÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(“–ış
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(¼ùÂ¿şÿÿÿÿ
+9
+java:S1128""$Remove this unused import 'java.io'.(¬›ãD

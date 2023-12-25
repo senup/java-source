@@ -1,0 +1,205 @@
+
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(’ÿ‘•ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊıÿÿÿÿ
+±
+java:S1845Ğ"™Rename method "opc_aconst_null" to prevent any misunderstanding/clash with field "opc_aconst_null" defined in interface "sun.reflect.ClassFileConstants".(è¯Òà
+¦
+java:S1845Õ"Rename method "opc_sipush" to prevent any misunderstanding/clash with field "opc_sipush" defined in interface "sun.reflect.ClassFileConstants".(«ƒån
+¦
+java:S1845Û"‰Rename method "opc_ldc" to prevent any misunderstanding/clash with field "opc_ldc" defined in interface "sun.reflect.ClassFileConstants".(çËÆ±øÿÿÿÿ
+®
+java:S1845å"‘Rename method "opc_iload_0" to prevent any misunderstanding/clash with field "opc_iload_0" defined in interface "sun.reflect.ClassFileConstants".(êÆ–ùÿÿÿÿ
+®
+java:S1845ë"‘Rename method "opc_iload_1" to prevent any misunderstanding/clash with field "opc_iload_1" defined in interface "sun.reflect.ClassFileConstants".(®Ã–ıûÿÿÿÿ
+®
+java:S1845ñ"‘Rename method "opc_iload_2" to prevent any misunderstanding/clash with field "opc_iload_2" defined in interface "sun.reflect.ClassFileConstants".(˜È†Èıÿÿÿÿ
+®
+java:S1845÷"‘Rename method "opc_iload_3" to prevent any misunderstanding/clash with field "opc_iload_3" defined in interface "sun.reflect.ClassFileConstants".(¹èØÊşÿÿÿÿ
+©
+java:S1845ı"‘Rename method "opc_lload_0" to prevent any misunderstanding/clash with field "opc_lload_0" defined in interface "sun.reflect.ClassFileConstants".(Òç¬ã
+©
+java:S1845„"‘Rename method "opc_lload_1" to prevent any misunderstanding/clash with field "opc_lload_1" defined in interface "sun.reflect.ClassFileConstants".(ŒÊ½Ò
+©
+java:S1845‹"‘Rename method "opc_lload_2" to prevent any misunderstanding/clash with field "opc_lload_2" defined in interface "sun.reflect.ClassFileConstants".(÷Èæó
+®
+java:S1845’"‘Rename method "opc_lload_3" to prevent any misunderstanding/clash with field "opc_lload_3" defined in interface "sun.reflect.ClassFileConstants".(øöŒüÿÿÿÿÿ
+®
+java:S1845™"‘Rename method "opc_fload_0" to prevent any misunderstanding/clash with field "opc_fload_0" defined in interface "sun.reflect.ClassFileConstants".(£×•şÿÿÿÿ
+©
+java:S1845Ÿ"‘Rename method "opc_fload_1" to prevent any misunderstanding/clash with field "opc_fload_1" defined in interface "sun.reflect.ClassFileConstants".(¨ãåÃ
+©
+java:S1845¥"‘Rename method "opc_fload_2" to prevent any misunderstanding/clash with field "opc_fload_2" defined in interface "sun.reflect.ClassFileConstants".(¬Õ°ä
+©
+java:S1845«"‘Rename method "opc_fload_3" to prevent any misunderstanding/clash with field "opc_fload_3" defined in interface "sun.reflect.ClassFileConstants".(˜¸‡»
+©
+java:S1845±"‘Rename method "opc_dload_0" to prevent any misunderstanding/clash with field "opc_dload_0" defined in interface "sun.reflect.ClassFileConstants".(ÜöÉë
+®
+java:S1845¸"‘Rename method "opc_dload_1" to prevent any misunderstanding/clash with field "opc_dload_1" defined in interface "sun.reflect.ClassFileConstants".(ˆ€ïÛşÿÿÿÿ
+©
+java:S1845¿"‘Rename method "opc_dload_2" to prevent any misunderstanding/clash with field "opc_dload_2" defined in interface "sun.reflect.ClassFileConstants".(˜®µ
+®
+java:S1845Æ"‘Rename method "opc_dload_3" to prevent any misunderstanding/clash with field "opc_dload_3" defined in interface "sun.reflect.ClassFileConstants".(åÒƒúÿÿÿÿ
+®
+java:S1845Í"‘Rename method "opc_aload_0" to prevent any misunderstanding/clash with field "opc_aload_0" defined in interface "sun.reflect.ClassFileConstants".(µ­´ğûÿÿÿÿ
+©
+java:S1845Ó"‘Rename method "opc_aload_1" to prevent any misunderstanding/clash with field "opc_aload_1" defined in interface "sun.reflect.ClassFileConstants".(Û²®™
+©
+java:S1845Ù"‘Rename method "opc_aload_2" to prevent any misunderstanding/clash with field "opc_aload_2" defined in interface "sun.reflect.ClassFileConstants".(Ÿ°¥
+©
+java:S1845ß"‘Rename method "opc_aload_3" to prevent any misunderstanding/clash with field "opc_aload_3" defined in interface "sun.reflect.ClassFileConstants".(¶ãÌ
+§
+java:S1845å"Rename method "opc_aaload" to prevent any misunderstanding/clash with field "opc_aaload" defined in interface "sun.reflect.ClassFileConstants".(Ÿœ‹Í
+«
+java:S1845ê"“Rename method "opc_astore_0" to prevent any misunderstanding/clash with field "opc_astore_0" defined in interface "sun.reflect.ClassFileConstants".(áÕ¼°
+«
+java:S1845ğ"“Rename method "opc_astore_1" to prevent any misunderstanding/clash with field "opc_astore_1" defined in interface "sun.reflect.ClassFileConstants".(È¸êÚ
+«
+java:S1845ö"“Rename method "opc_astore_2" to prevent any misunderstanding/clash with field "opc_astore_2" defined in interface "sun.reflect.ClassFileConstants".(è¥€¡
+°
+java:S1845ü"“Rename method "opc_astore_3" to prevent any misunderstanding/clash with field "opc_astore_3" defined in interface "sun.reflect.ClassFileConstants".(ÏÕ¨•şÿÿÿÿ
+¦
+java:S1845†"‰Rename method "opc_pop" to prevent any misunderstanding/clash with field "opc_pop" defined in interface "sun.reflect.ClassFileConstants".(Ç÷µ…úÿÿÿÿ
+¦
+java:S1845‹"‰Rename method "opc_dup" to prevent any misunderstanding/clash with field "opc_dup" defined in interface "sun.reflect.ClassFileConstants".(Öè­Òÿÿÿÿÿ
+¦
+java:S1845"Rename method "opc_dup_x1" to prevent any misunderstanding/clash with field "opc_dup_x1" defined in interface "sun.reflect.ClassFileConstants".(é‚E
+¨
+java:S1845•"‹Rename method "opc_swap" to prevent any misunderstanding/clash with field "opc_swap" defined in interface "sun.reflect.ClassFileConstants".(ìî¯·úÿÿÿÿ
+¦
+java:S1845"‰Rename method "opc_i2l" to prevent any misunderstanding/clash with field "opc_i2l" defined in interface "sun.reflect.ClassFileConstants".(ËÒ…ûÿÿÿÿ
+ 
+java:S1845¡"‰Rename method "opc_i2f" to prevent any misunderstanding/clash with field "opc_i2f" defined in interface "sun.reflect.ClassFileConstants".(”§™
+¦
+java:S1845¥"‰Rename method "opc_i2d" to prevent any misunderstanding/clash with field "opc_i2d" defined in interface "sun.reflect.ClassFileConstants".(«Áş§úÿÿÿÿ
+¦
+java:S1845©"‰Rename method "opc_l2f" to prevent any misunderstanding/clash with field "opc_l2f" defined in interface "sun.reflect.ClassFileConstants".(ÂÂˆâøÿÿÿÿ
+¦
+java:S1845­"‰Rename method "opc_l2d" to prevent any misunderstanding/clash with field "opc_l2d" defined in interface "sun.reflect.ClassFileConstants".(Şœ‡Æøÿÿÿÿ
+¡
+java:S1845±"‰Rename method "opc_f2d" to prevent any misunderstanding/clash with field "opc_f2d" defined in interface "sun.reflect.ClassFileConstants".(âÌ‘Ú
+¨
+java:S1845¹"‹Rename method "opc_ifeq" to prevent any misunderstanding/clash with field "opc_ifeq" defined in interface "sun.reflect.ClassFileConstants".(‰„ÔÊüÿÿÿÿ
+£
+java:S1845Á"‹Rename method "opc_ifeq" to prevent any misunderstanding/clash with field "opc_ifeq" defined in interface "sun.reflect.ClassFileConstants".(úÎÙ˜
+²
+java:S1845È"•Rename method "opc_if_icmpeq" to prevent any misunderstanding/clash with field "opc_if_icmpeq" defined in interface "sun.reflect.ClassFileConstants".(–ÍÍÕşÿÿÿÿ
+²
+java:S1845Ğ"•Rename method "opc_if_icmpeq" to prevent any misunderstanding/clash with field "opc_if_icmpeq" defined in interface "sun.reflect.ClassFileConstants".(å€®şÿÿÿÿ
+¨
+java:S1845×"‹Rename method "opc_goto" to prevent any misunderstanding/clash with field "opc_goto" defined in interface "sun.reflect.ClassFileConstants".(’ò¦şÿÿÿÿ
+¨
+java:S1845Ş"‹Rename method "opc_goto" to prevent any misunderstanding/clash with field "opc_goto" defined in interface "sun.reflect.ClassFileConstants".(½×Üşüÿÿÿÿ
+§
+java:S1845å"Rename method "opc_ifnull" to prevent any misunderstanding/clash with field "opc_ifnull" defined in interface "sun.reflect.ClassFileConstants".(×ëöÕ
+¬
+java:S1845í"Rename method "opc_ifnull" to prevent any misunderstanding/clash with field "opc_ifnull" defined in interface "sun.reflect.ClassFileConstants".( ñìüÿÿÿÿ
+²
+java:S1845õ"•Rename method "opc_ifnonnull" to prevent any misunderstanding/clash with field "opc_ifnonnull" defined in interface "sun.reflect.ClassFileConstants".(¤éËçúÿÿÿÿ
+¬
+java:S1845ı"•Rename method "opc_ifnonnull" to prevent any misunderstanding/clash with field "opc_ifnonnull" defined in interface "sun.reflect.ClassFileConstants".(áÀÑ-
+®
+java:S1845‰"‘Rename method "opc_ireturn" to prevent any misunderstanding/clash with field "opc_ireturn" defined in interface "sun.reflect.ClassFileConstants".(Ÿ‰¾úÿÿÿÿ
+®
+java:S1845"‘Rename method "opc_lreturn" to prevent any misunderstanding/clash with field "opc_lreturn" defined in interface "sun.reflect.ClassFileConstants".(ê«àÿøÿÿÿÿ
+®
+java:S1845“"‘Rename method "opc_freturn" to prevent any misunderstanding/clash with field "opc_freturn" defined in interface "sun.reflect.ClassFileConstants".(èæâÚıÿÿÿÿ
+©
+java:S1845˜"‘Rename method "opc_dreturn" to prevent any misunderstanding/clash with field "opc_dreturn" defined in interface "sun.reflect.ClassFileConstants".(ı¨´â
+©
+java:S1845"‘Rename method "opc_areturn" to prevent any misunderstanding/clash with field "opc_areturn" defined in interface "sun.reflect.ClassFileConstants".(íº¢Ô
+¦
+java:S1845¢"Rename method "opc_return" to prevent any misunderstanding/clash with field "opc_return" defined in interface "sun.reflect.ClassFileConstants".(¬Ù!
+­
+java:S1845«"•Rename method "opc_getstatic" to prevent any misunderstanding/clash with field "opc_getstatic" defined in interface "sun.reflect.ClassFileConstants".(ïõÄ
+¬
+java:S1845±"•Rename method "opc_putstatic" to prevent any misunderstanding/clash with field "opc_putstatic" defined in interface "sun.reflect.ClassFileConstants".(¿§“%
+°
+java:S1845·"“Rename method "opc_getfield" to prevent any misunderstanding/clash with field "opc_getfield" defined in interface "sun.reflect.ClassFileConstants".(±éõäıÿÿÿÿ
+«
+java:S1845½"“Rename method "opc_putfield" to prevent any misunderstanding/clash with field "opc_putfield" defined in interface "sun.reflect.ClassFileConstants".(¼¶¨¸
+µ
+java:S1845É"Rename method "opc_invokevirtual" to prevent any misunderstanding/clash with field "opc_invokevirtual" defined in interface "sun.reflect.ClassFileConstants".(¦¸·Ø
+º
+java:S1845Ô"Rename method "opc_invokespecial" to prevent any misunderstanding/clash with field "opc_invokespecial" defined in interface "sun.reflect.ClassFileConstants".(å¥ôÿÿÿÿÿ
+¸
+java:S1845ß"›Rename method "opc_invokestatic" to prevent any misunderstanding/clash with field "opc_invokestatic" defined in interface "sun.reflect.ClassFileConstants".(‹Ñ…óüÿÿÿÿ
+¹
+java:S1845ê"¡Rename method "opc_invokeinterface" to prevent any misunderstanding/clash with field "opc_invokeinterface" defined in interface "sun.reflect.ClassFileConstants".(ùŠ±û
+±
+java:S1845ú"™Rename method "opc_arraylength" to prevent any misunderstanding/clash with field "opc_arraylength" defined in interface "sun.reflect.ClassFileConstants".(°ˆ“ğ
+¡
+java:S1845‚"‰Rename method "opc_new" to prevent any misunderstanding/clash with field "opc_new" defined in interface "sun.reflect.ClassFileConstants".(ı¤´Á
+§
+java:S1845Œ"Rename method "opc_athrow" to prevent any misunderstanding/clash with field "opc_athrow" defined in interface "sun.reflect.ClassFileConstants".(ßçâÕ
+²
+java:S1845–"•Rename method "opc_checkcast" to prevent any misunderstanding/clash with field "opc_checkcast" defined in interface "sun.reflect.ClassFileConstants".(ŒñŒÿúÿÿÿÿ
+´
+java:S1845›"—Rename method "opc_instanceof" to prevent any misunderstanding/clash with field "opc_instanceof" defined in interface "sun.reflect.ClassFileConstants".(âêÀøÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¯Òà
+c	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒån
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çËÆ±øÿÿÿÿ
+i	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÆ–ùÿÿÿÿ
+i	java:S100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ã–ıûÿÿÿÿ
+i	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜È†Èıÿÿÿÿ
+i	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹èØÊşÿÿÿÿ
+d	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òç¬ã
+d	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÊ½Ò
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Èæó
+i	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øöŒüÿÿÿÿÿ
+i	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£×•şÿÿÿÿ
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ãåÃ
+d	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Õ°ä
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¸‡»
+d	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜöÉë
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€ïÛşÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜®µ
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÒƒúÿÿÿÿ
+i	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ­´ğûÿÿÿÿ
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û²®™
+d	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ°¥
+d	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ãÌ
+d	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿœ‹Í
+d	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÕ¼°
+d	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¸êÚ
+d	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥€¡
+i	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÕ¨•şÿÿÿÿ
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç÷µ…úÿÿÿÿ
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öè­Òÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‚E
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìî¯·úÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÒ…ûÿÿÿÿ
+c	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”§™
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Áş§úÿÿÿÿ
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÂˆâøÿÿÿÿ
+i	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şœ‡Æøÿÿÿÿ
+d	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ‘Ú
+i	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰„ÔÊüÿÿÿÿ
+d	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÎÙ˜
+i	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÍÍÕşÿÿÿÿ
+i	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å€®şÿÿÿÿ
+i	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ò¦şÿÿÿÿ
+i	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½×Üşüÿÿÿÿ
+d	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ëöÕ
+i	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ñìüÿÿÿÿ
+i	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤éËçúÿÿÿÿ
+c	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÀÑ-
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‰¾úÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê«àÿøÿÿÿÿ
+i	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èæâÚıÿÿÿÿ
+d	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¨´â
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íº¢Ô
+c	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ù!
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïõÄ
+c	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿§“%
+i	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±éõäıÿÿÿÿ
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¶¨¸
+d	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¸·Ø
+i	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¥ôÿÿÿÿÿ
+i	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ñ…óüÿÿÿÿ
+d	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŠ±û
+d	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ˆ“ğ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¤´Á
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßçâÕ
+i	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒñŒÿúÿÿÿÿ
+i	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âêÀøÿÿÿÿ

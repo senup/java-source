@@ -1,0 +1,53 @@
+
+\	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(¥†Ã
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(³ĞÇıÿÿÿÿ
+m	java:S127["XRefactor the code in order to not assign to this loop counter from within the loop body.(’§Î»
+n	java:S127Õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ºåÉ·
+n	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(İÓô¾
+f	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇÿ–
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´„İò
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù˜ÃĞÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘™©Áúÿÿÿÿ
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ç”¢
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¼áŠ
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÍÊÜıÿÿÿÿ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÁ¬Åüÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÕŒáşÿÿÿÿ
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÜÃûÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¹Ş˜üÿÿÿÿ
+l	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îú“»üÿÿÿÿ
+f	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒÛV
+g	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÑåÔ
+g	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÑåÔ
+g	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÑåÔ
+f	java:S1165"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¡•ğÿÿÿÿÿ
+C
+java:S4274:"(Replace this assert with a proper check.(ç”ÄØøÿÿÿÿ
+m
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿ—ªëüÿÿÿÿ
+G
+java:S1481ˆ"+Remove this unused "endVal" local variable.(øç£ıûÿÿÿÿ
+:
+java:S1659–"#Declare "tailp" on a separate line.(î­µî
+h
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(êøÚx
+P
+java:S3346É"4Move this "assert" side effect to another statement.(À–»„ÿÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ûç€Á
+P
+java:S3346á"4Move this "assert" side effect to another statement.(À–»„ÿÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(ÙíÓâÿÿÿÿÿ
+P
+java:S3346ï"4Move this "assert" side effect to another statement.(À–»„ÿÿÿÿÿ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(ûç€Á
+W	java:S125„"<This block of commented-out lines of code should be removed.(”™±¡ÿÿÿÿÿ
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(šŒÈ´
+Q
+java:S1854"5Remove this useless assignment to local variable "K".(Ù˜ÃĞÿÿÿÿÿ
+B
+java:S1481"&Remove this unused "K" local variable.(Ù˜ÃĞÿÿÿÿÿ
+A
+java:S1197¿"*Move the array designators [] to the type.(ÚÊÆ
+Y
+java:S1659È"BDeclare "TCode" and all following declarations on a separate line.(¥ÑåÔ

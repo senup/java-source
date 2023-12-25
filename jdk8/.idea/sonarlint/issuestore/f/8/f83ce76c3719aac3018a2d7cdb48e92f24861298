@@ -1,0 +1,35 @@
+
+s
+java:S1488Ü"\Immediately return this expression instead of assigning it to the temporary variable "year".(ÛëÙØ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+u
+java:S1149a"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+u
+java:S1149a"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+P
+java:S1161:":Add the "@Override" annotation above this method signature(œ»ô
+P
+java:S1161^":Add the "@Override" annotation above this method signature(Á»›ê
+U
+java:S1161y":Add the "@Override" annotation above this method signature(ÎÔÈÀûÿÿÿÿ
+O
+java:S1161}":Add the "@Override" annotation above this method signature(»™
+Q
+java:S1161":Add the "@Override" annotation above this method signature(êÌçŠ
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(¥¥ö—
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Õ±Ê·úÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(Õ±Ê·úÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(‘•³Åùÿÿÿÿ
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(î¨ë 
+V
+java:S1161à":Add the "@Override" annotation above this method signature(×ËÍûÿÿÿÿ
+N
+java:S1135á"2Complete the task associated to this TODO comment.(•¿Óıÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(æÅÚúÿÿÿÿ

@@ -1,0 +1,15 @@
+
+U
+java:S1118/":Add a private constructor to hide the implicit public one.(¹¬Ò“ùÿÿÿÿ
+p	java:S115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç—úë
+U
+java:S1161P":Add the "@Override" annotation above this method signature(¿˜œÔþÿÿÿÿ
+P
+java:S1161]":Add the "@Override" annotation above this method signature(›™¥…
+U
+java:S1161j":Add the "@Override" annotation above this method signature(ˆÂ¤áÿÿÿÿÿ
+d
+java:S3551j"IMake this method "synchronized" to match the parent class implementation.(ˆÂ¤áÿÿÿÿÿ
+P
+java:S1161~":Add the "@Override" annotation above this method signature(¶øÂÁ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(ø´æËýÿÿÿÿ

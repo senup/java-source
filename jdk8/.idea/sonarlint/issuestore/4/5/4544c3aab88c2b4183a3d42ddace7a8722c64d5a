@@ -1,0 +1,24 @@
+
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‹ŸÅúÿÿÿÿ
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‹ŸÅúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(´äÍë
+E
+java:S11973"*Move the array designators [] to the type.(À–şÜÿÿÿÿÿ
+P
+java:S1161l":Add the "@Override" annotation above this method signature(ø°àß
+H
+java:S3046"1Don't use "wait()" here; multiple locks are held.(ŒºÙ
+@
+java:S1197l"*Move the array designators [] to the type.(ø°àß
+u
+java:S2142‚"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108‚")Either remove or fill this block of code.(ä ¹€
+R	java:S125–"<This block of commented-out lines of code should be removed.(éäŞ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(·œ©ò
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(à°ø‘ıÿÿÿÿ
+u
+java:S2142Ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108Ï")Either remove or fill this block of code.(ä ¹€

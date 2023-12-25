@@ -1,0 +1,7 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+{
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îŒ™à
+F
+java:S1128"+Remove this unused import 'sun.tools.java'.(ö‰“þÿÿÿÿÿ

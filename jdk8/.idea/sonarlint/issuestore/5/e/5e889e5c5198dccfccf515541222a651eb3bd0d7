@@ -1,0 +1,47 @@
+
+]
+java:S1192Ë"FDefine a constant instead of duplicating this literal "empty" 7 times.(ö˜
+Q
+java:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•ºÙøÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆœ¦‹
+ğ
+java:S1130É"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ĞÿÎŸ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’»Õ–
+ğ
+java:S1130Ø"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ĞÿÎŸ
+F
+java:S1197à"*Move the array designators [] to the type.(›ë„‹üÿÿÿÿ
+F
+java:S1197ï"*Move the array designators [] to the type.(“â—Šıÿÿÿÿ
+¾
+java:S1130‘"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException', as it cannot be thrown from method's body.(›ı‘¥ùÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(½»¾³üÿÿÿÿ
+\
+java:S2147ï"ECombine this catch with the one at line 621, which has the same body.(¹ƒ›×
+a
+java:S2147ñ"ECombine this catch with the one at line 621, which has the same body.(µç‡Šúÿÿÿÿ
+s
+java:S2737Ü"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ
+F
+java:S2093Ò"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S1197›"*Move the array designators [] to the type.(‘‚¤«şÿÿÿÿ
+F
+java:S1197­"*Move the array designators [] to the type.(ĞÀõıüÿÿÿÿ
+g
+java:S3457»"KFormat specifiers or lambda should be used instead of string concatenation.(ƒü•‘ıÿÿÿÿ
+g
+java:S3457¼"KFormat specifiers or lambda should be used instead of string concatenation.(¥ÿëïûÿÿÿÿ
+g
+java:S3457½"KFormat specifiers or lambda should be used instead of string concatenation.(¥½òøÿÿÿÿ
+b
+java:S3457¾"KFormat specifiers or lambda should be used instead of string concatenation.(øéÙ¥
+A
+java:S1197À"*Move the array designators [] to the type.(³°‰ª

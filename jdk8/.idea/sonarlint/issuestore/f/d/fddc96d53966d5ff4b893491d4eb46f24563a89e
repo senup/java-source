@@ -1,0 +1,46 @@
+
+K
+java:S3740Ü"/Provide the parametrized type for this generic.(Œ£ğœÿÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(üÛÓûÿÿÿÿ
+F
+java:S3740‹"/Provide the parametrized type for this generic.(¡Ğñ
+K
+java:S3740 "/Provide the parametrized type for this generic.(¼Øğûûÿÿÿÿ
+k
+java:S1104"TMake instance a static final constant or non-public and provide accessors if needed.(ö›÷
+E
+java:S1444".Make this "public static instance" field final(ö›÷
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+g
+java:S1223k"LRename this method to prevent any misunderstanding or make it a constructor.(¬¸Æ®şÿÿÿÿ
+t	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Ÿ¯ïùÿÿÿÿ
+o	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊİÄ
+W	java:S107k"=Method has 10 parameters, which is greater than 7 authorized.(¬¸Æ®şÿÿÿÿ
+T
+java:S18585"9there's no need to call "toString()" on a string literal.(£Ÿ¯ïùÿÿÿÿ
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(Ñ¥¶
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(´É«´øÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(š‡ŒÓ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(«ÂÖ‘ÿÿÿÿÿ
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¸Æ®şÿÿÿÿ
+Q	java:S125z"<This block of commented-out lines of code should be removed.(¶şÓ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(ÕÈ­Şüÿÿÿÿ
+A
+java:S1197¨"*Move the array designators [] to the type.(ŒúÔ¤
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(ÕÈ­Şüÿÿÿÿ
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(÷¯‰øÿÿÿÿ
+=
+java:S1659ù"!Declare "dst" on a separate line.(ˆ©Äåøÿÿÿÿ
+[
+java:S1659û"?Declare "sy" and all following declarations on a separate line.(©“ ¤üÿÿÿÿ
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(ù» 
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(ó€„™şÿÿÿÿ
+j
+java:S1128#"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê

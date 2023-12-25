@@ -1,0 +1,40 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+U
+java:S11612":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+P
+java:S11619":Add the "@Override" annotation above this method signature(ûáªø
+<	java:S131:""Add a default case to this switch.(æ®ƒ×ıÿÿÿÿ
+7	java:S131@""Add a default case to this switch.(ÂÑË¥
+<
+java:S1905D"&Remove this unnecessary cast to "int".(¸¦Ü¤
+=
+java:S1905E"'Remove this unnecessary cast to "long".(„¸á
+>
+java:S1905F"(Remove this unnecessary cast to "float".(í£Íí
+D
+java:S1905G")Remove this unnecessary cast to "double".(ÓæÑùÿÿÿÿ
+7	java:S131M""Add a default case to this switch.(ÂÑË¥
+>
+java:S1905R"(Remove this unnecessary cast to "float".(í£Íí
+D
+java:S1905S")Remove this unnecessary cast to "double".(ÓæÑùÿÿÿÿ
+7	java:S131Y""Add a default case to this switch.(ÂÑË¥
+D
+java:S1905_")Remove this unnecessary cast to "double".(ÓæÑùÿÿÿÿ
+7	java:S131e""Add a default case to this switch.(ÂÑË¥
+p
+java:S1201v"UEither override Object.equals(Object), or rename the method to prevent any confusion.(²á¾Åùÿÿÿÿ
+U
+java:S1161v":Add the "@Override" annotation above this method signature(²á¾Åùÿÿÿÿ
+p
+java:S1201y"UEither override Object.equals(Object), or rename the method to prevent any confusion.(‘ÇŠıÿÿÿÿ
+U
+java:S1161y":Add the "@Override" annotation above this method signature(‘ÇŠıÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(ëßùÃûÿÿÿÿ
+Q
+java:S1161‘":Add the "@Override" annotation above this method signature(çé½Ì
+V
+java:S1161™":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

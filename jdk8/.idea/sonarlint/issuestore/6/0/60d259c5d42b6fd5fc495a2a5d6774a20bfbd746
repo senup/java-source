@@ -1,0 +1,77 @@
+
+o	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+u
+java:S1488ø"^Immediately return this expression instead of assigning it to the temporary variable "result".(“éİ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+›
+java:S1845ê"Rename method "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(Œç¦Œüÿÿÿÿ
+–
+java:S1845í"Rename method "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(üÌÉ¤
+›
+java:S1845ğ"Rename method "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(à¦°Ÿøÿÿÿÿ
+–
+java:S1845ó"Rename method "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(¼Ö‘ê
+›
+java:S1845ö"Rename method "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(õ¨©Öşÿÿÿÿ
+R	java:S107Ä"<Method has 8 parameters, which is greater than 7 authorized.(·†ş 
+X	java:S107Ó"=Method has 10 parameters, which is greater than 7 authorized.(ªÃŸœøÿÿÿÿ
+m
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Å”»çøÿÿÿÿ
+Q
+java:S1119k";Refactor the code to remove this label and the need for it.(±‰úƒ
+V	java:S125o"<This block of commented-out lines of code should be removed.(‹Ì¥‚ıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Òüš±ÿÿÿÿÿ
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Šî×ãúÿÿÿÿ
+=	java:S131è""Add a default case to this switch.(ö°Ğ°ùÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(Äã•
+F
+java:S1197”"*Move the array designators [] to the type.(ÙÉ”›úÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(»¯áˆÿÿÿÿÿ
+R
+java:S1119Û";Refactor the code to remove this label and the need for it.(±‰úƒ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(‹Ì¥‚ıÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¸§²»øÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(Òüš±ÿÿÿÿÿ
+=	java:S131¯""Add a default case to this switch.(ö°Ğ°ùÿÿÿÿ
+F
+java:S1197Å"*Move the array designators [] to the type.(ÙÉ”›úÿÿÿÿ
+A
+java:S1197Æ"*Move the array designators [] to the type.(øğ†¶
+F
+java:S1197È"*Move the array designators [] to the type.(³éå©ıÿÿÿÿ
+A
+java:S1197×"*Move the array designators [] to the type.(¼ä—±
+F
+java:S1197Ø"*Move the array designators [] to the type.(Çíš§üÿÿÿÿ
+A
+java:S1197ã"*Move the array designators [] to the type.(»òè¥
+A
+java:S1197ç"*Move the array designators [] to the type.(ñÇ˜°
+R	java:S125û"<This block of commented-out lines of code should be removed.(¼ô£‘
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÑúğÌøÿÿÿÿ
+g	java:S128œ"LEnd this switch case with an unconditional break, return or throw statement.(Å ‡»úÿÿÿÿ
+a	java:S128š"LEnd this switch case with an unconditional break, return or throw statement.(³ÓÊ3
+b	java:S128˜"LEnd this switch case with an unconditional break, return or throw statement.(šÙ§Õ
+g	java:S128–"LEnd this switch case with an unconditional break, return or throw statement.(Ñ¿¿—ÿÿÿÿÿ
+b	java:S128’"LEnd this switch case with an unconditional break, return or throw statement.(œÔ“ò
+G
+java:S4524Ÿ"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(×¼ñÇÿÿÿÿÿ
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢ËÕüÿÿÿÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¡õ¸
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šœœ²
+i	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔØõşÿÿÿÿ
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€†Íıÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(”ûÄÖ
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(À¬œĞıÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ø˜›è
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(êÆ’ 
+G
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'sun.tools.tree.Context'.(šø‘şÿÿÿÿ

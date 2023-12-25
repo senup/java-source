@@ -1,0 +1,19 @@
+
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö»š®úÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãê²úýÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Öê’¹
+œ
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…þÂøüÿÿÿÿ
+7
+java:S1116I"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+2
+java:S3626¨"Remove this redundant jump.(ûÁÝ…
+V	java:S899µ";Do something with the "boolean" value returned by "delete".(ñ®áŸýÿÿÿÿ
+j
+java:S4042µ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ñ®áŸýÿÿÿÿ
+V	java:S899¶";Do something with the "boolean" value returned by "delete".(ƒ†Û¨ûÿÿÿÿ
+j
+java:S4042¶"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ƒ†Û¨ûÿÿÿÿ

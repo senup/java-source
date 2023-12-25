@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÅóÒÛ
+X
+java:S2259_"BA "NullPointerException" could be thrown; "that" is nullable here.(Ëº®Ú
+o
+java:S2975‡"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(ãÐ‹Õ
+R	java:S125°"<This block of commented-out lines of code should be removed.(ÄÈôó
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆÝÆáùÿÿÿÿ

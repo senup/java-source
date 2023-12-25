@@ -1,0 +1,10 @@
+
+Œ
+java:S11308"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(×Ú·•ùÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(„¸Ç§
+2
+java:S3626ß"Remove this redundant jump.(ûÁÝ…
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ó®Šÿÿÿÿÿ
+H
+java:S1172æ",Remove this unused method parameter "ctype".(Ó®Šÿÿÿÿÿ

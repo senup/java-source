@@ -1,0 +1,11 @@
+
+a
+java:S1301T"KReplace this "switch" statement by "if" statements to increase readability.(Ù÷Õ—
+2
+java:S1643X"Use a StringBuilder instead.(´½Œ
+2
+java:S1643i"Use a StringBuilder instead.(´½Œ
+v
+java:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’¹¸¤
+7	java:S131T""Add a default case to this switch.(Ù÷Õ—
+7	java:S131e""Add a default case to this switch.(Ù÷Õ—

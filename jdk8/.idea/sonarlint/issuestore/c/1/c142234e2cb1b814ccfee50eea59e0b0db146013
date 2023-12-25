@@ -1,0 +1,15 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Äğ…«
+A
+java:S2160*"+Override the "equals" method in this class.(ÆäÏ
+Z
+java:S1134m"DTake the required action to fix the issue indicated by this comment.(Ğú–Ñ
+@
+java:S1197ê"*Move the array designators [] to the type.(ˆƒ
+a
+java:S2147—"ECombine this catch with the one at line 278, which has the same body.(à¿íúÿÿÿÿ
+D	java:S108–")Either remove or fill this block of code.(äßîêüÿÿÿÿ
+D	java:S108—")Either remove or fill this block of code.(à¿íúÿÿÿÿ
+E
+java:S1128$"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

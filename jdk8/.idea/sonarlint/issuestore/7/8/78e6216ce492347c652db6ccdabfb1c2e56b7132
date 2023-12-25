@@ -1,0 +1,27 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò›úŒýÿÿÿÿ
+m
+java:S41446"WUpdate this method so that its implementation is not identical to "getXTop" on line 46.(²ãõø
+r
+java:S4144>"WUpdate this method so that its implementation is not identical to "getXTop" on line 46.(²öú¬øÿÿÿÿ
+l
+java:S4144B"WUpdate this method so that its implementation is not identical to "getXTop" on line 46.(Ê–Œ
+m
+java:S4144F"WUpdate this method so that its implementation is not identical to "getXTop" on line 46.(¥Œ®é
+m
+java:S4144N"WUpdate this method so that its implementation is not identical to "getXTop" on line 46.(Æ¯õú
+r
+java:S4144:"WUpdate this method so that its implementation is not identical to "getYTop" on line 50.(ÊŠíÓýÿÿÿÿ
+m
+java:S4144J"WUpdate this method so that its implementation is not identical to "getYTop" on line 50.(ÃëÄú
+m
+java:S4144R"WUpdate this method so that its implementation is not identical to "getYTop" on line 50.(¢ˆ–·
+U
+java:S1161r":Add the "@Override" annotation above this method signature(±Ñ¿Žúÿÿÿÿ
+P
+java:S1161v":Add the "@Override" annotation above this method signature(§”œø
+A
+java:S1197‰"*Move the array designators [] to the type.(ôáªÄ
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

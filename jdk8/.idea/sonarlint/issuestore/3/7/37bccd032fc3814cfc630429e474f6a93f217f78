@@ -1,0 +1,454 @@
+
+g
+java:S1192¶"PDefine a constant instead of duplicating this literal "toggleAndAnchor" 3 times.(ÃöÂ¨
+{
+java:S1192”"dDefine a constant instead of duplicating this literal "selectPreviousColumnExtendSelection" 8 times.(“øá¸
+e
+java:S1192·"IDefine a constant instead of duplicating this literal "extendTo" 3 times.(îßÑúÿÿÿÿ
+^
+java:S1192ù"GDefine a constant instead of duplicating this literal "ctrl C" 4 times.(è“Á–
+c
+java:S1192²"GDefine a constant instead of duplicating this literal "ctrl A" 4 times.(˜·Åàúÿÿÿÿ
+g
+java:S1192–"PDefine a constant instead of duplicating this literal "ctrl shift LEFT" 3 times.(Ê‰òÖ
+c
+java:S1192î"GDefine a constant instead of duplicating this literal "ctrl H" 4 times.(Î£½»ÿÿÿÿÿ
+c
+java:S1192û"GDefine a constant instead of duplicating this literal "ctrl X" 4 times.(Óè™›üÿÿÿÿ
+c
+java:S1192ú"GDefine a constant instead of duplicating this literal "ctrl V" 4 times.(ŸÀĞ¤ùÿÿÿÿ
+l
+java:S1192’"UDefine a constant instead of duplicating this literal "selectPreviousColumn" 4 times.(œıÖê
+d
+java:S1192ÿ"MDefine a constant instead of duplicating this literal "windowBorder" 3 times.(Š‘…£
+g
+java:S1192¸"QDefine a constant instead of duplicating this literal "ctrl shift SPACE" 3 times.(ä‰®,
+e
+java:S1192¡"NDefine a constant instead of duplicating this literal "ctrl KP_RIGHT" 4 times.(Òğä¡
+e
+java:S1192Ş"IDefine a constant instead of duplicating this literal "ctrl TAB" 3 times.(¦Å¾¨ıÿÿÿÿ
+f
+java:S1192¨"ODefine a constant instead of duplicating this literal "ctrl shift END" 3 times.(òŞßÂ
+m
+java:S1192‡"QDefine a constant instead of duplicating this literal "ctrl shift KP_UP" 3 times.(œ¥Â¾üÿÿÿÿ
+b
+java:S1192ú"FDefine a constant instead of duplicating this literal "paste" 9 times.(ŸÀĞ¤ùÿÿÿÿ
+f
+java:S1192Ã"JDefine a constant instead of duplicating this literal "PAGE_DOWN" 8 times.(âôøÀüÿÿÿÿ
+g
+java:S1192
+"KDefine a constant instead of duplicating this literal "navigateUp" 4 times.(‰©ı¶ùÿÿÿÿ
+d
+java:S1192ƒ
+"MDefine a constant instead of duplicating this literal "navigateDown" 4 times.(ÅÌÒ—
+_
+java:S1192û"HDefine a constant instead of duplicating this literal "#808080" 3 times.(æÓÛú
+h
+java:S1192…"LDefine a constant instead of duplicating this literal "shift KP_UP" 3 times.(Ã¬óúÿÿÿÿ
+c
+java:S1192Á"LDefine a constant instead of duplicating this literal "togglePopup" 5 times.(êñš¡
+b
+java:S1192ì"KDefine a constant instead of duplicating this literal "BACK_SPACE" 5 times.(»œÇ¥
+l
+java:S1192÷"PDefine a constant instead of duplicating this literal "control shift O" 4 times.(ğñÅûıÿÿÿÿ
+_
+java:S1192ƒ"HDefine a constant instead of duplicating this literal "pressed" 4 times.(…ùÇÜ
+z
+java:S1192·"dDefine a constant instead of duplicating this literal "javax.swing.plaf.basic.BasicBorders" 6 times.(Ø¤”(
+h
+java:S1192«	"LDefine a constant instead of duplicating this literal "scrollRight" 3 times.(ß¿…²ùÿÿÿÿ
+o
+java:S1192—"SDefine a constant instead of duplicating this literal "ctrl shift KP_LEFT" 3 times.(§Û¡çûÿÿÿÿ
+a
+java:S1192ë"JDefine a constant instead of duplicating this literal "shift END" 7 times.(²™¼
+i
+java:S1192Æ"SDefine a constant instead of duplicating this literal "ctrl shift PAGE_UP" 4 times.(Øş¢j
+e
+java:S1192©"IDefine a constant instead of duplicating this literal "ctrl END" 4 times.(Ğ©ŠÄùÿÿÿÿ
+d
+java:S1192™"MDefine a constant instead of duplicating this literal "ctrl KP_LEFT" 4 times.(†ƒåé
+e
+java:S1192•"NDefine a constant instead of duplicating this literal "shift KP_LEFT" 3 times.(‰å é
+f
+java:S1192˜"JDefine a constant instead of duplicating this literal "ctrl LEFT" 4 times.(ß§¬¹ÿÿÿÿÿ
+m
+java:S1192Š	"VDefine a constant instead of duplicating this literal "positiveUnitIncrement" 8 times.( ‹Ä¬
+`
+java:S1192á"IDefine a constant instead of duplicating this literal "unselect" 4 times.(ºí‡¢
+b
+java:S1192 "KDefine a constant instead of duplicating this literal "ctrl RIGHT" 4 times.(É¢«ë
+j
+java:S1192†"NDefine a constant instead of duplicating this literal "ctrl shift UP" 3 times.(Çå´Ëıÿÿÿÿ
+g
+java:S1192İ"PDefine a constant instead of duplicating this literal "selectNextFrame" 3 times.(Äú”
+f
+java:S1192İ"ODefine a constant instead of duplicating this literal "control INSERT" 7 times.(ÏËÁĞ
+z
+java:S1192£"^Define a constant instead of duplicating this literal "selectFirstRowExtendSelection" 3 times.(¿îØüÿÿÿÿ
+e
+java:S1192ø"NDefine a constant instead of duplicating this literal "activeCaption" 3 times.(”ë´ê
+f
+java:S1192²"JDefine a constant instead of duplicating this literal "selectAll" 6 times.(˜·Åàúÿÿÿÿ
+e
+java:S1192å"NDefine a constant instead of duplicating this literal "control RIGHT" 3 times.(úÚ˜
+_
+java:S1192ù"HDefine a constant instead of duplicating this literal "#FFFFFF" 5 times.(·Èä’
+m
+java:S1192š"QDefine a constant instead of duplicating this literal "selectNextColumn" 4 times.(éØş©ÿÿÿÿÿ
+f
+java:S1192"ODefine a constant instead of duplicating this literal "shift KP_RIGHT" 3 times.(­ô¶æ
+i
+java:S1192ß"MDefine a constant instead of duplicating this literal "shift DELETE" 7 times.(›úö™şÿÿÿÿ
+c
+java:S1192ğ"LDefine a constant instead of duplicating this literal "ctrl DELETE" 3 times.(ÃÂÍÕ
+]
+java:S1192Û"FDefine a constant instead of duplicating this literal "PASTE" 7 times.(¬‡± 
+d
+java:S1192Ş"MDefine a constant instead of duplicating this literal "shift INSERT" 7 times.(¡ÑˆÀ
+f
+java:S1192„"ODefine a constant instead of duplicating this literal "released SPACE" 4 times.(µ¸õ±
+f
+java:S1192ô"JDefine a constant instead of duplicating this literal "KP_RIGHT" 14 times.(ı…’şÿÿÿÿ
+x
+java:S1192„"aDefine a constant instead of duplicating this literal "selectPreviousRowExtendSelection" 8 times.(ì Ğö
+f
+java:S1192Ì"JDefine a constant instead of duplicating this literal "increment" 4 times.(ÙİŸÙÿÿÿÿÿ
+f
+java:S1192¸"PDefine a constant instead of duplicating this literal "moveSelectionTo" 3 times.(ä‰®,
+m
+java:S1192	"VDefine a constant instead of duplicating this literal "negativeUnitIncrement" 8 times.(÷•ı¶
+l
+java:S1192Ç"UDefine a constant instead of duplicating this literal "ctrl shift PAGE_DOWN" 4 times.(îØÃü
+b
+java:S1192â"KDefine a constant instead of duplicating this literal "shift LEFT" 6 times.(—åË­
+n
+java:S1192¸"WDefine a constant instead of duplicating this literal "getInternalFrameBorder" 3 times.(¸ş½«
+x
+java:S1192÷"\Define a constant instead of duplicating this literal "toggle-componentOrientation" 4 times.(ğñÅûıÿÿÿÿ
+n
+java:S1192İ	"RDefine a constant instead of duplicating this literal "negativeIncrement" 4 times.(Õã¬şÿÿÿÿÿ
+m
+java:S1192"QDefine a constant instead of duplicating this literal "ctrl shift RIGHT" 3 times.(èêæÿøÿÿÿÿ
+l
+java:S1192Å"PDefine a constant instead of duplicating this literal "shift PAGE_DOWN" 4 times.(¼°¤Ãÿÿÿÿÿ
+c
+java:S1192¿"GDefine a constant instead of duplicating this literal "KP_UP" 13 times.(Â ÚÒùÿÿÿÿ
+`
+java:S1192õ"IDefine a constant instead of duplicating this literal "KP_LEFT" 14 times.(ÒÑÂÂ
+_
+java:S1192ÿ"HDefine a constant instead of duplicating this literal "#000000" 7 times.(Š‘…£
+a
+java:S1192"JDefine a constant instead of duplicating this literal "ctrl DOWN" 4 times.(ÙìçÍ
+|
+java:S1192°"`Define a constant instead of duplicating this literal "javax.swing.plaf.FontUIResource" 4 times.(É«ü°ûÿÿÿÿ
+g
+java:S1192û"PDefine a constant instead of duplicating this literal "inactiveCaption" 3 times.(æÓÛú
+k
+java:S1192´"ODefine a constant instead of duplicating this literal "clearSelection" 3 times.(›¤’úÿÿÿÿ
+f
+java:S1192¥"JDefine a constant instead of duplicating this literal "ctrl HOME" 4 times.(Ñà’Ğøÿÿÿÿ
+y
+java:S1192ù"bDefine a constant instead of duplicating this literal "javax.swing.plaf.BorderUIResource" 4 times.(†üÊÚ
+e
+java:S1192ı	"NDefine a constant instead of duplicating this literal "navigateRight" 4 times.(Ö®Ğã
+i
+java:S1192‚"RDefine a constant instead of duplicating this literal "selectPreviousRow" 4 times.(Ã¾“™
+]
+java:S1192ƒ"FDefine a constant instead of duplicating this literal "SPACE" 7 times.(…ùÇÜ
+z
+java:S1192ñ"^Define a constant instead of duplicating this literal "selectPreviousExtendSelection" 4 times.(íÒÿ¾ùÿÿÿÿ
+f
+java:S1192µ"ODefine a constant instead of duplicating this literal "addToSelection" 3 times.(¡ø¤ä
+d
+java:S1192­"MDefine a constant instead of duplicating this literal "ctrl PAGE_UP" 6 times.( Èá¹
+l
+java:S1192´"PDefine a constant instead of duplicating this literal "ctrl BACK_SLASH" 4 times.(›¤’úÿÿÿÿ
+g
+java:S1192‰"KDefine a constant instead of duplicating this literal "ctrl KP_UP" 4 times.(ˆõÁ²ûÿÿÿÿ
+i
+java:S1192ÿ	"MDefine a constant instead of duplicating this literal "navigateLeft" 4 times.(Øûƒ¼üÿÿÿÿ
+t
+java:S1192Œ"]Define a constant instead of duplicating this literal "selectNextRowExtendSelection" 8 times.(Òú¦
+j
+java:S1192Š"NDefine a constant instead of duplicating this literal "selectNextRow" 4 times.(ı“œ‚ùÿÿÿÿ
+q
+java:S1192¯"ZDefine a constant instead of duplicating this literal "scrollDownExtendSelection" 5 times.(ËåÏä
+m
+java:S1192í"QDefine a constant instead of duplicating this literal "shift BACK_SPACE" 4 times.(ıŞ¼Øüÿÿÿÿ
+d
+java:S1192Â"HDefine a constant instead of duplicating this literal "PAGE_UP" 8 times.(ÿ­‹ıùÿÿÿÿ
+_
+java:S1192ø"HDefine a constant instead of duplicating this literal "#000080" 3 times.(”ë´ê
+ˆ
+java:S1192Á"lDefine a constant instead of duplicating this literal "sun.swing.plaf.windows.ClassicSortArrowIcon" 4 times.(„ÿ¼°şÿÿÿÿ
+b
+java:S1192æ"KDefine a constant instead of duplicating this literal "ctrl SPACE" 4 times.(Ê¼üÜ
+l
+java:S1192ñ"PDefine a constant instead of duplicating this literal "ctrl BACK_SPACE" 3 times.(¿¨ÕÕùÿÿÿÿ
+d
+java:S1192ˆ"HDefine a constant instead of duplicating this literal "ctrl UP" 4 times.(ÈİÄûÿÿÿÿ
+l
+java:S1192€"UDefine a constant instead of duplicating this literal "Button.showMnemonics" 3 times.(â¯
+e
+java:S1192"NDefine a constant instead of duplicating this literal "shift KP_DOWN" 3 times.(Ç¬É¡
+j
+java:S1192ç"TDefine a constant instead of duplicating this literal "control shift RIGHT" 3 times.(ƒœÁV
+g
+java:S1192³"KDefine a constant instead of duplicating this literal "ctrl SLASH" 3 times.(öàûÿÿÿÿ
+b
+java:S1192ö"FDefine a constant instead of duplicating this literal "ENTER" 7 times.(åÁìüıÿÿÿÿ
+m
+java:S1192£"VDefine a constant instead of duplicating this literal "win.sound.menuCommand" 3 times.(æ”›Â
+^
+java:S1192ò"GDefine a constant instead of duplicating this literal "RIGHT" 14 times.(ÆÚÂæ
+j
+java:S1192á"SDefine a constant instead of duplicating this literal "control BACK_SLASH" 3 times.(ºí‡¢
+^
+java:S1192ú"HDefine a constant instead of duplicating this literal "#C0C0C0" 7 times.(ˆÀò7
+j
+java:S1192"SDefine a constant instead of duplicating this literal "ctrl shift KP_DOWN" 3 times.(³Š…È
+n
+java:S1192”	"WDefine a constant instead of duplicating this literal "negativeBlockIncrement" 3 times.(•Êò
+q
+java:S1192ù"ZDefine a constant instead of duplicating this literal "selectNextExtendSelection" 4 times.(Åşóœ
+{
+java:S1192˜"_Define a constant instead of duplicating this literal "selectPreviousColumnChangeLead" 4 times.(ß§¬¹ÿÿÿÿÿ
+g
+java:S1192ê"KDefine a constant instead of duplicating this literal "shift HOME" 7 times.(•ïÃáùÿÿÿÿ
+`
+java:S1192„"IDefine a constant instead of duplicating this literal "released" 4 times.(µ¸õ±
+a
+java:S1192Ø"JDefine a constant instead of duplicating this literal "control V" 3 times.(ï››í
+f
+java:S1192Ù"JDefine a constant instead of duplicating this literal "control X" 3 times.(ã®”èùÿÿÿÿ
+i
+java:S1192Ş	"RDefine a constant instead of duplicating this literal "positiveIncrement" 4 times.(Ûïù¤
+`
+java:S1192×"JDefine a constant instead of duplicating this literal "control C" 3 times.(ÒÉ“,
+g
+java:S1192É"KDefine a constant instead of duplicating this literal "shift DOWN" 4 times.(–½ıøÿÿÿÿ
+f
+java:S1192à"JDefine a constant instead of duplicating this literal "control A" 3 times.(îŸ¼Øşÿÿÿÿ
+c
+java:S1192ï"GDefine a constant instead of duplicating this literal "DELETE" 4 times.(À‘™†øÿÿÿÿ
+e
+java:S1192È"IDefine a constant instead of duplicating this literal "shift UP" 4 times.(Æ™§¯şÿÿÿÿ
+r
+java:S1192 "[Define a constant instead of duplicating this literal "selectNextColumnChangeLead" 4 times.(É¢«ë
+‰
+java:S1192·"sDefine a constant instead of duplicating this literal "com.sun.java.swing.plaf.windows.WindowsIconFactory" 6 times.(Ì¼•d
+`
+java:S1192½"IDefine a constant instead of duplicating this literal "KP_DOWN" 13 times.(Å¡Í¹
+j
+java:S1192æ"SDefine a constant instead of duplicating this literal "control shift LEFT" 3 times.(éÏÁ©
+y
+java:S1192§"]Define a constant instead of duplicating this literal "selectLastRowExtendSelection" 3 times.(¸…ãÌùÿÿÿÿ
+j
+java:S1192Ä"NDefine a constant instead of duplicating this literal "shift PAGE_UP" 4 times.(ã¢Îùûÿÿÿÿ
+n
+java:S1192	"WDefine a constant instead of duplicating this literal "positiveBlockIncrement" 3 times.(ö–ÃÁ
+w
+java:S1192œ"`Define a constant instead of duplicating this literal "selectNextColumnExtendSelection" 8 times.(„ÅŸ
+d
+java:S1192‘"MDefine a constant instead of duplicating this literal "ctrl KP_DOWN" 4 times.(—†ô˜
+^
+java:S1192·"GDefine a constant instead of duplicating this literal "ESCAPE" 8 times.(¤Ôü
+p
+java:S1192Ÿ"TDefine a constant instead of duplicating this literal "ctrl shift KP_RIGHT" 3 times.(êıÅİùÿÿÿÿ
+c
+java:S1192ã"LDefine a constant instead of duplicating this literal "shift RIGHT" 6 times.(ÙÏ³¡
+†
+java:S1192ú"oDefine a constant instead of duplicating this literal "com.sun.java.swing.plaf.windows.WindowsBorders" 5 times.(‚ĞŞú
+x
+java:S1192ˆ"\Define a constant instead of duplicating this literal "selectPreviousRowChangeLead" 4 times.(ÈİÄûÿÿÿÿ
+d
+java:S1192ä"MDefine a constant instead of duplicating this literal "control LEFT" 3 times.(şøÌ
+l
+java:S1192¤"PDefine a constant instead of duplicating this literal "ctrl shift HOME" 3 times.(•Ø¥Íıÿÿÿÿ
+a
+java:S1192Î"JDefine a constant instead of duplicating this literal "decrement" 4 times.(øŒïÒ
+b
+java:S1192ª	"KDefine a constant instead of duplicating this literal "scrollLeft" 3 times.(æíı
+l
+java:S1192"PDefine a constant instead of duplicating this literal "ctrl shift DOWN" 3 times.(¸È ²üÿÿÿÿ
+o
+java:S1192«"XDefine a constant instead of duplicating this literal "scrollUpExtendSelection" 5 times.(¬ãµÍ
+k
+java:S1192±"ODefine a constant instead of duplicating this literal "ctrl PAGE_DOWN" 6 times.(Î£‚Íøÿÿÿÿ
+h
+java:S1192·"LDefine a constant instead of duplicating this literal "shift SPACE" 3 times.(îßÑúÿÿÿÿ
+o
+java:S1192"XDefine a constant instead of duplicating this literal "selectNextRowChangeLead" 4 times.(ÙìçÍ
+s	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127Ó"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(ï™Áıÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Ñèúÿÿÿÿ
+s	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+s	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+s	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(™Ë‡üÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êäåöüÿÿÿÿ
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½”
+f	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ºŠ
+g	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œèğ÷
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øß‘óùÿÿÿÿ
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Í¿
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼¬¤ùÿÿÿÿ
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éäØûúÿÿÿÿ
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÓÀû
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾İÎ”úÿÿÿÿ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·Åöùÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ä¸şÿÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷¤‡
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‹äÿşÿÿÿÿ
+g	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Éá‡
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÁë¤øÿÿÿÿ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‚áü
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¨„°üÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„ù¾
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµæ'
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Äı
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆçıÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°®Ÿúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìõ‰Éÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áâ­üÿÿÿÿ
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ„¢—
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÛ¨ëøÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìİùÂ
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ĞÂå
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¯±
+D
+java:S1604 "(Make this anonymous inner class a lambda(†©¥àşÿÿÿÿ
+{
+java:S1488Ï"dImmediately return this expression instead of assigning it to the temporary variable "lazyDefaults".(®—”’
+u
+java:S1488´"^Immediately return this expression instead of assigning it to the temporary variable "rgbval".(š×ğ¢
+2
+java:S1700¨"Rename field "xpValue"(¬…ûµşÿÿÿÿ
+P
+java:S1191>"5Use classes from the Java API instead of Sun classes.(öé®”ÿÿÿÿÿ
+[
+java:S2259 "?A "NullPointerException" could be thrown; "c" is nullable here.(ÿÎ½©üÿÿÿÿ
+N
+java:S2589¢"7Remove this expression which always evaluates to "true"(ä”³ã
+N
+java:S2589±"7Remove this expression which always evaluates to "true"(ä”³ã
+Y
+java:S1659q"DDeclare "dllName" and all following declarations on a separate line.(µ¦«{
+t
+java:S1450r"YRemove the "aaSettings" field and declare it as a local variable in the relevant methods.(ÙÓº˜ÿÿÿÿÿ
+m
+java:S1450q"XRemove the "colorName" field and declare it as a local variable in the relevant methods.(µ¦«{
+k
+java:S1450q"VRemove the "dllName" field and declare it as a local variable in the relevant methods.(µ¦«{
+l
+java:S1450q"WRemove the "sizeName" field and declare it as a local variable in the relevant methods.(µ¦«{
+o
+java:S1450q"ZRemove the "themeActive" field and declare it as a local variable in the relevant methods.(µ¦«{
+B
+java:S1948q"-Make "themeActive" transient or serializable.(µ¦«{
+>
+java:S1948q")Make "dllName" transient or serializable.(µ¦«{
+@
+java:S1948q"+Make "colorName" transient or serializable.(µ¦«{
+?
+java:S1948q"*Make "sizeName" transient or serializable.(µ¦«{
+G
+java:S1948r",Make "aaSettings" transient or serializable.(ÙÓº˜ÿÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(·òşÿÿÿÿ
+R
+java:S2696›"6Make the enclosing method "static" or remove this set.(­ëôÿÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(š®°«
+X
+java:S2130¨"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ƒ”­“
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(Ò‘°‰
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(œº¶ëûÿÿÿÿ
+s
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(õ¸æŒúÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(İ¢èÙ
+M
+java:S2696Í"6Make the enclosing method "static" or remove this set.(°ÇÏ
+W	java:S125–"<This block of commented-out lines of code should be removed.(ÆõƒÊùÿÿÿÿ
+:
+java:S2129ã"#Remove this "Character" constructor(ÁàŞƒ
+9
+java:S2129ä"#Remove this "Character" constructor(Öû´
+F
+java:S1197À"*Move the array designators [] to the type.(Íƒ·ıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(’ã´î
+>
+java:S1125«"'Remove the unnecessary boolean literal.(â‘—€
+>
+java:S1125¼"'Remove the unnecessary boolean literal.(â‘—€
+>
+java:S1185æ"(Remove this method to simply inherit it.(ğœ¡
+
+P
+java:S1161æ":Add the "@Override" annotation above this method signature(ğœ¡
+
+V
+java:S1161í":Add the "@Override" annotation above this method signature(ŠÄ†îıÿÿÿÿ
+Q
+java:S1117î":Rename "style" which hides the field declared at line 116.(ÚøØá
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(ÎŸ†‡øÿÿÿÿ
+K
+java:S1948°"/Make "audioRunnable" transient or serializable.(÷È×Çùÿÿÿÿ
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(Å¹«üúÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(”¨Ù‘ûÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(”¨Ù‘ûÿÿÿÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(”¨Ù‘ûÿÿÿÿ
+A
+java:S1659¨"%Declare "xpValue" on a separate line.(¬…ûµşÿÿÿÿ
+a
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(ı°Ò™ûÿÿÿÿ
+V
+java:S1161á":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Åƒ™úÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(˜˜Æä
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(˜˜Æä
+R
+java:S1874ƒ"6Remove this use of "getFontMetrics"; it is deprecated.(”·‘•ıÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(œãİ†üÿÿÿÿ
+G
+java:S1068j"1Remove this unused "updatePending" private field.(Îª‡ş
+D
+java:S1068q"/Remove this unused "themeActive" private field.(µ¦«{
+@
+java:S1068q"+Remove this unused "dllName" private field.(µ¦«{
+B
+java:S1068q"-Remove this unused "colorName" private field.(µ¦«{
+A
+java:S1068q",Remove this unused "sizeName" private field.(µ¦«{
+I
+java:S1068r".Remove this unused "aaSettings" private field.(ÙÓº˜ÿÿÿÿÿ
+O
+java:S1068é"3Remove this unused "desktopProperty" private field.(Ôá÷îşÿÿÿÿ

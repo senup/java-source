@@ -1,0 +1,129 @@
+
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÑ‚ûÿÿÿÿ
+K
+java:S1066Å"/Merge this if statement with the enclosing one.(œÓÖßùÿÿÿÿ
+F
+java:S1066ê"/Merge this if statement with the enclosing one.(€»ª¸
+F
+java:S1066ë"/Merge this if statement with the enclosing one.(‚¯ü
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(›Èìçÿÿÿÿÿ
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹İ¢×
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÚßÒúÿÿÿÿ
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş»ù®
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŸ€¼
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸§í¿ıÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ı£
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùğ¢œ
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¶¼–
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë£øİ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íÖëúÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íÖëúÿÿÿÿ
+u
+java:S1104)"ZMake exclusiveClass a static final constant or non-public and provide accessors if needed.(‚â¡®ıÿÿÿÿ
+r
+java:S1104*"\Make releaseTriggered a static final constant or non-public and provide accessors if needed.(®õœå
+]
+java:S2259­"FA "NullPointerException" could be thrown; "getValue" is nullable here.(¦ñâ£
+b
+java:S2259"FA "NullPointerException" could be thrown; "getValue" is nullable here.(ã£·ïıÿÿÿÿ
+v	java:S116+"\Rename this field "noteOn_noteNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µûîáûÿÿÿÿ
+t	java:S116,"ZRename this field "noteOn_velocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¥ùüÿÿÿÿ
+p	java:S116-"[Rename this field "noteOff_velocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥Û
+o	java:S1162"ZRename this field "stealer_channel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûôéí
+…	java:S1163"kRename this field "stealer_extendedConnectionBlocks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÒ¢øÿÿÿÿ
+v	java:S1164"\Rename this field "stealer_performer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‚Óûÿÿÿÿ
+t	java:S1165"_Rename this field "stealer_channelmixer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÑ¸ğ
+n	java:S1166"ZRename this field "stealer_voiceID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®õİ`
+r	java:S1167"]Rename this field "stealer_noteNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖëÛ
+u	java:S1168"[Rename this field "stealer_velocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¾©“ıÿÿÿÿ
+}	java:S1169"cRename this field "stealer_releaseTriggered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÎè–ûÿÿÿÿ
+k	java:S116>"VRename this field "filter_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ñø¦
+l	java:S116?"WRename this field "filter_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸””æ
+t	java:S116L"ZRename this field "osc_attenuation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”œƒÈùÿÿÿÿ
+j	java:S116M"URename this field "osc_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤«ãŸ
+w	java:S116N"bRename this field "osc_stream_nrofchannels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÈê
+m	java:S116O"SRename this field "osc_buff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œü…ıÿÿÿÿ
+z	java:S116P"eRename this field "osc_stream_off_transmitted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥°Œ³
+r	java:S116Q"XRename this field "out_mixer_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‹áüÿÿÿÿ
+n	java:S116R"YRename this field "out_mixer_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™éİÏ
+o	java:S116S"ZRename this field "out_mixer_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è€öù
+q	java:S116T"\Rename this field "out_mixer_effect1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³âÑ‹
+v	java:S116U"\Rename this field "out_mixer_effect2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë­ˆ«üÿÿÿÿ
+s	java:S116V"^Rename this field "last_out_mixer_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óüÄÈ
+t	java:S116W"_Rename this field "last_out_mixer_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ŒÃŞ
+u	java:S116X"aRename this field "last_out_mixer_effect1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÚƒO
+{	java:S116Y"aRename this field "last_out_mixer_effect2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–™¡öıÿÿÿÿ
+p	java:S116]"[Rename this field "connections_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘óé÷
+t	java:S116_"ZRename this field "connections_src" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş›…Úÿÿÿÿÿ
+w	java:S116a"]Rename this field "connections_src_kc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ®ù’ùÿÿÿÿ
+t	java:S116c"ZRename this field "connections_dst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÿ‡Åúÿÿÿÿ
+x	java:S116g"^Rename this field "co_noteon_keynumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×©œüÿÿÿÿ
+w	java:S116h"]Rename this field "co_noteon_velocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éº“Ÿúÿÿÿÿ
+k	java:S116i"WRename this field "co_noteon_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹
+n	java:S116j"TRename this field "co_noteon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‘˜“øÿÿÿÿ
+t	java:S116z"ZRename this field "co_mixer_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù™á§ÿÿÿÿÿ
+m	java:S116{"XRename this field "co_mixer_gain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÒÑó
+l	java:S116|"WRename this field "co_mixer_pan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¾¼Ê
+o	java:S116}"[Rename this field "co_mixer_balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‚ù+
+t	java:S116~"ZRename this field "co_mixer_reverb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¥Ì‡øÿÿÿÿ
+t	java:S116"ZRename this field "co_mixer_chorus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÛşŞùÿÿÿÿ
+i	java:S116€"SRename this field "co_mixer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õßæÆ
+r	java:S116™"WRename this field "co_osc_pitch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÌ–¥ùÿÿÿÿ
+g	java:S116š"QRename this field "co_osc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿–èÖ
+t	java:S116¤"YRename this field "co_filter_freq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú™™ëúÿÿÿÿ
+o	java:S116¥"YRename this field "co_filter_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‘½¥
+l	java:S116¦"VRename this field "co_filter_q" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŠ¸ƒ
+j	java:S116§"TRename this field "co_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÁÎ¥
+<
+java:S1168p"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168w"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168‰"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168–"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¡"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168­"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168´"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ô"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(İ¡øËûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(ÑèÁÿÿÿÿÿ
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÍÁ„Ëıÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(şß‡ÿÿÿÿÿ
+K
+java:S1172¶"/Remove this unused method parameter "pressure".(–èîıÿÿÿÿ
+F
+java:S1172À"/Remove this unused method parameter "pressure".(È¾æ©
+C
+java:S1172Ê",Remove this unused method parameter "value".(è¨ºı
+C
+java:S1172Ô",Remove this unused method parameter "value".(Ì´£‹
+C
+java:S1172Ş",Remove this unused method parameter "value".(ÈğŒ
+G
+java:S1172è"+Remove this unused method parameter "bend".(’–éíúÿÿÿÿ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(ÂÃøıÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(†€éˆ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(ğÑÑúÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(á”Ë‘ùÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(‡è›Å
+R	java:S125½"<This block of commented-out lines of code should be removed.(“  ¨
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(³ßšÏøÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(‘ÈŞŠúÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ˆ´áø
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¼Òß÷
+R	java:S125È"<This block of commented-out lines of code should be removed.(†€éˆ

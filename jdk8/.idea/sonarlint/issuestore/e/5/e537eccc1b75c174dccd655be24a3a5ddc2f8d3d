@@ -1,0 +1,188 @@
+
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ˆÇ¬ó
+a	java:S112¶
+"FDefine and throw a dedicated exception instead of using a generic one.(ğ†£ûÿÿÿÿ
+a	java:S112Ñ
+"FDefine and throw a dedicated exception instead of using a generic one.(¢†ğÊøÿÿÿÿ
+F
+java:S3740°
+"/Provide the parametrized type for this generic.(™³ˆ
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾›Š»üÿÿÿÿ
+n	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(èùÅ‰
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾›Š»üÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(èùÅ‰
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü Œ‡ıÿÿÿÿ
+D
+java:S1604¿
+"(Make this anonymous inner class a lambda(ÙîÅëÿÿÿÿÿ
+g
+java:S1301ß	"KReplace this "switch" statement by "if" statements to increase readability.(öŞõŒûÿÿÿÿ
+Y
+java:S2184Ñ"BCast one of the operands of this division operation to a "double".(°Êúõ
+Y
+java:S2184Ù	"BCast one of the operands of this division operation to a "double".(ú‚Ô°
+U
+java:S3034Æ">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+Z
+java:S3034×">Prevent "int" promotion by adding "& 0xff" to this expression.(›‚èÂùÿÿÿÿ
+U
+java:S3034â">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034ö">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034‹	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034œ	">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+U
+java:S3034±	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034¶	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034Á	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+U
+java:S3034Î	">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+Z
+java:S3034è	">Prevent "int" promotion by adding "& 0xff" to this expression.(›‚èÂùÿÿÿÿ
+g
+java:S2259Ò"K"NullPointerException" will be thrown when invoking method "writePixels()".(°›ŒÈüÿÿÿÿ
+t	java:S116O"ZRename this field "embedded_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®…ÄÓıÿÿÿÿ
+5
+java:S1659S"Declare "h" on a separate line.(¨óÛÇ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
+U
+java:S1161m":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(íîÚå
+o
+java:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 185 to the 15 allowed.(ìÁÇ»øÿÿÿÿ
+Z
+java:S1659Á">Declare "g" and all following declarations on a separate line.(øÌ¹°ûÿÿÿÿ
+e
+java:S4201É"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¥ææüÿÿÿÿ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(Öõœ
+A
+java:S1197¦"*Move the array designators [] to the type.(ûµ¼é
+F
+java:S1197Á"*Move the array designators [] to the type.(øÌ¹°ûÿÿÿÿ
+F
+java:S1197Á"*Move the array designators [] to the type.(øÌ¹°ûÿÿÿÿ
+F
+java:S1197Á"*Move the array designators [] to the type.(øÌ¹°ûÿÿÿÿ
+F
+java:S1197Á"*Move the array designators [] to the type.(øÌ¹°ûÿÿÿÿ
+>
+java:S1125"'Remove the unnecessary boolean literal.(¾¿©
+>
+java:S1125—"'Remove the unnecessary boolean literal.(¾¿©
+=
+java:S1481´"&Remove this unused "l" local variable.(¥Ú”õ
+B
+java:S1905Á"&Remove this unnecessary cast to "int".(ë¦“ùÿÿÿÿ
+8	java:S131""Add a default case to this switch.(ÚÆ§î
+Q
+java:S1117¯"5Rename "h" which hides the field declared at line 83.(¬­æ“øÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(ÉŸÖ¤
+Q
+java:S1117¼"5Rename "h" which hides the field declared at line 83.(¬­æ“øÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(Š²¯Ğ
+L
+java:S1854"5Remove this useless assignment to local variable "k".(³Ö¤
+L
+java:S1854¢"5Remove this useless assignment to local variable "k".(³Ö¤
+A
+java:S1197ó"*Move the array designators [] to the type.(ÑÉ²é
+8	java:S131ø""Add a default case to this switch.(ŒíÓ
+Q
+java:S1117–"5Rename "h" which hides the field declared at line 83.(¬­æ“øÿÿÿÿ
+Q
+java:S1117ª"5Rename "h" which hides the field declared at line 83.(¬­æ“øÿÿÿÿ
+8
+java:S1110Ì"!Remove these useless parentheses.(±­·å
+F
+java:S1197æ"*Move the array designators [] to the type.(‚Î¢ëşÿÿÿÿ
+A
+java:S1197ç"*Move the array designators [] to the type.(æ¸ìŞ
+@
+java:S1197è"*Move the array designators [] to the type.(‹œÔN
+8
+java:S1110"!Remove these useless parentheses.(•àĞ²
+n
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(‘Éäºıÿÿÿÿ
+Z
+java:S1659¸"CDeclare "absVal" and all following declarations on a separate line.(ëà¹ã
+A
+java:S1659¹"%Declare "nextVal" on a separate line.(æÜïúÿÿÿÿ
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(áÁ±şşÿÿÿÿ
+K
+java:S1854¼	"5Remove this useless assignment to local variable "n".(ú¤Âx
+_
+java:S1659°"CDeclare "absVal" and all following declarations on a separate line.(òîˆøÿÿÿÿÿ
+[
+java:S1659±"DDeclare "runVal2" and all following declarations on a separate line.(½ÿµÊ
+<
+java:S2437Ì" Remove this silly bit operation.(ÕÚÄÙùÿÿÿÿ
+<
+java:S2185Ñ"%Remove this silly call to "Math.ceil"(°Êúõ
+7
+java:S2437ë" Remove this silly bit operation.(Ó¾†
+<
+java:S2437	" Remove this silly bit operation.(²·“»üÿÿÿÿ
+<
+java:S2437º	" Remove this silly bit operation.(ó¿Ô”üÿÿÿÿ
+6
+java:S2437¼	" Remove this silly bit operation.(ú¤Âx
+<
+java:S1481¼	"&Remove this unused "n" local variable.(ú¤Âx
+7
+java:S2437Ó	" Remove this silly bit operation.(˜ù¥ñ
+<
+java:S2185Ù	"%Remove this silly call to "Math.ceil"(ú‚Ô°
+=	java:S131ß	""Add a default case to this switch.(öŞõŒûÿÿÿÿ
+7
+java:S2437â	" Remove this silly bit operation.(’³ˆ
+?
+java:S1125ı	"(Remove the unnecessary boolean literals.(ç´£€
+Q
+java:S1161§
+":Add the "@Override" annotation above this method signature(¡ÀØ”
+V
+java:S1161º
+":Add the "@Override" annotation above this method signature(·ìÙÿÿÿÿÿ
+W	java:S125Ç
+"<This block of commented-out lines of code should be removed.(Ôœ¸–ùÿÿÿÿ
+
+java:S1186à
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿš™Œüÿÿÿÿ
+
+java:S1186ã
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ìÙÿÿÿÿÿ
+
+java:S1186æ
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã’óšûÿÿÿÿ
+
+java:S1186é
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üÜà†üÿÿÿÿ
+
+java:S1186ì
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿«”©ûÿÿÿÿ
+˜
+java:S1186ï
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô­ê
+
+java:S1186ò
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅŸöŸşÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ù‡ë§ıÿÿÿÿ
+Q
+java:S1854":Remove this useless assignment to local variable "biType".(ç§òÏ
+N
+java:S1172™"2Remove this unused method parameter "compression".(Ù‡ë§ıÿÿÿÿ
+B
+java:S1481"+Remove this unused "biType" local variable.(ç§òÏ
+N
+java:S3972ç"7Move this "if" to a new line or add the missing "else".(Úíåë
+A
+java:S1068P"+Remove this unused "version" private field.(ÇÒÛü

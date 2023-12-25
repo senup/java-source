@@ -1,0 +1,119 @@
+
+t
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(“±ªÎøÿÿÿÿ
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜôëŞ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¥¥ıÿÿÿÿ
+K
+java:S1066§"/Merge this if statement with the enclosing one.(ñåóŒüÿÿÿÿ
+K
+java:S1066µ"/Merge this if statement with the enclosing one.(ñåóŒüÿÿÿÿ
+K
+java:S1066É"/Merge this if statement with the enclosing one.(†–çúÿÿÿÿ
+F
+java:S1066ï"/Merge this if statement with the enclosing one.(î²ä¹
+F
+java:S1066‹"/Merge this if statement with the enclosing one.(©úà†
+F
+java:S1066”"/Merge this if statement with the enclosing one.(À³€·
+K
+java:S1066Î"/Merge this if statement with the enclosing one.(÷µ¡¡şÿÿÿÿ
+F
+java:S1066ø"/Merge this if statement with the enclosing one.(ˆ×¾ë
+K
+java:S1066"/Merge this if statement with the enclosing one.(»ã½Òøÿÿÿÿ
+K
+java:S1066î"/Merge this if statement with the enclosing one.(¶‰œÂúÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉĞöÜ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ×Şì
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì†âÿÿÿÿÿ
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îÿ˜–şÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÖ’Ñùÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“àÁ¦ıÿÿÿÿ
+l	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆ¹Ôşÿÿÿÿ
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÄã„
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ…©â
+f	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ç©
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(çÌÉÜûÿÿÿÿ
+g
+java:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(²‹›Øüÿÿÿÿ
+q	java:S116F"\Rename this field "active_sensing_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¯­°
+w	java:S116G"]Rename this field "msec_last_activity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„Æ”ÿÿÿÿÿ
+r	java:S116H"XRename this field "pusher_silent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Õ­ıÿÿÿÿ
+s	java:S116I"^Rename this field "pusher_silent_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆËèä
+j	java:S116J"URename this field "sample_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŸª—
+r	java:S116L"XRename this field "control_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÿëÏıÿÿÿÿ
+t	java:S116U"ZRename this field "msec_buffer_len" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ËÓúÿÿÿÿ
+i	java:S116V"URename this field "buffer_len" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì÷Ï]
+o	java:S116X"ZRename this field "delay_midievent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒ˜š
+x	java:S116Y"^Rename this field "max_delay_midievent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»È†»ùÿÿÿÿ
+u	java:S116Z"[Rename this field "last_volume_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÀ£­ûÿÿÿÿ
+p	java:S116["\Rename this field "last_volume_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úq
+q	java:S116\"\Rename this field "co_master_balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÖÓ—
+p	java:S116]"[Rename this field "co_master_volume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ù¬Ò
+w	java:S116^"bRename this field "co_master_coarse_tuning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù³šé
+z	java:S116_"`Rename this field "co_master_fine_tuning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ†µşÿÿÿÿ
+y	java:S116c"_Rename this field "cur_registeredMixers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ë‰‡úÿÿÿÿ
+h	java:S116d"TRename this field "co_master" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÃÜ 
+
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ
+`
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(ç†ƒùÿÿÿÿ
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(ùüÙùÿÿÿÿ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(×ïùÿÿÿÿ
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(Š©–è
+`
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(‚üÈ¯ûÿÿÿÿ
+`
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(–²³ìşÿÿÿÿ
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(¬ÍÂ„
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(‰ã¼ç
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(›µÓÏ
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(™ƒ«Òúÿÿÿÿ
+`
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(…ö½’üÿÿÿÿ
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(œÂ¸¡
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(ƒÂÁû
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(ã´ı‡ùÿÿÿÿ
+r	java:S116h"XRename this field "coarse_tuning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄİ¡ÿÿÿÿÿ
+p	java:S116i"VRename this field "fine_tuning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šå“ÿøÿÿÿÿ
+<
+java:S1168m"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168v"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776z"SRefactor this method to reduce its Cognitive Complexity from 173 to the 15 allowed.(³ñ¬Şüÿÿÿÿ
+o
+java:S3776¹"SRefactor this method to reduce its Cognitive Complexity from 152 to the 15 allowed.(¨°­Ìıÿÿÿÿ
+_
+java:S2175ø"HA "Set<ModelChannelMixer>" cannot contain a "SoftChannelMixerContainer".(ˆ×¾ë
+d
+java:S2175ù"HA "Set<ModelChannelMixer>" cannot contain a "SoftChannelMixerContainer".(•Ïºùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¹“«Îşÿÿÿÿ
+Z
+java:S1117¾">Rename "samplerate" which hides the field declared at line 78.(»£Œ™ıÿÿÿÿ
+l	java:S116æ"VRename this field "bbuffer_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿±ÀÇ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(Œ§™Î
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(¹ï†Ÿşÿÿÿÿ
+X
+java:S1117ú"<Rename "bbuffer" which hides the field declared at line 866.(ùşÎ¯şÿÿÿÿ
+V
+java:S1117ÿ"@Rename "bbuffer_pos" which hides the field declared at line 870.(•ç©
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(âËÎ¡ıÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ

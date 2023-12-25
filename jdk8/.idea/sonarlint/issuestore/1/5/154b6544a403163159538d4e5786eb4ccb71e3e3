@@ -1,0 +1,55 @@
+
+u
+java:S1192¤"^Define a constant instead of duplicating this literal "Decoded length exceeds buffer" 5 times.(À‰¯
+Z
+java:S3034¥">Prevent "int" promotion by adding "& 0xff" to this expression.(ÅÍëúÿÿÿÿ
+Z
+java:S3034Ó">Prevent "int" promotion by adding "& 0xff" to this expression.(ÅÍëúÿÿÿÿ
+U
+java:S3034Æ">Prevent "int" promotion by adding "& 0xff" to this expression.(‹·Í¡
+u	java:S115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ãÔÔüÿÿÿÿ
+u	java:S115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›àˆ’þÿÿÿÿ
+u	java:S115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èìòÍþÿÿÿÿ
+u	java:S115Æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àß£Ëûÿÿÿÿ
+p	java:S115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ø£š
+u	java:S115È"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚¬é±ÿÿÿÿÿ
+u
+java:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(°š’3
+@
+java:S1197;"*Move the array designators [] to the type.(¦²Ã“
+N
+java:S1854Ÿ"7Remove this useless assignment to local variable "tag".(–±ò–
+?
+java:S1481Ÿ"(Remove this unused "tag" local variable.(–±ò–
+R	java:S125§"<This block of commented-out lines of code should be removed.(±‡¤¹
+R	java:S125±"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+a
+java:S1124Ã"EReorder the modifiers to comply with the Java Language Specification.(­ãÔÔüÿÿÿÿ
+a
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(›àˆ’þÿÿÿÿ
+a
+java:S1124Å"EReorder the modifiers to comply with the Java Language Specification.(èìòÍþÿÿÿÿ
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(Àß£Ëûÿÿÿÿ
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(’Ø£š
+a
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(‚¬é±ÿÿÿÿÿ
+\
+java:S2147±"ECombine this catch with the one at line 557, which has the same body.(…¨ýÊ
+\
+java:S2147ß"ECombine this catch with the one at line 603, which has the same body.(…¨ýÊ
+\
+java:S2147‡"ECombine this catch with the one at line 643, which has the same body.(…¨ýÊ
+A
+java:S1197ö"*Move the array designators [] to the type.(ÌÈ“
+R	java:S125ù"<This block of commented-out lines of code should be removed.(§«Ï‹
+R	java:S125‹"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(éÄ¸˜ûÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+F
+java:S1197ä"*Move the array designators [] to the type.(±ÒÒþøÿÿÿÿ
+R	java:S125Ý"<This block of commented-out lines of code should be removed.(‡Ê¯‹
+A
+java:S1197ò"*Move the array designators [] to the type.(õ €·

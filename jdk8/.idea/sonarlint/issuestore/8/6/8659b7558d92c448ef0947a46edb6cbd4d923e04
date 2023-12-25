@@ -1,0 +1,47 @@
+
+z
+java:S3038%"_"booleanValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(Ù«¶Æúÿÿÿÿ
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(Ù«¶Æúÿÿÿÿ
+r
+java:S3038&"\"byteValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(©·ÃÓ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(©·ÃÓ
+r
+java:S3038'"\"charValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(ÄÑÀ­
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(ÄÑÀ­
+s
+java:S3038("]"shortValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(¤º
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(¤º
+v
+java:S3038)"["intValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(Õ¨æäûÿÿÿÿ
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(Õ¨æäûÿÿÿÿ
+w
+java:S3038*"\"longValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(¸Äµøÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(¸Äµøÿÿÿÿ
+x
+java:S3038+"]"floatValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(“Á÷ùúÿÿÿÿ
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(“Á÷ùúÿÿÿÿ
+y
+java:S3038,"^"doubleValue" is defined in the "PrimitiveValue" interface and can be removed from this class.(¹±ªˆÿÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¹±ªˆÿÿÿÿÿ
+”
+java:S11307"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(€ğîúÿÿÿÿ
+
+java:S1130:"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(¤Îÿ-
+”
+java:S1130="yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(øÕ¸øÿÿÿÿ
+
+java:S1130@"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(”ÃĞÃ
+”
+java:S1130C"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(’äÀçşÿÿÿÿ
+
+java:S1130F"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(Ü×¶ş
+
+java:S1130V"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(¡ŞŞ³

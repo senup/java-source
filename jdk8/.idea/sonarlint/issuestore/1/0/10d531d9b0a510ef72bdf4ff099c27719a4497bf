@@ -1,0 +1,24 @@
+
+i
+java:S1192˜"MDefine a constant instead of duplicating this literal "updateResult" 3 times.(³ƒ÷Ãÿÿÿÿÿ
+c
+java:S1192²"LDefine a constant instead of duplicating this literal "findVarBind" 8 times.(½ô
+o	java:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+t	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(œŒº ıÿÿÿÿ
+e	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
+e	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
+f	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
+[	java:S107:"AConstructor has 8 parameters, which is greater than 7 authorized.(Ä×¯–ùÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ê“ğˆúÿÿÿÿ
+S
+java:S1854­"7Remove this useless assignment to local variable "val".(ŞĞœ€ùÿÿÿÿ
+D
+java:S1481­"(Remove this unused "val" local variable.(ŞĞœ€ùÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(íÒ«
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ª¹±
+C
+java:S1125"'Remove the unnecessary boolean literal.(œÙ„Ñúÿÿÿÿ
+C
+java:S1125´"'Remove the unnecessary boolean literal.(œÙ„Ñúÿÿÿÿ

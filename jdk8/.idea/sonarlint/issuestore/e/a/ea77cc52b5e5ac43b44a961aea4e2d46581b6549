@@ -1,0 +1,21 @@
+
+K
+java:S3740²"/Provide the parametrized type for this generic.(ÌÜ†Úüÿÿÿÿ
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëûˆ¤þÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+X
+java:S2184;"BCast one of the operands of this division operation to a "double".(½»ÚÑ
+c
+java:S2184E"HCast one of the operands of this multiplication operation to a "double".(“¼øžýÿÿÿÿ
+c
+java:S2184J"HCast one of the operands of this multiplication operation to a "double".(•ŒýÃùÿÿÿÿ
+c
+java:S2184O"HCast one of the operands of this multiplication operation to a "double".(ó¼‹Âùÿÿÿÿ
+^
+java:S2184T"HCast one of the operands of this multiplication operation to a "double".(©ïÛ–
+<
+java:S1170)"!Make this final field static too.(Îßî øÿÿÿÿ
+F
+java:S1068)"+Remove this unused "ordinal" private field.(Îßî øÿÿÿÿ

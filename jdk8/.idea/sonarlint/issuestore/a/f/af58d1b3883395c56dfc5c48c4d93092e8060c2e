@@ -1,0 +1,12 @@
+
+o
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¸è‚
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+t	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€¬»°ùÿÿÿÿ
+\
+java:S2130'"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ËƒŸ‘ûÿÿÿÿ
+D
+java:S1905'")Remove this unnecessary cast to "String".(ËƒŸ‘ûÿÿÿÿ
+œ
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒîÝšùÿÿÿÿ

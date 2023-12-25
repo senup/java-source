@@ -1,0 +1,67 @@
+
+v
+java:S1192ï"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 9 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(Åïïèüÿÿÿÿ
+?
+java:S1905·"(Remove this unnecessary cast to "int[]".(é„×Ä
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(šõĞ
+Q
+java:S1161È":Add the "@Override" annotation above this method signature(…¬˜ñ
+P
+java:S1161Ğ":Add the "@Override" annotation above this method signature(øÃû1
+P
+java:S1161×":Add the "@Override" annotation above this method signature(ò·ÜM
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+A
+java:S1197ñ"*Move the array designators [] to the type.(—é‹ğ
+V
+java:S1161›":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+A
+java:S1197¡"*Move the array designators [] to the type.(—é‹ğ
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Èı¤™
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(Èı¤™
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Šş­¾ûÿÿÿÿ
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(ç×‹“
+A
+java:S1197º"*Move the array designators [] to the type.(éÿÇ
+D
+java:S1905¾"(Remove this unnecessary cast to "short".(À›¿Àıÿÿÿÿ
+V
+java:S1161Ë":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+s
+java:S2177å"WRename this method; there is a "private" method in the parent class with the same name.(½²¢‘üÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(æ™ñØùÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(Í°—
+A
+java:S1197›"*Move the array designators [] to the type.(éÿÇ
+?
+java:S1905§"(Remove this unnecessary cast to "short".(ÉÈ¾
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(’‡×”
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(‡ÿ¢…ûÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(Ç§æ
+E
+java:S1905«")Remove this unnecessary cast to "Raster".(èƒ¶úÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161ù":Add the "@Override" annotation above this method signature(ÌŸ­
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(Á»›ê
+7
+java:S2129ş" Remove this "String" constructor(‹çİŸ
+R	java:S125"<This block of commented-out lines of code should be removed.(‡°ÑĞ

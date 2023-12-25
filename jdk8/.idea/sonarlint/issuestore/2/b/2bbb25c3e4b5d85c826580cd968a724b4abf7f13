@@ -1,0 +1,209 @@
+
+D
+java:S3740}"/Provide the parametrized type for this generic.(ãÁV
+D
+java:S3740}"/Provide the parametrized type for this generic.(ãÁV
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(Œâ§ûÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(Œâ§ûÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(—ÖÒ¾ıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(—ÖÒ¾ıÿÿÿÿ
+F
+java:S3740¯"/Provide the parametrized type for this generic.(éİ¤
+F
+java:S3740¯"/Provide the parametrized type for this generic.(éİ¤
+K
+java:S3740À	"/Provide the parametrized type for this generic.(—íØéıÿÿÿÿ
+K
+java:S3740Ï	"/Provide the parametrized type for this generic.(¨²³©ıÿÿÿÿ
+K
+java:S1066¥
+"/Merge this if statement with the enclosing one.(ºè™šûÿÿÿÿ
+K
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(Åª€µÿÿÿÿÿ
+l	java:S117Ô
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ù¾Áıÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ù¾Áıÿÿÿÿ
+e
+java:S3014‰"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ç¯õüÿÿÿÿ
+f
+java:S2259Ï"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(»Õş—ûÿÿÿÿ
+f
+java:S2259Ì"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(¥¤Äïşÿÿÿÿ
+a
+java:S2259–"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(¥ü§‹
+f
+java:S2259·"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(ÔÏ¸¹ûÿÿÿÿ
+f
+java:S2259Ş"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(¥¤Äïşÿÿÿÿ
+f
+java:S2259Ù"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(À¼ÙÑúÿÿÿÿ
+f
+java:S2259å"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(¡ÃÍÿÿÿÿÿ
+f
+java:S2259©"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(ÀÇÔšùÿÿÿÿ
+a
+java:S2259ü"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(ş·ŠË
+f
+java:S2259…"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(Ë·Åñûÿÿÿÿ
+a
+java:S2259¹"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(õƒş¯
+f
+java:S2259¸"JA "NullPointerException" could be thrown; "getDataPump()" can return null.(À¼ÙÑúÿÿÿÿ
+S
+java:S2589Ö
+"7Remove this expression which always evaluates to "true"(µã˜×şÿÿÿÿ
+e
+java:S3824‹"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ãùà¾
+M
+java:S1135-"2Complete the task associated to this TODO comment.(Àå·çøÿÿÿÿ
+`
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(•§³Òıÿÿÿÿ
+`
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(‰ÒÅûúÿÿÿÿ
+¤
+java:S1130"‡Remove the declaration of thrown exception 'javax.sound.midi.MidiUnavailableException', as it cannot be thrown from constructor's body.(ëåûÛÿÿÿÿÿ
+h
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Œ²›
+b
+java:S2886é"FSynchronize this method to match the synchronization on "setSequence".(­¾ªİùÿÿÿÿ
+b
+java:S2886é"FSynchronize this method to match the synchronization on "setSequence".(­¾ªİùÿÿÿÿ
+>
+java:S1125ü"'Remove the unnecessary boolean literal.(¯”Â
+C
+java:S1125"'Remove the unnecessary boolean literal.(Ğº¨µùÿÿÿÿ
+E
+java:S1905ñ")Remove this unnecessary cast to "double".(†÷Éùÿÿÿÿ
+?
+java:S1905ƒ"(Remove this unnecessary cast to "float".(çæóÄ
+D
+java:S1905…"(Remove this unnecessary cast to "float".(Ë·Åñûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(ÌÛ Òøÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(ÓÂ¯¾
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(û¯²åÿÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(ÌÛ Òøÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ÓÂ¯¾
+W	java:S125é"<This block of commented-out lines of code should be removed.(šµÿÄûÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(€Š„ù
+D	java:S108¤")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(Ëè¡¦ÿÿÿÿÿ
+D	java:S108Ş")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+N
+java:S1135ˆ"2Complete the task associated to this TODO comment.(áçŞÿÿÿÿÿ
+T
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(Åüñq
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¬˜¤”şÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(«‰—¤ûÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(ÉîÄùÿÿÿÿ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(£õšó
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(Š¶–‚
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(‹íõÉùÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¾ ¨´
+p	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„¿¿ƒ
+p	java:S115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óÏÉÁ
+o	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ôà%
+o	java:S115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ½”e
+F
+java:S1197æ"*Move the array designators [] to the type.(Ä¸ëùÿÿÿÿ
+u
+java:S3012ë"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰Ì”‘üÿÿÿÿ
+A
+java:S1197ı"*Move the array designators [] to the type.(½Íâ¿
+u
+java:S3012ÿ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“¿¤†ıÿÿÿÿ
+n
+java:S3776„	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éÀ¯±ÿÿÿÿÿ
+F
+java:S1197‰	"*Move the array designators [] to the type.(“»·¯úÿÿÿÿ
+A
+java:S1197š	"*Move the array designators [] to the type.(½Íâ¿
+u
+java:S3012œ	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“¿¤†ıÿÿÿÿ
+=
+java:S1168¨	"&Return an empty array instead of null.(¥¹ï
+@
+java:S1197«	"*Move the array designators [] to the type.(½Ú÷
+p
+java:S3012®	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¢ÜÀá
+k
+java:S2445Â	"T"recordingTracks" is a method parameter, and should not be used for synchronization.(¨éüÃ
+k
+java:S2445Ñ	"T"recordingTracks" is a method parameter, and should not be used for synchronization.(¨éüÃ
+z
+java:S2142Ÿ
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+R	java:S125¦
+"<This block of commented-out lines of code should be removed.(±¯€¤
+z
+java:S2142Æ
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(–½·Õÿÿÿÿÿ
+D	java:S108Æ
+")Either remove or fill this block of code.(–½·Õÿÿÿÿÿ
+i
+java:S3776Ñ
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(“–ış
+z
+java:S2142Ü
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+?	java:S108ò
+")Either remove or fill this block of code.(ë™öÓ
+u
+java:S2142ü
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±•å•
+?	java:S108ü
+")Either remove or fill this block of code.(±•å•
+R	java:S125ÿ
+"<This block of commented-out lines of code should be removed.(ú¥Åˆ
+R	java:S125š"<This block of commented-out lines of code should be removed.(òˆœø
+a
+java:S2886À"ESynchronize this method to match the synchronization on "setTickPos".(ø—µşÿÿÿÿ
+]
+java:S2886Ö"FSynchronize this method to match the synchronization on "setTempoMPQ".(†š´¬
+e
+java:S2886ã"ISynchronize this method to match the synchronization on "setTempoFactor".(‡îÖëüÿÿÿÿ
+=
+java:S1168¦"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(â–Òï
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÛåĞÄùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÕúÔªıÿÿÿÿ
+@
+java:S1905“")Remove this unnecessary cast to "double".(úÅ­è
+@
+java:S1905”")Remove this unnecessary cast to "double".(ÿå§ì
+@
+java:S1905•")Remove this unnecessary cast to "double".(ùú©ã
+@
+java:S1905 ")Remove this unnecessary cast to "double".(Ãíø
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äé¥Ğúÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(èÀË˜úÿÿÿÿ
+8	java:S131Î""Add a default case to this switch.(ëı«Ÿ
+j
+java:S3776ó"SRefactor this method to reduce its Cognitive Complexity from 114 to the 15 allowed.(ñû‰¯
+I
+java:S1135Ã"2Complete the task associated to this TODO comment.(åÛÜ´
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ôæ¹ˆüÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(’§Â
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.( šœşûÿÿÿÿ
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(Å·Ÿ°
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(´‘Ùó
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(íË¯¡
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(Å·Ÿ°
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+H
+java:S1135Œ"2Complete the task associated to this TODO comment.(³¸¯,
+=
+java:S3398Ï"!Move this method into "DataPump".(ƒÎğÎûÿÿÿÿ

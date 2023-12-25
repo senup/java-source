@@ -1,0 +1,58 @@
+
+l
+java:S1192ª"UDefine a constant instead of duplicating this literal "PBEWithSHA1AndDESede" 7 times.(¿ìùÈ
+z
+java:S1192¬"cDefine a constant instead of duplicating this literal "Alg.Alias.AlgorithmParameters.OID." 8 times.(ÈëÚµ
+„
+java:S1192©"mDefine a constant instead of duplicating this literal "com.sun.crypto.provider.PKCS12PBECipherCore$" 5 times.(×—Æ¶
+r
+java:S1192º"VDefine a constant instead of duplicating this literal "PBEWithSHA1AndRC2_128" 7 times.(•±ñúÿÿÿÿ
+r
+java:S1192 "VDefine a constant instead of duplicating this literal "Alg.Alias.Cipher.OID." 6 times.(Œğä¬şÿÿÿÿ
+g
+java:S1192ı"KDefine a constant instead of duplicating this literal "HmacSHA384" 4 times.(«òÜûÿÿÿÿ
+m
+java:S1192Ê"VDefine a constant instead of duplicating this literal "PBEWithSHA1AndRC4_128" 7 times.(‹ö­
+w
+java:S1192´"`Define a constant instead of duplicating this literal "Alg.Alias.SecretKeyFactory.OID." 7 times.(É…è©
+{
+java:S1192®"_Define a constant instead of duplicating this literal "Alg.Alias.AlgorithmParameters." 8 times.(‰Ğ—àøÿÿÿÿ
+x
+java:S1192¶"\Define a constant instead of duplicating this literal "Alg.Alias.SecretKeyFactory." 7 times.( €ÿøÿÿÿÿ
+m
+java:S1192¡"QDefine a constant instead of duplicating this literal "PBEWithMD5AndDES" 7 times.(Òµµûıÿÿÿÿ
+i
+java:S1192¢"RDefine a constant instead of duplicating this literal "Alg.Alias.Cipher." 6 times.(Û€£·
+„
+java:S1192Ã"hDefine a constant instead of duplicating this literal "com.sun.crypto.provider.PBEKeyFactory$" 11 times.(µ Ïƒüÿÿÿÿ
+g
+java:S1192ó"KDefine a constant instead of duplicating this literal "HmacSHA224" 4 times.(Ó‰çÁûÿÿÿÿ
+l
+java:S1192²"UDefine a constant instead of duplicating this literal "PBEWithSHA1AndRC2_40" 7 times.(‡æ¦Ì
+a
+java:S1192™"JDefine a constant instead of duplicating this literal "NOPADDING" 3 times.(Õš÷õ
+^
+java:S1192‘"GDefine a constant instead of duplicating this literal "DESede" 4 times.(„™Ó
+q
+java:S1192Â"UDefine a constant instead of duplicating this literal "PBEWithSHA1AndRC4_40" 7 times.(ıÀÕõıÿÿÿÿ
+g
+java:S1192ø"KDefine a constant instead of duplicating this literal "HmacSHA256" 4 times.(«Ÿ”˜úÿÿÿÿ
+`
+java:S1192î"IDefine a constant instead of duplicating this literal "HmacSHA1" 4 times.(õÈ»á
+‚
+java:S1192¹"fDefine a constant instead of duplicating this literal "com.sun.crypto.provider.PBEParameters" 8 times.(Æò­Òûÿÿÿÿ
+b
+java:S1192‚"KDefine a constant instead of duplicating this literal "HmacSHA512" 4 times.(´äÌä
+z
+java:S1192Ö"cDefine a constant instead of duplicating this literal "com.sun.crypto.provider.PBES2Core$" 8 times.(¤¬è…
+e
+java:S1192‡"ODefine a constant instead of duplicating this literal "DiffieHellman" 15 times.(ÉÄ¢m
+>
+java:S1604v"(Make this anonymous inner class a lambda(Íˆ¹ı
+o	java:S115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó§†
+t	java:S115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚ÆÍşÿÿÿÿ
+n	java:S115\"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±„=
+m
+java:S3077`"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÃğÙİ
+A
+java:S3010"%Remove this assignment of "instance".(ñõîÙşÿÿÿÿ

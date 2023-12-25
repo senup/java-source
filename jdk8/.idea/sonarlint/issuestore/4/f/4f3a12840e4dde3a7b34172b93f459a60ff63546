@@ -1,0 +1,21 @@
+
+n
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(’½S
+K
+java:S1191'"5Use classes from the Java API instead of Sun classes.(¹ïÉà
+g
+java:S2095J"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(ÈŽ“Ðýÿÿÿÿ
+>	java:S108@")Either remove or fill this block of code.(ï­£Ä
+m
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ù¸Û¦ùÿÿÿÿ
+Z
+java:S2147\"DCombine this catch with the one at line 91, which has the same body.(å„ï‰
+_
+java:S2147]"DCombine this catch with the one at line 91, which has the same body.(ÈÌ¯õûÿÿÿÿ
+C	java:S108[")Either remove or fill this block of code.(äõ”óýÿÿÿÿ
+>	java:S108\")Either remove or fill this block of code.(å„ï‰
+C	java:S108]")Either remove or fill this block of code.(ÈÌ¯õûÿÿÿÿ
+E
+java:S2093O"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Y
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(ì€ñõúÿÿÿÿ

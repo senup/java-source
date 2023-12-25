@@ -1,0 +1,102 @@
+
+l
+java:S1192á"PDefine a constant instead of duplicating this literal "an error occurs" 3 times.(¹øåÆúÿÿÿÿ
+q
+java:S1192‡"UDefine a constant instead of duplicating this literal "makeResponseMessage" 10 times.(±ÒÄ¯üÿÿÿÿ
+g
+java:S1192¤"KDefine a constant instead of duplicating this literal "sender is " 4 times.(¿”÷æøÿÿÿÿ
+o
+java:S1192Ã"SDefine a constant instead of duplicating this literal "makeResponsePacket" 3 times.(¾ŠĞúÿÿÿÿÿ
+c
+java:S1192¥"GDefine a constant instead of duplicating this literal " with " 4 times.(â óŠúÿÿÿÿ
+n
+java:S1192²"RDefine a constant instead of duplicating this literal "reduceResponsePdu" 3 times.(ı¨äåıÿÿÿÿ
+b
+java:S1192„"FDefine a constant instead of duplicating this literal "doRun" 6 times.(­úÑ§şÿÿÿÿ
+e
+java:S1192¤"IDefine a constant instead of duplicating this literal "checkAcl" 4 times.(¿”÷æøÿÿÿÿ
+Q
+java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯„Ùe
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÎÁÂùÿÿÿÿ
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚È«Û
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÁÛùÿÿÿÿ
+f	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
+a
+java:S2259ß"EA "NullPointerException" could be thrown; "respMsg" is nullable here.(‚‰¿òûÿÿÿÿ
+j
+java:S3824€"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(­€ˆœüÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(Ô±¼‚
+o	java:S115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠñÃj
+{
+java:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„šŸ¯
+q
+java:S1149Q"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ëéøÖüÿÿÿÿ
+€
+java:S1149a"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çÙİ»ÿÿÿÿÿ
+\	java:S107_"BConstructor has 11 parameters, which is greater than 7 authorized.(Ï¸ÆËûÿÿÿÿ
+F
+java:S2065J"0Remove the "transient" modifier from this field.(¬¬û¤
+K
+java:S2065K"0Remove the "transient" modifier from this field.(Ù«Ïªøÿÿÿÿ
+F
+java:S2065L"0Remove the "transient" modifier from this field.(„šŸ¯
+K
+java:S2065Q"0Remove the "transient" modifier from this field.(ëéøÖüÿÿÿÿ
+F
+java:S2065V"0Remove the "transient" modifier from this field.(—ûšğ
+F
+java:S2065X"0Remove the "transient" modifier from this field.(¼÷Ÿ¹
+K
+java:S2065Y"0Remove the "transient" modifier from this field.(öÈÊõùÿÿÿÿ
+K
+java:S2065Z"0Remove the "transient" modifier from this field.(Ïµí°ùÿÿÿÿ
+K
+java:S2065["0Remove the "transient" modifier from this field.(ıñšİúÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(¯çÔÒûÿÿÿÿ
+m
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(òµ§™øÿÿÿÿ
+b
+java:S3252…"FUse static access with "com.sun.jmx.snmp.SnmpMsg" for "dumpHexBuffer".(÷÷®Õÿÿÿÿÿ
+\
+java:S3252‘"FUse static access with "com.sun.jmx.snmp.SnmpMsg" for "dumpHexBuffer".(Îûä
+i
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ü¤Çû
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(²•ô“ûÿÿÿÿ
+i
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ı‰²Á
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÇùäÂ
+=	java:S131•""Add a default case to this switch.(å“×ñşÿÿÿÿ
+m
+java:S3252–"QUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduGetRequestPdu".(‡Æû˜şÿÿÿÿ
+l
+java:S3252—"UUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduGetNextRequestPdu".(í°¶Š
+m
+java:S3252˜"QUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduSetRequestPdu".(ŠÃ°»şÿÿÿÿ
+q
+java:S3252"UUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduGetBulkRequestPdu".(„”¦‹øÿÿÿÿ
+q
+java:S3252¬"ZUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "trapAuthenticationFailure".(¬¨ã
+F
+java:S1172ì"/Remove this unused method parameter "userData".(½¯¥‚
+R	java:S125š"<This block of commented-out lines of code should be removed.(Ø‹ÊÇ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ğ§µâùÿÿÿÿ
+B
+java:S1481Ê"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
+o
+java:S3012ì"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ªô•k
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÏÛ°¼
+>
+java:S1125Ø"'Remove the unnecessary boolean literal.(ãµÉ•
+n
+java:S3252ë"RUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduGetResponsePdu".(×§—ıÿÿÿÿ
+l
+java:S3252¯"UUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "pduGetBulkRequestPdu".(ÂÉ´¦
+u
+java:S3012Õ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(è‡º˜ûÿÿÿÿ
+[
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(ŠñÃj

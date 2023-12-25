@@ -1,0 +1,25 @@
+
+P
+java:S1141s"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+d
+java:S1104T"NMake ps a static final constant or non-public and provide accessors if needed.(¢Ğ¯Ô
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+–
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¯«r
+P
+java:S1118)":Add a private constructor to hide the implicit public one.(¢ßè¦
+_
+java:S11347"DTake the required action to fix the issue indicated by this comment.(ÄÍ½ûùÿÿÿÿ
+U
+java:S1161C":Add the "@Override" annotation above this method signature(†§şıÿÿÿÿ
+S
+java:S3252D"8Use static access with "java.awt.Frame" for "getFrames".(Ù°»›ıÿÿÿÿ
+P
+java:S1161j":Add the "@Override" annotation above this method signature(“–ış
+G
+java:S3011v",This accessibility update should be removed.(Í”úÆùÿÿÿÿ
+G
+java:S3011w",This accessibility bypass should be removed.(Â†’úÿÿÿÿ
+@
+java:S3398O"%Move this method into "PipeListener".(çÄšÿÿÿÿÿ

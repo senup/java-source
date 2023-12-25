@@ -1,0 +1,41 @@
+
+K
+java:S3740²"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740Ô"/Provide the parametrized type for this generic.(³«¿Ô
+K
+java:S3740Ú"/Provide the parametrized type for this generic.(­éóˆÿÿÿÿÿ
+D
+java:S1604²"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+_
+java:S30148"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¸ªøû
+e
+java:S3014•"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ã×‹œùÿÿÿÿ
+e
+java:S3014–"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ùª²àüÿÿÿÿ
+_
+java:S3014¢"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‡ê†
+e
+java:S3014¯"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(å™ƒœúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+K
+java:S2446U"0"notify" may not wake up the appropriate thread.(È¸ü±ûÿÿÿÿ
+U
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(åà¹Œ
+u
+java:S2142”"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(“–ýþ
+Q
+java:S2209Æ"5Change this instance-reference to a static reference.(¯¦ÞÁÿÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¶èö¦ùÿÿÿÿ
+2
+java:S3626ˆ"Remove this redundant jump.(ûÁÝ…
+2
+java:S3626Ä"Remove this redundant jump.(ûÁÝ…
+D	java:S108½")Either remove or fill this block of code.(©¢Èäøÿÿÿÿ
+|
+java:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³«¿Ô
+{
+java:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•å÷Šúÿÿÿÿ

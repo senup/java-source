@@ -1,0 +1,18 @@
+
+a	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ‘²¦şÿÿÿÿ
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Q
+java:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+u
+java:S1149G"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ºŞ«
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.( ŠŞùùÿÿÿÿ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ÀÂÄ²
+V	java:S125O"<This block of commented-out lines of code should be removed.(ŞúÜûÿÿÿÿ
+<
+java:S1168w"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168„"&Return an empty array instead of null.(İ£û©
+W	java:S125é"<This block of commented-out lines of code should be removed.(—Â‹¯şÿÿÿÿ
+p
+java:S1210›"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¿È¬å

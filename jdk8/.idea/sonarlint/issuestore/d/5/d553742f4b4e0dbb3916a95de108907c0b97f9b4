@@ -1,0 +1,19 @@
+
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(°¦†îıÿÿÿÿ
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(°¦†îıÿÿÿÿ
+S
+java:S4973¶"<Strings and Boxed types should be compared using "equals()".(€ˆø¼
+S
+java:S4973¶"<Strings and Boxed types should be compared using "equals()".(€ˆø¼
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+Y
+java:S2259¾"BA "NullPointerException" could be thrown; "icon" is nullable here.(­åøï
+Y
+java:S2259¼"BA "NullPointerException" could be thrown; "icon" is nullable here.(°•¦
+=	java:S131¡""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+=	java:S131ö""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'javax.swing.LayoutStyle.ComponentPlacement'.(Š³õÿşÿÿÿÿ

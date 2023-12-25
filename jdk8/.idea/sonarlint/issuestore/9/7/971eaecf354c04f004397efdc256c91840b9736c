@@ -1,0 +1,252 @@
+
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ„‡‚
+q
+java:S1192Ü"[Define a constant instead of duplicating this literal "Ljava/lang/reflect/Method;" 4 times.(áá“8
+k
+java:S1192Ù"TDefine a constant instead of duplicating this literal "java/lang/Throwable" 3 times.(òÆË–
+c
+java:S1192é"GDefine a constant instead of duplicating this literal "<init>" 5 times.(áÍ¥²şÿÿÿÿ
+l
+java:S1192ä"PDefine a constant instead of duplicating this literal "java/lang/Class" 3 times.(ÄŠéÒøÿÿÿÿ
+o	java:S135¹"YReduce the total number of break and continue statements in this loop to use at most one.(œ—‚
+n	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì€ûš
+l	java:S117Ç
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïçªûÿÿÿÿ
+?
+java:S1604×"(Make this anonymous inner class a lambda(’­Ûü
+n
+java:S1104Ó"WMake accessFlags a static final constant or non-public and provide accessors if needed.(—¢Í·
+g
+java:S1104Ô"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+r
+java:S1104Õ"VMake descriptor a static final constant or non-public and provide accessors if needed.(®ûôÙıÿÿÿÿ
+j
+java:S1104ú"SMake startPc a static final constant or non-public and provide accessors if needed.(âÙ×í
+m
+java:S1104û"QMake endPc a static final constant or non-public and provide accessors if needed.(ì¹ü„üÿÿÿÿ
+l
+java:S1104ü"UMake handlerPc a static final constant or non-public and provide accessors if needed.(Û´İâ
+q
+java:S1104ı"UMake catchType a static final constant or non-public and provide accessors if needed.(í· ¿ÿÿÿÿÿ
+n
+java:S1104"WMake accessFlags a static final constant or non-public and provide accessors if needed.(—¢Í·
+g
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+r
+java:S1104‘"VMake descriptor a static final constant or non-public and provide accessors if needed.(®ûôÙıÿÿÿÿ
+p
+java:S1104’"TMake maxStack a static final constant or non-public and provide accessors if needed.(Ïûœšıÿÿÿÿ
+q
+java:S1104“"UMake maxLocals a static final constant or non-public and provide accessors if needed.(øšÊãøÿÿÿÿ
+g
+java:S1104”"PMake code a static final constant or non-public and provide accessors if needed.(âè²ä
+q
+java:S1104•"ZMake exceptionTable a static final constant or non-public and provide accessors if needed.(ÎÈ³³
+u
+java:S1104—"^Make declaredExceptions a static final constant or non-public and provide accessors if needed.(òéµù
+r
+java:S1104ê"VMake methodName a static final constant or non-public and provide accessors if needed.(Ëà¯ûÿÿÿÿ
+q
+java:S1104ë"ZMake parameterTypes a static final constant or non-public and provide accessors if needed.(ğ´•ÿ
+l
+java:S1104ì"VMake returnType a static final constant or non-public and provide accessors if needed.(º•¦d
+q
+java:S1104í"ZMake exceptionTypes a static final constant or non-public and provide accessors if needed.(î³â¢
+l
+java:S1104î"UMake fromClass a static final constant or non-public and provide accessors if needed.(×¢ë¥
+r
+java:S1104ï"[Make methodFieldName a static final constant or non-public and provide accessors if needed.(÷¬Û´
+q
+java:S1104ì"ZMake baseTypeString a static final constant or non-public and provide accessors if needed.(ÄÿÀ
+x
+java:S1104ï"\Make wrapperClassName a static final constant or non-public and provide accessors if needed.(²ªõÕøÿÿÿÿ
+u
+java:S1104ò"^Make wrapperValueOfDesc a static final constant or non-public and provide accessors if needed.(¯à½­
+x
+java:S1104õ"\Make unwrapMethodName a static final constant or non-public and provide accessors if needed.(© üŒúÿÿÿÿ
+r
+java:S1104ø"\Make unwrapMethodDesc a static final constant or non-public and provide accessors if needed.(®ˆÙ{
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+o	java:S115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ­Õ¶
+o	java:S115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÁ»Ã
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¿…•
+t	java:S115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š¢‹§úÿÿÿÿ
+o	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß¬…
+o	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ÏĞ
+t	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿÂèéúÿÿÿÿ
+n	java:S115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ‘Ç#
+o	java:S115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù¥Ï
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( Á´Y
+u	java:S115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùœ­¦üÿÿÿÿ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å„Ùüÿÿÿÿ
+u	java:S115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èô€×ÿÿÿÿÿ
+u	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü—…êşÿÿÿÿ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç„×ğûÿÿÿÿ
+u	java:S115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦«œŞúÿÿÿÿ
+p	java:S115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…•æ
+u	java:S115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…Ãˆöıÿÿÿÿ
+u	java:S115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë¦òÛÿÿÿÿÿ
+o	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦’N
+u	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÈÕÚüÿÿÿÿ
+u	java:S115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äø›öùÿÿÿÿ
+u	java:S115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢¯á‡ùÿÿÿÿ
+u	java:S115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹ôé”úÿÿÿÿ
+u	java:S115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†ùÀÔıÿÿÿÿ
+u	java:S115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†Û­œûÿÿÿÿ
+p	java:S115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö·ô
+p	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëÎï‚
+u	java:S115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ×ÿ´ÿÿÿÿÿ
+u	java:S115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î´ıúÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹óË
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıñ€Ëûÿÿÿÿ
+u	java:S115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦Á£¡øÿÿÿÿ
+p	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î…Ğ
+p	java:S115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÊŠÌ
+u	java:S115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ²Òúÿÿÿÿ
+u	java:S115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(é¦¯°şÿÿÿÿ
+o	java:S115¦"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´“Š_
+p	java:S115ª"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾§Äî
+u	java:S115´"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦¾•”üÿÿÿÿ
+u	java:S115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„»¾²ÿÿÿÿÿ
+u	java:S115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ğö•úÿÿÿÿ
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(¹³µ
+V	java:S125]"<This block of commented-out lines of code should be removed.(á¨¥ ûÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(¾¬
+V	java:S125g"<This block of commented-out lines of code should be removed.(¤Ê®®ÿÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(úÍˆº
+V	java:S125k"<This block of commented-out lines of code should be removed.(â¸é¸şÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(”ÿŸ¯ÿÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(ğØÅË
+W	java:S125†"<This block of commented-out lines of code should be removed.(øÄõ±şÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(«Ûœÿıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(„Œ¸øüÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(ÉºÍşşÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(°áôğûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(×é…»ıÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(ÄöÈÛşÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(Ğïáı
+R	java:S125Á"<This block of commented-out lines of code should be removed.(±Ü–‰
+W	java:S125œ"<This block of commented-out lines of code should be removed.(”…Ö‚ıÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(ê»½å
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¡¤»ßûÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(âôÎ­
+a
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(¦¾•”üÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(°“‡İ
+a
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(„»¾²ÿÿÿÿÿ
+a
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(¡ğö•úÿÿÿÿ
+T
+java:S3878ø"8Remove this array creation and simply pass the elements.(Ùå°‘ÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(òãçı
+W	java:S125"<This block of commented-out lines of code should be removed.(¼«¡èÿÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(şÿŠ¾
+W	java:S125–"<This block of commented-out lines of code should be removed.(Ñ°°äşÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(Êó€û
+R	java:S125š"<This block of commented-out lines of code should be removed.(ØŞœÊ
+W	java:S125"<This block of commented-out lines of code should be removed.(çÎÇ³ıÿÿÿÿ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ñò–×
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Ó¯øñûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¥¸úÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Ş¿¨øÿÿÿÿ
+Q	java:S125®"<This block of commented-out lines of code should be removed.(á…
+R	java:S125³"<This block of commented-out lines of code should be removed.(èèÂ¬
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(îÇãüÿÿÿÿ
+W
+java:S1119‡";Refactor the code to remove this label and the need for it.(ˆ¶õïúÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(Ñ°°äşÿÿÿÿ
+Q	java:S125ë"<This block of commented-out lines of code should be removed.(¥›–C
+W	java:S125í"<This block of commented-out lines of code should be removed.(À¯‹±üÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(èèÂ¬
+8
+java:S1116‡"Remove this empty statement.(ôŸìúÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Ñ°°äşÿÿÿÿ
+Q	java:S125¯"<This block of commented-out lines of code should be removed.(¥›–C
+W	java:S125±"<This block of commented-out lines of code should be removed.(À¯‹±üÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(èèÂ¬
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Ñóá
+W	java:S125º"<This block of commented-out lines of code should be removed.(€ˆæˆùÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(õôÿÊÿÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(…¿ÈÂúÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(à­âÜ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(Í›Æ¢
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(´ °²øÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(º›Ñüÿÿÿÿ
+Q	java:S125É"<This block of commented-out lines of code should be removed.(å¥Ì	
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(«ÍÃÇüÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(˜¶£ıÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(èèÂ¬
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(Ñóá
+R	java:S125×"<This block of commented-out lines of code should be removed.(ÁÜ ÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(‰š½şÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(àåçıûÿÿÿÿ
+[
+java:S1659"EDeclare "tryBegin" and all following declarations on a separate line.(ï‚}
+T
+java:S1155Ì">Use isEmpty() to check whether the collection is empty or not.(ğİœZ
+[
+java:S1659­	"EDeclare "tryBegin" and all following declarations on a separate line.(ï‚}
+i	java:S100‚
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïå¦úıÿÿÿÿ
+d	java:S100ˆ
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ï¦Å
+d	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö½­½
+d	java:S100”
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÀå€
+i	java:S100š
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞıÆÿıÿÿÿÿ
+i	java:S100¸
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯œÚ™ıÿÿÿÿ
+R	java:S125¢
+"<This block of commented-out lines of code should be removed.(Ú°à¬
+R	java:S125¨
+"<This block of commented-out lines of code should be removed.(Ú°à¬
+R	java:S125®
+"<This block of commented-out lines of code should be removed.(Ú°à¬
+R	java:S125´
+"<This block of commented-out lines of code should be removed.(Ú°à¬
+i	java:S100á
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½èİãüÿÿÿÿ
+i	java:S100ô
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ïìøÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(æï…Ğşÿÿÿÿ
+W
+java:S1119¸";Refactor the code to remove this label and the need for it.(˜ç®˜ıÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(‰¦ößşÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(µ‚’µ
+=
+java:S2129Ò"!Remove this "Integer" constructor(üëŸüÿÿÿÿ
+6
+java:S2129Ù"Remove this "Float" constructor(ïòßÃ
+;
+java:S2129à"Remove this "Short" constructor(£õŞÊÿÿÿÿÿ
+;
+java:S2129ò"Remove this "Short" constructor(Æñğºüÿÿÿÿ
+Q
+java:S1610ü"5Convert the abstract class "Entry" into an interface.(ˆçğ¼şÿÿÿÿ
+a
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(ˆçğ¼şÿÿÿÿ
+@
+java:S3398‚
+"$Move this method into "ProxyMethod".(Ïå¦úıÿÿÿÿ
+;
+java:S3398Š"$Move this method into "ProxyMethod".(Ïÿ“ê
+;
+java:S3398ˆ
+"$Move this method into "ProxyMethod".(•ï¦Å
+@
+java:S3398ô
+"$Move this method into "ProxyMethod".(±ïìøÿÿÿÿ
+;
+java:S3398”
+"$Move this method into "ProxyMethod".(ßÀå€
+;
+java:S3398
+"$Move this method into "ProxyMethod".(ö½­½
+O
+java:S1068K"4Remove this unused "CONSTANT_UNICODE" private field.(œ¦ŠÙúÿÿÿÿ

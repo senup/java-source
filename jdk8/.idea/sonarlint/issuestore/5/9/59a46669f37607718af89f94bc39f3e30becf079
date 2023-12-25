@@ -1,0 +1,24 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(ù—èòşÿÿÿÿ
+P
+java:S11183":Add a private constructor to hide the implicit public one.(Ñî»
+Q	java:S125T"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+[
+java:S1659·"?Declare "p1" and all following declarations on a separate line.(à ƒÔüÿÿÿÿ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+W
+java:S1659ˆ"@Declare "xp1" and all following declarations on a separate line.(ª»„
+R	java:S125•"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+@
+java:S1659¹"$Declare "output" on a separate line.(¦„İ¢øÿÿÿÿ
+V
+java:S1659°"?Declare "p1" and all following declarations on a separate line.(Ö¦¬
+R	java:S125º"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125…"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+Q
+java:S1128";Remove this unused import 'java.awt.MultipleGradientPaint'.(ìË„Ï
+O
+java:S1128."9Remove this unused import 'sun.java2d.loops.SurfaceType'.(§•¬¡

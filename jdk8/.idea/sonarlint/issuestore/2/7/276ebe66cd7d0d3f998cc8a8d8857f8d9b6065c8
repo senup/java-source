@@ -1,0 +1,45 @@
+
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óúİ½øÿÿÿÿ
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óúİ½øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+E
+java:S1197b"*Move the array designators [] to the type.(Ú­¡ûÿÿÿÿ
+`
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(Ú­¡ûÿÿÿÿ
+E
+java:S1197o"*Move the array designators [] to the type.(‰­Øáøÿÿÿÿ
+h
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿òÅË
+P
+java:S1161v":Add the "@Override" annotation above this method signature(¿òÅË
+U
+java:S1659w"?Declare "p1" and all following declarations on a separate line.(Ş¾œ
+Y
+java:S1659x">Declare "b" and all following declarations on a separate line.(ï¤íüÿÿÿÿ
+A
+java:S1659y"&Declare "low_byte" on a separate line.(Óúİ½øÿÿÿÿ
+E
+java:S1197z"*Move the array designators [] to the type.(½Î˜Çıÿÿÿÿ
+S
+java:S1117z"8Rename "tmp" which hides the field declared at line 111.(½Î˜Çıÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(¬Îêöûÿÿÿÿ
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(¬‹ˆö
+>
+java:S1659º""Declare "nSeq" on a separate line.(‡ş€·ÿÿÿÿÿ
+B
+java:S1481¹"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(ßıÖ¦ÿÿÿÿÿ
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(İÁ¿Äıÿÿÿÿ
+B
+java:S1481Ü"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
+A
+java:S1197ß"*Move the array designators [] to the type.(¬ñìğ
+O
+java:S1117ß"8Rename "tmp" which hides the field declared at line 111.(¬ñìğ
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’

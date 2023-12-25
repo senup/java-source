@@ -1,0 +1,323 @@
+
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+a	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+^
+java:S1192·"HDefine a constant instead of duplicating this literal "NMTOKEN" 3 times.(ÍÏâz
+]
+java:S1192±"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Š„®ã
+\
+java:S1192Ÿ"FDefine a constant instead of duplicating this literal "CDATA" 4 times.(±ÄÅv
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+n	java:S127–"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ôí¸ˆ
+m	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¹÷k
+m	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(¹÷k
+s	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.(â½¼òüÿÿÿÿ
+s	java:S127¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(â½¼òüÿÿÿÿ
+s	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(â½¼òüÿÿÿÿ
+s	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ãé…èøÿÿÿÿ
+s	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(óÎæÿøÿÿÿÿ
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+s	java:S127ß"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒÎŠúÿÿÿÿ
+s	java:S127¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(’·Ûíÿÿÿÿÿ
+s	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(’·Ûíÿÿÿÿÿ
+n	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.( ßÉŸ
+s	java:S127ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(’·Ûíÿÿÿÿÿ
+s	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(’·Ûíÿÿÿÿÿ
+s	java:S127Ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(áâĞ—şÿÿÿÿ
+s	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ«İüÿÿÿÿ
+n	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤úÈİ
+n	java:S127Ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤úÈİ
+s	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(•›Í˜şÿÿÿÿ
+n	java:S127‡	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤»Ë‚
+s	java:S127›	"XRefactor the code in order to not assign to this loop counter from within the loop body.(•›Í˜şÿÿÿÿ
+n	java:S127Ä	"XRefactor the code in order to not assign to this loop counter from within the loop body.(×­° 
+n	java:S127Ë	"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127Ò	"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127Ş	"XRefactor the code in order to not assign to this loop counter from within the loop body.(×­° 
+n	java:S127í	"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127ƒ
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+s	java:S127ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ«İüÿÿÿÿ
+s	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ¯âíşÿÿÿÿ
+n	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¾›™
+s	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÛ‰üÿÿÿÿ
+s	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ¯âíşÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(´ö’­
+n	java:S127Î"XRefactor the code in order to not assign to this loop counter from within the loop body.(øìƒù
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(´ö’­
+s	java:S127„"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ«İüÿÿÿÿ
+s	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ¯âíşÿÿÿÿ
+n	java:S127œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¾›™
+s	java:S127£"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÛ‰üÿÿÿÿ
+n	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¾›™
+n	java:S127­"XRefactor the code in order to not assign to this loop counter from within the loop body.(ºìˆ«
+n	java:S127¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¾›™
+s	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ«İüÿÿÿÿ
+s	java:S127ı"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ«İüÿÿÿÿ
+n	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+s	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ¯âíşÿÿÿÿ
+n	java:S127Ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¾›™
+n	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ç‚
+s	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(­ÿ”«üÿÿÿÿ
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(«üÈä
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍìñÒ
+g
+java:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(Œ¹ÿÿÿÿÿ
+g
+java:S1301ş"KReplace this "switch" statement by "if" statements to increase readability.(Œ¹ÿÿÿÿÿ
+g
+java:S1301Ì"KReplace this "switch" statement by "if" statements to increase readability.(Œ¹ÿÿÿÿÿ
+]
+java:S2259Ï"AA "NullPointerException" could be thrown; "att" is nullable here.(ë×è‡ıÿÿÿÿ
+]
+java:S2259"AA "NullPointerException" could be thrown; "ids" is nullable here.(¶Ø‰üÿÿÿÿ
+X
+java:S2259 
+"AA "NullPointerException" could be thrown; "ids" is nullable here.(©ı°§
+Y
+java:S2259 "BA "NullPointerException" could be thrown; "psid" is nullable here.(ìÏÁÖ
+]
+java:S2259 	"AA "NullPointerException" could be thrown; "att" is nullable here.(¾üæúÿÿÿÿ
+^
+java:S2259€"BA "NullPointerException" could be thrown; "pair" is nullable here.(Œş ®üÿÿÿÿ
+]
+java:S2259÷"AA "NullPointerException" could be thrown; "ids" is nullable here.(£İÆëúÿÿÿÿ
+]
+java:S2259î"AA "NullPointerException" could be thrown; "ids" is nullable here.(¶Ø‰üÿÿÿÿ
+W
+java:S2259Á"AA "NullPointerException" could be thrown; "att" is nullable here.(ğ”
+]
+java:S2259ø"AA "NullPointerException" could be thrown; "att" is nullable here.(¾üæúÿÿÿÿ
+]
+java:S2259ø	"AA "NullPointerException" could be thrown; "att" is nullable here.(É™¢ßüÿÿÿÿ
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(½Ò­ªúÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(ÛÄÛÁùÿÿÿÿ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(Ç©šäúÿÿÿÿ
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(†ïÔ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(ƒŞÎõüÿÿÿÿ
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(‰ÖòÕ
+Z
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(ˆÀô
+[
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(´ò–Æ
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(ÔÍÃä
+`
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(©Æ‰Âûÿÿÿÿ
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ÁŠİ
+[
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(Àüìô
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(è€ã
+`
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(ü…Šöşÿÿÿÿ
+[
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(¹¯ñ“
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ÔóÍ´
+Z
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(Øé«#
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(”„î”
+Z
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(¶Ê¡
+Z
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(û³
+Z
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(¬¤÷-
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(ÿ“áŠ
+`
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(È§Ú•ùÿÿÿÿ
+E
+java:S1197{"*Move the array designators [] to the type.(İÊ¯Öüÿÿÿÿ
+`
+java:S1124{"EReorder the modifiers to comply with the Java Language Specification.(İÊ¯Öüÿÿÿÿ
+@
+java:S1197|"*Move the array designators [] to the type.(÷Ï°’
+[
+java:S1124|"EReorder the modifiers to comply with the Java Language Specification.(÷Ï°’
+E
+java:S1197}"*Move the array designators [] to the type.(éˆÙ¹şÿÿÿÿ
+`
+java:S1124}"EReorder the modifiers to comply with the Java Language Specification.(éˆÙ¹şÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ÌÎ•şùÿÿÿÿ
+F
+java:S1197©"*Move the array designators [] to the type.(—åÔçøÿÿÿÿ
+?	java:S108³")Either remove or fill this block of code.(Æâ­ê
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(ó¥Æ
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(ßëÿøÿÿÿÿ
+D
+java:S1481†"(Remove this unused "str" local variable.(ö€€ıÿÿÿÿ
+>
+java:S1125Š"'Remove the unnecessary boolean literal.(Ö‡«–
+>
+java:S1125Ò"'Remove the unnecessary boolean literal.(€Á³¦
+?	java:S108ä")Either remove or fill this block of code.(Æâ­ê
+?	java:S108ê")Either remove or fill this block of code.(Æâ­ê
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ì†‘©ùÿÿÿÿ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(®äÉ•ÿÿÿÿÿ
+C
+java:S1125œ"'Remove the unnecessary boolean literal.(Ãş»ıÿÿÿÿ
+C
+java:S1125³"'Remove the unnecessary boolean literal.(Ãş»ıÿÿÿÿ
+C
+java:S1125Û"'Remove the unnecessary boolean literal.(¢íŠŒøÿÿÿÿ
+C
+java:S1125ì"'Remove the unnecessary boolean literal.(¢íŠŒøÿÿÿÿ
+C
+java:S1125õ"'Remove the unnecessary boolean literal.(µ„å‘şÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Î”†øÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(Âº„‰ıÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(™µáûÿÿÿÿ
+L
+java:S1854Õ"6Remove this useless assignment to local variable "ch".(…ÚÒ
+F
+java:S1197‘"*Move the array designators [] to the type.(ƒ€ŠÆüÿÿÿÿ
+n
+java:S3776¶
+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(œ½ñûÿÿÿÿ
+C
+java:S1125å
+"'Remove the unnecessary boolean literal.(ÆÚÃ¶üÿÿÿÿ
+C
+java:S1125å
+"'Remove the unnecessary boolean literal.(ÆÚÃ¶üÿÿÿÿ
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(§ÌÏÂøÿÿÿÿ
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§ğÔæ
+C
+java:S1125¹"'Remove the unnecessary boolean literal.(¡ˆ¿øÿÿÿÿ
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(­¥¢Ş
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÕîÜ…øÿÿÿÿ
+A
+java:S1197ñ"*Move the array designators [] to the type.(€ºÊá
+C
+java:S1125‘"'Remove the unnecessary boolean literal.(Ÿ¼òîüÿÿÿÿ
+C
+java:S1125§"'Remove the unnecessary boolean literal.(¦Òé½ùÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(ÿë³¯şÿÿÿÿ
+>
+java:S1125ø"'Remove the unnecessary boolean literal.(Ğßâ¤
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ß„ÿñşÿÿÿÿ
+>
+java:S1481œ"'Remove this unused "ch" local variable.(“¶˜ì
+C
+java:S1125İ"'Remove the unnecessary boolean literal.(Í…–Éúÿÿÿÿ
+C
+java:S1125è"'Remove the unnecessary boolean literal.(‘™ûÿÿÿÿ
+>
+java:S1125‚"'Remove the unnecessary boolean literal.(…ö•ù
+R	java:S125©"<This block of commented-out lines of code should be removed.(Óßÿ¨
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(’Œ…ìıÿÿÿÿ
+>
+java:S1125œ"'Remove the unnecessary boolean literal.(çº‘º
+R	java:S125¢"<This block of commented-out lines of code should be removed.(Óßÿ¨
+R	java:S125´"<This block of commented-out lines of code should be removed.(Øàö¹
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Óßÿ¨
+R	java:S125¹"<This block of commented-out lines of code should be removed.(Øàö¹
+C
+java:S1125Ë"'Remove the unnecessary boolean literal.(¿şÚşÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(Óßÿ¨
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(íØü”üÿÿÿÿ
+ˆ
+java:S1130–"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+>
+java:S1125š"'Remove the unnecessary boolean literal.(‡ß¢¬
+>
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(š„Ìµ
+>
+java:S1125¡"'Remove the unnecessary boolean literal.(çî©§
+>
+java:S1125£"'Remove the unnecessary boolean literal.(ËêÖÙ
+C
+java:S1125¬"'Remove the unnecessary boolean literal.(ï·ÕÀıÿÿÿÿ
+C
+java:S1125®"'Remove the unnecessary boolean literal.(»º€ûÿÿÿÿ
+C
+java:S1125·"'Remove the unnecessary boolean literal.(£°Á¶úÿÿÿÿ
+>
+java:S1125¹"'Remove the unnecessary boolean literal.(¥’¨
+>
+java:S1125»"'Remove the unnecessary boolean literal.(‡ñò
+C
+java:S1125½"'Remove the unnecessary boolean literal.(–èÆşÿÿÿÿ
+>
+java:S1125Æ"'Remove the unnecessary boolean literal.(¶Š…ö
+>
+java:S1125È"'Remove the unnecessary boolean literal.(ˆıœÏ
+C
+java:S1125Ê"'Remove the unnecessary boolean literal.(åğÚùÿÿÿÿ
+C
+java:S1125Ì"'Remove the unnecessary boolean literal.(ïïÕşúÿÿÿÿ
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(ºŒ¡§üÿÿÿÿ
+d	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü§Ö…
+A
+java:S1197—"*Move the array designators [] to the type.(­¯ù¤
+F
+java:S1197©"*Move the array designators [] to the type.(ü³”óûÿÿÿÿ
+n
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ìø²°øÿÿÿÿ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ĞÚŞ­
+o
+java:S3776›"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(ÔÃï¯ûÿÿÿÿ
+>
+java:S1125š"'Remove the unnecessary boolean literal.(²ãÑğ
+C
+java:S1125"'Remove the unnecessary boolean literal.(¬†ÿÿÿÿÿ
+C
+java:S1125£"'Remove the unnecessary boolean literal.(¯×¨èüÿÿÿÿ
+C
+java:S1125ª"'Remove the unnecessary boolean literal.(•İŸùúÿÿÿÿ
+>
+java:S1125±"'Remove the unnecessary boolean literal.(Ö…ÚÜ
+>
+java:S1125³"'Remove the unnecessary boolean literal.(°Ôİı
+?	java:S108–")Either remove or fill this block of code.(Æâ­ê
+C
+java:S1125ú"'Remove the unnecessary boolean literal.(¨éÒ÷ÿÿÿÿÿ
+D
+java:S10682")Remove this unused "mNoNS" private field.(«ÆŸÉùÿÿÿÿ
+B
+java:S1144ı"+Remove this unused private "pubsys" method.(­çëä

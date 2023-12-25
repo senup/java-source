@@ -1,0 +1,24 @@
+
+\	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ®´ã
+o
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸‚³ö
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(èƒñ
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÇŞúÿÿÿÿ
+M
+java:S11357"2Complete the task associated to this TODO comment.(¥€‘ ûÿÿÿÿ
+‚
+java:S1130ó"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(õÉ”D
+a
+java:S2147"ECombine this catch with the one at line 395, which has the same body.(ƒø³¿ûÿÿÿÿ
+=
+java:S1168…"&Return an empty array instead of null.(¥¹ï
+P
+java:S4719À"9Replace charset name argument with StandardCharsets.UTF_8(óğú’
+P
+java:S4719Â"9Replace charset name argument with StandardCharsets.UTF_8(ßıßĞ
+F
+java:S1197Ä"*Move the array designators [] to the type.(Æˆüÿÿÿÿ
+F
+java:S2093·"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

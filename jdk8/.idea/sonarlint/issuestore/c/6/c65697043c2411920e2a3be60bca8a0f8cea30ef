@@ -1,0 +1,19 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+i
+java:S3824:"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ŞÁ­¿şÿÿÿÿ
+l
+java:S1149-"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(â°¨ç
+>
+java:S1659U"#Declare "count" on a separate line.(äÅìÎúÿÿÿÿ
+@
+java:S1197S"*Move the array designators [] to the type.(ñÀ‚
+@
+java:S1197T"*Move the array designators [] to the type.(¿°ã©
+F
+java:S1197“"*Move the array designators [] to the type.(İù‘ıÿÿÿÿ
+F
+java:S1197“"*Move the array designators [] to the type.(İù‘ıÿÿÿÿ
+H
+java:S1128 "-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

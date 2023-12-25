@@ -1,0 +1,10 @@
+
+t
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(öé·¼þÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+n	java:S116+"TRename this field "CLOSE_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼á×åüÿÿÿÿ
+–
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜±ü
+O	java:S899H":Do something with the "boolean" value returned by "offer".(µ˜ì©
+U	java:S899ž":Do something with the "boolean" value returned by "offer".(œ¨ˆäøÿÿÿÿ

@@ -1,0 +1,27 @@
+
+m	java:S127]"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÀøÏš
+>
+java:S1172:"(Remove this unused method parameter "c".(¼Å¹š
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(›ÁçÊ
+P
+java:S1161D":Add the "@Override" annotation above this method signature(›ÁçÊ
+`
+java:S1124m"EReorder the modifiers to comply with the Java Language Specification.(–æßÉùÿÿÿÿ
+[
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(æ£³Ò
+P
+java:S1161t":Add the "@Override" annotation above this method signature(¹€¬©
+\
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(…”¹
+a
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(øùÏÿÿÿÿÿ
+Q
+java:S1161»":Add the "@Override" annotation above this method signature(»€ıÎ
+P
+java:S1161Ğ":Add the "@Override" annotation above this method signature(¿ÛÍ
+
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ
+<
+java:S1128 "&Remove this unused import 'java.util'.(Î€ŒÙ

@@ -1,0 +1,33 @@
+
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(óà‚¥ıÿÿÿÿ
+o
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖóÒÎ
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÛ³ú
+I
+java:S1121S".Extract the assignment out of this expression.(şíÔıÿÿÿÿ
+D
+java:S1121U".Extract the assignment out of this expression.(Ú½—…
+D
+java:S1121W".Extract the assignment out of this expression.(†­±
+>
+java:S1604i"(Make this anonymous inner class a lambda(ÖóÒÎ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+h
+java:S16592"RDeclare "unregisterMBeanButton" and all following declarations on a separate line.(™ìºÒ
+W
+java:S3252Z"AUse static access with "javax.swing.SwingConstants" for "CENTER".(°æüØ
+M
+java:S1135k"2Complete the task associated to this TODO comment.(Šñæˆúÿÿÿÿ
+Y
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(¡Ñ¼üÿÿÿÿ
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÇşÚ»úÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+V
+java:S1161®":Add the "@Override" annotation above this method signature(Ö³›¥üÿÿÿÿ

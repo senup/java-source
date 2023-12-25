@@ -1,0 +1,98 @@
+
+b
+java:S1192Ê"FDefine a constant instead of duplicating this literal "right" 4 times.(èÑÓ¸øÿÿÿÿ
+`
+java:S1192Ò"JDefine a constant instead of duplicating this literal "focusLast" 3 times.(£í«
+f
+java:S1192Ñ"JDefine a constant instead of duplicating this literal "focusNext" 3 times.(ñã¤·ıÿÿÿÿ
+s
+java:S1488z"]Immediately return this expression instead of assigning it to the temporary variable "value".(–Õšø
+t
+java:S1488‹"]Immediately return this expression instead of assigning it to the temporary variable "value".(–Õšø
+^
+java:S2184Â"GCast one of the operands of this multiplication operation to a "float".(»–¤‘
+Y
+java:S2184á"BCast one of the operands of this addition operation to a "double".(¤¬İÉ
+Y
+java:S2184‹"BCast one of the operands of this division operation to a "double".(Ñ“¶¥
+W
+java:S2184‹"@Cast one of the operands of this integer division to a "double".(Ñ“¶¥
+^
+java:S2184ò"BCast one of the operands of this addition operation to a "double".(Â˜·ğùÿÿÿÿ
+U
+java:S1161u":Add the "@Override" annotation above this method signature(‰Ä¹¤ùÿÿÿÿ
+C	java:S108}")Either remove or fill this block of code.(§ëÙ»ùÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(é£•‰ûÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(§ëÙ»ùÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(€…¥š
+U
+java:S1117ş"9Rename "label" which hides the field declared at line 47.(¸Ş«Õøÿÿÿÿ
+D	java:S108…")Either remove or fill this block of code.(éÍ¢øÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(éÍ¢øÿÿÿÿ
+U
+java:S1854â"9Remove this useless assignment to local variable "color".(ìšÕÍıÿÿÿÿ
+F
+java:S1481â"*Remove this unused "color" local variable.(ìšÕÍıÿÿÿÿ
+C
+java:S1948",Make "wheelImage" transient or serializable.(Ñğ÷„
+F
+java:S1948£"/Make "triangleImage" transient or serializable.(Äû“
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(şò¸¦
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(şò¸¦
+Q
+java:S1161Ó":Add the "@Override" annotation above this method signature(³ıŸê
+S
+java:S1117¾"7Rename "hue" which hides the field declared at line 63.(Œ²üôùÿÿÿÿ
+@
+java:S1905¿")Remove this unnecessary cast to "double".(ğÇòæ
+U
+java:S1117Æ">Rename "saturation" which hides the field declared at line 64.(ôØù“
+?
+java:S1905Æ"(Remove this unnecessary cast to "float".(ôØù“
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–ë›£
+@
+java:S1905¬")Remove this unnecessary cast to "double".(Õ¹ç¨
+U
+java:S1117®">Rename "saturation" which hides the field declared at line 64.(Ì×’•
+F
+java:S1172Ö"/Remove these unused method parameters "s", "b".(–Úîü
+V
+java:S1117÷":Rename "angle" which hides the field declared at line 552.(úØó„úÿÿÿÿ
+P
+java:S3400«"9Remove this method and declare a constant for this value.(çÆ¦ö
+P
+java:S3400²"9Remove this method and declare a constant for this value.(¹º¸
+U
+java:S3400¹"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+U
+java:S3400À"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+O
+java:S3400Ç"9Remove this method and declare a constant for this value.(Ìî¦V
+U
+java:S3400é"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+V
+java:S1117Š	":Rename "angle" which hides the field declared at line 552.(ñ•×îşÿÿÿÿ
+E
+java:S1905Š	")Remove this unnecessary cast to "double".(ñ•×îşÿÿÿÿ
+N
+java:S1117º	"7Rename "hue" which hides the field declared at line 63.(õŠä›
+N
+java:S1854Ü	"7Remove this useless assignment to local variable "hue".(õŠä›
+?
+java:S1481Ü	"(Remove this unused "hue" local variable.(õŠä›
+8	java:S131Ş	""Add a default case to this switch.(ÜŸ•
+8	java:S131ó	""Add a default case to this switch.(ÜŸ•
+Q
+java:S1161“
+":Add the "@Override" annotation above this method signature(©îÔ‚
+=
+java:S3398ï"&Move this method into "ColorTriangle".(ö¯Ïÿ
+<
+java:S3398á"&Move this method into "ColorTriangle".(ßÍş
+=
+java:S3398÷"&Move this method into "ColorTriangle".(Ü‡œÕ

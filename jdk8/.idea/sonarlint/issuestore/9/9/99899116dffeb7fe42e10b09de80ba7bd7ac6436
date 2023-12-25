@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+k
+java:S1172M"PRemove these unused method parameters "pScalerContext", "glyphCode", "ptNumber".(ı¬µ¨úÿÿÿÿ
+J
+java:S1128 "4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+K
+java:S1128""0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ
+P
+java:S1128#":Remove this unused import 'java.nio.channels.FileChannel'.(±Áá

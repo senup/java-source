@@ -1,0 +1,8 @@
+
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âáíñ
+>
+java:S1604'"(Make this anonymous inner class a lambda(’­Ûü
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßÉÌ¦úÿÿÿÿ
+U
+java:S1118#":Add a private constructor to hide the implicit public one.(£Æ½‰øÿÿÿÿ

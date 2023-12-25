@@ -1,0 +1,19 @@
+
+P
+java:S1161J":Add the "@Override" annotation above this method signature(ÀÅÎ›
+M
+java:S1172T"2Remove this unused method parameter "fromScratch".(£‚âÁùÿÿÿÿ
+P
+java:S1161m":Add the "@Override" annotation above this method signature(ÊÉ„ã
+P
+java:S1161}":Add the "@Override" annotation above this method signature(è§©¯
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ«ñ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Ûß«¹ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“üíM
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¸Íƒ”
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¡ûÅ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(Å§ŒÔøÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(İÁ¯—üÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ø“Èûÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’

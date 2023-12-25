@@ -1,0 +1,70 @@
+
+K
+java:S1066¯"/Merge this if statement with the enclosing one.(ºêöìùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+]
+java:S2184j"BCast one of the operands of this addition operation to a "double".(˜ª¤‡ÿÿÿÿÿ
+]
+java:S2184k"BCast one of the operands of this addition operation to a "double".(è‡—ãıÿÿÿÿ
+a
+java:S2184÷"ECast one of the operands of this subtraction operation to a "double".(ù¸¿ÿÿÿÿÿ
+\
+java:S2184ø"ECast one of the operands of this subtraction operation to a "double".(ÍüÒô
+\
+java:S2184¬"ECast one of the operands of this subtraction operation to a "double".(ÓÏ«¬
+\
+java:S2184­"ECast one of the operands of this subtraction operation to a "double".(àÊ
+X
+java:S2184Ï"BCast one of the operands of this addition operation to a "double".(ìş´6
+Y
+java:S2184Ğ"BCast one of the operands of this addition operation to a "double".(ÉêƒÍ
+\
+java:S2184à"ECast one of the operands of this subtraction operation to a "double".(š«ãÛ
+\
+java:S2184à"ECast one of the operands of this subtraction operation to a "double".(š«ãÛ
+O
+java:S3516_"9Refactor this method to not always return the same value.(¡úõ³
+V	java:S107Q"<Method has 9 parameters, which is greater than 7 authorized.(æµĞèüÿÿÿÿ
+R	java:S107å"<Method has 9 parameters, which is greater than 7 authorized.(ıÑˆè
+W	java:S107’"<Method has 9 parameters, which is greater than 7 authorized.(Äàß¶ûÿÿÿÿ
+W	java:S107Ñ"<Method has 9 parameters, which is greater than 7 authorized.(µ³®«ùÿÿÿÿ
+W	java:S107¦"<Method has 9 parameters, which is greater than 7 authorized.(Ùø–ûÿÿÿÿ
+X	java:S107Ş"=Method has 12 parameters, which is greater than 7 authorized.(ÏÔªğøÿÿÿÿ
+X	java:S107›"=Method has 11 parameters, which is greater than 7 authorized.(èìªúÿÿÿÿ
+S	java:S107—"=Method has 13 parameters, which is greater than 7 authorized.(–¼º¡
+X	java:S107Ç"=Method has 14 parameters, which is greater than 7 authorized.(²„¹Ìúÿÿÿÿ
+A
+java:S1197±"*Move the array designators [] to the type.(ÕÓÁ†
+F
+java:S1197ô"*Move the array designators [] to the type.(¤á‚Äúÿÿÿÿ
+F
+java:S1197—"*Move the array designators [] to the type.(ƒùïÊúÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(µ³®«ùÿÿÿÿ
+X
+java:S1659¯"ADeclare "ddy1" and all following declarations on a separate line.(¤©í•
+W	java:S125”"<This block of commented-out lines of code should be removed.(Şöîğúÿÿÿÿ
+F
+java:S1197¨"*Move the array designators [] to the type.(¤‡¼„ÿÿÿÿÿ
+F
+java:S1197ı"*Move the array designators [] to the type.(Üö‡™ÿÿÿÿÿ
+n
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÏÔªğøÿÿÿÿ
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(èìªúÿÿÿÿ
+W
+java:S1659 "ADeclare "srcH" and all following declarations on a separate line.(É–Âd
+X
+java:S1659¡"ADeclare "srcY" and all following declarations on a separate line.(»‡¤µ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(ÌÔƒ»ÿÿÿÿÿ
+]
+java:S1126«"AReplace this if-then-else statement by a single return statement.(œº¸Óûÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(å”‰Şüÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(€ØÎêÿÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(òÈıùÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Ç»˜üÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(™‚ıÿÿÿÿ
+W
+java:S1144Å";Remove this unused private "getTransformColorModel" method.(å”‰Şüÿÿÿÿ

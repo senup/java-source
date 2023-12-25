@@ -1,0 +1,39 @@
+
+[	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(úãÌ#
+[	java:S112ž"FDefine and throw a dedicated exception instead of using a generic one.(úãÌ#
+[	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(úãÌ#
+F
+java:S3740ï"/Provide the parametrized type for this generic.(ÑÞ½Ë
+Q	java:S125$"<This block of commented-out lines of code should be removed.(Æ‰ãÐ
+T
+java:S5993L"9Change the visibility of this constructor to "protected".(˜Ôç«üÿÿÿÿ
+T
+java:S5993X"9Change the visibility of this constructor to "protected".(Œ­ä±ÿÿÿÿÿ
+“
+java:S1130L"xRemove the declaration of thrown exception 'java.security.KeyException', as it cannot be thrown from constructor's body.(˜Ôç«üÿÿÿÿ
+B
+java:S2160°"+Override the "equals" method in this class.(Ž¸¼ç
+B
+java:S1659²"&Declare "exponent" on a separate line.(¥íä›þÿÿÿÿ
+B
+java:S2160é"+Override the "equals" method in this class.(—îú˜
+U
+java:S1659ë">Declare "q" and all following declarations on a separate line.(²‚¤‘
+g
+java:S1450ë"PRemove the "j" field and declare it as a local variable in the relevant methods.(²‚¤‘
+R	java:S125ë"<This block of commented-out lines of code should be removed.(²‚¤‘
+W	java:S125²"<This block of commented-out lines of code should be removed.(â›â‰üÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(üàËÙ
+G
+java:S2160Ä"+Override the "equals" method in this class.(ÏÚŒ‘ýÿÿÿÿ
+d
+java:S1659É"HDeclare "decodePoint" and all following declarations on a separate line.(—Ûºîùÿÿÿÿ
+i
+java:S3776ž"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(æ€Ø¶
+T
+java:S1117¸"=Rename "ecParams" which hides the field declared at line 328.(½¹ùÑ
+R	java:S125à"<This block of commented-out lines of code should be removed.(¦‹à
+B
+java:S2160ç"+Override the "equals" method in this class.(¨ù´«
+<
+java:S1068ë"%Remove this unused "j" private field.(²‚¤‘

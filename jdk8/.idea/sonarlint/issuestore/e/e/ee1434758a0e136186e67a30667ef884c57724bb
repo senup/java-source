@@ -1,0 +1,37 @@
+
+C
+java:S11720"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+U
+java:S1161A":Add the "@Override" annotation above this method signature(ûà›øÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(›•æ‰úÿÿÿÿ
+E
+java:S1197E"*Move the array designators [] to the type.(œäâÒøÿÿÿÿ
+U
+java:S1161P":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(™ÍÖúÿÿÿÿ
+]
+java:S1126\"BReplace this if-then-else statement by a single method invocation.(œßŒ›ÿÿÿÿÿ
+Q	java:S125^"<This block of commented-out lines of code should be removed.(à˜ Ò
+—
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÉô
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åşÿÿÿÿ
+_
+java:S4201r"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÉË¢…
+E
+java:S1197s"*Move the array designators [] to the type.(Ëÿü¹üÿÿÿÿ
+E
+java:S1197{"*Move the array designators [] to the type.(É–Òşÿÿÿÿ
+E
+java:S1197}"*Move the array designators [] to the type.(Ë­ÆÌùÿÿÿÿ
+J
+java:S1128 "/Remove this unused import 'javax.swing.border'.(Õ˜ÀÆÿÿÿÿÿ
+I
+java:S1128!"3Remove this unused import 'javax.swing.plaf.basic'.(›€»
+K
+java:S1144E"0Remove this unused private "popupIsOpen" method.(œäâÒøÿÿÿÿ

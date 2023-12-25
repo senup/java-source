@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(†µ‚Œ
+€
+java:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÔÕ›«üÿÿÿÿ
+|
+java:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´Ú¯ 
+{
+java:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§·Õd
+<
+java:S1125\"'Remove the unnecessary boolean literal.(¦ò…q
+H
+java:S1905œ",Remove this unnecessary cast to "Principal".(´îàùùÿÿÿÿ

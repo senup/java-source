@@ -1,0 +1,50 @@
+
+J
+java:S37409"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ
+E
+java:S3740:"/Provide the parametrized type for this generic.(ò»¶ı
+E
+java:S3740O"/Provide the parametrized type for this generic.(ù”·
+E
+java:S3740Q"/Provide the parametrized type for this generic.(ÃßÛ
+F
+java:S3740â"/Provide the parametrized type for this generic.(Ü„Ûâ
+?
+java:S1604ÿ"(Make this anonymous inner class a lambda(¶™ç
+C
+java:S1948:"-Make "sourceModel" transient or serializable.(ò»¶ı
+A
+java:S1948A",Make "sourceLocn" transient or serializable.(ª¢öG
+
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ½™ñøÿÿÿÿ
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëØç¶
+˜
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òÕàÉ
+˜
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìè°
+˜
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©·ÑÎ
+
+java:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã°âèşÿÿÿÿ
+
+java:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûü®¦øÿÿÿÿ
+˜
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÿÏÔ
+
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏŸóˆøÿÿÿÿ
+˜
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÀ×Ã
+˜
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÖ»
+D	java:S108”")Either remove or fill this block of code.(ä±üÿÿÿÿ
+D	java:S108¡")Either remove or fill this block of code.(ä±üÿÿÿÿ
+D	java:S108Ñ")Either remove or fill this block of code.(Û¡Ñıÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(Õğª÷
+R	java:S125º"<This block of commented-out lines of code should be removed.(Ù¯ËÀ
+O
+java:S1117â"8Rename "list" which hides the field declared at line 57.(Ü„Ûâ
+B
+java:S3398Ë"+Move this method into "SourceToolListener".(îÏ
+=
+java:S10683"'Remove this unused "env" private field.(«ª“ø

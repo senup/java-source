@@ -1,0 +1,92 @@
+
+n	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(æ’âãùÿÿÿÿ
+s	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(æ’âãùÿÿÿÿ
+s	java:S127Þ"XRefactor the code in order to not assign to this loop counter from within the loop body.(æ’âãùÿÿÿÿ
+K
+java:S1066Þ"/Merge this if statement with the enclosing one.(•£¬‡üÿÿÿÿ
+X
+java:S4973™"<Strings and Boxed types should be compared using "equals()".(©ÉŸøÿÿÿÿ
+X
+java:S4973›"<Strings and Boxed types should be compared using "equals()".(Ë²Ç øÿÿÿÿ
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(§
+X
+java:S4973ž"<Strings and Boxed types should be compared using "equals()".(¨†ìÒüÿÿÿÿ
+R
+java:S4973Ÿ"<Strings and Boxed types should be compared using "equals()".(«ŸÆ
+S
+java:S4973 "<Strings and Boxed types should be compared using "equals()".(šÓï
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤üˆØúÿÿÿÿ
+E
+java:S1659<"*Declare "cancelButton" on a separate line.(¯¡Í´üÿÿÿÿ
+O
+java:S5993J"9Change the visibility of this constructor to "protected".(ªØŽ™
+P
+java:S1854T":Remove this useless assignment to local variable "region".(š˜óš
+A
+java:S1481T"+Remove this unused "region" local variable.(š˜óš
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Ú¯ò©
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(Ç¦¡þ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
+
+java:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰öÔþÿÿÿÿ
+u
+java:S2177º"^Rename this method or correct the type of the argument(s) to override the parent class method.(þ—èÐ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(¸—®Ëúÿÿÿÿ
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(´Ÿ½
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Ã÷´
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(•·þˆýÿÿÿÿ
+V
+java:S1161Þ":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(Ö¼ôªÿÿÿÿÿ
+a
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(Ö¼ôªÿÿÿÿÿ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(ˆÙ‹·
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(ˆÙ‹·
+?
+java:S1172ù"(Remove this unused method parameter "e".(¬«æ
+?
+java:S1172ÿ"(Remove this unused method parameter "e".(«ÎÚ—
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(Ú¯ü¼üÿÿÿÿ
+s
+java:S2177‚"WRename this method; there is a "private" method in the parent class with the same name.(ÿÌ¨ùÿÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ü»¶ûÿÿÿÿ
+=	java:S131Å""Add a default case to this switch.(ø§šÃþÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(ëÎ¯³üÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Áª¬Çúÿÿÿÿ
+@
+java:S1172”")Remove this unused method parameter "fc".(ÉÂœà
+V
+java:S1161š":Add the "@Override" annotation above this method signature(Âù±Òúÿÿÿÿ
+m	java:S116ž"RRename this field "_insets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾»Ÿùÿÿÿÿ
+V
+java:S1161©":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+P
+java:S1117°"9Rename "style" which hides the field declared at line 62.(˜‘þÑ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(³Þ–Âÿÿÿÿÿ
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(Ö£¸Áüÿÿÿÿ
+G
+java:S3398Ü"0Move this method into "DelayedSelectionUpdater".(¯ö¦ç
+M
+java:S3398‚"1Move this method into "FileNameCompletionAction".(ÿÌ¨ùÿÿÿÿÿ
+I
+java:S1144X".Remove this unused private "getRegion" method.(ŠÑÊøÿÿÿÿ

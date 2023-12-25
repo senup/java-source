@@ -1,0 +1,7 @@
+
+P
+java:S1191("5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+v
+java:S1450Z"[Remove the "numColGroups" field and declare it as a local variable in the relevant methods.(Õ£ÔÃûÿÿÿÿ
+K
+java:S1068Z"0Remove this unused "numColGroups" private field.(Õ£ÔÃûÿÿÿÿ

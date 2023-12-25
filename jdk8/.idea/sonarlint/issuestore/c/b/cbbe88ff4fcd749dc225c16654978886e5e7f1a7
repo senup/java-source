@@ -1,0 +1,152 @@
+
+a	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+{
+java:S1192ú"_Define a constant instead of duplicating this literal "filteredrowsetimpl.notallowed" 18 times.(ÖÈä˜üÿÿÿÿ
+F
+java:S1066ö"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066¹"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066ı"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066Â"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066†"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066É"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066Œ"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066Ï"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066•"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066á"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066¥	"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066ë	"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066²
+"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066ø
+"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066½"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066‡"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066Î"/Merge this if statement with the enclosing one.(ÌªŞÉ
+F
+java:S1066–"/Merge this if statement with the enclosing one.(ÌªŞÉ
+f	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™…Ğ2
+@
+java:S21570"%Add a "clone()" method to this class.(ôèì“üÿÿÿÿ
+>
+java:S19482"#Make "p" transient or serializable.(ÈóÅşÿÿÿÿ
+q
+java:S1149F"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À€œÎüÿÿÿÿ
+U
+java:S1161f":Add the "@Override" annotation above this method signature(ïÇéÏÿÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(®‚ïİıÿÿÿÿ
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(¤¥²½
+V
+java:S1161»":Add the "@Override" annotation above this method signature(öÚÚşşÿÿÿÿ
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(—ÌÖşùÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(ö–¹„ûÿÿÿÿ
+V
+java:S1161ı":Add the "@Override" annotation above this method signature(³³Èúÿÿÿÿ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(É¹¿™
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(„ĞÒÊúÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(Ğš¶¥
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(ŠóÉŸ
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(º¾–Şşÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(àË½Æÿÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(É´¬ıÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(«ÿğÈüÿÿÿÿ
+P
+java:S1161ä":Add the "@Override" annotation above this method signature(ÚÊ™
+V
+java:S1161":Add the "@Override" annotation above this method signature(Í¸™‰ıÿÿÿÿ
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(—÷ÁÅşÿÿÿÿ
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(™¡¼ûÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(Û§Óƒûÿÿÿÿ
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(¦Ø´ÿÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(¡ßú‡şÿÿÿÿ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(·ùÅ…ÿÿÿÿÿ
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(°¿³¥
+V
+java:S1161":Add the "@Override" annotation above this method signature(‚Š´âùÿÿÿÿ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(Ñûƒ¼ıÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(¢Âªøÿÿÿÿ
+Q
+java:S1161ƒ	":Add the "@Override" annotation above this method signature(âòÿ·
+V
+java:S1161 	":Add the "@Override" annotation above this method signature(“‰Ì­üÿÿÿÿ
+Q
+java:S1161É	":Add the "@Override" annotation above this method signature(ì½¶
+V
+java:S1161æ	":Add the "@Override" annotation above this method signature(Ó•ïïûÿÿÿÿ
+Q
+java:S1161
+":Add the "@Override" annotation above this method signature(°É÷ƒ
+V
+java:S1161­
+":Add the "@Override" annotation above this method signature(’Ú²‚ûÿÿÿÿ
+V
+java:S1161Ù
+":Add the "@Override" annotation above this method signature(ı˜»Ñøÿÿÿÿ
+Q
+java:S1161ó
+":Add the "@Override" annotation above this method signature(ğí¤–
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(·´¢µ
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(¢Òıøÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(©ã³şÿÿÿÿ
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(ÍÃÈ„
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(™Íİ€
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(…Öì²
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(¥£¡
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(°Ôà‚şÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(€¥ÈĞûÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(³Ô‚üùÿÿÿÿ
+A
+java:S1128"&Remove this unused import 'javax.sql'.(üØ—ÿşÿÿÿÿ
+G
+java:S1128#"1Remove this unused import 'javax.sql.rowset.spi'.(ƒåÔ¾
+J
+java:S1128$"4Remove this unused import 'javax.sql.rowset.serial'.(ÒÕ¸’
+K
+java:S1128%"5Remove this unused import 'com.sun.rowset.providers'.(Ô¿‹—
+J
+java:S1128&"4Remove this unused import 'com.sun.rowset.internal'.(€İÛ¤

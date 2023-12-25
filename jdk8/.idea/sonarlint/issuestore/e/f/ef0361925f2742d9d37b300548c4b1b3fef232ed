@@ -1,0 +1,51 @@
+
+`	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(¿ç˜²ùÿÿÿÿ
+a	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(¿ßğ›şÿÿÿÿ
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(İáîî
+a	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(¿ç˜²ùÿÿÿÿ
+\	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(¾ıÆ½
+[	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(îÛˆF
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(îÛˆF
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ˆÊ’
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(§Ñ¥¾şÿÿÿÿ
+n	java:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(°Ë²
+E
+java:S1066\"/Merge this if statement with the enclosing one.(Ÿ­„
+J
+java:S1066]"/Merge this if statement with the enclosing one.(½º‚éøÿÿÿÿ
+Q
+java:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141µ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+8
+java:S1643¡"Use a StringBuilder instead.(©¤‘Îúÿÿÿÿ
+3
+java:S1643°"Use a StringBuilder instead.(ò´îè
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(±å…ç
+v
+java:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²Ì
+v
+java:S1149á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+;
+java:S51646" Call "remove()" on "contextRef".(®ÅÒ¦úÿÿÿÿ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¯Õ·”
+h
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(úº
+i
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾ıÆ½
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(“ß¹,
+U
+java:S1155ì">Use isEmpty() to check whether the collection is empty or not.(úÓË…
+F
+java:S1197ñ"*Move the array designators [] to the type.(•·ÑŞøÿÿÿÿ
+p
+java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÁíÕê

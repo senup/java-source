@@ -1,0 +1,20 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•œ¶ğüÿÿÿÿ
+F
+java:S1948-"+Make "sortArrow" transient or serializable.(àü‹çùÿÿÿÿ
+V
+java:S32521"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ºÅ”
+
+U
+java:S11614":Add the "@Override" annotation above this method signature(•‘çıüÿÿÿÿ
+h
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(íÔ­¢
+P
+java:S11619":Add the "@Override" annotation above this method signature(íÔ­¢
+X
+java:S3252Z"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ÏÂ¤‹
+U
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(àŒ„Ô
+
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ëªíøÿÿÿÿ

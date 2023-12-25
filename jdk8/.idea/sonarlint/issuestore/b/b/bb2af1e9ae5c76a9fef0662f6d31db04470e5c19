@@ -1,0 +1,24 @@
+
+J
+java:S3740*"/Provide the parametrized type for this generic.(ì²Øİşÿÿÿÿ
+E
+java:S3740+"/Provide the parametrized type for this generic.(ûÔ§
+E
+java:S37401"/Provide the parametrized type for this generic.(¾¼İ´
+E
+java:S37401"/Provide the parametrized type for this generic.(¾¼İ´
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+q
+java:S3008*"VRename this field "RegionClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì²Øİşÿÿÿÿ
+t
+java:S3008+"^Rename this field "RegionIteratorClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ§
+V	java:S107P"<Method has 9 parameters, which is greater than 7 authorized.(ù§ƒúøÿÿÿÿ
+@
+java:S1197:"*Move the array designators [] to the type.(Êï´í
+E
+java:S1197;"*Move the array designators [] to the type.(ƒáŒıÿÿÿÿ
+D
+java:S1172S")Remove this unused method parameter "sr".(Ä„ëŸûÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ

@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+B
+java:S2060)"'Add a no-arg constructor to this class.(ÊÔÎ±úÿÿÿÿ
+U
+java:S1161G":Add the "@Override" annotation above this method signature(­±Áüÿÿÿÿ
+U
+java:S1161R":Add the "@Override" annotation above this method signature(°¸£ùÿÿÿÿ
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(ºµ³‰ıÿÿÿÿ
+:
+java:S1128"%Remove this unused import 'java.rmi'.(­´k

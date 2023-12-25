@@ -1,0 +1,21 @@
+
+K
+java:S3740Š"/Provide the parametrized type for this generic.(…œŸıÿÿÿÿ
+b
+java:S1192·"FDefine a constant instead of duplicating this literal "value" 3 times.(ÿÙóÜøÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßÉÌ¦úÿÿÿÿ
+<
+java:S11706"!Make this final field static too.(ö¸Â·ùÿÿÿÿ
+Z
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(üŠ]
+U
+java:S1161P":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(õÌèûüÿÿÿÿ
+_
+java:S3878‹"CDisambiguate this call by either casting as "Object" or "Object[]".(ˆ¿•æùÿÿÿÿ
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(ñâÄî
+Q
+java:S1161":Add the "@Override" annotation above this method signature(‚«ƒõ

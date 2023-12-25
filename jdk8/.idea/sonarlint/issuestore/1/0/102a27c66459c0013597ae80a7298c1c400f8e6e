@@ -1,0 +1,17 @@
+
+b
+java:S1192Š"FDefine a constant instead of duplicating this literal "empty" 5 times.(ó´¶“øÿÿÿÿ
+Z
+java:S2259¨"CA "NullPointerException" could be thrown; "input" is nullable here.(êœŠ
+<
+java:S1168m"&Return an empty array instead of null.(¥¹ï
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(„ä‰ïşÿÿÿÿ
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(°×¡™ùÿÿÿÿ
+g
+java:S3457“"KFormat specifiers or lambda should be used instead of string concatenation.(å ÊÍøÿÿÿÿ
+\
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(€àÈ„
+b
+java:S3457·"KFormat specifiers or lambda should be used instead of string concatenation.(…Œµ¹

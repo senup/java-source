@@ -1,0 +1,34 @@
+
+[
+java:S1192f"FDefine a constant instead of duplicating this literal "ascii" 4 times.(–ô»W
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èãþ­ÿÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ¼Ëøÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èãþ­ÿÿÿÿÿ
+l	java:S117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ¼Ëøÿÿÿÿ
+a
+java:S1301\"KReplace this "switch" statement by "if" statements to increase readability.(®Êºÿ
+c
+java:S2184/"HCast one of the operands of this multiplication operation to a "double".(†üÙ˜ùÿÿÿÿ
+c
+java:S21844"HCast one of the operands of this multiplication operation to a "double".(†üÙ˜ùÿÿÿÿ
+c
+java:S2184<"HCast one of the operands of this multiplication operation to a "double".(†üÙ˜ùÿÿÿÿ
+c
+java:S2184B"HCast one of the operands of this multiplication operation to a "double".(†üÙ˜ùÿÿÿÿ
+^
+java:S2184§"BCast one of the operands of this addition operation to a "double".(ª®º©úÿÿÿÿ
+^
+java:S2184Ö"BCast one of the operands of this addition operation to a "double".(ª®º©úÿÿÿÿ
+i
+java:S3776X"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(ßîßð
+Q	java:S125N"<This block of commented-out lines of code should be removed.(÷ã Í
+7	java:S131\""Add a default case to this switch.(®Êºÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(»³æšÿÿÿÿÿ
+Q
+java:S4719f"<Replace charset name argument with StandardCharsets.US_ASCII(–ô»W
+R
+java:S4719Š"<Replace charset name argument with StandardCharsets.US_ASCII(ü…ðc
+R
+java:S4719Ÿ"<Replace charset name argument with StandardCharsets.US_ASCII(ü…ðc
+R
+java:S4719±"<Replace charset name argument with StandardCharsets.US_ASCII(ü…ðc

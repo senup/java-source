@@ -1,0 +1,16 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+œ
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Îä¿ßüÿÿÿÿ
+K
+java:S2446A"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(òìÎ’
+N	java:S106…"9Replace this use of System.out or System.err by a logger.(³ˆå%
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(‡‰Àèøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×ÿµıúÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ÙßÍÙ
+B
+java:S1150–"+Implement Iterator rather than Enumeration.(á¤ñá
+B
+java:S1150¯"+Implement Iterator rather than Enumeration.(ŠŒ™“

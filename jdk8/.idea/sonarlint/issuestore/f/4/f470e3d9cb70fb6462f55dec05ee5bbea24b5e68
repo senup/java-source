@@ -1,0 +1,23 @@
+
+b	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãÌÂ™
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+u
+java:S3008@"ZRename this field "DEC0208_Solaris" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä©³Úøÿÿÿÿ
+u
+java:S3008B"ZRename this field "DEC0212_Solaris" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù§Œøÿÿÿÿ
+U
+java:S1161K":Add the "@Override" annotation above this method signature(…ĞæŸıÿÿÿÿ
+u
+java:S3008T"ZRename this field "ENC0208_Solaris" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ò€õıÿÿÿÿ
+p
+java:S3008W"ZRename this field "ENC0212_Solaris" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÑäÂ
+V	java:S125_"<This block of commented-out lines of code should be removed.(ŒÓ®Èşÿÿÿÿ
+U
+java:S1161c":Add the "@Override" annotation above this method signature(æ•Ã³úÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.nio.CharBuffer'.(¦­²ãşÿÿÿÿ
+O
+java:S1128!"9Remove this unused import 'java.nio.charset.CoderResult'.(ÕŸ—Š

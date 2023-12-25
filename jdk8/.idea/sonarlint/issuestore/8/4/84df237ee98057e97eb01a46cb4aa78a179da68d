@@ -1,0 +1,19 @@
+
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÙµ˜úÿÿÿÿ
+>
+java:S1604`"(Make this anonymous inner class a lambda(ü×Ú³
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+m
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(àÖØ¼úÿÿÿÿ
+U
+java:S1161I":Add the "@Override" annotation above this method signature(àÖØ¼úÿÿÿÿ
+P
+java:S1161O":Add the "@Override" annotation above this method signature(æ˜»õ
+Y
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(âÁ·¹üÿÿÿÿ
+P
+java:S1161x":Add the "@Override" annotation above this method signature(·à‘í
+P
+java:S1161|":Add the "@Override" annotation above this method signature(ë­±ÿ

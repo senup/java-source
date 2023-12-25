@@ -1,0 +1,28 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+p	java:S115¦"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ĞåİÜ
+u	java:S115ª"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Øõñáùÿÿÿÿ
+u	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­´ªÿÿÿÿÿ
+u	java:S115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì‹±Õûÿÿÿÿ
+p	java:S115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æ¨ï
+p	java:S115î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã¥«Ç
+u	java:S115ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áöÉĞıÿÿÿÿ
+u	java:S115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”šæøÿÿÿÿ
+u	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…õÇãøÿÿÿÿ
+u	java:S115ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëúÚÛùÿÿÿÿ
+n	java:S116Ï"SRename this field "m_index_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„šŒüÿÿÿÿ
+w	java:S116Ô"\Rename this field "m_dataManipulate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëôù¨øÿÿÿÿ
+s	java:S116Û"XRename this field "m_dataOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦±ØĞÿÿÿÿÿ
+n	java:S116ß"XRename this field "m_dataLength_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‘±±
+w	java:S116ı"\Rename this field "m_isLatin1Linear_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼«èûÿÿÿÿ
+k	java:S116‡"URename this field "m_options_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óöÄü
+F
+java:S1197‘"*Move the array designators [] to the type.(ü£‡Àûÿÿÿÿ
+F
+java:S1197Ï"*Move the array designators [] to the type.(„šŒüÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(û…»äúÿÿÿÿ
+]
+java:S1126š"AReplace this if-then-else statement by a single return statement.(¨ÚÇĞÿÿÿÿÿ
+Q
+java:S1068ı"5Remove this unused "m_isLatin1Linear_" private field.(ó¼«èûÿÿÿÿ

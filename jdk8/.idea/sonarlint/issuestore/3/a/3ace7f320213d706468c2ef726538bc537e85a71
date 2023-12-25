@@ -1,0 +1,6 @@
+
+s	java:S135^"YReduce the total number of break and continue statements in this loop to use at most one.(òÔàûˇˇˇˇˇ
+t	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨ùœ√˝ˇˇˇˇ
+O
+java:S1161>":Add the "@Override" annotation above this method signature(ù∏…
+W	java:S125ã"<This block of commented-out lines of code should be removed.(„Ú…÷˘ˇˇˇˇ

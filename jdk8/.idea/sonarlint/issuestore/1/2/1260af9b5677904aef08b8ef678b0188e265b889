@@ -1,0 +1,91 @@
+
+q
+java:S1192¢"ZDefine a constant instead of duplicating this literal "error reading from server" 3 times.(“¡è¤
+~
+java:S1192Ğ"gDefine a constant instead of duplicating this literal "Content-type: application/octet-stream" 3 times.(Çºø»
+f
+java:S1192Ï"ODefine a constant instead of duplicating this literal "Status: 200 OK" 4 times.(—´äµ
+c
+java:S1192·"GDefine a constant instead of duplicating this literal "<HTML>" 3 times.(œÓüÿÿÿÿ
+t
+java:S1192µ"XDefine a constant instead of duplicating this literal "Content-type: text/html" 3 times.(Ù§Èùşÿÿÿÿ
+c
+java:S1192º"GDefine a constant instead of duplicating this literal "<BODY>" 3 times.(Ü«Ïîüÿÿÿÿ
+f
+java:S1192¾"ODefine a constant instead of duplicating this literal "</BODY></HTML>" 3 times.( ³±‰
+l
+java:S1192¹"PDefine a constant instead of duplicating this literal "</TITLE></HEAD>" 3 times.(§Õ³Îıÿÿÿÿ
+Q
+java:S1141œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604g"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Øé»’
+`
+java:S2095ú"DUse try-with-resources or close this "Socket" in a "finally" clause.(ß“óÌøÿÿÿÿ
+s
+java:S3008_"XRename this field "ContentLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ûÕşÿÿÿÿ
+q
+java:S3008`"VRename this field "QueryString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëè×‹ùÿÿÿÿ
+s
+java:S3008a"XRename this field "RequestMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¼–”ûÿÿÿÿ
+k
+java:S3008b"URename this field "ServerName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï—†ƒ
+p
+java:S3008c"URename this field "ServerPort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼µí®ûÿÿÿÿ
+q
+java:S1149}"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ó¹ïˆùÿÿÿÿ
+?
+java:S1197u"*Move the array designators [] to the type.(¼ÀØ(
+F
+java:S1197Œ"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+?
+java:S1659"#Declare "param" on a separate line.(Ø«œËùÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(í”„Ú
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ù§Èùşÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(œÓüÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(¢µ¯°ÿÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.( ³±‰
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(ñ¨ğ›
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(Ù§Èùşÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(œÓüÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Ğèóúÿÿÿÿ
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.( ³±‰
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(º”Áıùÿÿÿÿ
+A
+java:S1197÷"*Move the array designators [] to the type.(ô¹…­
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(—´äµ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Çºø»
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Òú’çùÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(—´äµ
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(Çºø»
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(‘‹ã°
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(Í×êé
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+O	java:S106ı"9Replace this use of System.out or System.err by a logger.(—´äµ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(Çºø»
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(»©õéùÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(—´äµ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(Ù§Èùşÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(œÓüÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(§›™¶
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(¤Êø™
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(¤È²Ûûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü§ôùÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ÇÂ°òÿÿÿÿÿ
+N	java:S106¢"9Replace this use of System.out or System.err by a logger.(±ã„+
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(’¸Ç¡
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(Úšï¹üÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.( ³±‰

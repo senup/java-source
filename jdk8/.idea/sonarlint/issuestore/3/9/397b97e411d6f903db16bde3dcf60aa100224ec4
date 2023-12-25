@@ -1,0 +1,19 @@
+
+D
+java:S1066z"/Merge this if statement with the enclosing one.(××”v
+F
+java:S1066û"/Merge this if statement with the enclosing one.(ÖšÄŠ
+g
+java:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(Õÿêèþÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÝÃêâøÿÿÿÿ
+t
+java:S3008W"YRename this field "REST_OF_STYLES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Œ‡£ÿÿÿÿÿ
+m
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ïê—Çùÿÿÿÿ
+m
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(§•ÀŒûÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Å‡ßËÿÿÿÿÿ
+=	java:S131î""Add a default case to this switch.(ÕÄªâþÿÿÿÿ
+=	java:S131®""Add a default case to this switch.(Õÿêèþÿÿÿÿ

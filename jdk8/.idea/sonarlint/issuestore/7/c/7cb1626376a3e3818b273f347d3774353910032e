@@ -1,0 +1,45 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ö…›ÿÿÿÿÿ
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜±²ûÿÿÿÿ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ€£…
+u
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¨ßòûÿÿÿÿ
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(İõ¡Ÿ
+_
+java:S1192Â"HDefine a constant instead of duplicating this literal "midi_cc" 6 times.(ô ª
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¿êÏûÿÿÿÿ
+f	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•é?
+g	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šç¬
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïçúÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ»
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Îğùÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÖÓùÿÿÿÿ
+f	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•íä`
+]
+java:S2184š"ACast one of the operands of this addition operation to a "float".(Şñüÿÿÿÿ
+U
+java:S1161A":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ
+P
+java:S1161I":Add the "@Override" annotation above this method signature(†•‡
+m
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ãß¾½øÿÿÿÿ
+h
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©É
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(èºåÎşÿÿÿÿ
+i
+java:S1871ö"MThis branch's code block is the same as the block for the branch on line 242.(Ö—™şÿÿÿÿ
+d
+java:S1871„"MThis branch's code block is the same as the block for the branch on line 256.(¿ò³
+R	java:S125‘"<This block of commented-out lines of code should be removed.(Â¥²
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(ŸÚğà
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿì£øÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(Ÿì£øÿÿÿÿ
+Z
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(¢Ëê˜ùÿÿÿÿ

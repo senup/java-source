@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+S	java:S106."9Replace this use of System.out or System.err by a logger.(þÔ‰—úÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(›÷î¢ýÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ð‹þ–ûÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(‹ØàÄ

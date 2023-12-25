@@ -1,0 +1,25 @@
+
+E
+java:S3740Y"/Provide the parametrized type for this generic.(ûá—Ä
+F
+java:S3740†"/Provide the parametrized type for this generic.(Õ‘Â¡
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÊş½üÿÿÿÿ
+o
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó•Äò
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Ø€èøÿÿÿÿ
+q
+java:S11493"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÊÊş½üÿÿÿÿ
+l
+java:S11494"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ó•Äò
+q
+java:S11495"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(›Ø€èøÿÿÿÿ
+m
+java:S1149†"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Õ‘Â¡
+P
+java:S1161?":Add the "@Override" annotation above this method signature(äıñ
+U
+java:S1161C":Add the "@Override" annotation above this method signature(îï³ãÿÿÿÿÿ
+H
+java:S1128#"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

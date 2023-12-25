@@ -1,0 +1,64 @@
+
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÉ×ùÿÿÿÿ
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Â¿·üÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â‰ˆ‘
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÅ§ˆıÿÿÿÿ
+a
+java:S1192Î"KDefine a constant instead of duplicating this literal "Transforms" 3 times.(åô–
+
+Q
+java:S1141ù"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604R"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
+?
+java:S1604…"(Make this anonymous inner class a lambda(µ×³
+Y
+java:S1163º"=Refactor this code to not throw exceptions in finally blocks.(“ ¯Îûÿÿÿÿ
+Y
+java:S1163Á"=Refactor this code to not throw exceptions in finally blocks.(“ ¯Îûÿÿÿÿ
+P
+java:S1143º"4Remove this throw statement from this finally block.(“ ¯Îûÿÿÿÿ
+P
+java:S1143Á"4Remove this throw statement from this finally block.(“ ¯Îûÿÿÿÿ
+W	java:S107…"AConstructor has 8 parameters, which is greater than 7 authorized.(ºÁ÷²
+W	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(ºÁ÷²
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºÁ÷²
+E
+java:S1905¹")Remove this unnecessary cast to "byte[]".(ß°ó¤üÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÉÙ’˜ıÿÿÿÿ
+Z
+java:S1117Í">Rename "transforms" which hides the field declared at line 94.(óÅ§ˆıÿÿÿÿ
+b
+java:S3457õ"KFormat specifiers or lambda should be used instead of string concatenation.(äáÈ
+g
+java:S3457’"KFormat specifiers or lambda should be used instead of string concatenation.(åË†îüÿÿÿÿ
+a
+java:S3457“"KFormat specifiers or lambda should be used instead of string concatenation.(Ïóê
+g
+java:S3457°"KFormat specifiers or lambda should be used instead of string concatenation.(Ê›ºŞûÿÿÿÿ
+g
+java:S3457±"KFormat specifiers or lambda should be used instead of string concatenation.(ì‚İæøÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(Çáš´ıÿÿÿÿ
+a
+java:S2147­"ECombine this catch with the one at line 555, which has the same body.(Ïõõûÿÿÿÿ
+\
+java:S2147¯"ECombine this catch with the one at line 555, which has the same body.(ÌíçÆ
+\
+java:S2147±"ECombine this catch with the one at line 555, which has the same body.(ï­£Ä
+\
+java:S2147³"ECombine this catch with the one at line 555, which has the same body.(®»ï¹
+F
+java:S2093Ò"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+a
+java:S3457Š"KFormat specifiers or lambda should be used instead of string concatenation.(›ê¬7
+b
+java:S3457—"KFormat specifiers or lambda should be used instead of string concatenation.(µ¼¨ó

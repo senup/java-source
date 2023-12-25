@@ -1,0 +1,11 @@
+
+l
+java:S1128%"QRemove this unnecessary import: java.lang classes are always implicitly imported.(…üî©şÿÿÿÿ
+P
+java:S1133g"5Do not forget to remove this deprecated code someday.(ª°æüÿÿÿÿ
+H
+java:S1128!"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+K
+java:S1128""0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+Q
+java:S1128#"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ

@@ -1,0 +1,27 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+V	java:S107z"<Method has 8 parameters, which is greater than 7 authorized.(¤á²ûøÿÿÿÿ
+R	java:S107­"<Method has 8 parameters, which is greater than 7 authorized.(ë•óö
+`
+java:S1764@"KCorrect one of the identical sub-expressions on both sides of operator "<<"(äµ!
+R	java:S125"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+W	java:S125•"<This block of commented-out lines of code should be removed.(õë‹Êÿÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ë•óö
+R	java:S125²"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+M
+java:S2696æ"6Make the enclosing method "static" or remove this set.(ìä”Ú
+8
+java:S1110ñ"!Remove these useless parentheses.(×ªçÙ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125Î"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+F
+java:S1197ã"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+.
+java:S2183@"Remove this useless shift(äµ!

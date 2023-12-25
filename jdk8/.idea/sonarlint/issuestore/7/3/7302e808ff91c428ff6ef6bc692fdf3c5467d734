@@ -1,0 +1,25 @@
+
+I
+java:S1121z".Extract the assignment out of this expression.(¢Þ–îþÿÿÿÿ
+b
+java:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(×ºí
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.(ÀÉ¸
+>
+java:S1172,"(Remove this unused method parameter "h".(´Â×ý
+U
+java:S11610":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+U
+java:S1161;":Add the "@Override" annotation above this method signature(ã¼‚½ýÿÿÿÿ
+[
+java:S1659L"EDeclare "hasFocus" and all following declarations on a separate line.(¨øŸÍ
+<
+java:S1948K"&Make "skin" transient or serializable.(Ý¹œÎ
+h
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(íÔ­¢
+P
+java:S1161S":Add the "@Override" annotation above this method signature(íÔ­¢
+o	java:S131‚"YComplete cases by adding the missing enum constants or add a default case to this switch.(×ºí
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(¶øÂÁ
+b	java:S128¹"LEnd this switch case with an unconditional break, return or throw statement.(×¨ýÁ

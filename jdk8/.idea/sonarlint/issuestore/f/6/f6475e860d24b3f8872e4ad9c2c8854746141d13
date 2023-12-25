@@ -1,0 +1,19 @@
+
+D
+java:S37401"/Provide the parametrized type for this generic.(ÔÏ¨
+P
+java:S1191/"5Use classes from the Java API instead of Sun classes.(Ë¶‚üÿÿÿÿ
+U
+java:S1610":Convert the abstract class "DOMService" into an interface.(…À´›üÿÿÿÿ
+T
+java:S5993B"9Change the visibility of this constructor to "protected".(…¥¼ğûÿÿÿÿ
+W
+java:S1854."<Remove this useless assignment to local variable "provider".(ª÷´˜øÿÿÿÿ
+E
+java:S1172)"*Remove this unused method parameter "obj".(Üõ¾¿øÿÿÿÿ
+;
+java:S11815"%Catch Exception instead of Throwable.(çãòó
+D
+java:S1905.")Remove this unnecessary cast to "String".(ª÷´˜øÿÿÿÿ
+H
+java:S1481."-Remove this unused "provider" local variable.(ª÷´˜øÿÿÿÿ

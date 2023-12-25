@@ -1,0 +1,24 @@
+
+K
+java:S1066"/Merge this if statement with the enclosing one.(·óªÿÿÿÿÿ
+?
+java:S1604å"(Make this anonymous inner class a lambda(óêµÇ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+O
+java:S5993D"9Change the visibility of this constructor to "protected".(™½ß¯
+R	java:S107„"<Method has 8 parameters, which is greater than 7 authorized.(œˆ¹¹
+R	java:S125¤"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+R	java:S125®"<This block of commented-out lines of code should be removed.(Ï»ÎÛ
+@
+java:S1659ˆ"$Declare "transy" on a separate line.(ò¼±Úúÿÿÿÿ
+@
+java:S1659¤"$Declare "transy" on a separate line.(ò¼±Úúÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.awt.BasicStroke'.(À‰Øê
+Z
+java:S1128#"DRemove this unused import 'java.awt.geom.IllegalPathStateException'.(ºë‘™
+R
+java:S1128$"7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ
+Q
+java:S1128%"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ

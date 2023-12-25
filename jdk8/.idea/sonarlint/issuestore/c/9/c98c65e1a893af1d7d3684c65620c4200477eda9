@@ -1,0 +1,72 @@
+
+o
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤‹Â
+F
+java:S1066ï"/Merge this if statement with the enclosing one.(¾İû
+?
+java:S1604•"(Make this anonymous inner class a lambda(À‡×
+D
+java:S1604°"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+>
+java:S1604ƒ"(Make this anonymous inner class a lambda(¸×ÒG
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(âºªÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¸ÉÊ¥øÿÿÿÿ
+>
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+o	java:S115a"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘Ô˜¡
+o	java:S115b"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Ÿô
+q
+java:S1450O"\Remove the "selectionMenu" field and declare it as a local variable in the relevant methods.(€˜¡q
+{
+java:S1149W"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÈÉ›ø
+q
+java:S1149c"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¼Ü¯‡ùÿÿÿÿ
+u
+java:S2142ˆ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108ˆ")Either remove or fill this block of code.(ä ¹€
+\
+java:S2147œ"ECombine this catch with the one at line 155, which has the same body.(ÄéÍõ
+z
+java:S2142›"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+D	java:S108›")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ
+^
+java:S2094«"BRemove this empty class, write its code or make it an "interface".(·™ûµúÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(ÀĞú
+L
+java:S2446×"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+u
+java:S2142÷"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108÷")Either remove or fill this block of code.(ä ¹€
+N
+java:S1135Á"2Complete the task associated to this TODO comment.(²¨Âµøÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’®º·şÿÿÿÿ
+[
+java:S1659é"DDeclare "country" and all following declarations on a separate line.(›™€Å
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.( ã€Ï
+=
+java:S1075é"&Remove this hard-coded path-delimiter.(·»
+D	java:S108ó")Either remove or fill this block of code.(Öşäµùÿÿÿÿ
+2
+java:S3626³"Remove this redundant jump.(ûÁİ…
+<
+java:S1075¬"&Remove this hard-coded path-delimiter.(¿ƒÊw
+Q
+java:S1128"6Remove this unused import 'java.awt.CheckboxMenuItem'.(Ó•İıøÿÿÿÿ
+J
+java:S1128""/Remove this unused import 'java.awt.PopupMenu'.(„ÙÑ¢øÿÿÿÿ
+E
+java:S1128#"*Remove this unused import 'java.awt.Menu'.(æ»Éêşÿÿÿÿ
+D
+java:S1128$".Remove this unused import 'java.awt.MenuItem'.(«ä›õ
+M
+java:S1128'"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+P
+java:S1128(":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+E
+java:S11281"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+E
+java:S11285"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

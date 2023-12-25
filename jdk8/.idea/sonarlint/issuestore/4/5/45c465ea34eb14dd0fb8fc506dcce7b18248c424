@@ -1,0 +1,20 @@
+
+>
+java:S1604¢"(Make this anonymous inner class a lambda(ÆŞÖ
+>
+java:S1604¸"(Make this anonymous inner class a lambda(ÆŞÖ
+o	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìªá„
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‘Ì¸
+o	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”øäÑ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷ÔÂŒıÿÿÿÿ
+A
+java:S1181É"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+\
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(ƒÕïë
+\
+java:S1124æ"EReorder the modifiers to comply with the Java Language Specification.(ÁÚÇŸ
+a
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(„²ÃÈøÿÿÿÿ
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(¢ì…î

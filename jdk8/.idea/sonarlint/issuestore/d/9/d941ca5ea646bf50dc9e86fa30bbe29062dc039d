@@ -1,0 +1,73 @@
+
+t	java:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(ì¨µüÿÿÿÿ
+K
+java:S1066¥"/Merge this if statement with the enclosing one.(äš­Êüÿÿÿÿ
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºè·æ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šš—£
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·Àûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¸ñÓÅÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(˜Á×ùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥ÇóË
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(®ÜÏòùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜­ÇÊøÿÿÿÿ
+m
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¬ô­Êıÿÿÿÿ
+<
+java:S1168+"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168;"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168L"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168P"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168`"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168e"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168r"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168w"&Return an empty array instead of null.(¥¹ï
+<
+java:S1168z"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(µü¥äûÿÿÿÿ
+;
+java:S1659¢"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168š"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¦"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168±"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¹"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168½"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168À"&Return an empty array instead of null.(¥¹ï
+?
+java:S1659Ê"#Declare "index" on a separate line.(Î·Àûÿÿÿÿ
+=
+java:S1168Ğ"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ô"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ü"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168à"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168é"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168ñ"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168—"&Return an empty array instead of null.(¥¹ï
+X
+java:S1126¥"AReplace this if-then-else statement by a single return statement.(ÇÊ¬

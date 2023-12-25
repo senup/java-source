@@ -1,0 +1,68 @@
+
+K
+java:S1066¸"/Merge this if statement with the enclosing one.(‹†íğúÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡óâèıÿÿÿÿ
+C
+java:S1604E"(Make this anonymous inner class a lambda(òùòØûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+s
+java:S3008Ü"WRename this field "WP_MINBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÊÊâøÿÿÿÿ
+w
+java:S3008Ü"[Rename this field "WP_RESTOREBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÊÊâøÿÿÿÿ
+u
+java:S3008Ü"YRename this field "WP_CLOSEBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÊÊâøÿÿÿÿ
+v
+java:S3008İ"ZRename this field "WP_MDIMINBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÑ© ûÿÿÿÿ
+z
+java:S3008İ"^Rename this field "WP_MDIRESTOREBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÑ© ûÿÿÿÿ
+x
+java:S3008İ"\Rename this field "WP_MDICLOSEBUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÑ© ûÿÿÿÿ
+i
+java:S1659Ü"MDeclare "WP_RESTOREBUTTON" and all following declarations on a separate line.(åÊÊâøÿÿÿÿ
+I
+java:S19482".Make "normalBorder" transient or serializable.(š®È¦ıÿÿÿÿ
+;
+java:S19483"%Make "pcl" transient or serializable.(›³õö
+G
+java:S1948Ä"0Make "setButtonIcons" transient or serializable.(‰Àá¡
+E
+java:S1948Å"/Make "enableActions" transient or serializable.(ãêò
+m
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ä“œşÿÿÿÿÿ
+S
+java:S1117Y"=Rename "mainFrame" which hides the field declared at line 46.(àõÇ¡
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Íµı¨ÿÿÿÿÿ
+D	java:S108‘")Either remove or fill this block of code.(½×¶ şÿÿÿÿ
+D	java:S108˜")Either remove or fill this block of code.(½×¶ şÿÿÿÿ
+T
+java:S1117¨"=Rename "mainFrame" which hides the field declared at line 46.(ÂÂˆ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(„êŞÚıÿÿÿÿ
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(½›Ôßùÿÿÿÿ
+a
+java:S2147ö"ECombine this catch with the one at line 242, which has the same body.(úçÍüÿÿÿÿ
+\
+java:S2147ú"ECombine this catch with the one at line 242, which has the same body.(ã€ 
+C
+java:S3011",This accessibility update should be removed.(çğ”ˆ
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»€ıÎ
+H
+java:S3011 ",This accessibility bypass should be removed.(Åú¼ûÿÿÿÿ
+H
+java:S3011¢",This accessibility bypass should be removed.(Ì¶˜›úÿÿÿÿ
+C
+java:S3011¤",This accessibility bypass should be removed.(ÑÚ€Õ
+H
+java:S3011©",This accessibility bypass should be removed.(ïáÿÓøÿÿÿÿ
+B
+java:S3011«",This accessibility bypass should be removed.(…•–R
+C
+java:S3011­",This accessibility bypass should be removed.(èÈ•ù
+C
+java:S3011Î",This accessibility update should be removed.(üîİŒ
+H
+java:S3011Ï",This accessibility update should be removed.(æàÙ­ÿÿÿÿÿ

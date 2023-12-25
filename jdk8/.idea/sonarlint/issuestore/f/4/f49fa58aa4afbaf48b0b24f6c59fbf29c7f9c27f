@@ -1,0 +1,14 @@
+
+P
+java:S1191#"5Use classes from the Java API instead of Sun classes.(ÔÛ‡«øÿÿÿÿ
+z
+java:S1149="_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î¦¹òúÿÿÿÿ
+S
+java:S18543"=Remove this useless assignment to local variable "lineBreak".(ÿ¶°ï
+P
+java:S11611":Add the "@Override" annotation above this method signature(´ò¶ó
+D
+java:S14813".Remove this unused "lineBreak" local variable.(ÿ¶°ï
+V	java:S1255"<This block of commented-out lines of code should be removed.(¿˜§Óúÿÿÿÿ
+S
+java:S1128%"=Remove this unused import 'java.nio.BufferOverflowException'.(÷¿¡É

@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+D
+java:S4274·"(Replace this assert with a proper check.(ÊÄı¬úÿÿÿÿ
+=
+java:S1168é"&Return an empty array instead of null.(¥¹ï
+7	java:S131ô""Add a default case to this switch.(ìúÇV
+=
+java:S1168÷"&Return an empty array instead of null.(¥¹ï
+?
+java:S4274–"(Replace this assert with a proper check.(óò¿œ
+8	java:S131Ã""Add a default case to this switch.(ˆ…‘Ë

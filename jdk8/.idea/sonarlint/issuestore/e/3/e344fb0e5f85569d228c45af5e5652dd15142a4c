@@ -1,0 +1,22 @@
+
+?
+java:S1604Š"(Make this anonymous inner class a lambda(È­èß
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊýÿÿÿÿ
+z
+java:S14507"_Remove the "forSerialization" field and declare it as a local variable in the relevant methods.(ä·þïùÿÿÿÿ
+w
+java:S1450;"bRemove the "invokeDescriptorIdx" field and declare it as a local variable in the relevant methods.(Ñ‹Æ
+{
+java:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+V	java:S107|"<Method has 9 parameters, which is greater than 7 authorized.(ßºÕÄüÿÿÿÿ
+m
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ßºÕÄüÿÿÿÿ
+O
+java:S1172€"8Remove this unused method parameter "checkedExceptions".(Ò×‘È
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(´Î“Òþÿÿÿÿ
+O
+java:S10687"4Remove this unused "forSerialization" private field.(ä·þïùÿÿÿÿ
+L
+java:S1068;"7Remove this unused "invokeDescriptorIdx" private field.(Ñ‹Æ

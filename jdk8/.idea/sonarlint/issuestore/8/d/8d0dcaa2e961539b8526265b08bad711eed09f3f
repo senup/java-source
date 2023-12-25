@@ -1,0 +1,30 @@
+
+l	java:S117ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¿‚Šùÿÿÿÿ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãóÿ¼
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™«×Ó
+o	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û”žˆ
+q	java:S116<"WRename this field "_contextType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éùßÒûÿÿÿÿ
+o
+java:S3008?"TRename this field "_NNS_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÞ•ðýÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¨Óéùÿÿÿÿ
+c	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŽâÓ
+h	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ßðÕúÿÿÿÿ
+c	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïïêÇ
+c	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­Ó¹
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆØûÿÿÿÿ
+c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄ¿
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šå¼õ
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð§­¢
+c	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÁô¬
+c	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Çâ¤
+b	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÛÔ
+c	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹½å‹
+<
+java:S1452v"&Remove usage of generic wildcard type.(¹½å‹
+<
+java:S1452v"&Remove usage of generic wildcard type.(¹½å‹
+V	java:S125k"<This block of commented-out lines of code should be removed.(æùâ¸ýÿÿÿÿ
+E
+java:S1481")Remove this unused "pctx" local variable.(èÀöµüÿÿÿÿ
+8
+java:S1116‹"Remove this empty statement.(ôŸŽìúÿÿÿÿ

@@ -1,0 +1,41 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+x
+java:S4165‚"aRemove this useless assignment; "len" already holds the assigned value along all execution paths.(ÀÓ’æ
+:
+java:S1659q"Declare "y" on a separate line.(ãï€şúÿÿÿÿ
+>
+java:S1659r"#Declare "gposy" on a separate line.(©××Øøÿÿÿÿ
+P	java:S125,"<This block of commented-out lines of code should be removed.(ñ²±B
+@
+java:S1197U"*Move the array designators [] to the type.(®˜Æş
+E
+java:S1197V"*Move the array designators [] to the type.(©‚íÿùÿÿÿÿ
+@
+java:S1197m"*Move the array designators [] to the type.(Ìæ¢­
+@
+java:S1197n"*Move the array designators [] to the type.(†€˜à
+?
+java:S1197o"*Move the array designators [] to the type.(ŞÓ)
+@
+java:S1197p"*Move the array designators [] to the type.(œº†´
+W	java:S125³"<This block of commented-out lines of code should be removed.(Œœ‚øÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ŠëÖ„
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(ğ¿Ü´üÿÿÿÿ
+T
+java:S1117ä"8Rename "len" which hides the field declared at line 106.(€ÁÕşÿÿÿÿ
+M
+java:S2696ª"6Make the enclosing method "static" or remove this set.(ÛÌ²å
+\
+java:S1659Í"@Declare "by0" and all following declarations on a separate line.(«ÍÿÜøÿÿÿÿ
+7
+java:S1659Ô" Declare "gh" on a separate line.(á”õ
+[
+java:S1659Õ"?Declare "gy" and all following declarations on a separate line.(’úúûÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'java.awt.Font'.(êŸŸ
+W
+java:S1128"<Remove this unused import 'java.awt.font.FontRenderContext'.(œ¨†‹úÿÿÿÿ
+H
+java:S1068R"2Remove this unused "DEFAULT_LENGTH" private field.(Ãëß¼

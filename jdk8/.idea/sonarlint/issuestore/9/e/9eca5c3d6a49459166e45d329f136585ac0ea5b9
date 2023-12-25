@@ -1,0 +1,10 @@
+
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(—Ïª¨ýÿÿÿÿ
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(¤°ƒ½
+[	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(ÒÕˆ†
+7
+java:S1110V"!Remove these useless parentheses.(ÒêžŸ
+<
+java:S1110n"!Remove these useless parentheses.(¦Êóìùÿÿÿÿ
+@
+java:S1128 "*Remove this unused import 'java.security'.(èÛò§

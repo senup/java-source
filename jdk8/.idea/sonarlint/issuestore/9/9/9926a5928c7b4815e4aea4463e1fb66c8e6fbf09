@@ -1,0 +1,159 @@
+
+D
+java:S3740`"/Provide the parametrized type for this generic.(£“è
+c
+java:S1192‹"MDefine a constant instead of duplicating this literal "BMPMetadata1" 3 times.(µŸçZ
+]
+java:S1192š"FDefine a constant instead of duplicating this literal "Green" 3 times.(ŒÿŠÿ
+]
+java:S1192Æ"FDefine a constant instead of duplicating this literal "value" 6 times.(Å¸¯ô
+n	java:S127°"XRefactor the code in order to not assign to this loop counter from within the loop body.(…ùéŒ
+n	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(æÇúĞ
+s	java:S127²"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ò™«Ûøÿÿÿÿ
+s	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Øöëóıÿÿÿÿ
+n	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ğè­Å
+n	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÓ­Ò
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄïÃÜúÿÿÿÿ
+n	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÖÅùˆ
+l
+java:S1104/"VMake bmpVersion a static final constant or non-public and provide accessors if needed.(àó´å
+g
+java:S11040"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½
+h
+java:S11041"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
+s
+java:S11042"XMake bitsPerPixel a static final constant or non-public and provide accessors if needed.(€µºŞıÿÿÿÿ
+m
+java:S11043"WMake compression a static final constant or non-public and provide accessors if needed.(„°µİ
+p
+java:S11044"UMake imageSize a static final constant or non-public and provide accessors if needed.(ÒÀúÊıÿÿÿÿ
+q
+java:S11047"[Make xPixelsPerMeter a static final constant or non-public and provide accessors if needed.(©Õğ§
+q
+java:S11048"[Make yPixelsPerMeter a static final constant or non-public and provide accessors if needed.(ÿ³Ğ
+q
+java:S1104:"VMake colorsUsed a static final constant or non-public and provide accessors if needed.(‡¡åàşÿÿÿÿ
+v
+java:S1104;"[Make colorsImportant a static final constant or non-public and provide accessors if needed.(ù–„Íúÿÿÿÿ
+n
+java:S1104>"SMake redMask a static final constant or non-public and provide accessors if needed.(¸’ÕÑüÿÿÿÿ
+p
+java:S1104?"UMake greenMask a static final constant or non-public and provide accessors if needed.(©“ÖÃşÿÿÿÿ
+j
+java:S1104@"TMake blueMask a static final constant or non-public and provide accessors if needed.(—»Î¡
+p
+java:S1104A"UMake alphaMask a static final constant or non-public and provide accessors if needed.(ªéù—ùÿÿÿÿ
+l
+java:S1104C"VMake colorSpace a static final constant or non-public and provide accessors if needed.(òê‘
+f
+java:S1104F"PMake redX a static final constant or non-public and provide accessors if needed.(˜«·
+k
+java:S1104G"PMake redY a static final constant or non-public and provide accessors if needed.(×ßŒûÿÿÿÿ
+f
+java:S1104H"PMake redZ a static final constant or non-public and provide accessors if needed.(ü‹ğÓ
+h
+java:S1104I"RMake greenX a static final constant or non-public and provide accessors if needed.(øêô
+h
+java:S1104J"RMake greenY a static final constant or non-public and provide accessors if needed.(»ÊîØ
+g
+java:S1104K"RMake greenZ a static final constant or non-public and provide accessors if needed.(Úİ–9
+g
+java:S1104L"QMake blueX a static final constant or non-public and provide accessors if needed.(¢šëí
+l
+java:S1104M"QMake blueY a static final constant or non-public and provide accessors if needed.(¦ü‚öüÿÿÿÿ
+f
+java:S1104N"QMake blueZ a static final constant or non-public and provide accessors if needed.(à»Š#
+j
+java:S1104Q"TMake gammaRed a static final constant or non-public and provide accessors if needed.(äÊü£
+q
+java:S1104R"VMake gammaGreen a static final constant or non-public and provide accessors if needed.(»Õİ¥üÿÿÿÿ
+k
+java:S1104S"UMake gammaBlue a static final constant or non-public and provide accessors if needed.(Ë«
+h
+java:S1104U"RMake intent a static final constant or non-public and provide accessors if needed.(À±ôø
+i
+java:S1104X"SMake palette a static final constant or non-public and provide accessors if needed.(ä¯äå
+r
+java:S1104Y"WMake paletteSize a static final constant or non-public and provide accessors if needed.(™ÀÊ®øÿÿÿÿ
+e
+java:S1104Z"OMake red a static final constant or non-public and provide accessors if needed.(¼•áæ
+g
+java:S1104["QMake green a static final constant or non-public and provide accessors if needed.(üŒóÈ
+k
+java:S1104\"PMake blue a static final constant or non-public and provide accessors if needed.(æ®°Ñÿÿÿÿÿ
+i
+java:S1104`"TMake comments a static final constant or non-public and provide accessors if needed.(£“è
+]
+java:S2184ø"ACast one of the operands of this division operation to a "float".(òâ ıÿÿÿÿ
+t	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š—úÿÿÿÿ
+^
+java:S2387+"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(š—úÿÿÿÿ
+P	java:S125`"<This block of commented-out lines of code should be removed.(£“è
+Y
+java:S4719z">Replace charset name argument with StandardCharsets.ISO_8859_1(¯–Æ—üÿÿÿÿ
+T
+java:S1854¥"8Remove this useless assignment to local variable "node".(—à£üÿÿÿÿ
+8
+java:S2129…"!Remove this "Integer" constructor(ääĞ‚
+7
+java:S2129†"!Remove this "Integer" constructor(Ñ÷üq
+6
+java:S2129‡"Remove this "Short" constructor(Ğî³ì
+=
+java:S2129ˆ"!Remove this "Integer" constructor(Ïšâçüÿÿÿÿ
+8
+java:S2129‰"!Remove this "Integer" constructor(—¡¢Ï
+=
+java:S2129Œ"!Remove this "Integer" constructor(Á”¦İúÿÿÿÿ
+8
+java:S2129"!Remove this "Integer" constructor(›ƒ¯º
+8
+java:S2129"!Remove this "Integer" constructor(é°Š™
+8
+java:S2129"!Remove this "Integer" constructor(ˆÓé
+8
+java:S2129™"!Remove this "Integer" constructor(Ş¨óà
+8
+java:S2129š"!Remove this "Integer" constructor(ŒÿŠÿ
+8
+java:S2129›"!Remove this "Integer" constructor(¶²àœ
+=
+java:S2129œ"!Remove this "Integer" constructor(ÔËÄ‚øÿÿÿÿ
+8
+java:S2129"!Remove this "Integer" constructor(…¨îå
+=
+java:S2129¥"!Remove this "Integer" constructor(—à£üÿÿÿÿ
+5
+java:S2129³"Remove this "Byte" constructor(ãıùó
+:
+java:S2129´"Remove this "Byte" constructor(ôºß³ıÿÿÿÿ
+:
+java:S2129µ"Remove this "Byte" constructor(¼ÔÃÎûÿÿÿÿ
+:
+java:S2129¸"Remove this "Byte" constructor(Øöëóıÿÿÿÿ
+V
+java:S1161À":Add the "@Override" annotation above this method signature(íˆ˜ïşÿÿÿÿ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(ò§øø
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(ºà¾æ
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(ú§¾êÿÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(íÏò€
+<
+java:S2129£" Remove this "Double" constructor(Ôİ õøÿÿÿÿ
+<
+java:S2129¤" Remove this "Double" constructor(•ì†£ıÿÿÿÿ
+7
+java:S2129¥" Remove this "Double" constructor(¬¸ìú
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+X
+java:S1128 "=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
+`
+java:S1128#"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+I
+java:S1144x".Remove this unused private "toISO8859" method.(®·İÓùÿÿÿÿ

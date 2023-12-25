@@ -1,0 +1,37 @@
+
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿‰„µ
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿‰„µ
+u
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Ñ◊ﬁ˚ˇˇˇˇ
+F
+java:S1066ñ"/Merge this if statement with the enclosing one.(ÖÉé˛
+o	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Üﬂ≤ô
+z
+java:S1149;"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â˚“∏˚ˇˇˇˇ
+v
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÌÖ“â
+z
+java:S1149;"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â˚“∏˚ˇˇˇˇ
+D
+java:S1172q".Remove this unused method parameter "refType".(Èïÿ‘
+u
+java:S3012†"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ï˘Æ˘ˇˇˇˇ
+p
+java:S3012∞"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÉôÊ¿
+u
+java:S3012¿"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ä„Ù©˙ˇˇˇˇ
+>	java:S108¶")Either remove or fill this block of code.(Îü‡<
+F
+java:S1172ô"*Remove this unused method parameter "sti".(ÆﬂëÔ¯ˇˇˇˇ
+=
+java:S1110õ"!Remove these useless parentheses.(ÍÜë¸ˇˇˇˇ
+C
+java:S1128"(Remove this unused import 'com.sun.jdi'.(Ë˘™„¸ˇˇˇˇ
+7
+java:S3398à" Move this method into "Stratum".(“µ´˘
+;
+java:S3398¨"$Move this method into "LineStratum".(ñ„≥Á
+@
+java:S3398ô"$Move this method into "LineStratum".(ÆﬂëÔ¯ˇˇˇˇ

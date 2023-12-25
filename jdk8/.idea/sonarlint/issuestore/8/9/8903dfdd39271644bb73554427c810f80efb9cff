@@ -1,0 +1,35 @@
+
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÆÆÎøÿÿÿÿ
+|
+java:S1149ş"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘İ‰¬
+a
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(¿½·›úÿÿÿÿ
+F
+java:S1197÷"*Move the array designators [] to the type.(¿½·›úÿÿÿÿ
+2
+java:S3626ÿ"Remove this redundant jump.(ûÁİ…
+D
+java:S1172ş"-Remove this unused method parameter "result".(‘İ‰¬
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìóàıÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ìóàıÿÿÿÿ
+F
+java:S1197•"*Move the array designators [] to the type.(ìóàıÿÿÿÿ
+\
+java:S1124×"EReorder the modifiers to comply with the Java Language Specification.(çìÄÅ
+A
+java:S1197×"*Move the array designators [] to the type.(çìÄÅ
+\
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(€ÀË¼
+A
+java:S1197‡"*Move the array designators [] to the type.(€ÀË¼
+K
+java:S1128#"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+H
+java:S1128$"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+K
+java:S1128("5Remove this unused import 'com.sun.jmx.snmp.SnmpOid'.(Õ©®
+M
+java:S1128)"7Remove this unused import 'com.sun.jmx.snmp.SnmpValue'.(±úì¦
+X
+java:S1128+"=Remove this unused import 'com.sun.jmx.snmp.SnmpDefinitions'.(‘³ˆçûÿÿÿÿ

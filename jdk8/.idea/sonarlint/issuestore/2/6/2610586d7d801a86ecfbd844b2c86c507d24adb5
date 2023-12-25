@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤üˆØúÿÿÿÿ
+R	java:S107"=Method has 11 parameters, which is greater than 7 authorized.(”Ø×ç
+S	java:S107–"=Method has 10 parameters, which is greater than 7 authorized.(Ë”ŒÆ
+S	java:S107„"=Method has 10 parameters, which is greater than 7 authorized.(÷… §
+X	java:S107¢"=Method has 12 parameters, which is greater than 7 authorized.(˜ò’ºýÿÿÿÿ
+7
+java:S1116A"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ë”ŒÆ
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(Æöó¾ùÿÿÿÿ

@@ -1,0 +1,81 @@
+
+g
+java:S1301Å"KReplace this "switch" statement by "if" statements to increase readability.(ŒŸ¯øÿÿÿÿ
+W	java:S110Š"<This class has 6 parents which is greater than 5 authorized.( ·¯ğÿÿÿÿÿ
+W	java:S110—"<This class has 6 parents which is greater than 5 authorized.(³·äüÿÿÿÿ
+1
+java:S1643>"Use a StringBuilder instead.(Ñƒ
+7
+java:S1643@"Use a StringBuilder instead.(ä”ìÂıÿÿÿÿ
+7
+java:S1116!"Remove this empty statement.(»ôÂÆúÿÿÿÿ
+F
+java:S21601"+Override the "equals" method in this class.(á„ÿ³ùÿÿÿÿ
+:
+java:S19483"$Make "vm" transient or serializable.(ÿ·ÎŠ
+;
+java:S19484"%Make "pkt" transient or serializable.(•®è‹
+P
+java:S11618":Add the "@Override" annotation above this method signature(Á»›ê
+P
+java:S1161^":Add the "@Override" annotation above this method signature(ÜÑã
+P
+java:S1161b":Add the "@Override" annotation above this method signature(ğÜşŠ
+G
+java:S2160ª"+Override the "equals" method in this class.(Õáùÿÿÿÿ
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(Á»›ê
+B
+java:S2160¼"+Override the "equals" method in this class.(¬Ëÿ
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(Á»›ê
+G
+java:S2160ù"+Override the "equals" method in this class.(õÿ°àüÿÿÿÿ
+B
+java:S2160”"+Override the "equals" method in this class.(Èç¯ª
+8
+java:S1116£"Remove this empty statement.(ôŸìúÿÿÿÿ
+G
+java:S2160§"+Override the "equals" method in this class.(´¯àßûÿÿÿÿ
+8
+java:S1116¶"Remove this empty statement.(ôŸìúÿÿÿÿ
+G
+java:S2160º"+Override the "equals" method in this class.(¦“õœøÿÿÿÿ
+8
+java:S1116Ë"Remove this empty statement.(ôŸìúÿÿÿÿ
+j	java:S116Õ"TRename this field "timed_out" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªşå
+G
+java:S2160Ò"+Override the "equals" method in this class.(­À¹ıÿÿÿÿ
+8
+java:S1116ã"Remove this empty statement.(ôŸìúÿÿÿÿ
+B
+java:S2160ê"+Override the "equals" method in this class.(œÂ×Î
+B
+java:S2160ş"+Override the "equals" method in this class.(ÒøÀ˜
+B
+java:S2160”"+Override the "equals" method in this class.(æ±ÜÅ
+G
+java:S2160ä"+Override the "equals" method in this class.(Í¸ˆ¸ûÿÿÿÿ
+\	java:S107ë"AConstructor has 8 parameters, which is greater than 7 authorized.(õäßøÿÿÿÿ
+G
+java:S2160—"+Override the "equals" method in this class.(³·äüÿÿÿÿ
+i
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ş†Ş±
+8	java:S131ã""Add a default case to this switch.(‰õ¯
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(™¡§†üÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(ü‹Âóûÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Q
+java:S1161İ":Add the "@Override" annotation above this method signature(Ñ‹·ñ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(ª¡¡
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(àÍ¦
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(‚—äî
+V
+java:S1161ì":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ

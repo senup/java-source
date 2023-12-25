@@ -1,0 +1,41 @@
+
+g
+java:S1192F"RDefine a constant instead of duplicating this literal "Already connected" 4 times.(À¹Ûr
+d
+java:S1192"MDefine a constant instead of duplicating this literal "content-type" 3 times.(Æç¦›
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+-
+java:S2176%"Rename this class.(Ã‚šêÿÿÿÿÿ
+O
+java:S59933"9Change the visibility of this constructor to "protected".(œá„Ø
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(Ã‚šêÿÿÿÿÿ
+P
+java:S1161D":Add the "@Override" annotation above this method signature(äˆ¾Â
+O
+java:S1161Q":Add the "@Override" annotation above this method signature(…èÀP
+U
+java:S1161X":Add the "@Override" annotation above this method signature(âøßÙøÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(‡ã‚Ğşÿÿÿÿ
+U
+java:S1161d":Add the "@Override" annotation above this method signature(°ÁÂáùÿÿÿÿ
+P
+java:S1161r":Add the "@Override" annotation above this method signature(ùÿ­´
+V
+java:S1161":Add the "@Override" annotation above this method signature(€¼ Ëÿÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ä¶¡æ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Ä¶¡æ
+D	java:S108•")Either remove or fill this block of code.(‹Çå½ùÿÿÿÿ
+M
+java:S5261"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(ÿú±»
+?	java:S108Ï")Either remove or fill this block of code.(”ı¾
+\
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(×ú•–
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(’çÜŒ

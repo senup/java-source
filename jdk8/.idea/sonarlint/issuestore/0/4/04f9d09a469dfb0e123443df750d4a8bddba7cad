@@ -1,0 +1,53 @@
+
+^
+java:S1192û"GDefine a constant instead of duplicating this literal "addMib" 4 times.(ã†Å
+{
+java:S1192ù"dDefine a constant instead of duplicating this literal "com.sun.jmx.snmp.agent.SnmpMibAgent" 4 times.(Ô¤á¿
+ƒ
+java:S1192î"gDefine a constant instead of duplicating this literal " is not registered in the MBean server" 4 times.(ùœÏ›ûÿÿÿÿ
+g
+java:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(ïˆ÷şÿÿÿÿ
+O
+java:S5993E"9Change the visibility of this constructor to "protected".(“‰û¬
+D
+java:S1948ğ"(Make "server" transient or serializable.(•à”öÿÿÿÿÿ
+|
+java:S1149¾"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
+|
+java:S1149Û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
+|
+java:S1149Š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¡ÓÚÅ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îİ¿„ùÿÿÿÿ
+
+java:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëæ¾œÿÿÿÿÿ
+
+java:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëæ¾œÿÿÿÿÿ
+
+java:S1149À"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã‹Àêşÿÿÿÿ
+
+java:S1149Ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óö±ğùÿÿÿÿ
+S	java:S107Ù"=Method has 10 parameters, which is greater than 7 authorized.(ˆ¨ìæ
+|
+java:S3038_"a"preRegister" is defined in the "MBeanRegistration" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+u
+java:S3038„"Y"get" is defined in the "SnmpMibAgentMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+y
+java:S3038“"]"getNext" is defined in the "SnmpMibAgentMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+y
+java:S3038«"]"getBulk" is defined in the "SnmpMibAgentMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+u
+java:S3038Á"Y"set" is defined in the "SnmpMibAgentMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+w
+java:S3038Ô"["check" is defined in the "SnmpMibAgentMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+X
+java:S1126¡"AReplace this if-then-else statement by a single return statement.(æ¨†¿
+L
+java:S1854"5Remove this useless assignment to local variable "R".(ı¹íë
+=
+java:S1481"&Remove this unused "R" local variable.(ı¹íë
+W	java:S125”"<This block of commented-out lines of code should be removed.(†Şªúÿÿÿÿ
+Q
+java:S6213È":Rename this variable to not match a restricted identifier.(õŞ‡§
+Q
+java:S6213Ò":Rename this variable to not match a restricted identifier.(õŞ‡§

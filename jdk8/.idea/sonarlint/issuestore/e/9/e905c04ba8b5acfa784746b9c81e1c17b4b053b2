@@ -1,0 +1,12 @@
+
+E
+java:S3740q"/Provide the parametrized type for this generic.(Ì¨…•
+t
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎñúÆùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+t	java:S115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èóáùÿÿÿÿ
+<
+java:S1170*"!Make this final field static too.(ğá‰§úÿÿÿÿ
+D
+java:S1068*")Remove this unused "value" private field.(ğá‰§úÿÿÿÿ

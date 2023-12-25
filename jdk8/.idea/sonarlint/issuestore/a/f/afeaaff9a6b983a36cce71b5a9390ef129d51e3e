@@ -1,0 +1,40 @@
+
+E
+java:S3740B"/Provide the parametrized type for this generic.(—Ø‡™
+E
+java:S3740C"/Provide the parametrized type for this generic.(ıİ·£
+K
+java:S3740"/Provide the parametrized type for this generic.(Ğ‰‹ÿÿÿÿÿÿ
+t
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÜ‹‰úÿÿÿÿ
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ºÓ©
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+b
+java:S2095\"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(éˆª…
+<
+java:S1481\"&Remove this unused "r" local variable.(éˆª…
+E
+java:S3010h"*Remove this assignment of "reservedWords".(ıÜ‹‰úÿÿÿÿ
+o
+java:S3012j"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(º›Şê
+Q
+java:S1854…"5Remove this useless assignment to local variable "t".(Òáğ¸ùÿÿÿÿ
+”
+java:S1130„"xRemove the declaration of thrown exception 'sun.tools.jstat.ParserException', as it cannot be thrown from method's body.(ô…°ÿÿÿÿÿ
+B
+java:S1481…"&Remove this unused "t" local variable.(Òáğ¸ùÿÿÿÿ
+=
+java:S1905·"&Remove this unnecessary cast to "int".(àÚÑ
+B
+java:S1905»"&Remove this unnecessary cast to "int".(äÃÇûÿÿÿÿ
+<
+java:S2129Ç" Remove this "Double" constructor( ‹ã¢úÿÿÿÿ
+<
+java:S2129ë" Remove this "Double" constructor(Ÿ¼Áœûÿÿÿÿ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+G
+java:S1068T",Remove this unused "filename" private field.( ’ÿÿÿÿÿÿ
+P
+java:S1144ç"4Remove this unused private "isInfixOperator" method.(½±¿„øÿÿÿÿ

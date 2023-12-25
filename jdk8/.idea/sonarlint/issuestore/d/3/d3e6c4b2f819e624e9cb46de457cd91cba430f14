@@ -1,0 +1,85 @@
+
+v
+java:S1192ø"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 8 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1066ı
+"/Merge this if statement with the enclosing one.(²–‚‡ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+[
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(Ÿ°Âß
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197ú"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(ïã–®
+F
+java:S1197Ä"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+F
+java:S1197Î"*Move the array designators [] to the type.(óìº¨ùÿÿÿÿ
+T
+java:S1117Î"8Rename "data" which hides the field declared at line 63.(óìº¨ùÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®ßö®
+F
+java:S1197•"*Move the array designators [] to the type.(óìº¨ùÿÿÿÿ
+T
+java:S1117•"8Rename "data" which hides the field declared at line 63.(óìº¨ùÿÿÿÿ
+=	java:S131§""Add a default case to this switch.(ÆÖœ¥ûÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(ç×‹“
+@
+java:S1197€"*Move the array designators [] to the type.(ûÌ‹	
+V
+java:S1161•":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(½²¢‘üÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(åÊÿ©
+Q
+java:S1161á":Add the "@Override" annotation above this method signature(Í°—
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­§ê–ıÿÿÿÿ
+F
+java:S1197›"*Move the array designators [] to the type.(óìº¨ùÿÿÿÿ
+T
+java:S1117›"8Rename "data" which hides the field declared at line 63.(óìº¨ùÿÿÿÿ
+=	java:S131¯""Add a default case to this switch.(ÆÖœ¥ûÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Œ»‹…ıÿÿÿÿ
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(Œ»‹…ıÿÿÿÿ
+F
+java:S1197‡"*Move the array designators [] to the type.(Œ»‹…ıÿÿÿÿ
+F
+java:S1197”"*Move the array designators [] to the type.(óìº¨ùÿÿÿÿ
+T
+java:S1117”"8Rename "data" which hides the field declared at line 63.(óìº¨ùÿÿÿÿ
+=	java:S131¦""Add a default case to this switch.(ÆÖœ¥ûÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿…‘
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(¿…‘
+A
+java:S1197ø"*Move the array designators [] to the type.(¿…‘
+F
+java:S1197‚	"*Move the array designators [] to the type.(óìº¨ùÿÿÿÿ
+T
+java:S1117‚	"8Rename "data" which hides the field declared at line 63.(óìº¨ùÿÿÿÿ
+=	java:S131–	""Add a default case to this switch.(ÆÖœ¥ûÿÿÿÿ
+Q
+java:S1161ó	":Add the "@Override" annotation above this method signature(Ç§æ
+E
+java:S1905ú	")Remove this unnecessary cast to "Raster".(èƒ¶úÿÿÿÿ
+V
+java:S1161
+":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+Q
+java:S1161¸
+":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161Ç
+":Add the "@Override" annotation above this method signature(ÌŸ­
+7
+java:S2129ˆ" Remove this "String" constructor(‰¹öö

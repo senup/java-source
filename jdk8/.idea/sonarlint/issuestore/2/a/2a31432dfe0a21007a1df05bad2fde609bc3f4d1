@@ -1,0 +1,27 @@
+
+a	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(øßø´øÿÿÿÿ
+m
+java:S1192õ"VDefine a constant instead of duplicating this literal "Should not reach here" 5 times.(šóÍÿ
+C
+java:S1604*"(Make this anonymous inner class a lambda(¢ÏÉåüÿÿÿÿ
+>
+java:S16048"(Make this anonymous inner class a lambda(º¬ÄÍ
+?
+java:S1604Û"(Make this anonymous inner class a lambda(‡ª…
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ÄÜˆ
+B
+java:S1125A"'Remove the unnecessary boolean literal.(üöƒüÿÿÿÿ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(î‡Ïõ
+ƒ
+java:S1130†"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+a
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(Í÷Æ¬şÿÿÿÿ
+a
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(¹ÂĞôøÿÿÿÿ
+\
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(ïë÷É
+Z
+java:S1128""DRemove this unused import 'java.security.PrivilegedExceptionAction'.(´©ºØ

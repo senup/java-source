@@ -1,0 +1,63 @@
+
+t
+java:S4144è"]Update this method so that its implementation is not identical to "c_lookup_nns" on line 226.(ú‘è·
+y
+java:S4144î"]Update this method so that its implementation is not identical to "c_lookup_nns" on line 226.(îÆ¶ˆşÿÿÿÿ
+t
+java:S4144ô"]Update this method so that its implementation is not identical to "c_lookup_nns" on line 226.(ƒ·£
+s
+java:S4144‰"]Update this method so that its implementation is not identical to "c_lookup_nns" on line 226.(µô…H
+t
+java:S4144š"]Update this method so that its implementation is not identical to "c_lookup_nns" on line 226.(µ³¹û
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆğÊùÿÿÿÿ
+h	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ï‡Öøÿÿÿÿ
+c	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æë±í
+h	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«­ÿÿÿÿÿ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ç‘Üùÿÿÿÿ
+h	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÎë¹øÿÿÿÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëåíóúÿÿÿÿ
+c	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹§€ó
+h	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ô¢öşÿÿÿÿ
+c	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â°İò
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÃÙÿıÿÿÿÿ
+h	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı•Úéşÿÿÿÿ
+F
+java:S1172h"+Remove this unused method parameter "cont".(ı•Úéşÿÿÿÿ
+8
+java:S1659q""Declare "tail" on a separate line.(–ªÕ…
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ù¾á¶
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ñûËã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Å‘ú
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍıÓüÿÿÿÿ
+i	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÎƒÛûÿÿÿÿ
+d	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‘è·
+i	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÆ¶ˆşÿÿÿÿ
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ·£
+d	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş§¡ö
+A
+java:S1172ú"*Remove this unused method parameter "obj".(ş§¡ö
+i	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÏ…úÿÿÿÿ
+F
+java:S1172ÿ"*Remove this unused method parameter "obj".(ùÏ…úÿÿÿÿ
+d	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ç‰¯
+c	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µô…H
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”şú‰ÿÿÿÿÿ
+d	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†­äç
+E
+java:S1172•".Remove this unused method parameter "newname".(†­äç
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³¹û
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤îß–ùÿÿÿÿ
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô·øÌúÿÿÿÿ
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ô·øÌúÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¶Ìãİùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ê“Ü‘úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ÿƒ¶ıÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(¶Ø²Ä
+W	java:S125§"<This block of commented-out lines of code should be removed.(à¼ñûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(’Ï£Ëıÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(Àì³´üÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(•Ÿï
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(¥Ğëù
+W	java:S125ı"<This block of commented-out lines of code should be removed.(œš–üÿÿÿÿ

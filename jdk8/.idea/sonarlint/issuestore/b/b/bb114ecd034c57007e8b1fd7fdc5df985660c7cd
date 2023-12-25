@@ -1,0 +1,6 @@
+
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÉËùÿÿÿÿ
+^
+java:S1214&"CMove constants defined in this interfaces to another class or enum.(š„İ¯úÿÿÿÿ
+K
+java:S2386š"5Move "tokenImage" to a class and lower its visibility(ôáát

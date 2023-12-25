@@ -1,0 +1,24 @@
+
+u	java:S115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®–Î†ýÿÿÿÿ
+<
+java:S11254"'Remove the unnecessary boolean literal.(„ˆ˜
+B
+java:S19057"'Remove this unnecessary cast to "long".(½ö’óýÿÿÿÿ
+<
+java:S1125K"'Remove the unnecessary boolean literal.(„ˆ˜
+4
+java:S2129…"Remove this "Long" constructor(£”ÈD
+8
+java:S2129•"!Remove this "Integer" constructor(ÛÙÉÖ
+\
+java:S1124Ý"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
+j
+java:S2975å"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–ïêã
+\
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(–ïêã
+]
+java:S1126ý"AReplace this if-then-else statement by a single return statement.(‘ù¢Íøÿÿÿÿ
+]
+java:S1126ˆ"AReplace this if-then-else statement by a single return statement.(‘ù¢Íøÿÿÿÿ
+a
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(®–Î†ýÿÿÿÿ

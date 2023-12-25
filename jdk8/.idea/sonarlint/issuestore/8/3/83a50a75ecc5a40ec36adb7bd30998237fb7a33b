@@ -1,0 +1,22 @@
+
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(â‰ªîıÿÿÿÿ
+p
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øª‡™
+o
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(üª©1
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙŠÖıøÿÿÿÿ
+f
+java:S1192ö"JDefine a constant instead of duplicating this literal " class = " 3 times.(Ñ¢ƒªıÿÿÿÿ
+o	java:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.(¹ïÉà
+e
+java:S3824ğ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(…‘Í¡
+m
+java:S1149…"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Øª‡™
+l
+java:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(üª©1
+F
+java:S1197Á"*Move the array designators [] to the type.(¾Çëøÿÿÿÿ

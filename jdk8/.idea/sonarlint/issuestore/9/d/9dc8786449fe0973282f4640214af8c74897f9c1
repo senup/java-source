@@ -1,0 +1,42 @@
+
+[	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ş˜¼ï
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·òÜ¦
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–½£Œÿÿÿÿÿ
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŸ¾úÿÿÿÿ
+b
+java:S1301Á"KReplace this "switch" statement by "if" statements to increase readability.(Ö¬ô¶
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+Q	java:S107U"<Method has 8 parameters, which is greater than 7 authorized.(óöÿ
+R	java:S107½"<Method has 8 parameters, which is greater than 7 authorized.(şÉ¾¶
+F
+java:S1197Œ"*Move the array designators [] to the type.(şÈêıÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(·ñ³€
+A
+java:S1197"*Move the array designators [] to the type.(Ï·ºä
+A
+java:S1197¿"*Move the array designators [] to the type.(ØÙ£
+A
+java:S1197À"*Move the array designators [] to the type.(·ñ³€
+A
+java:S1197Á"*Move the array designators [] to the type.(Ï·ºä
+F
+java:S1197ñ"*Move the array designators [] to the type.(ã¯Ÿœıÿÿÿÿ
+A
+java:S1197ò"*Move the array designators [] to the type.(·ñ³€
+A
+java:S1197ó"*Move the array designators [] to the type.(Ï·ºä
+A
+java:S1197—"*Move the array designators [] to the type.(˜×Ô
+A
+java:S1197˜"*Move the array designators [] to the type.(·ñ³€
+A
+java:S1197™"*Move the array designators [] to the type.(Ï·ºä
+A
+java:S1197½"*Move the array designators [] to the type.(şÉ¾¶
+A
+java:S1197¾"*Move the array designators [] to the type.(·ñ³€
+A
+java:S1197¿"*Move the array designators [] to the type.(‘«×¶
+8	java:S131Á""Add a default case to this switch.(Ö¬ô¶

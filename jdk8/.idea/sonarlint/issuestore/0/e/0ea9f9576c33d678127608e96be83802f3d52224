@@ -1,0 +1,9 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(şÙ—ùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'sun.security.jgss.spi'.(şÙ—ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®

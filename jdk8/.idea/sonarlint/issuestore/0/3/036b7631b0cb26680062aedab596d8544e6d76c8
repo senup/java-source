@@ -1,0 +1,8 @@
+
+g	java:S101Q"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁÒ›ñúÿÿÿÿ
+P
+java:S1191M"5Use classes from the Java API instead of Sun classes.(þ€¥òüÿÿÿÿ
+V
+java:S1854W";Remove this useless assignment to local variable "rocEras".(÷„£çüÿÿÿÿ
+G
+java:S1481W",Remove this unused "rocEras" local variable.(÷„£çüÿÿÿÿ

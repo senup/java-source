@@ -1,0 +1,15 @@
+
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g
+java:S1301§"KReplace this "switch" statement by "if" statements to increase readability.(÷èøäúÿÿÿÿ
+O
+java:S2755"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ
+t	java:S115L"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÏÃıÿÿÿÿ
+O
+java:S1161b":Add the "@Override" annotation above this method signature(¸É
+g
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸É
+O
+java:S1161h":Add the "@Override" annotation above this method signature(¸É
+=	java:S131§""Add a default case to this switch.(÷èøäúÿÿÿÿ

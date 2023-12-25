@@ -1,0 +1,29 @@
+
+F
+java:S1066¥"/Merge this if statement with the enclosing one.(êµý‡
+?
+java:S1604¬"(Make this anonymous inner class a lambda(’­Ûü
+`
+java:S3014°"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¥¢ˆÄ
+`
+java:S3014±"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(’ÝÏ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+—
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø÷½±
+m
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(æÔ«÷þÿÿÿÿ
+U
+java:S1161@":Add the "@Override" annotation above this method signature(æÔ«÷þÿÿÿÿ
+>	java:S108V")Either remove or fill this block of code.( ™¶ï
+P
+java:S1161s":Add the "@Override" annotation above this method signature(ª©ˆ›
+P
+java:S1161w":Add the "@Override" annotation above this method signature(ø÷½±
+_
+java:S3551w"IMake this method "synchronized" to match the parent class implementation.(ø÷½±
+O
+java:S1161y":Add the "@Override" annotation above this method signature(”ŸÀ8
+^
+java:S3551y"IMake this method "synchronized" to match the parent class implementation.(”ŸÀ8
+R	java:S125’"<This block of commented-out lines of code should be removed.(†€éˆ

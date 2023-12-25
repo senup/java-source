@@ -1,0 +1,33 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+|
+java:S30382"f"getNumCharacters" is defined in the "TextLineComponent" interface and can be removed from this class.(ÄÑÍØ
+z
+java:S30387"d"getCoreMetrics" is defined in the "TextLineComponent" interface and can be removed from this class.(¦çëº
+y
+java:S3038<"^"getCharX" is defined in the "TextLineComponent" interface and can be removed from this class.(ª— ­úÿÿÿÿ
+y
+java:S3038A"^"getCharY" is defined in the "TextLineComponent" interface and can be removed from this class.(è’¬ûÿÿÿÿ
+z
+java:S3038F"d"getCharAdvance" is defined in the "TextLineComponent" interface and can be removed from this class.(Ê©©†
+‚
+java:S3038_"g"getLineBreakIndex" is defined in the "TextLineComponent" interface and can be removed from this class.(€ ôàøÿÿÿÿ
+‚
+java:S3038e"g"getAdvanceBetween" is defined in the "TextLineComponent" interface and can be removed from this class.(ÒþÞüÿÿÿÿ
+
+java:S3038l"j"caretAtOffsetIsValid" is defined in the "TextLineComponent" interface and can be removed from this class.(¶‡¥
+z
+java:S3038v"_"getSubset" is defined in the "TextLineComponent" interface and can be removed from this class.(ú¢Ÿ—üÿÿÿÿ
+‰
+java:S3038{"n"getNumJustificationInfos" is defined in the "TextLineComponent" interface and can be removed from this class.(þÆžØþÿÿÿÿ
+‚
+java:S3038„"k"getJustificationInfos" is defined in the "TextLineComponent" interface and can be removed from this class.(Ñ×Ûö
+…
+java:S3038‘"n"applyJustificationDeltas" is defined in the "TextLineComponent" interface and can be removed from this class.(ðÕ£ñ
+@
+java:S1128 "*Remove this unused import 'java.awt.Font'.(êŸŸ
+Q
+java:S1128#"6Remove this unused import 'java.awt.font.LineMetrics'.(©Ü“›üÿÿÿÿ
+H
+java:S1128%"2Remove this unused import 'java.awt.geom.Point2D'.(ˆÕ­Ü

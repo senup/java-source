@@ -1,0 +1,89 @@
+
+E
+java:S37405"/Provide the parametrized type for this generic.(ï¤æé
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ð
+S	java:S107œ"=Method has 10 parameters, which is greater than 7 authorized.(¹”úŒ
+W	java:S107Å"<Method has 8 parameters, which is greater than 7 authorized.(¡™üŽýÿÿÿÿ
+P
+java:S11183":Add a private constructor to hide the implicit public one.(Û×é¹
+S
+java:S1854²"7Remove this useless assignment to local variable "tmp".(½÷·òùÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ˆ¦‘Öüÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ˆ¦‘Öüÿÿÿÿ
+[
+java:S1659 "?Declare "my" and all following declarations on a separate line.(¦ØáÎûÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(¡™üŽýÿÿÿÿ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”ªÚÄüÿÿÿÿ
+A
+java:S1197‚"*Move the array designators [] to the type.(¬±¾Ä
+A
+java:S1197”"*Move the array designators [] to the type.(®«Õµ
+j
+java:S3776¸"SRefactor this method to reduce its Cognitive Complexity from 136 to the 15 allowed.(º”š¦
+=
+java:S1659ð"&Declare "outcode2" on a separate line.(ºµ¶
+@
+java:S1659ú"$Declare "ysteps" on a separate line.(Ÿ¹íØþÿÿÿÿ
+Q
+java:S1161‘":Add the "@Override" annotation above this method signature(úðÛ¸
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(ÿøùæ
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(¬–Àäûÿÿÿÿ
+F
+java:S1197Ù"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+V
+java:S1161è":Add the "@Override" annotation above this method signature(ˆøŠçþÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(¦ÜÆ¥ýÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(Õü°¾
+A
+java:S1197"*Move the array designators [] to the type.(Õü°¾
+A
+java:S1197‚"*Move the array designators [] to the type.(Àðûð
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(×Í‰Þ
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(¤ìâ¶ùÿÿÿÿ
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(úðÛ¸
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(ÿøùæ
+V
+java:S1161å":Add the "@Override" annotation above this method signature(¬–Àäûÿÿÿÿ
+F
+java:S1197ê"*Move the array designators [] to the type.(ûøò¹ÿÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(ˆøŠçþÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(¦ÜÆ¥ýÿÿÿÿ
+A
+java:S1197’"*Move the array designators [] to the type.(Õü°¾
+A
+java:S1197’"*Move the array designators [] to the type.(Õü°¾
+A
+java:S1197“"*Move the array designators [] to the type.(Àðûð
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(×Í‰Þ
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(¤ìâ¶ùÿÿÿÿ
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(êõÐÂüÿÿÿÿ
+V
+java:S1161Þ":Add the "@Override" annotation above this method signature(½Š¹Âøÿÿÿÿ
+Y
+java:S1117¿"=Rename "xorData" which hides the field declared at line 1083.(·ïúÿÿÿÿ
+T
+java:S1117Õ"=Rename "xorData" which hides the field declared at line 1105.(ÇåÀ
+R
+java:S1128$"7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ
+U
+java:S1128%":Remove this unused import 'java.awt.geom.AffineTransform'.(˜ÊÊ¡ýÿÿÿÿ
+j
+java:S1128*"TRemove this unnecessary import: same package classes are always implicitly imported.(³Êâß

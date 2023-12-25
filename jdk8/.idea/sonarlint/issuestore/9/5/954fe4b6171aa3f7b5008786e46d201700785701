@@ -1,0 +1,30 @@
+
+p
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü‚ø¼
+
+java:S1192£"eDefine a constant instead of duplicating this literal "DIGEST-MD5: Digest-challenge format " 3 times.(ºÁ—‹øÿÿÿÿ
+o
+java:S1192Î"SDefine a constant instead of duplicating this literal "DIGEST-MD5 realm: " 3 times.(šî»İûÿÿÿÿ
+¨
+java:S1845z"‘Rename field "NONCE" to prevent any misunderstanding/clash with field "nonce" defined in superclass "com.sun.security.sasl.digest.DigestMD5Base".(ïÑ¸ô
+P
+java:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(÷µËù
+g	java:S128ë"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+B
+java:S1168û"&Return an empty array instead of null.(äı¸âüÿÿÿÿ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¥û©ú
+=	java:S131 ""Add a default case to this switch.(ù¸°äÿÿÿÿÿ
+=
+java:S2129º"!Remove this "Integer" constructor(¥Â¥ôûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×‹¦¸ûÿÿÿÿ
+=	java:S131›""Add a default case to this switch.(Ô´ØÕıÿÿÿÿ
+\
+java:S2147¢"ECombine this catch with the one at line 671, which has the same body.(ï­£Ä
+P
+java:S3400±"9Remove this method and declare a constant for this value.(È¸å
+H
+java:S1172°"1Remove this unused method parameter "nonceValue".(ıœ¯¼
+D
+java:S1068")Remove this unused "STALE" private field.(ü¦òÿÿÿÿÿ

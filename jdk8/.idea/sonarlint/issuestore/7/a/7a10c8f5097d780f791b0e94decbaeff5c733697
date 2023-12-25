@@ -1,0 +1,13 @@
+
+>
+java:S1172-"(Remove this unused method parameter "c".(¼Å¹š
+U
+java:S11612":Add the "@Override" annotation above this method signature(ùÛñ§şÿÿÿÿ
+P
+java:S1161=":Add the "@Override" annotation above this method signature(üæ’ô
+F
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+G
+java:S1128 ",Remove this unused import 'java.awt.Insets'.(šôÇ³ûÿÿÿÿ
+E
+java:S1128!"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û

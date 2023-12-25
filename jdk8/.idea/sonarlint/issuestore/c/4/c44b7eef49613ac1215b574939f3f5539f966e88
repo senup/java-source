@@ -1,0 +1,27 @@
+
+[	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(Äƒ¡_
+`
+java:S1192n"JDefine a constant instead of duplicating this literal "localhost" 3 times.(ð¤¦Æ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¯’µÍ
+v
+java:S1149é"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+m
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹Ô¬Ôúÿÿÿÿ
+B
+java:S1075¤"&Remove this hard-coded path-delimiter.(®…±àþÿÿÿÿ
+B
+java:S1075¶"&Remove this hard-coded path-delimiter.(¢†âÇúÿÿÿÿ
+h
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(éÙ–9
+W
+java:S1075ø"ARefactor your code to get this URI from a customizable parameter.(¦ê°.
+D	java:S108ù")Either remove or fill this block of code.(¹‹£®ûÿÿÿÿ
+8
+java:S1116ù"Remove this empty statement.(¹‹£®ûÿÿÿÿ
+n
+java:S3776Ð"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ì­Ì„þÿÿÿÿ
+™
+java:S1130Ñ"}Remove the declaration of thrown exception 'sun.jvmstat.monitor.MonitorException', as it cannot be thrown from method's body.(­Ò¹úüÿÿÿÿ
+@
+java:S1481ç")Remove this unused "nuri" local variable.(ÂÀÅž

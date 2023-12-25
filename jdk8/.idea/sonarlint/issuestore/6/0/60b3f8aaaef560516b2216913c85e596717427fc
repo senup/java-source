@@ -1,0 +1,28 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+k	java:S116/"VRename this field "NAME_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åüæ
+q	java:S1160"WRename this field "VALUE_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØíşÿÿÿÿ
+7
+java:S1170/"!Make this final field static too.(¹åüæ
+<
+java:S11700"!Make this final field static too.(şØíşÿÿÿÿ
+œ
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º……Ìüÿÿÿÿ
+n
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ªı„ÿÿÿÿÿ
+A
+java:S1197Ã"*Move the array designators [] to the type.(ııÚä
+A
+java:S1197í"*Move the array designators [] to the type.(ııÚä
+A
+java:S1197–"*Move the array designators [] to the type.(ııÚä
+A
+java:S1197¸"*Move the array designators [] to the type.(ııÚä
+8	java:S131Ã""Add a default case to this switch.(Ôäîƒ
+A
+java:S1197è"*Move the array designators [] to the type.(ııÚä
+A
+java:S1197ü"*Move the array designators [] to the type.(ııÚä
+A
+java:S1197"*Move the array designators [] to the type.(ııÚä

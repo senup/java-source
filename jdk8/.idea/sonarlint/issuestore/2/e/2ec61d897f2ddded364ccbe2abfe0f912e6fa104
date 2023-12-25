@@ -1,0 +1,63 @@
+
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(È¸Àûÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(È¸Àûÿÿÿÿ
+n	java:S127§"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ù‰¯Ñ
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ššìú
+s	java:S127©"XRefactor the code in order to not assign to this loop counter from within the loop body.(­¹­óÿÿÿÿÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Íç×
+?
+java:S1604Š"(Make this anonymous inner class a lambda(±Ó¤³
+e
+java:S1104’"NMake bs a static final constant or non-public and provide accessors if needed.(ş©€
+e
+java:S1104“"NMake cp a static final constant or non-public and provide accessors if needed.(¨‡¬¶
+f
+java:S1104”"OMake cp2 a static final constant or non-public and provide accessors if needed.(ì–µ¹
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+>
+java:S1659."#Declare "b2Max" on a separate line.(Öäò†ûÿÿÿÿ
+;
+java:S1659/"&Declare "b1MaxDB1" on a separate line.(É”‚i
+<
+java:S16590"&Declare "b1MaxDB2" on a separate line.(Âç¼
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(÷†ì
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(ÌÙ­Ûıÿÿÿÿ
+<
+java:S1168["&Return an empty array instead of null.(¥¹ï
+<
+java:S1168e"&Return an empty array instead of null.(¥¹ï
+g
+java:S1206œ"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+g
+java:S1206¦"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+g
+java:S1206³"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(Ç‰ÆÓüÿÿÿÿ
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(–àºş
+\
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(”îø
+\
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(Üí¹ñ
+\
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(¡øÛŠ
+a
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(îÆòÛÿÿÿÿÿ
+\
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(³“ü
+W	java:S125‡"<This block of commented-out lines of code should be removed.(…íÈ±ûÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ºÚ¬ø
+L
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+J
+java:S1128!"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128""4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ

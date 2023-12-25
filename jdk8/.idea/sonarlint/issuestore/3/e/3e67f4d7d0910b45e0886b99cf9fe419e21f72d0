@@ -1,0 +1,63 @@
+
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¡´ïøÿÿÿÿ
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(…àÊå
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ§Š
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íìä…
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç—Üôøÿÿÿÿ
+p
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıñ¤Œ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(’ãÌ¤
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ†¸‰
+o
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÄÙ
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ã‰ó
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ãÌ¤
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ†¸‰
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¦Æ‹
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÿ¾ûÿÿÿÿ
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÿ¾ûÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÜ²óûÿÿÿÿ
+j
+java:S3824“"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(½‚ÛÕÿÿÿÿÿ
+j
+java:S3824Í"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(½‚ÛÕÿÿÿÿÿ
+A
+java:S2160,"+Override the "equals" method in this class.(©½¼ù
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(ÆöÀœ
+Y
+java:S1155|">Use isEmpty() to check whether the collection is empty or not.(ƒœêøÿÿÿÿ
+Z
+java:S1155Š">Use isEmpty() to check whether the collection is empty or not.(³òáˆÿÿÿÿÿ
+7
+java:S2129’"!Remove this "Integer" constructor(í¢¸
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(¤£
+Z
+java:S1155¿">Use isEmpty() to check whether the collection is empty or not.(ƒœêøÿÿÿÿ
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(«Íû¦úÿÿÿÿ
+8
+java:S2129Ì"!Remove this "Integer" constructor(¾íˆ¾
+i
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(™µé×
+8
+java:S2129’"!Remove this "Integer" constructor(¾íˆ¾
+W	java:S125¥"<This block of commented-out lines of code should be removed.(»Â¢ëûÿÿÿÿ
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¯Ãµ
+N
+java:S1128!"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ

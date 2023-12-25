@@ -1,0 +1,22 @@
+
+a
+java:S1301e"KReplace this "switch" statement by "if" statements to increase readability.(åœÀ—
+k
+java:S1104)"PMake kind a static final constant or non-public and provide accessors if needed.(…ü³ùÿÿÿÿ
+p
+java:S11040"UMake beginLine a static final constant or non-public and provide accessors if needed.(Âìœşÿÿÿÿ
+r
+java:S11040"WMake beginColumn a static final constant or non-public and provide accessors if needed.(Âìœşÿÿÿÿ
+n
+java:S11040"SMake endLine a static final constant or non-public and provide accessors if needed.(Âìœşÿÿÿÿ
+p
+java:S11040"UMake endColumn a static final constant or non-public and provide accessors if needed.(Âìœşÿÿÿÿ
+g
+java:S11045"QMake image a static final constant or non-public and provide accessors if needed.(•—î×
+k
+java:S1104?"PMake next a static final constant or non-public and provide accessors if needed.(Ì°ª•şÿÿÿÿ
+n
+java:S1104M"XMake specialToken a static final constant or non-public and provide accessors if needed.(ºËãš
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+c
+java:S16590"HDeclare "beginColumn" and all following declarations on a separate line.(Âìœşÿÿÿÿ

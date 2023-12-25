@@ -1,0 +1,23 @@
+
+`	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+@
+java:S1948G"*Make "provider" transient or serializable.(²äáÜ
+q
+java:S1149i"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¢ÓÄÏıÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(â™î›
+R	java:S125Š"<This block of commented-out lines of code should be removed.(½ùúë
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(†€¯¹ıÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(±“˜
+A
+java:S1128"&Remove this unused import 'javax.sql'.(üØ—ÿşÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+<
+java:S1128!"&Remove this unused import 'java.text'.(ë¼Èí
+=
+java:S1128#"(Remove this unused import 'org.xml.sax'.(Ÿá©
+K
+java:S1128("5Remove this unused import 'com.sun.rowset.providers'.(Ô¿‹—
+B
+java:S1068G",Remove this unused "provider" private field.(²äáÜ

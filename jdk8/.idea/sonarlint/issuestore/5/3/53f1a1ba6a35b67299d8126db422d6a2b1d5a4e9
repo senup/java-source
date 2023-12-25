@@ -1,0 +1,34 @@
+
+\	java:S112£	"FDefine and throw a dedicated exception instead of using a generic one.(”Â†®
+J
+java:S1121Ş".Extract the assignment out of this expression.(¥ØãÄûÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¿ƒƒúÿÿÿÿ
+P
+java:S1191)"5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+p	java:S115ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èœ¸õ
+j
+java:S2975ÿ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+;
+java:S2097Œ"Add a type test to this method.(Ï«¡Ïüÿÿÿÿ
+P
+java:S1117€"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+B
+java:S1905´"&Remove this unnecessary cast to "int".(õ²Êúÿÿÿÿ
+=
+java:S1905Ä"&Remove this unnecessary cast to "int".(‡–Ì¿
+P
+java:S1117„"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+P
+java:S1117²"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+P
+java:S1117Á"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‹şØ©ıÿÿÿÿ
+P
+java:S1117™"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+P
+java:S1117à"9Rename "text" which hides the field declared at line 304.(úæ³Ø
+N
+java:S1135Ä"2Complete the task associated to this TODO comment.(¶¼ãØÿÿÿÿÿ
+j
+java:S2975œ	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ

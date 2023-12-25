@@ -1,0 +1,19 @@
+
+P
+java:S1133f"5Do not forget to remove this deprecated code someday.(ìîı†ûÿÿÿÿ
+C
+java:S1123f"(Add the missing @deprecated Javadoc tag.(ìîı†ûÿÿÿÿ
+­
+java:S1130g"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(Ö£ûâ
+J
+java:S1133n"5Do not forget to remove this deprecated code someday.(ÅÁª
+
+=
+java:S1123n"(Add the missing @deprecated Javadoc tag.(ÅÁª
+
+K
+java:S1133v"5Do not forget to remove this deprecated code someday.(ÈúÖ
+>
+java:S1123v"(Add the missing @deprecated Javadoc tag.(ÈúÖ
+²
+java:S1130x"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(şºûúÿÿÿÿ

@@ -1,0 +1,26 @@
+
+K
+java:S3740¹"/Provide the parametrized type for this generic.(âõåşÿÿÿÿ
+K
+java:S3740»"/Provide the parametrized type for this generic.(î·ëÜøÿÿÿÿ
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ñ“
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûí‘·
+l
+java:S1192Ê"PUse already-defined constant 'UNREGISTER' instead of duplicating its value here.(³½¼åøÿÿÿÿ
+D
+java:S1604³"(Make this anonymous inner class a lambda(«±Äœşÿÿÿÿ
+7
+java:S1116["Remove this empty statement.(Âûäÿÿÿÿÿ
+o	java:S116l"URename this field "NO_STRINGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò±ƒºÿÿÿÿÿ
+ˆ
+java:S1130º"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¹£ş
+D
+java:S1905"-Remove this unnecessary cast to "Properties".(Ò­³–
+F
+java:S2093§"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ì¿ç£ÿÿÿÿÿ
+\
+java:S1124‘"EReorder the modifiers to comply with the Java Language Specification.(Ü˜Ø¥

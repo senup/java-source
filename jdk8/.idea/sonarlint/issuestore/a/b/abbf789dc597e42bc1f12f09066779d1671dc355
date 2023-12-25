@@ -1,0 +1,31 @@
+
+a	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(º¹Ÿşÿÿÿÿÿ
+F
+java:S1066ó"/Merge this if statement with the enclosing one.(îë¯ı
+?
+java:S1604™"(Make this anonymous inner class a lambda(–ÜÑ—
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+c
+java:S2259ˆ"GA "NullPointerException" could be thrown; "implClass" is nullable here.(¶€€Îúÿÿÿÿ
+t	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö»öĞøÿÿÿÿ
+o	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Ä¡ë
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒš¶ùÿÿÿÿ
+Z
+java:S3878¦"CDisambiguate this call by either casting as "Object" or "Object[]".(»Úş
+F
+java:S1197÷"*Move the array designators [] to the type.(ª‚¸™üÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(æï…Ğşÿÿÿÿ
+R
+java:S1128&"7Remove this unused import 'java.rmi.registry.Registry'.(¢Ò¹ğıÿÿÿÿ
+M
+java:S1128("2Remove this unused import 'java.rmi.server.ObjID'.(¾áº»üÿÿÿÿ
+Y
+java:S1128)"CRemove this unused import 'java.rmi.server.RMIClientSocketFactory'.(ˆÁ‘ş
+O
+java:S11288":Remove this unused import 'sun.rmi.registry.RegistryImpl'.(İÒ©L
+Q
+java:S1128:"6Remove this unused import 'sun.rmi.transport.LiveRef'.(¯ôø‘üÿÿÿÿ
+Y
+java:S1128;">Remove this unused import 'sun.rmi.transport.tcp.TCPEndpoint'.(ãüÅ¹üÿÿÿÿ

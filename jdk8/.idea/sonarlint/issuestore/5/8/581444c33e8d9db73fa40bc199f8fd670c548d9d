@@ -1,0 +1,27 @@
+
+i
+java:S1192ª"RDefine a constant instead of duplicating this literal "activation failed" 3 times.(ÍòŠœ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+o	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“¾´Ê
+g
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(…‚ûh
+O
+java:S1117{"9Rename "force" which hides the field declared at line 51.(Úç‰Ÿ
+a
+java:S2147•"ECombine this catch with the one at line 144, which has the same body.(Ú¤¶Âøÿÿÿÿ
+\
+java:S2147š"ECombine this catch with the one at line 144, which has the same body.(´ú§â
+\
+java:S2147Ÿ"ECombine this catch with the one at line 144, which has the same body.(ÃýŸÔ
+\
+java:S2147«"ECombine this catch with the one at line 165, which has the same body.(óîË–
+\
+java:S2147°"ECombine this catch with the one at line 165, which has the same body.(±¿°Å
+C
+java:S1125Ö"'Remove the unnecessary boolean literal.(•³€Âûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Äë–ûÿÿÿÿ
+D
+java:S1128!")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+G
+java:S1144ò"+Remove this unused private "getRef" method.(ª¼–¢ýÿÿÿÿ

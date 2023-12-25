@@ -1,0 +1,70 @@
+
+a	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(ÆÔÀ›úÿÿÿÿ
+g
+java:S1192‚"KDefine a constant instead of duplicating this literal "-classpath" 3 times.(É¸ÒÏÿÿÿÿÿ
+p
+java:S1192…"YDefine a constant instead of duplicating this literal "rmic.option.already.seen" 5 times.(‚±¶Ë
+u
+java:S1192"^Define a constant instead of duplicating this literal "rmic.option.requires.argument" 5 times.(ŽÄõ—
+c
+java:S1192‘"LDefine a constant instead of duplicating this literal "-sourcepath" 3 times.(Ó¥ð™
+k
+java:S1192 "ODefine a constant instead of duplicating this literal "-bootclasspath" 3 times.(¸Ïë›úÿÿÿÿ
+`
+java:S1192¯"IDefine a constant instead of duplicating this literal "-extdirs" 3 times.(÷¶Çá
+n	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(êÁ“÷
+n	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(À³¹ß
+s	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(ó­æ‹úÿÿÿÿ
+s	java:S127·"XRefactor the code in order to not assign to this loop counter from within the loop body.(áÍÎýýÿÿÿÿ
+n	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨ÜÚÃ
+Q
+java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1191!"5Use classes from the Java API instead of Sun classes.(‚ÙÊ¥ùÿÿÿÿ
+€
+java:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(œ–â¨ûÿÿÿÿ
+€
+java:S1149R"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(½”ºÿÿÿÿÿ
+M
+java:S1117m"7Rename "out" which hides the field declared at line 95.(Ë„àó
+A
+java:S1197"*Move the array designators [] to the type.(ì„êª
+U
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(Ò¼ÿŸ
+n
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(§ðœýÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(§ðœýÿÿÿÿ
+Z
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(Ì–¸·ûÿÿÿÿ
+S
+java:S1854¨"<Remove this useless assignment to local variable "envClass".(Í…õ
+=
+java:S1168ß"&Return an empty array instead of null.(¥¹ï
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(½å¬üÿÿÿÿ
+z
+java:S2142Û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò™õŸÿÿÿÿÿ
+Q
+java:S1117æ":Rename "status" which hides the field declared at line 80.(ôºü¯
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Å‹ƒ—
+I
+java:S1874Ã"3Remove this use of "SourceClass"; it is deprecated.(³²¡(
+8	java:S131Å""Add a default case to this switch.(ÔÕêÊ
+J
+java:S1874é"3Remove this use of "SourceClass"; it is deprecated.(ý­òñ
+J
+java:S1874ñ"3Remove this use of "SourceClass"; it is deprecated.(ý­òñ
+N
+java:S1117›"7Rename "out" which hides the field declared at line 95.(çü¼»
+A
+java:S1197¬"*Move the array designators [] to the type.(ÈšÉ÷
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(¿Ä¨Ÿ
+D	java:S108À")Either remove or fill this block of code.(ŠÛøùþÿÿÿÿ
+?	java:S108Å")Either remove or fill this block of code.(âý£ò
+D	java:S108Ö")Either remove or fill this block of code.(ŠÛøùþÿÿÿÿ
+G
+java:S1128;"1Remove this unused import 'java.util.Properties'.(¬µŽ²

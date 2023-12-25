@@ -1,0 +1,16 @@
+
+e	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†’§
+
+f
+java:S1301E"KReplace this "switch" statement by "if" statements to increase readability.(Ò“ÿšùÿÿÿÿ
+V	java:S110 "<This class has 6 parents which is greater than 5 authorized.(õ·ôªùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿ¶‡´ùÿÿÿÿ
+B
+java:S1948$",Make "dispatcher" transient or serializable.(×á£ñ
+U
+java:S11616":Add the "@Override" annotation above this method signature(…ÅÀÛýÿÿÿÿ
+U
+java:S1161B":Add the "@Override" annotation above this method signature(‚ºä•úÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'java.awt.dnd.InvalidDnDOperationException'.(öáÝ•

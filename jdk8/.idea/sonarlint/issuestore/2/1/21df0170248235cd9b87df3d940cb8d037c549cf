@@ -1,0 +1,11 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(‡ÔËî
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¦óâŽùÿÿÿÿ
+F
+java:S1197ç"*Move the array designators [] to the type.(´×¯ûÿÿÿÿ
+A
+java:S1197€"*Move the array designators [] to the type.( ‹ÑÎ
+A
+java:S1197‚"*Move the array designators [] to the type.(ÌÉè²

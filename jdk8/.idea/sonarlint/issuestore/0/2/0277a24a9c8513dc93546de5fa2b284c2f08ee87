@@ -1,0 +1,15 @@
+
+t
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹°›åùÿÿÿÿ
+o
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÐ´ž
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.(…¹Ûÿ
+F
+java:S1128$"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+G
+java:S1068J"1Remove this unused "extAttributes" private field.(âÐ¥Ü
+A
+java:S1068L"+Remove this unused "builder" private field.(œŸ†º
+F
+java:S1144N"0Remove this unused private "GcInfo" constructor.(à¡õÑ

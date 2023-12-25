@@ -1,0 +1,18 @@
+
+E
+java:S1066g"/Merge this if statement with the enclosing one.(ÁÙ·
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(úŒĞüÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Ÿ­Ÿç
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(‹à› 
+;
+java:S2129J" Remove this "Double" constructor(³´íòùÿÿÿÿ
+M	java:S106N"9Replace this use of System.out or System.err by a logger.(Ñï/
+6
+java:S2129l" Remove this "Double" constructor(•¸ğ·
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(–©Ä›øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡„âÄşÿÿÿÿ
+<
+java:S2129„" Remove this "Double" constructor(”çƒ‡ùÿÿÿÿ

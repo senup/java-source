@@ -1,0 +1,153 @@
+
+\	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(øöÓÎ
+\	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(şÕÃ
+a	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õœ™ûúÿÿÿÿ
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ˆ¬şÿÿÿÿ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ôİ
+o
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ•¿Y
+o
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ùğ
+p
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÒõÙ
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÜâÜ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄâÊÿÿÿÿÿ
+Š
+java:S1192Ó	"nDefine a constant instead of duplicating this literal "XMLCipher unexpectedly not in DECRYPT_MODE..." 3 times.(¡ı²Öÿÿÿÿÿ
+^
+java:S1192»"GDefine a constant instead of duplicating this literal "empty" 35 times.(‚…º¦
+f
+java:S1192¿"JDefine a constant instead of duplicating this literal "Algorithm" 4 times.(Ò›úœÿÿÿÿÿ
+y
+java:S1192¬"]Define a constant instead of duplicating this literal "Element unexpectedly null..." 5 times.(½àÎøøÿÿÿÿ
+m
+java:S1192©"VDefine a constant instead of duplicating this literal "Encrypting element..." 3 times.(óÜ§Ù
+t
+java:S1192Ò"]Define a constant instead of duplicating this literal "Provider unexpectedly null.." 3 times.(ó¬œ’
+Š
+java:S1192¯"nDefine a constant instead of duplicating this literal "XMLCipher unexpectedly not in ENCRYPT_MODE..." 4 times.(‡Ë¯êÿÿÿÿÿ
+
+java:S1192³"tDefine a constant instead of duplicating this literal "XMLCipher instance without transformation specified" 4 times.(í˜ï®ûÿÿÿÿ
+}
+java:S1192ó"fDefine a constant instead of duplicating this literal "Context document unexpectedly null..." 7 times.(ûÔ‹À
+b
+java:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+b
+java:S1301Ï"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+b
+java:S1301Œ"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+`
+java:S2259‚"DA "NullPointerException" could be thrown; "source" is nullable here.(äÉ şÿÿÿÿ
+e
+java:S2259¨"N"NullPointerException" will be thrown when invoking method "decryptElement()".(¤’‚ù
+d
+java:S2259«"N"NullPointerException" will be thrown when invoking method "encryptElement()".(Æù‘
+q
+java:S2259Ö"U"NullPointerException" will be thrown when invoking method "decryptElementContent()".(èš“ ıÿÿÿÿ
+i
+java:S2259ß"M"NullPointerException" will be thrown when invoking method "removeContent()".(‹çÙ«úÿÿÿÿ
+a
+java:S2259¹"EA "NullPointerException" could be thrown; "element" is nullable here.(Ôóœşÿÿÿÿ
+[
+java:S2259ÿ"DA "NullPointerException" could be thrown; "source" is nullable here.(ä—×§
+e
+java:S2259Ø"N"NullPointerException" will be thrown when invoking method "decryptElement()".(¤’‚ù
+d
+java:S2259ß"N"NullPointerException" will be thrown when invoking method "encryptElement()".(Æù‘
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô™í
+u	java:S115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…­éˆûÿÿÿÿ
+p	java:S115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Şƒ‚
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸î÷Å
+u	java:S115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íšÈàÿÿÿÿÿ
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(·‰´Ò
+F
+java:S1197Ó"*Move the array designators [] to the type.(Ôì‚ğøÿÿÿÿ
+b
+java:S3457Ú"KFormat specifiers or lambda should be used instead of string concatenation.(ºÒ¦
+P
+java:S4719Ú"9Replace charset name argument with StandardCharsets.UTF_8(ºÒ¦
+b
+java:S3457‹	"KFormat specifiers or lambda should be used instead of string concatenation.(èªÇæ
+b
+java:S3457	"KFormat specifiers or lambda should be used instead of string concatenation.(°Ş°
+W	java:S125	"<This block of commented-out lines of code should be removed.(ğ„Âïıÿÿÿÿ
+g
+java:S3457¦	"KFormat specifiers or lambda should be used instead of string concatenation.(§ù‚’ıÿÿÿÿ
+b
+java:S3457§	"KFormat specifiers or lambda should be used instead of string concatenation.(ÀÛ§
+W	java:S125­	"<This block of commented-out lines of code should be removed.(•ı¤øÿÿÿÿ
+N
+java:S1135Æ
+"2Complete the task associated to this TODO comment.(ÍÑØøÿÿÿÿ
+a
+java:S3457Û
+"KFormat specifiers or lambda should be used instead of string concatenation.(ìî¬8
+g
+java:S3457Ü
+"KFormat specifiers or lambda should be used instead of string concatenation.(ëàÇ°øÿÿÿÿ
+n
+java:S3776÷
+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÃåĞÂùÿÿÿÿ
+g
+java:S3457©"KFormat specifiers or lambda should be used instead of string concatenation.(š™“£ÿÿÿÿÿ
+b
+java:S3457Ï"KFormat specifiers or lambda should be used instead of string concatenation.(íšáç
+n
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ñÃ‘áıÿÿÿÿ
+b
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(¬í¬¨
+g
+java:S3457Ó"KFormat specifiers or lambda should be used instead of string concatenation.(¤Ï‡Âıÿÿÿÿ
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ø¯çŸüÿÿÿÿ
+b
+java:S3457·"KFormat specifiers or lambda should be used instead of string concatenation.(¬í¬¨
+>
+java:S3329Û"'Use a dynamically-generated, random IV.(ÃÒä†
+8	java:S131˜""Add a default case to this switch.(ÜŸ•
+8	java:S131Ï""Add a default case to this switch.(ÜŸ•
+R	java:S125í"<This block of commented-out lines of code should be removed.(®ÈòÀ
+]
+java:S2147ò"FCombine this catch with the one at line 2158, which has the same body.(á•­È
+N
+java:S1135©"2Complete the task associated to this TODO comment.(ğî‹¤úÿÿÿÿ
+N
+java:S1135³"2Complete the task associated to this TODO comment.(€£‰·ûÿÿÿÿ
+N
+java:S1135ç"2Complete the task associated to this TODO comment.(€£‰·ûÿÿÿÿ
+P
+java:S2130¨"9Use "Integer.parseInt" for this string-to-int conversion.(Âğó
+U
+java:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(µ÷¾‘øÿÿÿÿ
+I
+java:S1135Ë"2Complete the task associated to this TODO comment.(ú÷İÄ
+I
+java:S1135ñ"2Complete the task associated to this TODO comment.(–Û‘ƒ
+N
+java:S1135ô"2Complete the task associated to this TODO comment.(¿ÌŸªúÿÿÿÿ
+8	java:S131Œ""Add a default case to this switch.(ÜŸ•
+u	java:S115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÓ´Áûÿÿÿÿ
+p	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îø¡«
+I
+java:S1135è"2Complete the task associated to this TODO comment.(Î§ƒş
+I
+java:S1135é"2Complete the task associated to this TODO comment.(˜«…²
+õ
+java:S1130’"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+ú
+java:S1130’"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+ø
+java:S1130“"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(×ÊâÖüÿÿÿÿ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(¼’Ì˜
+l
+java:S3038Š"U"getType" is defined in the "Reference" interface and can be removed from this class.(‡ñ°
+N
+java:S1135²"2Complete the task associated to this TODO comment.(Ûèõùÿÿÿÿ

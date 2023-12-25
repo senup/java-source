@@ -1,0 +1,26 @@
+
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+b
+java:S1192ç"FDefine a constant instead of duplicating this literal "empty" 3 times.(˜›©Èøÿÿÿÿ
+‚
+java:S1488‚"kImmediately return this expression instead of assigning it to the temporary variable "inclusiveNamespaces".(ãı¹ç
+O
+java:S2755Ú"3Disable access to external entities in XML parsing.(”£Ãÿøÿÿÿÿ
+\
+java:S2147è"ECombine this catch with the one at line 230, which has the same body.(Ãôş•
+\
+java:S2147ê"ECombine this catch with the one at line 230, which has the same body.(¶ùø
+ú
+java:S1130ù"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
+ú
+java:S1130†"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
+ô
+java:S1130“"×Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.CanonicalizationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
+ø
+java:S1130“"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.InvalidCanonicalizerException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
+ô
+java:S1130¨"×Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.CanonicalizationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
+ø
+java:S1130¨"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.InvalidCanonicalizerException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(È‚Ûÿÿÿÿÿ

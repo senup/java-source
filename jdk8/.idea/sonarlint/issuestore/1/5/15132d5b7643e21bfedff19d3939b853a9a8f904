@@ -1,0 +1,55 @@
+
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Äç™
+s
+java:S1192Ù"\Define a constant instead of duplicating this literal "algorithm.classDoesNotExist" 3 times.(¯õĞÈ
+p
+java:S1192§"TDefine a constant instead of duplicating this literal "Register Resolver: " 4 times.(Æ÷Ò´üÿÿÿÿ
+a
+java:S1192Ñ"JDefine a constant instead of duplicating this literal "JAVACLASS" 5 times.(í‘êí
+Q
+java:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141°"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+O
+java:S2755§"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ
+U
+java:S11188":Add a private constructor to hide the implicit public one.(¶‰Üııÿÿÿÿ
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(ßãí´
+o
+java:S3776¤"SRefactor this method to reduce its Cognitive Complexity from 126 to the 15 allowed.(—ÂÔüøÿÿÿÿ
+g
+java:S3457Õ"KFormat specifiers or lambda should be used instead of string concatenation.(ãªÒôûÿÿÿÿ
+A
+java:S1197Ø"*Move the array designators [] to the type.(®¤ ƒ
+g
+java:S3457é"KFormat specifiers or lambda should be used instead of string concatenation.(öÒó–øÿÿÿÿ
+A
+java:S1197ì"*Move the array designators [] to the type.(®¤ ƒ
+8
+java:S3457ğ"!Single quote "'" must be escaped.(ó’Œ
+I
+java:S1135‹"2Complete the task associated to this TODO comment.(­­íÌ
+b
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(ÇçÆ§
+A
+java:S1197”"*Move the array designators [] to the type.(®¤ ƒ
+g
+java:S3457§"KFormat specifiers or lambda should be used instead of string concatenation.(Æ÷Ò´üÿÿÿÿ
+b
+java:S3457¬"KFormat specifiers or lambda should be used instead of string concatenation.(²ç±Œ
+A
+java:S1181²"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+P
+java:S3457³"4Lambda should be used to defer string concatenation.(ñ÷‘Êùÿÿÿÿ
+g
+java:S3457È"KFormat specifiers or lambda should be used instead of string concatenation.(Æ÷Ò´üÿÿÿÿ
+b
+java:S3457Í"KFormat specifiers or lambda should be used instead of string concatenation.(²ç±Œ
+b
+java:S3457ã"KFormat specifiers or lambda should be used instead of string concatenation.(áô¼İ

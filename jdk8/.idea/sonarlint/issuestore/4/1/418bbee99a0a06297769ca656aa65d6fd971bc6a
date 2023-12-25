@@ -1,0 +1,21 @@
+
+[
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(¢Åö½
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(ÑŠËœ
+[
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(ĞßŸÛ
+J
+java:S1172q"/Remove this unused method parameter "protocol".(şã¸”øÿÿÿÿ
+[
+java:S2147œ"ECombine this catch with the one at line 154, which has the same body.(à«º
+=
+java:S1168›"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¹"&Return an empty array instead of null.(¥¹ï
+2
+java:S3626ì"Remove this redundant jump.(ûÁİ…
+^
+java:S1128"CRemove this unused import 'java.security.GeneralSecurityException'.(À×öÏıÿÿÿÿ

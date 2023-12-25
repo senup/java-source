@@ -1,0 +1,41 @@
+
+s	java:S135z"YReduce the total number of break and continue statements in this loop to use at most one.(’êÏùûÿÿÿÿ
+E
+java:S1066€"/Merge this if statement with the enclosing one.(Ü–çU
+n	java:S116+"TRename this field "max_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ş™Šüÿÿÿÿ
+j	java:S116,"URename this field "used_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÈ‰´
+h	java:S116."SRename this field "stage_ix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼¸¿
+l	java:S116/"RRename this field "stage_v" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬èöÈùÿÿÿÿ
+j	java:S1160"VRename this field "stage_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»¤o
+l	java:S116>"WRename this field "control_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º „
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.( šÎ½øÿÿÿÿ
+Z
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(„£ÛA
+[
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(™ï« 
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(›†›Ûøÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(î‰Â
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(÷ö›
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(Ş…èÚøÿÿÿÿ
+[
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(ÏĞ¡Ÿ
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(æ‰“½
+<
+java:S1168v"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776y"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(ø¨ü¢
+R	java:S125˜"<This block of commented-out lines of code should be removed.(ÂüÓ¨
+b	java:S128¤"LEnd this switch case with an unconditional break, return or throw statement.(§ÜÜ›
+V
+java:S1117¯":Rename "attack" which hides the field declared at line 53.(¢®œ‘úÿÿÿÿ
+W
+java:S1117°";Rename "attack2" which hides the field declared at line 60.(Õª´Õüÿÿÿÿ
+R
+java:S1117ã";Rename "sustain" which hides the field declared at line 56.(„÷Ç–
+W	java:S125û"<This block of commented-out lines of code should be removed.(ÏßÈ‡şÿÿÿÿ

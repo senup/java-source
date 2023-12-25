@@ -1,0 +1,5 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(²ã¾øÿÿÿÿ
+h
+java:S27865"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ÓÔ³¤

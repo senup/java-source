@@ -1,0 +1,15 @@
+
+\	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(ï¦“¯
+\	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(Æ™ýŠ
+^
+java:S2259÷"HA "NullPointerException" could be thrown; "derivedKey" is nullable here.(žÄ½r
+>
+java:S3329ù"'Use a dynamically-generated, random IV.(‰’¬œ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(øŽà„úÿÿÿÿ
+G
+java:S1481©"+Remove this unused "kBytes" local variable.(‡ÀÀŸýÿÿÿÿ
+>
+java:S1481ª"'Remove this unused "iv" local variable.(Ø¶›Š
+A
+java:S1068/"+Remove this unused "blkSize" private field.(£½ÌÙ

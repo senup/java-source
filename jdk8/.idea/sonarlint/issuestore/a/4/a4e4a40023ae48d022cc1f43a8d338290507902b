@@ -1,0 +1,11 @@
+
+n
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷È¹P
+S
+java:S4973•"<Strings and Boxed types should be compared using "equals()".(Þ„³²
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ð
+\
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(²—‘
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íÐ‡þÿÿÿÿ

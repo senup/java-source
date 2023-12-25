@@ -1,0 +1,20 @@
+
+|
+java:S1192S"fDefine a constant instead of duplicating this literal "CRAM-MD5 authentication not completed" 3 times.(åú£ñ
+u
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤™ı4
+T
+java:S3400:"9Remove this method and declare a constant for this value.(ËôŠşÿÿÿÿ
+]
+java:S1172L"BRemove these unused method parameters "incoming", "offset", "len".(ğÒø½şÿÿÿÿ
+X
+java:S1172\"BRemove these unused method parameters "outgoing", "offset", "len".(Îú°ó
+•
+java:S1130|"zRemove the declaration of thrown exception 'javax.security.sasl.SaslException', as it cannot be thrown from method's body.(æÃîùÿÿÿÿ
+I
+java:S1113Š"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(âÅûÍ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Í½Äıÿÿÿÿ
+a
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(¢Í½Äıÿÿÿÿ

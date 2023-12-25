@@ -1,0 +1,51 @@
+
+J
+java:S3740."/Provide the parametrized type for this generic.(øŠ˜üÿÿÿÿ
+E
+java:S37406"/Provide the parametrized type for this generic.(ØâãŞ
+F
+java:S3740‰"/Provide the parametrized type for this generic.(ÀÂ®
+F
+java:S3740÷"/Provide the parametrized type for this generic.(©ıÍ’
+f	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÒßÈ
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇˆË…
+f	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒêJ
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä™ÚÀûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+€
+java:S1149."eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øŠ˜üÿÿÿÿ
+{
+java:S11496"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØâãŞ
+|
+java:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÀÂ®
+@
+java:S11975"*Move the array designators [] to the type.(ªöıˆ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(îÒäÏ
+G
+java:S1874y",Remove this use of "Main"; it is deprecated.(ÓÅ‘øÿÿÿÿ
+H
+java:S1874€",Remove this use of "Main"; it is deprecated.(ÓÅ‘øÿÿÿÿ
+F
+java:S1197•"*Move the array designators [] to the type.(êØÊœüÿÿÿÿ
+F
+java:S1197Á"*Move the array designators [] to the type.(Ò´Ì ÿÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¥¾¾áıÿÿÿÿ
+A
+java:S1197ğ"*Move the array designators [] to the type.(ÍÏÏö
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(äÇŞä
+A
+java:S1197"*Move the array designators [] to the type.(ó´£ 
+@
+java:S1659Ñ")Declare "methodCount" on a separate line.(¹Åü
+V
+java:S1161ş":Add the "@Override" annotation above this method signature(›Ïåëûÿÿÿÿ
+X
+java:S1195"<Move the array designators [] to the end of the return type.(İâ§×ıÿÿÿÿ
+=
+java:S1168”"&Return an empty array instead of null.(¥¹ï
+K
+java:S1128!"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ

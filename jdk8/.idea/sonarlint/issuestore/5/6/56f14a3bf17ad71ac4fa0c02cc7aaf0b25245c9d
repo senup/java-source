@@ -1,0 +1,25 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Øé»’
+g
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùåÏq
+E
+java:S1874>"0Remove this use of "readLine"; it is deprecated.(³Ái
+P
+java:S1161m":Add the "@Override" annotation above this method signature(Î¨Îé
+U
+java:S1161{":Add the "@Override" annotation above this method signature(ì ºÖøÿÿÿÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(‡•ï÷ıÿÿÿÿ
+F
+java:S1197“"*Move the array designators [] to the type.(‡•ï÷ıÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(§Êüÿÿÿÿ
+e
+java:S3551®"IMake this method "synchronized" to match the parent class implementation.(§Êüÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(ÊòÇùÿÿÿÿ
+e
+java:S3551¹"IMake this method "synchronized" to match the parent class implementation.(ÊòÇùÿÿÿÿ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(Ø«…¬

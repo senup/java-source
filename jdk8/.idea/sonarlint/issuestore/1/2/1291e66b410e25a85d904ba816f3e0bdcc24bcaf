@@ -1,0 +1,68 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê£’ë
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+Z
+java:S2387A"D"jarFileURLConnection" is the name of a field in "JarURLConnection".(óÛŒÝ
+-
+java:S21760"Rename this class.(Í˜’šùÿÿÿÿ
+”
+java:S1130P"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀÞ÷øÿÿÿÿ
+I
+java:S1172O".Remove this unused method parameter "handler".(Ù„Ú¦þÿÿÿÿ
+P
+java:S1161]":Add the "@Override" annotation above this method signature(÷ÍÁ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(Ñ¬¾Õøÿÿÿÿ
+X
+java:S4929f"=Provide an override of "read(byte[],int,int)" for this class.(ÿÞÖçûÿÿÿÿ
+U
+java:S1161j":Add the "@Override" annotation above this method signature(æÔ«÷þÿÿÿÿ
+m
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®Çºþýÿÿÿÿ
+?	java:S108Š")Either remove or fill this block of code.(”ý¾
+V
+java:S1161•":Add the "@Override" annotation above this method signature(ùãÉØûÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(ÿú±»
+V
+java:S1161®":Add the "@Override" annotation above this method signature(Ü’×üÿÿÿÿ
+?	java:S108¹")Either remove or fill this block of code.(ï­£Ä
+V
+java:S1161¾":Add the "@Override" annotation above this method signature(ê”Ëòüÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Ä¶¡æ
+V
+java:S1161ã":Add the "@Override" annotation above this method signature(°ÁÂáùÿÿÿÿ
+Q
+java:S1161î":Add the "@Override" annotation above this method signature(äˆ¾Â
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(âøßÙøÿÿÿÿ
+P
+java:S1161†":Add the "@Override" annotation above this method signature(…èÀP
+V
+java:S1161”":Add the "@Override" annotation above this method signature(‡ã‚Ðþÿÿÿÿ
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(î­õ¡
+V
+java:S1161«":Add the "@Override" annotation above this method signature(¦ç¶µüÿÿÿÿ
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(²’ÎÁ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(ß¥üüÿÿÿÿ
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(åäŠùÿÿÿÿ
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(‰²¤Ã
+Q
+java:S1161ó":Add the "@Override" annotation above this method signature(å›Žú
+X
+java:S1128#"=Remove this unused import 'java.net.UnknownServiceException'.(¥üù¶ûÿÿÿÿ
+H
+java:S1128$"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+H
+java:S1128)"3Remove this unused import 'java.util.jar.Manifest'.(ñ·f
+D
+java:S10682")Remove this unused "debug" private field.(¡Ø„Ìùÿÿÿÿ
+C
+java:S1068>".Remove this unused "permission" private field.(™‚¾u

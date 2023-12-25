@@ -1,0 +1,25 @@
+
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ —ßùÿÿÿÿ
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö­æðúÿÿÿÿ
+u
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö­æðúÿÿÿÿ
+?
+java:S1604Å"(Make this anonymous inner class a lambda(¿ÂËó
+?
+java:S1604¸"(Make this anonymous inner class a lambda(¿ÂËó
+?
+java:S1604î"(Make this anonymous inner class a lambda(¿ÂËó
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+h
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(í¼±f
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(„’óóúÿÿÿÿ
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(šÎÞê
+V
+java:S1128";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+V
+java:S1128 ";Remove this unused import 'java.security.PrivilegedAction'.(£Þóšùÿÿÿÿ

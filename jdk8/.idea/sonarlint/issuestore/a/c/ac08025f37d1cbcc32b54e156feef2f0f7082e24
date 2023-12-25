@@ -1,0 +1,35 @@
+
+E
+java:S1066ş"/Merge this if statement with the enclosing one.(•ñÉ
+P
+java:S1191!"5Use classes from the Java API instead of Sun classes.(‚ÙÊ¥ùÿÿÿÿ
+˜
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡ÀØ”
+(
+java:S2176@"Rename this class.(…èŸº
+
+java:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×¥ııÿÿÿÿ
+N
+java:S1874@"8Remove this use of "BatchEnvironment"; it is deprecated.(…èŸº
+T
+java:S1874"8Remove this use of "BatchEnvironment"; it is deprecated.(ÃÆÃúÿÿÿÿ
+V	java:S899·";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+j
+java:S4042·"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(®”ğ©
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(Ú¦“Ñıÿÿÿÿ
+p	java:S115é"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×­êñ
+G
+java:S2160ç"+Override the "equals" method in this class.(·÷Ïœúÿÿÿÿ
+d
+java:S2272ú"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ì­åR
+V
+java:S1161†":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(À”°½ùÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(•ó„õüÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(À”°½ùÿÿÿÿ
+F
+java:S2093¢"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+R	java:S125¹"<This block of commented-out lines of code should be removed.(ã—¥

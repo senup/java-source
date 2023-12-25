@@ -1,0 +1,40 @@
+
+r
+java:S1192?"\Define a constant instead of duplicating this literal "lazy read failed at offset " 3 times.(³™»
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(³™»
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(³™»
+=
+java:S1905V"'Remove this unnecessary cast to "long".(—øÈ÷
+N	java:S106["9Replace this use of System.out or System.err by a logger.(³™»
+6
+java:S2129g"!Remove this "Integer" constructor(‡–‚I
+9
+java:S2129i"Remove this "Long" constructor(ìá”Üøÿÿÿÿ
+B
+java:S1905z"'Remove this unnecessary cast to "long".(úÍşÿÿÿÿ
+D
+java:S1125†"(Remove the unnecessary boolean literals.(¨Ò£†úÿÿÿÿ
+U
+java:S1854‹"9Remove this useless assignment to local variable "index".(‰Å–ğúÿÿÿÿ
+=
+java:S1905Š"&Remove this unnecessary cast to "int".(î‚Äí
+B
+java:S1905‹"&Remove this unnecessary cast to "int".(‰Å–ğúÿÿÿÿ
+U
+java:S1854‘"9Remove this useless assignment to local variable "index".(‰Å–ğúÿÿÿÿ
+=
+java:S1905"&Remove this unnecessary cast to "int".(î‚Äí
+B
+java:S1905‘"&Remove this unnecessary cast to "int".(‰Å–ğúÿÿÿÿ
+P
+java:S1854™"9Remove this useless assignment to local variable "index".(æÌù
+=
+java:S1905–"&Remove this unnecessary cast to "int".(î‚Äí
+B
+java:S1905—"&Remove this unnecessary cast to "int".(‰Å–ğúÿÿÿÿ
+=
+java:S1905˜"&Remove this unnecessary cast to "int".(Í«¡ù
+=
+java:S1905™"&Remove this unnecessary cast to "int".(æÌù
+B
+java:S1905¡"&Remove this unnecessary cast to "int".(²±¡Úıÿÿÿÿ

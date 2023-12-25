@@ -1,0 +1,82 @@
+
+n
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(À›Òx
+p
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¥‡†
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¥‡†
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¥‡†
+u
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÀø­ÿÿÿÿÿ
+F
+java:S1066«"/Merge this if statement with the enclosing one.(–ˆ¬Û
+K
+java:S1066å"/Merge this if statement with the enclosing one.(€Áíûÿÿÿÿÿ
+K
+java:S1066¡"/Merge this if statement with the enclosing one.(·ïç©úÿÿÿÿ
+Q
+java:S1141ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½½¹øÿÿÿÿ
+?
+java:S1604‹"(Make this anonymous inner class a lambda(ïÑ¬ 
+w
+java:S1488«"[Immediately return this expression instead of assigning it to the temporary variable "val".(¦¥èşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+k	java:S116S"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãùş§şÿÿÿÿ
+L
+java:S2387f"6"mouseListener" is the name of a field in "Component".(Õ¼æñ
+˜
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü„Òë
+C
+java:S1948S"(Make "LOGGER" transient or serializable.(Ãùş§şÿÿÿÿ
+B
+java:S1948Z"'Make "mbean" transient or serializable.(Ñƒ¡Äúÿÿÿÿ
+G
+java:S1948]",Make "attributes" transient or serializable.(õ¾Ò¹øÿÿÿÿ
+M
+java:S1948^"7Make "unavailableAttributes" transient or serializable.(ÂÕ„¸
+O
+java:S1948_"4Make "viewableAttributes" transient or serializable.(Œÿı¥øÿÿÿÿ
+I
+java:S1948`".Make "viewersCache" transient or serializable.(ªŞ„Ìøÿÿÿÿ
+O
+java:S1948b"4Make "attributesListener" transient or serializable.(ÖáÑÑÿÿÿÿÿ
+L
+java:S1948d"1Make "valueCellEditor" transient or serializable.(Äßö üÿÿÿÿ
+E
+java:S1948f"/Make "mouseListener" transient or serializable.(Õ¼æñ
+[
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(’‰Ç£
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Øà®±úÿÿÿÿ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(¤ŒãÂüÿÿÿÿ
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(‚ÓËªøÿÿÿÿ
+z
+java:S2142‘"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÔÍÏÚıÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ãß©™ùÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(Ú‹¢Äÿÿÿÿÿ
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(Îã­Ã
+R
+java:S1172«";Remove these unused method parameters "attributeName", "c".(†‹©¾
+z
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(©Ë»‡ıÿÿÿÿ
+i
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¦´ìö
+A
+java:S1197ê"*Move the array designators [] to the type.(ııÚä
+T
+java:S1854–"=Remove this useless assignment to local variable "col2Width".(¤ÓÙø
+c
+java:S1845”"MRename method "init" to prevent any misunderstanding/clash with field "init".(ÂÀÜ,
+8
+java:S2225Ã"Return empty string instead.(õÿŒ¶ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“áºÿÿÿÿÿ
+z
+java:S2142›"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(©Ë»‡ıÿÿÿÿ
+D
+java:S1172§"-Remove this unused method parameter "method".(²

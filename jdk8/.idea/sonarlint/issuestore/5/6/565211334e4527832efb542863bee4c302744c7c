@@ -1,0 +1,33 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+n	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ÛËL
+m	java:S116J"SRename this field "uis_orig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç›¿şÿÿÿÿ
+h	java:S116K"SRename this field "uos_orig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã²ê÷
+@
+java:S1659&"%Declare "rspHdrs" on a separate line.(ãä¦Íşÿÿÿÿ
+6
+java:S5164:" Call "remove()" on "dateFormat".(å·œü
+[
+java:S4065;"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(…æì
+Q	java:S125³"<This block of commented-out lines of code should be removed.(şÑ'
+H
+java:S1135°"2Complete the task associated to this TODO comment.(°±™z
+i
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(øÜ°¼
+Q
+java:S1854†":Remove this useless assignment to local variable "tmpout".(Ò›Ú¡
+A
+java:S1197µ"*Move the array designators [] to the type.(±”ı¿
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(—‚ÄÙûÿÿÿÿ
+F
+java:S1197µ"*Move the array designators [] to the type.(—‚ÄÙûÿÿÿÿ
+V
+java:S1161º":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+F
+java:S1197º"*Move the array designators [] to the type.(èöò¡şÿÿÿÿ
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(æ¯åµ
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

@@ -1,0 +1,34 @@
+
+F
+java:S3740ª"/Provide the parametrized type for this generic.(Á³öÆ
+F
+java:S3740ª"/Provide the parametrized type for this generic.(Á³öÆ
+o	java:S135õ"YReduce the total number of break and continue statements in this loop to use at most one.(ßúðÙ
+s	java:S127Þ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îª±üüÿÿÿÿ
+x
+java:S1488["]Immediately return this expression instead of assigning it to the temporary variable "tempo".(£³ó€øÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(ÓñàÍ
+[
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(í½Ä˜
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(´Ýç°
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(‹‚§œ
+D
+java:S1905k")Remove this unnecessary cast to "double".(Ž²Ïöùÿÿÿÿ
+?
+java:S1905u")Remove this unnecessary cast to "double".(Ò€¡©
+V	java:S125"<This block of commented-out lines of code should be removed.(à´»Æüÿÿÿÿ
+X
+java:S1659Ñ"ADeclare "tick" and all following declarations on a separate line.(åÙêá
+E
+java:S1905¿")Remove this unnecessary cast to "double".(À™…Òúÿÿÿÿ
+E
+java:S1905À")Remove this unnecessary cast to "double".(Ü¢Œøýÿÿÿÿ
+F
+java:S1481Ñ"/Remove this unused "newReadPos" local variable.(åÙêá
+R	java:S125â"<This block of commented-out lines of code should be removed.(ï¤¹Ò
+R	java:S125„"<This block of commented-out lines of code should be removed.(ÞÒÍ
+D
+java:S1905â"(Remove this unnecessary cast to "float".(†‹Õ³ûÿÿÿÿ

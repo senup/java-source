@@ -1,0 +1,22 @@
+
+t	java:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀþÿÿÿÿ
+[
+java:S1659'"@Declare "loy" and all following declarations on a separate line.(±»ë±þÿÿÿÿ
+:
+java:S1659*"$Declare "curhiy" on a separate line.(ª¦ÁÈ
+V	java:S1256"<This block of commented-out lines of code should be removed.(ð±‡Øúÿÿÿÿ
+E
+java:S1197P"*Move the array designators [] to the type.(‰¡¶‡üÿÿÿÿ
+m
+java:S3776o"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(º×Šëùÿÿÿÿ
+E
+java:S1197o"*Move the array designators [] to the type.(º×Šëùÿÿÿÿ
+;
+java:S1659"$Declare "curhix" on a separate line.(É‰¿µ
+V
+java:S1117‚":Rename "curloy" which hides the field declared at line 42.(Ë¦Ðžþÿÿÿÿ
+Q
+java:S1117ƒ":Rename "curhiy" which hides the field declared at line 42.(¼•“
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(éÏíà

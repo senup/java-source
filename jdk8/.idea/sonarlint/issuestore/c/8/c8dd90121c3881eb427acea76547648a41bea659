@@ -1,0 +1,1151 @@
+
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôµ€ÿÿÿÿÿ
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹àûÎ
+u
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÿ‹äùÿÿÿÿ
+u
+java:S1192Y"ZDefine a constant instead of duplicating this literal "Java Expression Parser:  " 3 times.(È™µşÿÿÿÿ
+t
+java:S1192ë"]Define a constant instead of duplicating this literal "operation not yet supported" 14 times.(ˆª…Ş
+J
+java:S1121ó".Extract the assignment out of this expression.(üËßùÿÿÿÿ
+J
+java:S1121Á".Extract the assignment out of this expression.(ÍİÎııÿÿÿÿ
+J
+java:S1121Á".Extract the assignment out of this expression.(ÍİÎııÿÿÿÿ
+E
+java:S1121Ã".Extract the assignment out of this expression.(œæì
+J
+java:S1121í".Extract the assignment out of this expression.(ºÆâÄûÿÿÿÿ
+a
+java:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301Ù"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301Â"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301ô"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301³"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301æ"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301ã"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301ñ"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301ö"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301Â"KReplace this "switch" statement by "if" statements to increase readability.(É
+a
+java:S1301Ø"KReplace this "switch" statement by "if" statements to increase readability.(É
+t
+java:S1104š"XMake token_source a static final constant or non-public and provide accessors if needed.(»²‰àıÿÿÿÿ
+h
+java:S1104œ"QMake token a static final constant or non-public and provide accessors if needed.(ºˆÜà
+h
+java:S1104œ"QMake jj_nt a static final constant or non-public and provide accessors if needed.(ºˆÜà
+o
+java:S1104 "XMake lookingAhead a static final constant or non-public and provide accessors if needed.(éŒ¡
+I
+java:S1199Ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199é"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199ş"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199“"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199¨"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199½"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199º"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199•"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199»"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199Å"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199İ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199Ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199µ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199¶"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+r	java:S116š"WRename this field "token_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»²‰àıÿÿÿÿ
+p	java:S116›"ZRename this field "jj_input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğî±Ï
+f	java:S116œ"PRename this field "jj_nt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºˆÜà
+l	java:S116"QRename this field "jj_ntk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄ©Áúÿÿÿÿ
+p	java:S116"URename this field "jj_scanpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úíá¢ùÿÿÿÿ
+p	java:S116"URename this field "jj_lastpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úíá¢ùÿÿÿÿ
+f	java:S116Ÿ"PRename this field "jj_la" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâ°Ê
+g	java:S116¡"QRename this field "jj_gen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‡”
+l	java:S116¢"QRename this field "jj_la1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚É¦Àûÿÿÿÿ
+i	java:S116£"SRename this field "jj_la1_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Üâ
+n	java:S116¨"SRename this field "jj_la1_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ı–şøÿÿÿÿ
+n	java:S116­"SRename this field "jj_la1_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ«¹Äùÿÿÿÿ
+n	java:S116³"SRename this field "jj_la1_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ÿû¯ûÿÿÿÿ
+j	java:S116·"TRename this field "jj_2_rtns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿óó
+j	java:S116¸"TRename this field "jj_rescan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›‰
+f	java:S116¹"PRename this field "jj_gc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ûß
+s	java:S116Ç"XRename this field "jj_expentries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿ‹äùÿÿÿÿ
+q	java:S116È"VRename this field "jj_expentry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—°­‡ıÿÿÿÿ
+m	java:S116É"RRename this field "jj_kind" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬Ääûÿÿÿÿ
+n	java:S116Ê"XRename this field "jj_lasttokens" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä»ÛÃ
+o	java:S116Ë"TRename this field "jj_endpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÉ¸Íüÿÿÿÿ
+˜
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š†Ï
+
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò¿€şüÿÿÿÿ
+q
+java:S4144¨"[Update this method so that its implementation is not identical to "jj_3R_123" on line 1483.(ú¯—<
+w
+java:S4144˜"[Update this method so that its implementation is not identical to "jj_3R_123" on line 1483.(À‘«øÿÿÿÿ
+r
+java:S4144÷"[Update this method so that its implementation is not identical to "jj_3R_123" on line 1483.(ğà¤¸
+o
+java:S4144ã"XUpdate this method so that its implementation is not identical to "jj_3_1" on line 1499.(ñŒçÅ
+w
+java:S4144µ"[Update this method so that its implementation is not identical to "jj_3R_147" on line 1584.(‚Š©ìùÿÿÿÿ
+w
+java:S4144í"[Update this method so that its implementation is not identical to "jj_3R_122" on line 1604.(ñ®Ù€ıÿÿÿÿ
+w
+java:S4144†"[Update this method so that its implementation is not identical to "jj_3R_146" on line 1644.(»Ò‚ûùÿÿÿÿ
+w
+java:S4144Ÿ"[Update this method so that its implementation is not identical to "jj_3R_133" on line 1921.(æº±Åıÿÿÿÿ
+r
+java:S4144©"[Update this method so that its implementation is not identical to "jj_3R_132" on line 1971.(ƒÛ†º
+q
+java:S4144Ù"ZUpdate this method so that its implementation is not identical to "jj_3R_87" on line 2163.(®˜Õş
+o
+java:S4144²"XUpdate this method so that its implementation is not identical to "jj_3_8" on line 2242.(Ä¡§Ü
+v
+java:S4144¬"ZUpdate this method so that its implementation is not identical to "jj_3R_66" on line 2812.(‘ñšìıÿÿÿÿ
+v
+java:S4144Ù"ZUpdate this method so that its implementation is not identical to "jj_3R_63" on line 3080.(ºòñçùÿÿÿÿ
+:
+java:S1659œ"#Declare "jj_nt" on a separate line.(ºˆÜà
+D
+java:S1659"(Declare "jj_lastpos" on a separate line.(úíá¢ùÿÿÿÿ
+k
+java:S1149."PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ôµ€ÿÿÿÿÿ
+v
+java:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+
+java:S1149Ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šÿ‹äùÿÿÿÿ
+H
+java:S1135L"2Complete the task associated to this TODO comment.(ÿˆ°×
+Z
+java:S1874M"?Remove this use of "StringBufferInputStream"; it is deprecated.(Û‰êşùÿÿÿÿ
+E
+java:S1197W"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(È™µşÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ëˆêÍ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(’Ó£…
+M	java:S106b"9Replace this use of System.out or System.err by a logger.(’Ş«5
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(™¤ù‡úÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(¡ÇÙæ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(É ‡µÿÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(˜±ëÕúÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(È™µşÿÿÿÿ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(¯àµV
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(È™µşÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ÌªÄüÿÿÿÿ
+c	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë“¥ˆ
+[
+java:S1124~"EReorder the modifiers to comply with the Java Language Specification.(ë“¥ˆ
+W
+java:S1119’";Refactor the code to remove this label and the need for it.(Å„öúÿÿÿÿ
+8
+java:S1116•"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‰à´
+\
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(ß‰à´
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á×¥×ûÿÿÿÿ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(Á×¥×ûÿÿÿÿ
+W
+java:S1119Å";Refactor the code to remove this label and the need for it.(¦­£©üÿÿÿÿ
+8
+java:S1116Ç"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÊÕ¦
+\
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(ıÊÕ¦
+R
+java:S1119Ø";Refactor the code to remove this label and the need for it.(¦ªÛÃ
+8
+java:S1116Û"Remove this empty statement.(Åñ­õşÿÿÿÿ
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½”èŠÿÿÿÿÿ
+a
+java:S1124é"EReorder the modifiers to comply with the Java Language Specification.(½”èŠÿÿÿÿÿ
+i	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¾î²ıÿÿÿÿ
+a
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(ú¾î²ıÿÿÿÿ
+d	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Î§±
+\
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(¥Î§±
+i	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¿¿Öøÿÿÿÿ
+a
+java:S1124À"EReorder the modifiers to comply with the Java Language Specification.(°¿¿Öøÿÿÿÿ
+8
+java:S1116Ø"Remove this empty statement.(Åñ­õşÿÿÿÿ
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨×İ‹øÿÿÿÿ
+a
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(¨×İ‹øÿÿÿÿ
+W
+java:S1119Ş";Refactor the code to remove this label and the need for it.(¬´¶øÿÿÿÿ
+8
+java:S1116á"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö³Ô’
+\
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(Ö³Ô’
+W
+java:S1119ó";Refactor the code to remove this label and the need for it.(ˆŸ€ úÿÿÿÿ
+8
+java:S1116ö"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ªÇà
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(…ªÇà
+R
+java:S1119ˆ";Refactor the code to remove this label and the need for it.(Š›» 
+8
+java:S1116‹"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ ¨°
+\
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(¿ ¨°
+R
+java:S1119";Refactor the code to remove this label and the need for it.(ƒ³û¬
+8
+java:S1116 "Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§şÉ“
+\
+java:S1124°"EReorder the modifiers to comply with the Java Language Specification.(§şÉ“
+R
+java:S1119²";Refactor the code to remove this label and the need for it.(µëš
+8
+java:S1116µ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºĞ—ã
+\
+java:S1124Å"EReorder the modifiers to comply with the Java Language Specification.(ºĞ—ã
+W
+java:S1119È";Refactor the code to remove this label and the need for it.(©òî§ûÿÿÿÿ
+8
+java:S1116Ì"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ø¥Ö
+\
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(²Ø¥Ö
+8
+java:S1116ò"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¾ÕÖ
+\
+java:S1124ö"EReorder the modifiers to comply with the Java Language Specification.(®¾ÕÖ
+W
+java:S1119ù";Refactor the code to remove this label and the need for it.(ú±ÈÎúÿÿÿÿ
+8
+java:S1116ÿ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ßÅ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(§ßÅ
+W
+java:S1119Ÿ";Refactor the code to remove this label and the need for it.(š¾¨êıÿÿÿÿ
+8
+java:S1116¤"Remove this empty statement.(Åñ­õşÿÿÿÿ
+c	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ì˜
+[
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(‰Ì˜
+Q
+java:S1119Å";Refactor the code to remove this label and the need for it.(óÂ®
+8
+java:S1116É"Remove this empty statement.(Åñ­õşÿÿÿÿ
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›êâ½üÿÿÿÿ
+a
+java:S1124á"EReorder the modifiers to comply with the Java Language Specification.(›êâ½üÿÿÿÿ
+R
+java:S1119ä";Refactor the code to remove this label and the need for it.(­—–×
+8
+java:S1116é"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÿ¸
+\
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(¾ÿ¸
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒüÆö
+\
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(ŒüÆö
+i	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡òèÿüÿÿÿÿ
+a
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(‡òèÿüÿÿÿÿ
+d	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´Êÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(©´Êÿ
+\
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(©´Êÿ
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°äºîøÿÿÿÿ
+a
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(°äºîøÿÿÿÿ
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì×µÀùÿÿÿÿ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(Ì×µÀùÿÿÿÿ
+8
+java:S1116Ú"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¯ì™
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(„¯ì™
+\
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(„¯ì™
+R
+java:S1119â";Refactor the code to remove this label and the need for it.(©êì‘
+8
+java:S1116å"Remove this empty statement.(Åñ­õşÿÿÿÿ
+?
+java:S1219õ"(Remove this misleading "label_15" label.(Ñş¯
+R
+java:S1119õ";Refactor the code to remove this label and the need for it.(Ñş¯
+8
+java:S1116ø"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÔúÀ
+\
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(íÔúÀ
+W
+java:S1119";Refactor the code to remove this label and the need for it.(¯öûüÿÿÿÿ
+8
+java:S1116“"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ööº
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ööº
+i	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌéÇ‡ûÿÿÿÿ
+a
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(ÌéÇ‡ûÿÿÿÿ
+d	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõŞÜ
+\
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(ƒõŞÜ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠğÇ¬
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(ŠğÇ¬
+d	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŠø÷
+\
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(ÖŠø÷
+d	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£„­
+\
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(£„­
+8
+java:S1116³"Remove this empty statement.(Åñ­õşÿÿÿÿ
+c	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÆÖE
+[
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(ºÆÖE
+R
+java:S1119Á";Refactor the code to remove this label and the need for it.(Î­¡Á
+8
+java:S1116Ä"Remove this empty statement.(Åñ­õşÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èì›ö
+i
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Èì›ö
+\
+java:S1124Ğ"EReorder the modifiers to comply with the Java Language Specification.(Èì›ö
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¼„¦şÿÿÿÿ
+a
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(­¼„¦şÿÿÿÿ
+W
+java:S1119ü";Refactor the code to remove this label and the need for it.(û¸Ÿüÿÿÿÿ
+8
+java:S1116	"Remove this empty statement.(Åñ­õşÿÿÿÿ
+R
+java:S1119†	";Refactor the code to remove this label and the need for it.(ŞÒºš
+8
+java:S1116ˆ	"Remove this empty statement.(Åñ­õşÿÿÿÿ
+i	java:S100‘	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´«×âıÿÿÿÿ
+a
+java:S1124‘	"EReorder the modifiers to comply with the Java Language Specification.(´«×âıÿÿÿÿ
+i	java:S100™	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÛòªúÿÿÿÿ
+a
+java:S1124™	"EReorder the modifiers to comply with the Java Language Specification.(áÛòªúÿÿÿÿ
+d	java:S100¡	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïùòû
+\
+java:S1124¡	"EReorder the modifiers to comply with the Java Language Specification.(ïùòû
+d	java:S100©	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùš³ƒ
+\
+java:S1124©	"EReorder the modifiers to comply with the Java Language Specification.(Ùš³ƒ
+d	java:S100±	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅàŠÍ
+\
+java:S1124±	"EReorder the modifiers to comply with the Java Language Specification.(ÅàŠÍ
+d	java:S100¹	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦×Ş‘
+\
+java:S1124¹	"EReorder the modifiers to comply with the Java Language Specification.(¦×Ş‘
+c	java:S100Á	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÍó
+[
+java:S1124Á	"EReorder the modifiers to comply with the Java Language Specification.(ÎÍó
+d	java:S100É	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïş‹
+\
+java:S1124É	"EReorder the modifiers to comply with the Java Language Specification.(ïş‹
+c	java:S100Ñ	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëü8
+[
+java:S1124Ñ	"EReorder the modifiers to comply with the Java Language Specification.(ëü8
+i	java:S100Ù	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔğÏèıÿÿÿÿ
+a
+java:S1124Ù	"EReorder the modifiers to comply with the Java Language Specification.(ÔğÏèıÿÿÿÿ
+X
+java:S1126İ	"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ã	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‚úíıÿÿÿÿ
+a
+java:S1124ã	"EReorder the modifiers to comply with the Java Language Specification.(‘‚úíıÿÿÿÿ
+d	java:S100ô	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Üğş
+\
+java:S1124ô	"EReorder the modifiers to comply with the Java Language Specification.(³Üğş
+i	java:S100…
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀ½Œøÿÿÿÿ
+n
+java:S3776…
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ËÀ½Œøÿÿÿÿ
+a
+java:S1124…
+"EReorder the modifiers to comply with the Java Language Specification.(ËÀ½Œøÿÿÿÿ
+X
+java:S1126¦
+"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100¬
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¹üÿÿÿÿ
+a
+java:S1124¬
+"EReorder the modifiers to comply with the Java Language Specification.(Ò¹üÿÿÿÿ
+i	java:S100½
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş€³¿øÿÿÿÿ
+a
+java:S1124½
+"EReorder the modifiers to comply with the Java Language Specification.(ş€³¿øÿÿÿÿ
+X
+java:S1126Á
+"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ç
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñõÔõ
+\
+java:S1124Ç
+"EReorder the modifiers to comply with the Java Language Specification.(ñõÔõ
+X
+java:S1126×
+"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100İ
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù–º³ÿÿÿÿÿ
+a
+java:S1124İ
+"EReorder the modifiers to comply with the Java Language Specification.(Ù–º³ÿÿÿÿÿ
+i	java:S100î
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ë»½øÿÿÿÿ
+n
+java:S3776î
+"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(„ë»½øÿÿÿÿ
+a
+java:S1124î
+"EReorder the modifiers to comply with the Java Language Specification.(„ë»½øÿÿÿÿ
+d	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ì™±
+\
+java:S1124¯"EReorder the modifiers to comply with the Java Language Specification.(’ì™±
+X
+java:S1126Å"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÆì¨úÿÿÿÿ
+a
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(øÆì¨úÿÿÿÿ
+X
+java:S1126Õ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞƒÕüÿÿÿÿ
+a
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.(ÁĞƒÕüÿÿÿÿ
+X
+java:S1126å"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¹í`
+[
+java:S1124ë"EReorder the modifiers to comply with the Java Language Specification.(ê¹í`
+X
+java:S1126õ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò§
+\
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(ò§
+d	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ôıü
+\
+java:S1124‘"EReorder the modifiers to comply with the Java Language Specification.(©Ôıü
+X
+java:S1126•"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄĞÄüÿÿÿÿ
+a
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(ÄĞÄüÿÿÿÿ
+c	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‹”
+[
+java:S1124°"EReorder the modifiers to comply with the Java Language Specification.(ß‹”
+X
+java:S1126´"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ç¬Şüÿÿÿÿ
+a
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(×ç¬Şüÿÿÿÿ
+X
+java:S1126¾"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©í’úÿÿÿÿ
+a
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(©í’úÿÿÿÿ
+X
+java:S1126È"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¬‹ö
+\
+java:S1124Î"EReorder the modifiers to comply with the Java Language Specification.(Í¬‹ö
+X
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Š†Ö
+\
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(‰Š†Ö
+X
+java:S1126Ü"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È”¢ôøÿÿÿÿ
+a
+java:S1124â"EReorder the modifiers to comply with the Java Language Specification.(È”¢ôøÿÿÿÿ
+X
+java:S1126æ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å´„>
+[
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(å´„>
+X
+java:S1126ğ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¡­Êúÿÿÿÿ
+a
+java:S1124ö"EReorder the modifiers to comply with the Java Language Specification.(¼¡­Êúÿÿÿÿ
+X
+java:S1126ú"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àéÚ÷úÿÿÿÿ
+a
+java:S1124€"EReorder the modifiers to comply with the Java Language Specification.(àéÚ÷úÿÿÿÿ
+X
+java:S1126‘"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–½Àş
+\
+java:S1124—"EReorder the modifiers to comply with the Java Language Specification.(–½Àş
+d	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä°†è
+\
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(ä°†è
+X
+java:S1126±"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ùë
+\
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(¸Ùë
+X
+java:S1126»"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Šó–úÿÿÿÿ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(—Šó–úÿÿÿÿ
+X
+java:S1126Å"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†àøüÿÿÿÿ
+a
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(†àøüÿÿÿÿ
+X
+java:S1126Ï"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖî»şÿÿÿÿ
+a
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(ğÖî»şÿÿÿÿ
+X
+java:S1126ß"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷üÒßûÿÿÿÿ
+a
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(÷üÒßûÿÿÿÿ
+X
+java:S1126é"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï°“Êûÿÿÿÿ
+n
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(Ï°“Êûÿÿÿÿ
+a
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(Ï°“Êûÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¾‡ûüÿÿÿÿ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Í¾‡ûüÿÿÿÿ
+X
+java:S1126¢"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¯—<
+[
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(ú¯—<
+X
+java:S1126²"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…ºÿÿÿÿÿ
+a
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(É…ºÿÿÿÿÿ
+X
+java:S1126¼"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜ—ª
+\
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(ûÜ—ª
+X
+java:S1126Æ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«íÅ‰
+\
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(«íÅ‰
+X
+java:S1126Ö"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ïüÿÿÿÿ
+a
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(°ïüÿÿÿÿ
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïª«‡
+\
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(Ïª«‡
+X
+java:S1126û"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ·º¨
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğ·º¨
+X
+java:S1126…"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ íî
+\
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(’ íî
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çà´ıÿÿÿÿ
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(çà´ıÿÿÿÿ
+X
+java:S1126™"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æº±Åıÿÿÿÿ
+a
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(æº±Åıÿÿÿÿ
+X
+java:S1126£"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è„Íúÿÿÿÿÿ
+a
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(è„Íúÿÿÿÿÿ
+X
+java:S1126­"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìÚ‰
+\
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(ºìÚ‰
+X
+java:S1126·"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áî©úÿÿÿÿ
+a
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(áî©úÿÿÿÿ
+X
+java:S1126Á"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êíÑ³
+\
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(êíÑ³
+X
+java:S1126Ø"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁáÏ
+
+h
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÁáÏ
+
+[
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(ÁáÏ
+
+d	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™°‰
+i
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§™°‰
+\
+java:S1124ù"EReorder the modifiers to comply with the Java Language Specification.(§™°‰
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Å††ûÿÿÿÿ
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(¿Å††ûÿÿÿÿ
+X
+java:S1126™"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“í§ùÿÿÿÿ
+a
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(“í§ùÿÿÿÿ
+X
+java:S1126£"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÛ†º
+\
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(ƒÛ†º
+X
+java:S1126­"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êê’Öşÿÿÿÿ
+a
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(Êê’Öşÿÿÿÿ
+i	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Õ ¸ÿÿÿÿÿ
+a
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(¶Õ ¸ÿÿÿÿÿ
+X
+java:S1126Ì"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁñÁ“
+\
+java:S1124Ò"EReorder the modifiers to comply with the Java Language Specification.(ÁñÁ“
+X
+java:S1126Ö"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïøµ¤ùÿÿÿÿ
+a
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(ïøµ¤ùÿÿÿÿ
+X
+java:S1126í"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÁ‰âøÿÿÿÿ
+a
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(àÁ‰âøÿÿÿÿ
+X
+java:S1126÷"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÅÃ–ıÿÿÿÿ
+a
+java:S1124ı"EReorder the modifiers to comply with the Java Language Specification.(™ÅÃ–ıÿÿÿÿ
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€»š
+\
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(„€»š
+X
+java:S1126‹"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óğïîşÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(óğïîşÿÿÿÿ
+a
+java:S1124‘"EReorder the modifiers to comply with the Java Language Specification.(óğïîşÿÿÿÿ
+X
+java:S1126§"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›âŸœÿÿÿÿÿ
+a
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(›âŸœÿÿÿÿÿ
+i	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çæ¯Îÿÿÿÿÿ
+a
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(çæ¯Îÿÿÿÿÿ
+X
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·àŠ“
+\
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(·àŠ“
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¥åï
+\
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(ê¥åï
+X
+java:S1126û"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–ÜÁ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ã–ÜÁ
+i	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üóì‡ÿÿÿÿÿ
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Üóì‡ÿÿÿÿÿ
+a
+java:S1124–"EReorder the modifiers to comply with the Java Language Specification.(Üóì‡ÿÿÿÿÿ
+X
+java:S1126±"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú€æ]
+[
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(Ú€æ]
+X
+java:S1126»"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôë¼ºùÿÿÿÿ
+a
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(Ôë¼ºùÿÿÿÿ
+X
+java:S1126Ë"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚÷Üƒıÿÿÿÿ
+a
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(‚÷Üƒıÿÿÿÿ
+d	java:S100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¼é¤
+\
+java:S1124æ"EReorder the modifiers to comply with the Java Language Specification.(…¼é¤
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òšç³ûÿÿÿÿ
+a
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(Òšç³ûÿÿÿÿ
+X
+java:S1126“"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¯ö
+\
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(ï¯ö
+i	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÁİ¨ùÿÿÿÿ
+a
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(ƒÁİ¨ùÿÿÿÿ
+X
+java:S1126´"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î“ã°ÿÿÿÿÿ
+a
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(î“ã°ÿÿÿÿÿ
+X
+java:S1126¾"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ßÃ‹ùÿÿÿÿ
+a
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(¢ßÃ‹ùÿÿÿÿ
+X
+java:S1126È"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÔ
+\
+java:S1124Î"EReorder the modifiers to comply with the Java Language Specification.(éÔ
+i	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çïÑ¿ûÿÿÿÿ
+a
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(çïÑ¿ûÿÿÿÿ
+X
+java:S1126ğ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¬¦Ïùÿÿÿÿ
+a
+java:S1124ö"EReorder the modifiers to comply with the Java Language Specification.(à¬¦Ïùÿÿÿÿ
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¿¡÷
+\
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(º¿¡÷
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¹òûÿÿÿÿ
+a
+java:S1124•"EReorder the modifiers to comply with the Java Language Specification.(ô¹òûÿÿÿÿ
+X
+java:S1126™"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é®¯Â
+\
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(é®¯Â
+X
+java:S1126°"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó²æ´
+\
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(ó²æ´
+X
+java:S1126À"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ñúŠúÿÿÿÿ
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(¡ñúŠúÿÿÿÿ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( çâ¾şÿÿÿÿ
+a
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.( çâ¾şÿÿÿÿ
+X
+java:S1126ß"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üü¤‚ûÿÿÿÿ
+a
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(Üü¤‚ûÿÿÿÿ
+X
+java:S1126é"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÜØ´üÿÿÿÿ
+a
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(¢ÜØ´üÿÿÿÿ
+X
+java:S1126ù"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»›ÿşÿÿÿÿ
+a
+java:S1124ÿ"EReorder the modifiers to comply with the Java Language Specification.(»›ÿşÿÿÿÿ
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹È¤‰
+\
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(‹È¤‰
+X
+java:S1126˜"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ½¥úÿÿÿÿ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œ½¥úÿÿÿÿ
+X
+java:S1126¢"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ş–
+\
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(–ş–
+X
+java:S1126¬"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÆÑ
+\
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(©ÆÑ
+c	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÍ`
+[
+java:S1124Ã"EReorder the modifiers to comply with the Java Language Specification.(´ÜÍ`
+X
+java:S1126Í"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ™­
+\
+java:S1124Ó"EReorder the modifiers to comply with the Java Language Specification.(İ™­
+d	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ï
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(¡Ï
+X
+java:S1126ì"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å…íÂøÿÿÿÿ
+a
+java:S1124ò"EReorder the modifiers to comply with the Java Language Specification.(å…íÂøÿÿÿÿ
+X
+java:S1126ö"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èì—¢
+\
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(èì—¢
+X
+java:S1126€"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œÙ¼
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(‹œÙ¼
+X
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷¡È
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“÷¡È
+X
+java:S1126”"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æêóªúÿÿÿÿ
+a
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(æêóªúÿÿÿÿ
+X
+java:S1126¤"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÈíôúÿÿÿÿ
+a
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(ÁÈíôúÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸİÓ
+\
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(ŸİÓ
+X
+java:S1126Ã"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«úøÿÿÿÿ
+a
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(ó«úøÿÿÿÿ
+X
+java:S1126Í"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îâµ
+\
+java:S1124Ó"EReorder the modifiers to comply with the Java Language Specification.(Îâµ
+X
+java:S1126×"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùå±òúÿÿÿÿ
+a
+java:S1124İ"EReorder the modifiers to comply with the Java Language Specification.(Ùå±òúÿÿÿÿ
+X
+java:S1126á"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÙÅ¢
+\
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(˜ÙÅ¢
+X
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈºÆØ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÈºÆØ
+\
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(ÈºÆØ
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜéŒÜ
+\
+java:S1124–"EReorder the modifiers to comply with the Java Language Specification.(ÜéŒÜ
+X
+java:S1126š"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÂÏ>
+[
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(–ÂÏ>
+X
+java:S1126ª"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Î¤–ùÿÿÿÿ
+a
+java:S1124°"EReorder the modifiers to comply with the Java Language Specification.(¼Î¤–ùÿÿÿÿ
+i	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¯»øÿÿÿÿ
+a
+java:S1124Å"EReorder the modifiers to comply with the Java Language Specification.(€¯»øÿÿÿÿ
+X
+java:S1126É"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¯¾Äÿÿÿÿÿ
+a
+java:S1124Ï"EReorder the modifiers to comply with the Java Language Specification.(÷¯¾Äÿÿÿÿÿ
+X
+java:S1126Ó"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®˜Õş
+\
+java:S1124Ù"EReorder the modifiers to comply with the Java Language Specification.(®˜Õş
+X
+java:S1126İ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñŒçÅ
+\
+java:S1124ã"EReorder the modifiers to comply with the Java Language Specification.(ñŒçÅ
+X
+java:S1126í"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙæÍ–
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(ÙæÍ–
+i	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑòÁ¥ùÿÿÿÿ
+a
+java:S1124ˆ"EReorder the modifiers to comply with the Java Language Specification.(ÑòÁ¥ùÿÿÿÿ
+X
+java:S1126Œ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İŒò
+\
+java:S1124’"EReorder the modifiers to comply with the Java Language Specification.(°İŒò
+X
+java:S1126–"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¦ä şÿÿÿÿ
+a
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(¼¦ä şÿÿÿÿ
+d	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¡§Ü
+\
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(Ä¡§Ü
+X
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÂæıÿÿÿÿ
+a
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(ÉÂæıÿÿÿÿ
+X
+java:S1126Ş"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ ®˜øÿÿÿÿ
+a
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(‹ ®˜øÿÿÿÿ
+X
+java:S1126è"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰Ã
+\
+java:S1124î"EReorder the modifiers to comply with the Java Language Specification.(¦‰Ã
+X
+java:S1126ò"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÈ¹6
+[
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(ÆÈ¹6
+X
+java:S1126ü"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨à·²
+\
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(¨à·²
+X
+java:S1126’"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‘«øÿÿÿÿ
+a
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(À‘«øÿÿÿÿ
+X
+java:S1126¢"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§É±ƒşÿÿÿÿ
+a
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(§É±ƒşÿÿÿÿ
+X
+java:S1126¸"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆÖùÿÿÿÿ
+a
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(ÓÆÖùÿÿÿÿ
+X
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùö¢ 
+\
+java:S1124È"EReorder the modifiers to comply with the Java Language Specification.(ùö¢ 
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºòñçùÿÿÿÿ
+a
+java:S1124Ù"EReorder the modifiers to comply with the Java Language Specification.(ºòñçùÿÿÿÿ
+X
+java:S1126İ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ·„ë
+\
+java:S1124ã"EReorder the modifiers to comply with the Java Language Specification.(ˆ·„ë
+X
+java:S1126ç"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®Ù€ıÿÿÿÿ
+a
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(ñ®Ù€ıÿÿÿÿ
+X
+java:S1126ñ"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğà¤¸
+\
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(ğà¤¸
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¨”Œ
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ö¨”Œ
+\
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(ö¨”Œ
+i	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñšìıÿÿÿÿ
+a
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(‘ñšìıÿÿÿÿ
+X
+java:S1126°"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦æš»
+j
+java:S3776¶"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(¦æš»
+\
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(¦æš»
+i	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë£¾©ûÿÿÿÿ
+a
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(ë£¾©ûÿÿÿÿ
+X
+java:S1126€"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸±¶…úÿÿÿÿ
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(¸±¶…úÿÿÿÿ
+X
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š…Î
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Š…Î
+X
+java:S1126š"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÊş”ıÿÿÿÿ
+a
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(ôÊş”ıÿÿÿÿ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Š©ìùÿÿÿÿ
+a
+java:S1124µ"EReorder the modifiers to comply with the Java Language Specification.(‚Š©ìùÿÿÿÿ
+X
+java:S1126¹"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬û
+[
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(É¬û
+X
+java:S1126Ã"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ËóĞùÿÿÿÿ
+a
+java:S1124É"EReorder the modifiers to comply with the Java Language Specification.(«ËóĞùÿÿÿÿ
+X
+java:S1126Ù"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+c	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÔã`
+h
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öÔã`
+[
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(öÔã`
+X
+java:S1126€"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ò‚ûùÿÿÿÿ
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(»Ò‚ûùÿÿÿÿ
+X
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÃÅ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(£ÃÅ
+X
+java:S1126”"AReplace this if-then-else statement by a single return statement.(¹Ÿ¶¼
+a
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(‚É¦Àûÿÿÿÿ
+\
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(­Üâ
+a
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(³ı–şøÿÿÿÿ
+a
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(ñ«¹Äùÿÿÿÿ
+a
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(®Ÿû¯ûÿÿÿÿ
+\
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(ƒ¿óó
+i	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¥Âøÿÿÿÿ
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éûàåúÿÿÿÿ
+d	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œë¶¢
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Œë¶¢
+\
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(Œë¶¢
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í²ƒÜ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Í²ƒÜ
+a
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(É¦®êùÿÿÿÿ
+a
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(¤ê½€úÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šı«¡
+\
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(Šı«¡
+d	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô ªõ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ô ªõ
+o
+java:S3012Ö"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á­Ä"
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(´š®„
+\
+java:S1124ò"EReorder the modifiers to comply with the Java Language Specification.(´š®„
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š†Ï
+\
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(š†Ï
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¿€şüÿÿÿÿ
+a
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(Ò¿€şüÿÿÿÿ
+d	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î•ŠÛ
+\
+java:S1124¥"EReorder the modifiers to comply with the Java Language Specification.(î•ŠÛ
+7	java:S131­""Add a default case to this switch.(ìúÇV
+i	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïåÊÕÿÿÿÿÿ
+a
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(ïåÊÕÿÿÿÿÿ

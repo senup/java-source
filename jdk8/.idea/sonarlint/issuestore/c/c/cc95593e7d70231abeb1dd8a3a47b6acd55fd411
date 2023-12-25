@@ -1,0 +1,93 @@
+
+a	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(‘¥’ˆûÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(‘¥’ˆûÿÿÿÿ
+w
+java:S1192«"`Define a constant instead of duplicating this literal "RuntimeInvisibleTypeAnnotations" 4 times.(ÿ“ê
+z
+java:S1192§"^Define a constant instead of duplicating this literal "RuntimeVisibleTypeAnnotations" 4 times.(›È¥âüÿÿÿÿ
+F
+java:S1066¦	"/Merge this if statement with the enclosing one.(éìÚÌ
+F
+java:S1066¸"/Merge this if statement with the enclosing one.(í³ 
+F
+java:S1066Œ"/Merge this if statement with the enclosing one.(í³ 
+F
+java:S1066˜"/Merge this if statement with the enclosing one.(í³ 
+F
+java:S1066¢"/Merge this if statement with the enclosing one.(§ˆï‘
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ß²éÿÿÿÿÿ
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Şí Í
+˜
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¯À
+{
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+\	java:S107á"AConstructor has 8 parameters, which is greater than 7 authorized.(ô·Ê¯şÿÿÿÿ
+[
+java:S3358ş"DExtract this nested ternary operation into an independent statement.(ÀÀæ
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ãñ¦à
+8	java:S131µ""Add a default case to this switch.(ÜŸ•
+R	java:S125ì"<This block of commented-out lines of code should be removed.(¤’œ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(¤’œ
+i
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÈÛ³§
+Q
+java:S6213š":Rename this variable to not match a restricted identifier.(ÈÛ³§
+R	java:S125œ"<This block of commented-out lines of code should be removed.(¤’œ
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(¤’œ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Îè€Æùÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(¤’œ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ê…™ ùÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(¤’œ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(¤’œ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ë¤ªğ
+R	java:S125ò"<This block of commented-out lines of code should be removed.(¤’œ
+h
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ƒ®…X
+n
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³Ê—«ıÿÿÿÿ
+R	java:S125„	"<This block of commented-out lines of code should be removed.(¤’œ
+V
+java:S6213£	":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+R	java:S125Ş	"<This block of commented-out lines of code should be removed.(¤’œ
+R	java:S125û	"<This block of commented-out lines of code should be removed.(¤’œ
+j
+java:S3776˜"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(ğ¥ä¸
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Çœ‹ûÿÿÿÿ
+6
+java:S1659¾"Declare "t" on a separate line.(÷óşÎ
+h
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ô‚\
+Q	java:S125ø"<This block of commented-out lines of code should be removed.(êåä<
+R
+java:S1119ü";Refactor the code to remove this label and the need for it.(ÂúœÎ
+W	java:S125„"<This block of commented-out lines of code should be removed.(×½áùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(‘ÿËªøÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(’Û´
+R	java:S125"<This block of commented-out lines of code should be removed.(ğ‚­ä
+h
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ìèõE
+=	java:S131ê""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‘àá–úÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(¤üÜùÿÿÿÿ
+o
+java:S3776ú"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(‚ÜÕùÿÿÿÿ
+o
+java:S3776á"SRefactor this method to reduce its Cognitive Complexity from 127 to the 15 allowed.(¤İ¹±ûÿÿÿÿ
+Z
+java:S1659ã">Declare "v" and all following declarations on a separate line.(ÓëŸúÿÿÿÿ
+6
+java:S1659ä"Declare "j" on a separate line.(ö©£Œ
+R
+java:S1117€";Rename "resize" which hides the field declared at line 389.(ŞËã€
+I
+java:S1135³"2Complete the task associated to this TODO comment.(¡äîÙ
+R
+java:S1117ô";Rename "labels" which hides the field declared at line 424.(Å¨¢¼

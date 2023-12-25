@@ -1,0 +1,18 @@
+
+b
+java:S1192A"LDefine a constant instead of duplicating this literal "reqIncoming" 3 times.(¦ÈÍø
+h
+java:S1192’"LDefine a constant instead of duplicating this literal "Timeout-run" 6 times.(Ò¾¼„úÿÿÿÿ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(€Ëáşüÿÿÿÿ
+O
+java:S5993!"9Change the visibility of this constructor to "protected".(ê˜Î
+F
+java:S2446`"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+F
+java:S2446}"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“–ış
+u
+java:S2142¾"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ

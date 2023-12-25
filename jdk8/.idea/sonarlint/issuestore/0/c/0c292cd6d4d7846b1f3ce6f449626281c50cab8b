@@ -1,0 +1,21 @@
+
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(§òö»üÿÿÿÿ
+a	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(§òö»üÿÿÿÿ
+a	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+^
+java:S1192Ê"GDefine a constant instead of duplicating this literal "Lnull;" 5 times.(÷Ë‰Â
+K
+java:S1066ı"/Merge this if statement with the enclosing one.(¯ğÇãøÿÿÿÿ
+3
+java:S1643¼"Use a StringBuilder instead.(Àï‡
+8	java:S131­""Add a default case to this switch.(µ˜êÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Ìè¡Áúÿÿÿÿ
+y
+java:S2234ˆ"bParameters to isAssignableFrom have the same names but not the same order as the method arguments.(Æ‰µ¼
+N
+java:S1135‹"2Complete the task associated to this TODO comment.(İŠ­”ùÿÿÿÿ
+N
+java:S1135Œ"2Complete the task associated to this TODO comment.(«ÌŠıüÿÿÿÿ
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ‡Œÿøÿÿÿÿ

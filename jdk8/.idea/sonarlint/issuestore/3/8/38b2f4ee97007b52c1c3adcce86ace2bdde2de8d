@@ -1,0 +1,40 @@
+
+s
+java:S1192›"WUse already-defined constant 'DEFAULT_PROTOCOLS' instead of duplicating its value here.( à¬óûÿÿÿÿ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿”ö®üÿÿÿÿ
+?
+java:S1604†"(Make this anonymous inner class a lambda(º¬ÄÍ
+D
+java:S1604”"(Make this anonymous inner class a lambda(³‚ş•ıÿÿÿÿ
+?
+java:S1604£"(Make this anonymous inner class a lambda(¤´é‡
+o	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«‡„ì
+n	java:S115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ™/
+t	java:S115n"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıæ•üùÿÿÿÿ
+o	java:S115o"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ùŞµ
+t	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒœüÇûÿÿÿÿ
+o	java:S115q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥œ–
+d
+java:S1845="NRename field "debug" to prevent any misunderstanding/clash with field "DEBUG".(«‡„ì
+r
+java:S1149Ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(”ıªüùÿÿÿÿ
+r
+java:S1149ª"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÄíÃüüÿÿÿÿ
+X	java:S107§"=Method has 13 parameters, which is greater than 7 authorized.(˜Çëˆøÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(Ñ›
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(®´ç
+=	java:S131‹""Add a default case to this switch.(×†ôşşÿÿÿÿ
+=	java:S131¶""Add a default case to this switch.(×†ôşşÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¸›ğÉúÿÿÿÿ
+[
+java:S3358ß"DExtract this nested ternary operation into an independent statement.(„úÎ‰
+`
+java:S3358à"DExtract this nested ternary operation into an independent statement.(×“Ã¥øÿÿÿÿ
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(ûøˆËûÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(±ğŒúûÿÿÿÿ
+=
+java:S2129™"!Remove this "Integer" constructor(¬Şü¦ÿÿÿÿÿ
+5
+java:S2129¨"Remove this "Long" constructor(¨í¹°

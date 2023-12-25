@@ -1,0 +1,52 @@
+
+`
+java:S1192€"IDefine a constant instead of duplicating this literal " byte(s)" 3 times.(«éë­
+>
+java:S16048"(Make this anonymous inner class a lambda(ÅÔ¯¦
+p
+java:S1104("UMake GRAYspace a static final constant or non-public and provide accessors if needed.(Ğ²¶€şÿÿÿÿ
+v
+java:S1104)"[Make LINEAR_RGBspace a static final constant or non-public and provide accessors if needed.(…ÿàşúÿÿÿÿ
+J
+java:S1444("/Make this "public static GRAYspace" field final(Ğ²¶€şÿÿÿÿ
+P
+java:S1444)"5Make this "public static LINEAR_RGBspace" field final(…ÿàşúÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(×¨Ÿ2
+o
+java:S3008("TRename this field "GRAYspace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ²¶€şÿÿÿÿ
+u
+java:S3008)"ZRename this field "LINEAR_RGBspace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÿàşúÿÿÿÿ
+P
+java:S1118'":Add a private constructor to hide the implicit public one.(ÀÙÅÒ
+?
+java:S1905T")Remove this unnecessary cast to "String".(†Åôï
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(×·ë˜ÿÿÿÿÿ
+l
+java:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(†ˆÕñúÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(†ˆÕñúÿÿÿÿ
+\
+java:S3457s"AFormat specifiers should be used instead of string concatenation.(Ú„òİøÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(Ú„òİøÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ƒ Ã
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ÉıÄ•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù–äîøÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(«éë­
+]
+java:S3457…"AFormat specifiers should be used instead of string concatenation.(œĞŒşÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(œĞŒşÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÉıÄ•
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(×‡ùŸÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×‡ùŸÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(«éë­
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(Ê„€¬ıÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(•¹îÓ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(š©”Ïúÿÿÿÿ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(¼êñ¦úÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
+M
+java:S1128 "2Remove this unused import 'java.awt.image.Raster'.(õ˜åÙüÿÿÿÿ
+P
+java:S1128!":Remove this unused import 'java.awt.image.WritableRaster'.(Üï€

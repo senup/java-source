@@ -1,0 +1,10 @@
+
+a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(è£â«şÿÿÿÿ
+\	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(¥†Ã
+W
+java:S4973F"<Strings and Boxed types should be compared using "equals()".(™âïúÿÿÿÿ
+7
+java:S11164"Remove this empty statement.(«ƒÂüûÿÿÿÿ
+Q	java:S125£"<This block of commented-out lines of code should be removed.(óÉ
+]
+java:S2130¾"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ıİœùÿÿÿÿ

@@ -1,0 +1,11 @@
+
+h
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«£Ò
+P
+java:S1161c":Add the "@Override" annotation above this method signature(«£Ò
+K
+java:S1128"0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'javax.crypto.MacSpi'.(ù—¼‘
+G
+java:S10680",Remove this unused "hashAlgo" private field.(Ğ ‡ÿÿÿÿÿ

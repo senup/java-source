@@ -1,0 +1,51 @@
+
+f	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼Ç“
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¸ü”ÿÿÿÿÿ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Êƒüÿÿÿÿ
+u
+java:S4144û"YUpdate this method so that its implementation is not identical to "a_lookup" on line 500.( ÌãÓüÿÿÿÿ
+p
+java:S4144"YUpdate this method so that its implementation is not identical to "a_lookup" on line 500.(“æ’
+u
+java:S4144¥"YUpdate this method so that its implementation is not identical to "a_lookup" on line 500.(´Šÿáıÿÿÿÿ
+u
+java:S4144¬"YUpdate this method so that its implementation is not identical to "a_lookup" on line 500.(ªÑôàüÿÿÿÿ
+n
+java:S4144‰"WUpdate this method so that its implementation is not identical to "a_list" on line 514.(ÒÄ‹
+s
+java:S4144º"WUpdate this method so that its implementation is not identical to "a_list" on line 514.(°¶æ¤üÿÿÿÿ
+n
+java:S4144—"WUpdate this method so that its implementation is not identical to "a_bind" on line 528.(…œˆÇ
+r
+java:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149¢"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149»"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149Ô"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149†"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149¹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149à"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149†"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149 "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+r
+java:S1149»"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Èæç‡úÿÿÿÿ
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÀ±¼üÿÿÿÿ
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼Ç“
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öàœ
+h	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ ìéÿÿÿÿÿ
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÕÑŸúÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌ‰­
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õşá•
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õşá•
+c	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õşá•
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ’’©ıÿÿÿÿ
+h	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯İÓĞøÿÿÿÿ

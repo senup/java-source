@@ -1,0 +1,36 @@
+
+C
+java:S1604O"(Make this anonymous inner class a lambda(Êïˆüùÿÿÿÿ
+b	java:S101;"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò±ñ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+[
+java:S2259"@A "NullPointerException" could be thrown; "cc" is nullable here.(Öóæşÿÿÿÿ
+\
+java:S2259©"@A "NullPointerException" could be thrown; "cc" is nullable here.(îì‹İşÿÿÿÿ
+h
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ú¶îå
+;
+java:S1659i"%Declare "outSize" on a separate line.(‰‡²³
+M
+java:S1117j"7Rename "cc" which hides the field declared at line 197.(İ·šñ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(É˜î³
+<
+java:S1659”"%Declare "outSize" on a separate line.(‰‡²³
+N
+java:S1117‘"7Rename "cc" which hides the field declared at line 197.(İ·šñ
+=
+java:S1168Î"&Return an empty array instead of null.(¥¹ï
+V
+java:S1161Ú":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(üõÀÙúÿÿÿÿ
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(İŠÜßıÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Ç õ«
+V
+java:S1161”":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+H
+java:S1128$"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

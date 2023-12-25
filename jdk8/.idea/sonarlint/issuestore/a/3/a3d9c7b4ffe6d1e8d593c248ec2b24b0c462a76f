@@ -1,0 +1,14 @@
+
+w
+java:S2629z"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(×¹È˜ùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+X
+java:S2259}"BA "NullPointerException" could be thrown; "chan" is nullable here.(×úÜ¹
+Q	java:S107^"<Method has 9 parameters, which is greater than 7 authorized.(ÎŽ»‰
+2
+java:S1116@"Remove this empty statement.(øóŒ’
+I
+java:S1128 "3Remove this unused import 'com.sun.net.httpserver'.(°Ñâõ
+M
+java:S1128!"7Remove this unused import 'com.sun.net.httpserver.spi'.(ÄÓ—

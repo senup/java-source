@@ -1,0 +1,52 @@
+
+z
+java:S1192–"cDefine a constant instead of duplicating this literal ": unescaped \\ at end of component" 3 times.(ôÈ¾™
+y
+java:S1192 "bDefine a constant instead of duplicating this literal ": invalid character being escaped" 3 times.(„×Åã
+m	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ïûïr
+s	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸþÝøÿÿÿÿ
+m	java:S127œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Ç¹%
+s	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‰ƒƒûÿÿÿÿ
+s	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸþÝøÿÿÿÿ
+m	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Ç¹%
+n	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(½—ýö
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêÐôûÿÿÿÿ
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°à–º
+o	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡¸¡®
+t	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Éç•µúÿÿÿÿ
+œ
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷±Ï”ûÿÿÿÿ
+{
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”Ô¶¨
+u
+java:S1149c"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
+|
+java:S1149ƒ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øéƒÖ
+
+java:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æóÄþÿÿÿÿ
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ïÖ¯„úÿÿÿÿ
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(Õð¯¢
+7
+java:S11168"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(øéƒÖ
+>
+java:S1659Š"'Declare "kindCount" on a separate line.(ªÅ´€
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÉÃ­…ùÿÿÿÿ
+=	java:S131§""Add a default case to this switch.(žžŒ¹ÿÿÿÿÿ
+j
+java:S2975¹"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(Ž²ÈÞ
+_
+java:S1182¹"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(´²›º
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(ïÇáá
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(Á»›ê
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(ßÙÉÛ

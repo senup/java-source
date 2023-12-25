@@ -1,0 +1,17 @@
+
+J
+java:S3740t"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+=
+java:S1604"(Make this anonymous inner class a lambda(åÑ`
+C
+java:S1604t"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+d
+java:S3014z"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÛÓ¸şÿÿÿÿ
+d
+java:S3014|"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+D	java:S108¦")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+Q	java:S899§";Do something with the "boolean" value returned by "delete".(Ú›¾
+e
+java:S4042§"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ú›¾

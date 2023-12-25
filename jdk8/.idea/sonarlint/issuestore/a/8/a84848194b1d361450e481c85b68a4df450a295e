@@ -1,0 +1,20 @@
+
+h
+java:S1192"LDefine a constant instead of duplicating this literal "getHandlers" 7 times.(ÿäÚ®şÿÿÿÿ
+j
+java:S1192‰"SDefine a constant instead of duplicating this literal "getGetNextHandlers" 5 times.(ô†§£
+N
+java:S5993D"9Change the visibility of this constructor to "protected".(¯£Ÿ
+|
+java:S1149Ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ş¯›±
+n
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ºÓ¤×şÿÿÿÿ
+Q
+java:S6213ÿ":Rename this variable to not match a restricted identifier.(ğ“Å»
+h
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄˆØ
+Q
+java:S6213":Rename this variable to not match a restricted identifier.(¤ú–
+I
+java:S1481"-Remove this unused "original" local variable.(Õœ˜õûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(‰ÆÍ‡øÿÿÿÿ

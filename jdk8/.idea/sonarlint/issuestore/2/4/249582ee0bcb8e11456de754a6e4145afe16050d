@@ -1,0 +1,25 @@
+
+D
+java:S1121J".Extract the assignment out of this expression.(Œëø
+D
+java:S1121N".Extract the assignment out of this expression.(²Šñ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+@
+java:S1197]"*Move the array designators [] to the type.(‡Âİ“
+@
+java:S1197r"*Move the array designators [] to the type.(‡Âİ“
+\
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(Ï§Ô‡
+a
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(é¿âÏûÿÿÿÿ
+A
+java:S1197–"*Move the array designators [] to the type.(‡Âİ“
+F
+java:S1197£"*Move the array designators [] to the type.(ìÓ´¢øÿÿÿÿ
+F
+java:S1197¦"*Move the array designators [] to the type.(Ú×‘úÿÿÿÿ
+C
+java:S1125»"'Remove the unnecessary boolean literal.(àìıüúÿÿÿÿ
+R
+java:S1128 "7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ

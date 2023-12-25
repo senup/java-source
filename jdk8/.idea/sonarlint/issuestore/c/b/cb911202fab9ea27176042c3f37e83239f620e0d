@@ -1,0 +1,19 @@
+
+v
+java:S1488Ê"ZImmediately return this expression instead of assigning it to the temporary variable "im".(…ßßíþÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éýÿÿÿÿ
+_
+java:S2259J"IA "NullPointerException" could be thrown; "intIconData" is nullable here.(¤ÿçà
+j
+java:S2259™"S"NullPointerException" will be thrown when invoking method "intArrayToLongArray()".(À žŠ
+`
+java:S2259T"JA "NullPointerException" could be thrown; "longIconData" is nullable here.(Œ×û³
+[
+java:S1117˜"?Rename "intIconData" which hides the field declared at line 39.(‰ÁòÜüÿÿÿÿ
+[
+java:S1117¤"?Rename "intIconData" which hides the field declared at line 39.(òØ°’üÿÿÿÿ
+<
+java:S1905¹"&Remove this unnecessary cast to "int".(å p
+=
+java:S1168Ô"&Return an empty array instead of null.(¥¹ï

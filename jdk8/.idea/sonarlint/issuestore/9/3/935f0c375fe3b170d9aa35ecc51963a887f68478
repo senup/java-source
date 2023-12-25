@@ -1,0 +1,41 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Õ·Áıÿÿÿÿ
+j
+java:S1192Ò"NDefine a constant instead of duplicating this literal " disabling it" 4 times.(‡…Ñİüÿÿÿÿ
+t
+java:S1192Ò"XDefine a constant instead of duplicating this literal "Error loading resolver " 4 times.(‡…Ñİüÿÿÿÿ
+M
+java:S2589t"7Remove this expression which always evaluates to "true"(ĞÑˆé
+m
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(áË•­üÿÿÿÿ
+7
+java:S2326^"N is not used in the method.(áË•­üÿÿÿÿ
+[
+java:S2147i"ECombine this catch with the one at line 103, which has the same body.(Å¡ß
+f
+java:S3457o"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+E
+java:S1197y"*Move the array designators [] to the type.(‘…Ïæùÿÿÿÿ
+A
+java:S1197ƒ"*Move the array designators [] to the type.(–ß¥¤
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ëÊÙéıÿÿÿÿ
+g
+java:S3457¨"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+g
+java:S3457¸"KFormat specifiers or lambda should be used instead of string concatenation.(˜Éè»ıÿÿÿÿ
+g
+java:S3457Ò"KFormat specifiers or lambda should be used instead of string concatenation.(‡…Ñİüÿÿÿÿ
+g
+java:S3457ã"KFormat specifiers or lambda should be used instead of string concatenation.(‡…Ñİüÿÿÿÿ
+\
+java:S2147ó"ECombine this catch with the one at line 241, which has the same body.(¯áè
+g
+java:S3457ò"KFormat specifiers or lambda should be used instead of string concatenation.(‡…Ñİüÿÿÿÿ
+g
+java:S3457ô"KFormat specifiers or lambda should be used instead of string concatenation.(‡…Ñİüÿÿÿÿ
+b
+java:S3457‡"KFormat specifiers or lambda should be used instead of string concatenation.(»ÛÍÿ
+L
+java:S1133›"5Do not forget to remove this deprecated code someday.(©ÑÛ‡

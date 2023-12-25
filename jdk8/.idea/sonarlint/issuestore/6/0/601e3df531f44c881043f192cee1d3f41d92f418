@@ -1,0 +1,9 @@
+
+R
+java:S1596["<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(†šµ¸
+R
+java:S1596b"<Replace "Collections.EMPTY_MAP" by "Collections.emptyMap()".(îùŠ÷
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(åŠéÌ
+w
+java:S4144{"\Update this method so that its implementation is not identical to "isAttribute" on line 112.(ù¬ûùÿÿÿÿ

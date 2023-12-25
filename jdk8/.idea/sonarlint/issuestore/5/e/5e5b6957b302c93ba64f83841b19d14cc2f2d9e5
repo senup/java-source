@@ -1,0 +1,70 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+S	java:S107·"=Method has 11 parameters, which is greater than 7 authorized.(‚Àø×
+P
+java:S11187":Add a private constructor to hide the implicit public one.(ò˜íë
+U
+java:S1161D":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+>
+java:S1172S"(Remove this unused method parameter "c".(¶ÆŸ
+U
+java:S1161c":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
+U
+java:S1161m":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Û„ö’ıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
+V
+java:S1161º":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(ƒ¹—”
+>
+java:S1125î"'Remove the unnecessary boolean literal.(ŸÙ¶›
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+\
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(°Ïä
+P
+java:S1161¥":Add the "@Override" annotation above this method signature(ıç‘
+P
+java:S1172¬"4Remove these unused method parameters "c", "height".(êñøäşÿÿÿÿ
+J
+java:S1172Î"3Remove these unused method parameters "y", "width".( ëÜ
+K
+java:S1172ç"/Remove these unused method parameters "x", "y".(ª–»¢ÿÿÿÿÿ
+?
+java:S1172"(Remove this unused method parameter "y".(Ş‰â¦
+;
+java:S1659„"$Declare "startY" on a separate line.(¥¾İì
+H
+java:S1481„"1Remove this unused "marginHeight" local variable.(¥¾İì
+V
+java:S1161¤":Add the "@Override" annotation above this method signature(û¦ØÉøÿÿÿÿ
+a
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(ú¶ÛÆùÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(êñøäşÿÿÿÿ
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature( ëÜ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ª–»¢ÿÿÿÿÿ
+Q
+java:S1161œ":Add the "@Override" annotation above this method signature(Ş‰â¦
+V
+java:S1161²":Add the "@Override" annotation above this method signature(àÊçèúÿÿÿÿ
+[
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(œ”Õ,
+a
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(æˆ«¢øÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ƒ¹—”
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ

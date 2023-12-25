@@ -1,0 +1,24 @@
+
+q
+java:S1192Õ"UDefine a constant instead of duplicating this literal "Invalid image layout" 5 times.(Üå–øÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÏÃ‹
+b	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇß|
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë„°×ıÿÿÿÿ
+b	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å–ÁM
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÈÅ¦ùùÿÿÿÿ
+e
+java:S1871­"IThis case's code block is the same as the block for the case on line 169.(½ÜÏìÿÿÿÿÿ
+h
+java:S2786¬"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(€ÍøC
+n	java:S131¸"YComplete cases by adding the missing enum constants or add a default case to this switch.(’€€f
+W	java:S125–"<This block of commented-out lines of code should be removed.(Õ²ÊŒûÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'java.awt.image.DataBuffer'.(İ²Âüÿÿÿÿ
+M
+java:S1128!"7Remove this unused import 'java.awt.image.SampleModel'.(’ïÎÒ
+E
+java:S1068V"/Remove this unused "imageAtOnce" private field.(ù×÷
+O
+java:S1144f"9Remove this unused private "LCMSImageLayout" constructor.(½½®í

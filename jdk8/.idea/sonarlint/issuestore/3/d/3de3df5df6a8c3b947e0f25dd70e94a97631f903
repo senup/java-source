@@ -1,0 +1,9 @@
+
+J
+java:S3740&"/Provide the parametrized type for this generic.(èÍ­‰ýÿÿÿÿ
+~
+java:S1319&"cThe type of "atts" should be an interface such as "Map" rather than the implementation "Hashtable".(èÍ­‰ýÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+q
+java:S1149&"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(èÍ­‰ýÿÿÿÿ

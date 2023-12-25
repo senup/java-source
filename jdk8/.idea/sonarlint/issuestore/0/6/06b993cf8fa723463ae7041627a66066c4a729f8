@@ -1,0 +1,12 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ¸¡·øÿÿÿÿ
+s	java:S135j"YReduce the total number of break and continue statements in this loop to use at most one.(€Ğ®İúÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(ËÖñ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+n
+java:S2786™"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ÆÇÕšúÿÿÿÿ
+z
+java:S2142Ç"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÔÍÏÚıÿÿÿÿ

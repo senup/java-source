@@ -1,0 +1,11 @@
+
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+z
+java:S1149G"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨“Ê¯ýÿÿÿÿ
+i
+java:S2975V"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+P
+java:S1161V":Add the "@Override" annotation above this method signature(Ž²ÈÞ
+/
+java:S2225Z"Return a non null object.(·Çž÷

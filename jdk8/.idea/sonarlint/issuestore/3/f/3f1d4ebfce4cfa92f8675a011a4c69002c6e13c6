@@ -1,0 +1,30 @@
+
+8
+java:S1643³"Use a StringBuilder instead.(÷üÔÀúÿÿÿÿ
+8
+java:S1643µ"Use a StringBuilder instead.(»Í¢ùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+{
+java:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+?
+java:S1197'"*Move the array designators [] to the type.(Êì  
+@
+java:S1197_"*Move the array designators [] to the type.(Ş¥Ùƒ
+g
+java:S2886”"KSynchronize this method to match the synchronization on "setImageFileName".(ôÇºÉüÿÿÿÿ
+@
+java:S1197À"*Move the array designators [] to the type.(ù‚×S
+=	java:S131Ü""Add a default case to this switch.(ë´åİşÿÿÿÿ
+j
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+_
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+Q
+java:S1117¡":Rename "action" which hides the field declared at line 35.(ºÇ¦û
+W
+java:S1117§";Rename "command" which hides the field declared at line 36.(ùô‰Åøÿÿÿÿ
+[
+java:S1117Á"?Rename "description" which hides the field declared at line 37.(†úÀçşÿÿÿÿ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ

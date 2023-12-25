@@ -1,0 +1,15 @@
+
+f	java:S116B"QRename this field "_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Øœµ
+p	java:S116C"VRename this field "_currentEle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒðÃ£øÿÿÿÿ
+g	java:S116D"RRename this field "_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²‰¾
+n	java:S116E"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœ«ªúÿÿÿÿ
+p	java:S116J"\Rename this field "_escapeCharacters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ„„	
+h	java:S116L"TRename this field "_doIndent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úï×%
+h	java:S116N"SRename this field "_lineSep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÊ’É
+=	java:S131Ž""Add a default case to this switch.(žžŒ¹ÿÿÿÿÿ
+=	java:S131Ö""Add a default case to this switch.(žžŒ¹ÿÿÿÿÿ
+m	java:S116À"RRename this field "_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÑ¤‚ùÿÿÿÿ
+l	java:S116Ä"QRename this field "_Depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†âšúÿÿÿÿ
+u	java:S116È"ZRename this field "_isEmptyElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ•Ëþøÿÿÿÿ
+k	java:S116É"URename this field "_localpart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉØ¥ª
+g	java:S116Ê"QRename this field "_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û–É›

@@ -1,0 +1,32 @@
+
+v
+java:S1149¼"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¡Ï¨ˆ
+{
+java:S1149¾"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•çäûÿÿÿÿ
+v
+java:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(œĞ£•
+{
+java:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢áäĞúÿÿÿÿ
+{
+java:S1149İ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢áäĞúÿÿÿÿ
+{
+java:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­°ïŞşÿÿÿÿ
+{
+java:S1149¼"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„½á¼øÿÿÿÿ
+E
+java:S1197>"*Move the array designators [] to the type.(Ëú‹êüÿÿÿÿ
+@
+java:S1197S"*Move the array designators [] to the type.(¡ƒ¡‹
+D	java:S108É")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+Z
+java:S4719Ó">Replace charset name argument with StandardCharsets.ISO_8859_1(ñŒÿÿÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(Ú”µÛ
+7	java:S131å""Add a default case to this switch.(ûšÈu
+T
+java:S1117ˆ"8Rename "name" which hides the field declared at line 94.(¹û›ıÿÿÿÿ
+S
+java:S1854"7Remove this useless assignment to local variable "pos".(¦åÇ¸üÿÿÿÿ
+N
+java:S1854à"7Remove this useless assignment to local variable "pos".(èÃ°™
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ê´Èñÿÿÿÿÿ

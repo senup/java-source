@@ -1,0 +1,20 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+T
+java:S5993i"9Change the visibility of this constructor to "protected".(ÆÍÈÆıÿÿÿÿ
+O
+java:S5993w"9Change the visibility of this constructor to "protected".(¿õ†é
+Q
+java:S6213™":Rename this variable to not match a restricted identifier.(ú—ôì
+L
+java:S1133Ø"5Do not forget to remove this deprecated code someday.(«‚©
+?
+java:S1123Ø"(Add the missing @deprecated Javadoc tag.(«‚©
+S
+java:S1874ı"7Remove this use of "visitMethodInsn"; it is deprecated.(Ë‡µØûÿÿÿÿ
+V
+java:S6213û":Rename this variable to not match a restricted identifier.(ó×©¬ÿÿÿÿÿ

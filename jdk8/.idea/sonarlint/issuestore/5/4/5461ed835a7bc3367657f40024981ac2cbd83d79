@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+@
+java:S1197+"*Move the array designators [] to the type.(‡Ë³¤
+E
+java:S1197>"*Move the array designators [] to the type.(è¦…úÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¥İÉ
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¾¥İÉ
+@
+java:S1172x"*Remove this unused method parameter "env".(•¬„¿
+V	java:S125|"<This block of commented-out lines of code should be removed.(Šÿ€ğşÿÿÿÿ

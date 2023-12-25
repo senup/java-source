@@ -1,0 +1,27 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+E
+java:S1197Y"*Move the array designators [] to the type.(Ú­¡ûÿÿÿÿ
+`
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(Ú­¡ûÿÿÿÿ
+E
+java:S1197f"*Move the array designators [] to the type.(‰­Øáøÿÿÿÿ
+2
+java:S3626Œ"Remove this redundant jump.(ûÁİ…
+E
+java:S1197n"*Move the array designators [] to the type.(–Î¡ûÿÿÿÿ
+6
+java:S1659q" Declare "p2" on a separate line.(Ò…±’
+:
+java:S1659r"Declare "b" on a separate line.(ùôåìşÿÿÿÿ
+Q
+java:S1161”":Add the "@Override" annotation above this method signature(½ÒÑâ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(©óİÖøÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(˜áÁÇşÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’

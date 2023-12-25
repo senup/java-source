@@ -1,0 +1,114 @@
+
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(îĞğòıÿÿÿÿ
+u
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ŒüÜøÿÿÿÿ
+o
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼›Q
+p
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÅ¸’
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Õ·÷
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¦Ò
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÏé‚
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(„±¥À
+u
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(±¼‹úÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¸ÃÚ
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û¥Êáùÿÿÿÿ
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éµ²İ
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇïëŠùÿÿÿÿ
+m
+java:S1104V"RMake access a static final constant or non-public and provide accessors if needed.(ĞëŸ¶üÿÿÿÿ
+f
+java:S1104["PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+k
+java:S1104`"PMake desc a static final constant or non-public and provide accessors if needed.(õÄ‘Êşÿÿÿÿ
+p
+java:S1104e"UMake signature a static final constant or non-public and provide accessors if needed.(ä÷´¢şÿÿÿÿ
+k
+java:S1104l"VMake exceptions a static final constant or non-public and provide accessors if needed.(ÜŞêc
+l
+java:S1104q"VMake parameters a static final constant or non-public and provide accessors if needed.(î©Ôó
+t
+java:S1104z"^Make visibleAnnotations a static final constant or non-public and provide accessors if needed.(÷Œ»Ã
+|
+java:S1104ƒ"`Make invisibleAnnotations a static final constant or non-public and provide accessors if needed.(ï¯³öúÿÿÿÿ
+y
+java:S1104Œ"bMake visibleTypeAnnotations a static final constant or non-public and provide accessors if needed.(ÿÆÄÕ
+{
+java:S1104•"dMake invisibleTypeAnnotations a static final constant or non-public and provide accessors if needed.(…ÎßÚ
+h
+java:S1104"QMake attrs a static final constant or non-public and provide accessors if needed.( çƒ€
+y
+java:S1104§"]Make annotationDefault a static final constant or non-public and provide accessors if needed.(ş“îÅşÿÿÿÿ
+ƒ
+java:S1104°"gMake visibleParameterAnnotations a static final constant or non-public and provide accessors if needed.(Ì¢Ê­ıÿÿÿÿ
+…
+java:S1104¹"iMake invisibleParameterAnnotations a static final constant or non-public and provide accessors if needed.(—Èñûÿÿÿÿ
+o
+java:S1104Â"XMake instructions a static final constant or non-public and provide accessors if needed.(Õ±À“
+v
+java:S1104Ê"ZMake tryCatchBlocks a static final constant or non-public and provide accessors if needed.(ş†Ö–ÿÿÿÿÿ
+k
+java:S1104Ï"TMake maxStack a static final constant or non-public and provide accessors if needed.(§Ï¹³
+l
+java:S1104Ô"UMake maxLocals a static final constant or non-public and provide accessors if needed.(³ã´ª
+q
+java:S1104Ü"ZMake localVariables a static final constant or non-public and provide accessors if needed.(Çö–Ì
+‡
+java:S1104ä"kMake visibleLocalVariableAnnotations a static final constant or non-public and provide accessors if needed.(òÓ“šøÿÿÿÿ
+‰
+java:S1104ì"mMake invisibleLocalVariableAnnotations a static final constant or non-public and provide accessors if needed.(»Ø‘¬ûÿÿÿÿ
+˜
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Şí Í
+˜
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¯À
+Q
+java:S6213Ë":Rename this variable to not match a restricted identifier.(ÈÛ³§
+L
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(«‚©
+?
+java:S1123Ü"(Add the missing @deprecated Javadoc tag.(«‚©
+V
+java:S6213…":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(‡§‰Å
+Z
+java:S1155·">Use isEmpty() to check whether the collection is empty or not.(Ïâœüÿÿÿÿÿ
+U
+java:S1155»">Use isEmpty() to check whether the collection is empty or not.(ş¨Íà
+Z
+java:S1155Â">Use isEmpty() to check whether the collection is empty or not.(¡„éàúÿÿÿÿ
+Z
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(šƒ…õûÿÿÿÿ
+U
+java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(æŸ€é
+U
+java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(°Âœ
+Z
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(“ª—ÿÿÿÿÿ
+U
+java:S1155à">Use isEmpty() to check whether the collection is empty or not.(¥»óÚ
+V
+java:S1117í"?Rename "exceptions" which hides the field declared at line 108.(Õ‘’Ø
+h
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ûãÔ*
+Z
+java:S1659ş">Declare "j" and all following declarations on a separate line.(ğŠøÿÿÿÿ

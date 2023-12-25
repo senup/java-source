@@ -1,0 +1,22 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+g
+java:S1223n"LRename this method to prevent any misunderstanding or make it a constructor.(¶†ÿîûÿÿÿÿ
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Şàÿ—
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊİÄ
+W	java:S107n"=Method has 11 parameters, which is greater than 7 authorized.(¶†ÿîûÿÿÿÿ
+O
+java:S18589"9there's no need to call "toString()" on a string literal.(Şàÿ—
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(µÊû”şÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(´É«´øÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(š‡ŒÓ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(«ÂÖ‘ÿÿÿÿÿ
+h	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†ÿîûÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(±·ù‚ÿÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(ù» 
+M
+java:S1128 "2Remove this unused import 'java.awt.Transparency'.(«Ö¿õùÿÿÿÿ
+j
+java:S1128%"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê

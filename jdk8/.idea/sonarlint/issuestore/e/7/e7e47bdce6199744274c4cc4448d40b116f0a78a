@@ -1,0 +1,28 @@
+
+a
+java:S1192M"FDefine a constant instead of duplicating this literal "ascii" 4 times.(º¤ã´úÿÿÿÿ
+n	java:S116)"TRename this field "riff_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‘´øÿÿÿÿ
+U
+java:S1117J":Rename "fourcc" which hides the field declared at line 40.(ø™’•ıÿÿÿÿ
+W
+java:S4719M"<Replace charset name argument with StandardCharsets.US_ASCII(º¤ã´úÿÿÿÿ
+Q
+java:S4719U"<Replace charset name argument with StandardCharsets.US_ASCII(‡Ÿß"
+‡
+java:S1130Y"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Šùßìıÿÿÿÿ
+Q
+java:S1161ƒ":Add the "@Override" annotation above this method signature(æËº“
+F
+java:S1197–"*Move the array designators [] to the type.(ñã‡ûÿÿÿÿ
+A
+java:S1197š"*Move the array designators [] to the type.(ªÎß«
+V
+java:S1161·":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(âËÎ¡ıÿÿÿÿ
+X
+java:S4719Ú"<Replace charset name argument with StandardCharsets.US_ASCII(“Œü©ûÿÿÿÿ
+S
+java:S4719İ"<Replace charset name argument with StandardCharsets.US_ASCII(’‰çÇ
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

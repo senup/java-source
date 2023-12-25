@@ -1,0 +1,15 @@
+
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆò
+`
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(¬à÷Õûÿÿÿÿ
+Z
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(ÙºŞV
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(½Ûœ¿øÿÿÿÿ
+@
+java:S11723"*Remove this unused method parameter "len".(¾Üò
+B
+java:S1125@"'Remove the unnecessary boolean literal.(ÚŒ‚›ùÿÿÿÿ

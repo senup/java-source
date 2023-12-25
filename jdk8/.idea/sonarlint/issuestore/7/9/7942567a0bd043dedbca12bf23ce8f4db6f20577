@@ -1,0 +1,17 @@
+
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(©“¤¾şÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(’ÜÈ´ûÿÿÿÿ
+c
+java:S3252"GUse static access with "sun.java2d.pipe.hw.AccelSurface" for "TEXTURE".(’ÜÈ´ûÿÿÿÿ
+a
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(ñÊéíÿÿÿÿÿ
+X
+java:S1126°"AReplace this if-then-else statement by a single return statement.(ÅÍ©Ú
+N
+java:S1128"3Remove this unused import 'java.awt.GradientPaint'.(åÊòÃûÿÿÿÿ
+T
+java:S1128!"9Remove this unused import 'java.awt.RadialGradientPaint'.(˜‘Îúÿÿÿÿÿ

@@ -1,0 +1,45 @@
+
+s
+java:S1192"WDefine a constant instead of duplicating this literal "Invalid loop points : " 4 times.(êÂÍøÿÿÿÿ
+E
+java:S1066G"/Merge this if statement with the enclosing one.(”¸Óœ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃÈŒûÿÿÿÿ
+N
+java:S2589Œ"7Remove this expression which always evaluates to "true"(¹ÕÌ
+_
+java:S2583K"DChange this condition so that it does not always evaluate to "false"(Á€Ûµüÿÿÿÿ
+_
+java:S2583Y"DChange this condition so that it does not always evaluate to "false"(ùÇñûıÿÿÿÿ
+u	java:S116}"[Rename this field "out_nrofchannels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§ÊÃıÿÿÿÿ
+t	java:S116"ZRename this field "in_nrofchannels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø§¹‹ÿÿÿÿÿ
+q	java:S116ƒ"[Rename this field "frameposition_sg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ò®
+o	java:S116…"TRename this field "active_sg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¬ıĞıÿÿÿÿ
+h	java:S116"RRename this field "_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±§—
+t	java:S116‘"YRename this field "_frameposition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÙßùÿÿÿÿ
+m	java:S116“"RRename this field "loop_sg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµ÷üÿÿÿÿ
+k	java:S116•"URename this field "_loopcount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ã
+k	java:S116—"URename this field "_loopstart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õòÙà
+i	java:S116™"SRename this field "_loopend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…éÊÈ
+p	java:S116›"URename this field "_rightgain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‰Ò™ûÿÿÿÿ
+o	java:S116"TRename this field "_leftgain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûİ´Ìÿÿÿÿÿ
+j	java:S116Ÿ"TRename this field "_eff1gain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦§ö“
+j	java:S116¡"TRename this field "_eff2gain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷“Óÿ
+
+java:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­î¸úúÿÿÿÿ
+˜
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã®¸Â
+P
+java:S1161?":Add the "@Override" annotation above this method signature(ÂãíÕ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(µÎŞûÿÿÿÿ
+?	java:S108á")Either remove or fill this block of code.(ï­£Ä
+E
+java:S1905™")Remove this unnecessary cast to "double".(öˆÇ›şÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿ¥ßüÿÿÿÿ
+T
+java:S1117¼"8Rename "data" which hides the field declared at line 51.(½åêÀøÿÿÿÿ
+E
+java:S1905¢")Remove this unnecessary cast to "double".(ÙÌ‹ùÿÿÿÿ
+@
+java:S1905Ç")Remove this unnecessary cast to "double".(µçÉµ

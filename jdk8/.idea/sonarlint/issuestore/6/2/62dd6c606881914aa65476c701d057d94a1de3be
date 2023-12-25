@@ -1,0 +1,40 @@
+
+>
+java:S1604¹"(Make this anonymous inner class a lambda(±Ë¿n
+?
+java:S1604Ñ"(Make this anonymous inner class a lambda(’­Ûü
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(×ïéŸüÿÿÿÿ
+V
+java:S2130K"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(´Ú¹
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÔáËØ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(¦óÉ
+`
+java:S3551›"IMake this method "synchronized" to match the parent class implementation.(¦óÉ
+Q
+java:S6213›":Rename this variable to not match a restricted identifier.(¦óÉ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ
+e
+java:S3551 "IMake this method "synchronized" to match the parent class implementation.(—µ±şıÿÿÿÿ
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(’÷Ÿüûÿÿÿÿ
+Q
+java:S1161Ğ":Add the "@Override" annotation above this method signature(Â¶¾ì
+A
+java:S1197Ğ"*Move the array designators [] to the type.(Â¶¾ì
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+R
+java:S1128!"=Remove this unused import 'java.util.logging.ConsoleHandler'.(±ìÍ 
+S
+java:S1128#"8Remove this unused import 'java.util.logging.Formatter'.(ÚÊŠ¤ûÿÿÿÿ
+T
+java:S1128("9Remove this unused import 'java.util.logging.LogManager'.(›½ø·şÿÿÿÿ
+9
+java:S1128*"Remove this duplicated import.(£²Ÿƒúÿÿÿÿ
+E
+java:S1128+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+I
+java:S1128,".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

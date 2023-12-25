@@ -1,0 +1,14 @@
+
+J
+java:S37409"/Provide the parametrized type for this generic.(ÁÖäÅûÿÿÿÿ
+o
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(šèâ¼
+b
+java:S2095S"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ĞÔ©É
+q
+java:S11499"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÁÖäÅûÿÿÿÿ
+l
+java:S1149P"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(šèâ¼
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ó€ñïÿÿÿÿÿ
+A
+java:S1128&"+Remove this unused import 'java.io.Reader'.(µû¨é

@@ -1,0 +1,15 @@
+
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¡«ÿÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š ×Úÿÿÿÿÿ
+f
+java:S1104["PMake type a static final constant or non-public and provide accessors if needed.(ûöå©
+l
+java:S1104c"QMake local a static final constant or non-public and provide accessors if needed.(ÛœÃ÷úÿÿÿÿ
+l
+java:S1104k"QMake stack a static final constant or non-public and provide accessors if needed.(„éøùÿÿÿÿ
+8	java:S131""Add a default case to this switch.(ÜŸ•
+Z
+java:S3878—"CDisambiguate this call by either casting as "Object" or "Object[]".(îãºğ
+8	java:S131®""Add a default case to this switch.(ÜŸ•

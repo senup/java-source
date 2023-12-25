@@ -1,0 +1,35 @@
+
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+\	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(¥¤ó‚
+\	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(ä­Ôê
+o
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(øí…Ó
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(º¹ã‹üÿÿÿÿ
+V
+java:S2259±"?A "NullPointerException" could be thrown; "t" is nullable here.(éÄš¦
+Y
+java:S2259ê"BA "NullPointerException" could be thrown; "that" is nullable here.(‹õİÀ
+U
+java:S11180":Add a private constructor to hide the implicit public one.(‹´Áñıÿÿÿÿ
+h
+java:S3008O"SRename this field "MISC_PKG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ê‰
+k
+java:S3008P"URename this field "TRAMPOLINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‚ƒ›
+5
+java:S2097å"Add a type test to this method.(‡è¿2
+E
+java:S1940ñ")Use the opposite operator ("!=") instead.(«³º¤ÿÿÿÿÿ
+_
+java:S3878“"CDisambiguate this call by either casting as "Object" or "Object[]".(ã¯À”úÿÿÿÿ
+C
+java:S3011²",This accessibility update should be removed.(ı¡ù
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(ƒåÃıÿÿÿÿ
+Q
+java:S1161Ó":Add the "@Override" annotation above this method signature(õïìØ
+V
+java:S1161":Add the "@Override" annotation above this method signature(»ş¾¼üÿÿÿÿ
+?	java:S108—")Either remove or fill this block of code.(ıàÑÎ
+A
+java:S1144C"+Remove this unused private "invoke" method.(—ÙŒÜ

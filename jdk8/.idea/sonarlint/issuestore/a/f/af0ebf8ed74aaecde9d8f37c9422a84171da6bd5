@@ -1,0 +1,16 @@
+
+u	java:S115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÐê³øÿÿÿÿ
+u	java:S115ª"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áºï·ÿÿÿÿÿ
+u	java:S115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ™”¹üÿÿÿÿ
+p	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯¸Äý
+u	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÏß»øÿÿÿÿ
+u	java:S115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òý»Îùÿÿÿÿ
+p	java:S115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß«Ð€
+u	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´ˆ°Ðúÿÿÿÿ
+U
+java:S1118)":Add a private constructor to hide the implicit public one.(Ïá¦…øÿÿÿÿ
+j
+java:S3008Ø"NRename this field "YCC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áàöýþÿÿÿÿ
+V
+java:S1118Ô":Add a private constructor to hide the implicit public one.(¾åúòþÿÿÿÿ
+7	java:S131°""Add a default case to this switch.(¥Ð¨M

@@ -1,0 +1,149 @@
+
+r
+java:S1192÷"VDefine a constant instead of duplicating this literal "invalid.char.constant" 3 times.(ª”ü÷üÿÿÿÿ
+p
+java:S1192›"TDefine a constant instead of duplicating this literal "invalid.escape.char" 3 times.(¸Å§Äøÿÿÿÿ
+J
+java:S1121Œ".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121“".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121ê".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121§".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121ø".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121§".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121ë".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121ú".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121‰	".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121œ	".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121	".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121¹	".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+J
+java:S1121È	".Extract the assignment out of this expression.(ÖÛàãúÿÿÿÿ
+g
+java:S1301ë"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301ú"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301‰	"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301œ	"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301	"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301¹	"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+g
+java:S1301È	"KReplace this "switch" statement by "if" statements to increase readability.(ÖÛàãúÿÿÿÿ
+e
+java:S1104Q"OMake env a static final constant or non-public and provide accessors if needed.(äº‹“
+m
+java:S1104`"XMake scanComments a static final constant or non-public and provide accessors if needed.(¬è„7
+g
+java:S1104e"QMake token a static final constant or non-public and provide accessors if needed.(¬«´
+d
+java:S1104j"OMake pos a static final constant or non-public and provide accessors if needed.(Î¦é4
+i
+java:S1104o"SMake prevPos a static final constant or non-public and provide accessors if needed.(“•° 
+k
+java:S1104y"UMake charValue a static final constant or non-public and provide accessors if needed.(§ğÂí
+j
+java:S1104z"TMake intValue a static final constant or non-public and provide accessors if needed.(Õß«Ş
+k
+java:S1104{"UMake longValue a static final constant or non-public and provide accessors if needed.( ­òŠ
+l
+java:S1104|"VMake floatValue a static final constant or non-public and provide accessors if needed.(˜š‰ã
+m
+java:S1104}"WMake doubleValue a static final constant or non-public and provide accessors if needed.(€Øõª
+r
+java:S1104~"WMake stringValue a static final constant or non-public and provide accessors if needed.(»¤ÿµüÿÿÿÿ
+n
+java:S1104"SMake idValue a static final constant or non-public and provide accessors if needed.(ú™ÅÔøÿÿÿÿ
+m
+java:S1104€"QMake radix a static final constant or non-public and provide accessors if needed.(µ£ìıÿÿÿÿ
+m
+java:S1104…"VMake docComment a static final constant or non-public and provide accessors if needed.(ğ “õ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+Z
+java:S2184‡"CCast one of the operands of this subtraction operation to a "long".(áÇ¤…
+
+java:S1845j"zRename field "pos" to prevent any misunderstanding/clash with field "POS" defined in interface "sun.tools.java.Constants".(Î¦é4
+A
+java:S1197‹"*Move the array designators [] to the type.(Îø‚÷
+A
+java:S1197"*Move the array designators [] to the type.(…Û«‚
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Á“±ÿÿÿÿÿ
+M
+java:S1117Ä"6Rename "in" which hides the field declared at line 86.(ƒŒî
+R
+java:S1117Ç";Rename "buffer" which hides the field declared at line 139.(ˆèî‹
+Q
+java:S1117È":Rename "count" which hides the field declared at line 138.(æÕ¿¼
+W
+java:S1119â";Refactor the code to remove this label and the need for it.(ö˜‡¢ıÿÿÿÿ
+W
+java:S1119ë";Refactor the code to remove this label and the need for it.(Ñ¦½İùÿÿÿÿ
+Q
+java:S1119š";Refactor the code to remove this label and the need for it.(›Ç™#
+Q
+java:S1119à";Refactor the code to remove this label and the need for it.(è‚L
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(³ìÚŒøÿÿÿÿ
+R
+java:S1119Š";Refactor the code to remove this label and the need for it.(¬î€Å
+g	java:S128“"LEnd this switch case with an unconditional break, return or throw statement.(–Ó€Öúÿÿÿÿ
+R
+java:S1874Ö";Remove this use of "isJavaLetterOrDigit"; it is deprecated.(ôÆîÎ
+W
+java:S1874Ù";Remove this use of "isJavaLetterOrDigit"; it is deprecated.(Ã•´–ùÿÿÿÿ
+>
+java:S1125á"'Remove the unnecessary boolean literal.(©¹íÈ
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ĞÅù½
+2
+java:S3626ñ"Remove this redundant jump.(ûÁİ…
+R
+java:S1119¨";Refactor the code to remove this label and the need for it.(¬î€Å
+R
+java:S1874Í";Remove this use of "isJavaLetterOrDigit"; it is deprecated.(ôÆîÎ
+W
+java:S1874Ğ";Remove this use of "isJavaLetterOrDigit"; it is deprecated.(Ã•´–ùÿÿÿÿ
+R
+java:S2130Ü";Use "Float.parseFloat" for this string-to-float conversion.(ÊîñÏ
+U
+java:S2130ä">Use "Double.parseDouble" for this string-to-double conversion.(ñ¹å¾
+=	java:S131ù""Add a default case to this switch.(ÓÚŸ™üÿÿÿÿ
+=	java:S131""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+W
+java:S1874º";Remove this use of "isJavaLetterOrDigit"; it is deprecated.(Ğ³ÔÆøÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(€ì”Øşÿÿÿÿ
+M
+java:S1117Ü"6Rename "in" which hides the field declared at line 86.(ƒŒî
+g	java:S128è"LEnd this switch case with an unconditional break, return or throw statement.(Èäîüÿÿÿÿ
+^
+java:S1479ã"BReduce the number of non-empty switch cases from 33 to at most 30.(Œ¹ÿÿÿÿÿ
+=	java:S131ë""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131ú""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131‰	""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131œ	""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131	""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131¹	""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+=	java:S131È	""Add a default case to this switch.(ÖÛàãúÿÿÿÿ
+P
+java:S1874
+"4Remove this use of "isJavaLetter"; it is deprecated.(©áÌÜşÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ

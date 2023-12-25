@@ -1,0 +1,6 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(¾ê©¯ùÿÿÿÿ
+Q
+java:S2696|"6Make the enclosing method "static" or remove this set.(Û»ñÒüÿÿÿÿ

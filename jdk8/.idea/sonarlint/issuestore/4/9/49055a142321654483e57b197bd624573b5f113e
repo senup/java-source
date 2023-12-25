@@ -1,0 +1,36 @@
+
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(œÏúÿÿÿÿ
+o	java:S135¥"YReduce the total number of break and continue statements in this loop to use at most one.(™ÙÅ
+s	java:S127³"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ˜Œáıÿÿÿÿ
+C
+java:S1604T"(Make this anonymous inner class a lambda(¤´¤Ğúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(«±Œµüÿÿÿÿ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(°³Îúÿÿÿÿ
+`
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(ƒŒú÷ûÿÿÿÿ
+Z
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(¦ôë
+O
+java:S1161J":Add the "@Override" annotation above this method signature(Ö’ò
+^
+java:S3551J"IMake this method "synchronized" to match the parent class implementation.(Ö’ò
+B
+java:S1125w"'Remove the unnecessary boolean literal.(Âî×Şûÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(‰Ë¢ëüÿÿÿÿ
+C
+java:S1125»"'Remove the unnecessary boolean literal.(ÖïşÛÿÿÿÿÿ
+L
+java:S1133ç"5Do not forget to remove this deprecated code someday.(Ôä–¹
+G
+java:S2160ø"+Override the "equals" method in this class.(áÍÛßøÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¾Ñøûşÿÿÿÿ
+Q
+java:S1161İ":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161á":Add the "@Override" annotation above this method signature(¨¯«ãùÿÿÿÿ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

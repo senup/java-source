@@ -1,0 +1,43 @@
+
+l	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿´úÿÿÿÿ
+z
+java:S1488`"dImmediately return this expression instead of assigning it to the temporary variable "bytesWritten".(Äœ€ƒ
+i
+java:S2095x"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ã¶ï÷ıÿÿÿÿ
+Š
+java:S4165í"nRemove this useless assignment; "codedAudioStream" already holds the assigned value along all execution paths.(ö®©Õúÿÿÿÿ
+_
+java:S2583"CChange this condition so that it does not always evaluate to "true"(»•«¦şÿÿÿÿ
+`
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(İ÷ŸØúÿÿÿÿ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(¿Íä•
+X
+java:S1854"<Remove this useless assignment to local variable "encoding".(Ç§¶Áûÿÿÿÿ
+K
+java:S1481–"/Remove this unused "sampleRate" local variable.( ’•ûıÿÿÿÿ
+I
+java:S1481˜"-Remove this unused "channels" local variable.(²º©­şÿÿÿÿ
+J
+java:S1481™".Remove this unused "frameSize" local variable.(Ïòşûùÿÿÿÿ
+E
+java:S1481š".Remove this unused "frameRate" local variable.(Ç²±
+P
+java:S1854Ñ"9Remove this useless assignment to local variable "magic".(¡‘’¤
+Z
+java:S1854é"DRemove this useless assignment to local variable "codedAudioStream".(‡±à
+A
+java:S1481Ñ"*Remove this unused "magic" local variable.(¡‘’¤
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(›¶àÃ
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(‚×³Ş
+F
+java:S1197á"*Move the array designators [] to the type.(âˆÂÊıÿÿÿÿ
+Y
+java:S1854½"=Remove this useless assignment to local variable "maxLength".(˜Å„Óıÿÿÿÿ
+F
+java:S1197±"*Move the array designators [] to the type.(â¤™Ûøÿÿÿÿ
+=
+java:S1905·"&Remove this unnecessary cast to "int".(–ùÇ
+B
+java:S1905»"&Remove this unnecessary cast to "int".(æˆ’ùÿÿÿÿ
+=
+java:S1905Á"&Remove this unnecessary cast to "int".(–ùÇ

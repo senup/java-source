@@ -1,0 +1,20 @@
+
+K
+java:S1191*"5Use classes from the Java API instead of Sun classes.(õ‹½
+c
+java:S2259Ç"MA "NullPointerException" could be thrown; "currentPropMap()" can return null.(×Ø®f
+c
+java:S2259¼"MA "NullPointerException" could be thrown; "currentPropMap()" can return null.(×Ø®f
+p	java:S115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ô’İ
+;
+java:S1168“"$Return an empty map instead of null.(¥¹ï
+N	java:S106¿"9Replace this use of System.out or System.err by a logger.(‚š‰1
+N	java:S106É"9Replace this use of System.out or System.err by a logger.(‚š‰1
+ˆ
+java:S1130Ø"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ì£ô™ûÿÿÿÿ
+U
+java:S4349">Provide an override of "write(byte[],int,int)" for this class.(Ñ€‚À
+a
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ÙŞÅœ

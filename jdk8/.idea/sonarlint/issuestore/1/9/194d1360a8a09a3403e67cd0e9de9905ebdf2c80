@@ -1,0 +1,83 @@
+
+o
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(›‡¬!
+u
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(’½®áÿÿÿÿÿ
+p
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä¸¹ô
+p
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(°÷ñ¯
+p
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷É¤õ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚î˜€ùÿÿÿÿ
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÃÖ¶ûÿÿÿÿ
+i
+java:S1192 "MDefine a constant instead of duplicating this literal "Expecting a " 3 times.(ÔÒ—‰øÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(±ÚÓ¶
+Q
+java:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+j
+java:S3824Ù"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ìëùûÿÿÿÿ
+j
+java:S3824º"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ìëùûÿÿÿÿ
+j
+java:S3824£"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ìëùûÿÿÿÿ
+u	java:S115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùöÙÊşÿÿÿÿ
+[
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(®Ş²ª
+`
+java:S1124["EReorder the modifiers to comply with the Java Language Specification.(ÃÄõ­ûÿÿÿÿ
+`
+java:S1124j"EReorder the modifiers to comply with the Java Language Specification.(ã™»ùÿÿÿÿ
+
+java:S1130‹"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ÔçÒëûÿÿÿÿ
+`
+java:S1134Ç"DTake the required action to fix the issue indicated by this comment.(áÁ·ÿÿÿÿÿ
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ç­úü
+[
+java:S1134Ï"DTake the required action to fix the issue indicated by this comment.(Èä­
+W	java:S125‚"<This block of commented-out lines of code should be removed.(½Ÿ›ˆûÿÿÿÿ
+a
+java:S2147å"ECombine this catch with the one at line 611, which has the same body.(Š¾Ì´úÿÿÿÿ
+a
+java:S2147ç"ECombine this catch with the one at line 611, which has the same body.(úˆışÿÿÿÿ
+I
+java:S1135ä"2Complete the task associated to this TODO comment.(ëóßÁ
+I
+java:S1135æ"2Complete the task associated to this TODO comment.(ëóßÁ
+I
+java:S1135è"2Complete the task associated to this TODO comment.(ëóßÁ
+a
+java:S2147û"ECombine this catch with the one at line 632, which has the same body.(úˆışÿÿÿÿ
+I
+java:S1135ù"2Complete the task associated to this TODO comment.(§½çÏ
+I
+java:S1135ü"2Complete the task associated to this TODO comment.(ëóßÁ
+a
+java:S2147"ECombine this catch with the one at line 650, which has the same body.(úˆışÿÿÿÿ
+I
+java:S1135‹"2Complete the task associated to this TODO comment.(§½çÏ
+I
+java:S1135"2Complete the task associated to this TODO comment.(ëóßÁ
+a
+java:S2147¡"ECombine this catch with the one at line 671, which has the same body.(úˆışÿÿÿÿ
+I
+java:S1135 "2Complete the task associated to this TODO comment.(§½çÏ
+I
+java:S1135¢"2Complete the task associated to this TODO comment.(ëóßÁ
+I
+java:S1135¼"2Complete the task associated to this TODO comment.(„Ø®
+I
+java:S1905Ê"-Remove this unnecessary cast to "ObjectName".(Ô™·’ûÿÿÿÿ
+I
+java:S1135Ö"2Complete the task associated to this TODO comment.(„Ø®
+I
+java:S1905ä"-Remove this unnecessary cast to "ObjectName".( ±³ûûÿÿÿÿ
+a
+java:S2147§"ECombine this catch with the one at line 805, which has the same body.(š¹õıüÿÿÿÿ

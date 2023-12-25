@@ -1,0 +1,239 @@
+
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+p
+java:S2293â	"YReplace the type specification in this constructor call with the diamond operator ("<>").(úöë¯
+_
+java:S1192â"HDefine a constant instead of duplicating this literal "UPDATE " 3 times.(ÂöÃ
+b
+java:S1192Š"FDefine a constant instead of duplicating this literal " = ? " 5 times.(ÚÒîñøÿÿÿÿ
+c
+java:S1192
+"GDefine a constant instead of duplicating this literal "WHERE " 3 times.(¿—ãƒùÿÿÿÿ
+t	java:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(ˆù“µşÿÿÿÿ
+s	java:S127¯
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼òÇÄıÿÿÿÿ
+F
+java:S1066®"/Merge this if statement with the enclosing one.(”¹Íª
+F
+java:S1066‚"/Merge this if statement with the enclosing one.(…³ÂÂ
+Q
+java:S1141õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+8
+java:S1643†"Use a StringBuilder instead.(©÷Šáÿÿÿÿÿ
+8
+java:S1643ˆ"Use a StringBuilder instead.(”•Óàøÿÿÿÿ
+8
+java:S1643Š"Use a StringBuilder instead.(ÚÒîñøÿÿÿÿ
+8
+java:S1643´"Use a StringBuilder instead.(©÷Šáÿÿÿÿÿ
+8
+java:S1643¶"Use a StringBuilder instead.(”•Óàøÿÿÿÿ
+8
+java:S1643¸"Use a StringBuilder instead.(ÚÒîñøÿÿÿÿ
+3
+java:S1643Õ"Use a StringBuilder instead.(å‘‡µ
+8
+java:S1643×"Use a StringBuilder instead.(Ò¦àŒıÿÿÿÿ
+8
+java:S1643Ù"Use a StringBuilder instead.(´Ê‚ùÿÿÿÿ
+2
+java:S1643€	"Use a StringBuilder instead.(¾òÂ
+3
+java:S1643‚	"Use a StringBuilder instead.(À­Ç°
+3
+java:S1643„	"Use a StringBuilder instead.(§©Ş
+3
+java:S1643‡	"Use a StringBuilder instead.(û›×ò
+3
+java:S1643‰	"Use a StringBuilder instead.(À­Ç°
+8
+java:S1643‹	"Use a StringBuilder instead.(¯Š¶øşÿÿÿÿ
+3
+java:S1643’
+"Use a StringBuilder instead.(à¹µ¿
+3
+java:S1643”
+"Use a StringBuilder instead.(¹æ›±
+3
+java:S1643—
+"Use a StringBuilder instead.(·•ßú
+3
+java:S1643™
+"Use a StringBuilder instead.(Œ¨‚¾
+8
+java:S1643Â
+"Use a StringBuilder instead.(ĞÃÄŞùÿÿÿÿ
+8
+java:S1643Ä
+"Use a StringBuilder instead.(Ü²îçúÿÿÿÿ
+3
+java:S1643Å
+"Use a StringBuilder instead.(Ô°Â
+8
+java:S1643Ğ
+"Use a StringBuilder instead.(£Ë¡½şÿÿÿÿ
+3
+java:S1643Ò
+"Use a StringBuilder instead.(ùãï
+3
+java:S1643Õ
+"Use a StringBuilder instead.(Ï¡«‰
+3
+java:S1643×
+"Use a StringBuilder instead.(ıáÕó
+^
+java:S3973Œ"GUse indentation to denote the code conditionally executed by this "if".(«‘ƒÿ
+d
+java:S1226
+"HIntroduce a new variable instead of reusing the parameter "whereClause".(¿—ãƒùÿÿÿÿ
+_
+java:S1226’
+"HIntroduce a new variable instead of reusing the parameter "whereClause".(à¹µ¿
+_
+java:S1226”
+"HIntroduce a new variable instead of reusing the parameter "whereClause".(¹æ›±
+_
+java:S1226—
+"HIntroduce a new variable instead of reusing the parameter "whereClause".(·•ßú
+_
+java:S1226™
+"HIntroduce a new variable instead of reusing the parameter "whereClause".(Œ¨‚¾
+k
+java:S2095û"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿ŠİØıÿÿÿÿ
+k
+java:S2095æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¥õåşÿÿÿÿ
+f
+java:S2095ê"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(çœš†
+f
+java:S2095Ü
+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ùœƒ
+f
+java:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é˜‹
+q
+java:S1450º"URemove the "status" field and declare it as a local variable in the relevant methods.(Êà‘øÿÿÿÿ
+D
+java:S1948•"(Make "params" transient or serializable.(¾üóûÿÿÿÿ
+F
+java:S1948§"*Make "callerMd" transient or serializable.(åÂÉğÿÿÿÿÿ
+
+java:S1149™"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µãØÿÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(êºñîÿÿÿÿÿ
+Y
+java:S1854ü"=Remove this useless assignment to local variable "icolCount".(½‹ Æùÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(”«¡şÿÿÿÿ
+8
+java:S1116”"Remove this empty statement.(³úïşÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(ØÚµÏ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(«ã­Ì
+>
+java:S1125Å"'Remove the unnecessary boolean literal.(ÁšÏî
+J
+java:S1481ü".Remove this unused "icolCount" local variable.(½‹ Æùÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(Äõâƒ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(”ªøÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(í“Ã½ÿÿÿÿÿ
+T
+java:S1854€"8Remove this useless assignment to local variable "rsmd".(…åÔüùÿÿÿÿ
+Q
+java:S1854û"5Remove this useless assignment to local variable "i".(”à±Âùÿÿÿÿ
+2
+java:S3626ñ"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626÷"Remove this redundant jump.(ÉŠ©ƒ
+E
+java:S1481€")Remove this unused "rsmd" local variable.(…åÔüùÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(øê€©
+a
+java:S2147Ã"ECombine this catch with the one at line 576, which has the same body.(å°Ş´şÿÿÿÿ
+F
+java:S1197È"*Move the array designators [] to the type.(¨§Ó£øÿÿÿÿ
+i
+java:S1871ó"MThis branch's code block is the same as the block for the branch on line 609.(ÒÌâ–øÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(ÀÖ‹È
+R	java:S125ú"<This block of commented-out lines of code should be removed.(ÀÖ‹È
+C
+java:S1125…"'Remove the unnecessary boolean literal.(ßèúÙúÿÿÿÿ
+C
+java:S1125…"'Remove the unnecessary boolean literal.(ßèúÙúÿÿÿÿ
+>
+java:S1125"'Remove the unnecessary boolean literal.(®‹’¹
+C
+java:S1125³"'Remove the unnecessary boolean literal.(Ç™áßûÿÿÿÿ
+C
+java:S1125³"'Remove the unnecessary boolean literal.(Ç™áßûÿÿÿÿ
+>
+java:S1125Ú"'Remove the unnecessary boolean literal.(ÆÖùÉ
+U
+java:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(ÆÖùÉ
+h
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¢ÒÄE
+C
+java:S1172¸"-Remove this unused method parameter "crsRes".(öí¤$
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÛÛœÀ
+2
+java:S3626¾"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626‚"Remove this redundant jump.(ÉŠ©ƒ
+J
+java:S1481±".Remove this unused "strSelect" local variable.(´å›úÿÿÿÿ
+8
+java:S1116Ë"Remove this empty statement.(Åñ­õşÿÿÿÿ
+=
+java:S1125Ğ"'Remove the unnecessary boolean literal.(Çÿ
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Êáû´
+>
+java:S1125µ	"'Remove the unnecessary boolean literal.(â£Æò
+C
+java:S1125–
+"'Remove the unnecessary boolean literal.(õ÷»øÿÿÿÿ
+h
+java:S3776Ÿ
+"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÜÍ‹
+S
+java:S1854ª
+"<Remove this useless assignment to local variable "strWhere".(åßõ¸
+Y
+java:S1854¤
+"=Remove this useless assignment to local variable "strUpdate".(´šè­şÿÿÿÿ
+W
+java:S1854£
+";Remove this useless assignment to local variable "strExec".(ÎÑÇ¹ÿÿÿÿÿ
+R
+java:S1854ñ
+"6Remove this useless assignment to local variable "id".(şèœşúÿÿÿÿ
+W	java:S125 
+"<This block of commented-out lines of code should be removed.(İäŠşÿÿÿÿ
+H
+java:S1481£
+",Remove this unused "strExec" local variable.(ÎÑÇ¹ÿÿÿÿÿ
+A
+java:S1197¦
+"*Move the array designators [] to the type.(‹”ËÒ
+F
+java:S1197§
+"*Move the array designators [] to the type.(Ü¶Øéûÿÿÿÿ
+C
+java:S1125Á
+"'Remove the unnecessary boolean literal.(ÓˆÃûÿÿÿÿ
+>
+java:S1125Ô
+"'Remove the unnecessary boolean literal.(šË–…
+C
+java:S1481ñ
+"'Remove this unused "id" local variable.(şèœşúÿÿÿÿ
+>
+java:S1125ú
+"'Remove the unnecessary boolean literal.(‘ØÛñ
+>
+java:S1125†"'Remove the unnecessary boolean literal.(‘ØÛñ
+>
+java:S1125"'Remove the unnecessary boolean literal.(‘ØÛñ
+>
+java:S1125š"'Remove the unnecessary boolean literal.(‘ØÛñ

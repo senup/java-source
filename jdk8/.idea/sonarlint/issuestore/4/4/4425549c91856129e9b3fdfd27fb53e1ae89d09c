@@ -1,0 +1,11 @@
+
+c
+java:S11925"HDefine a constant instead of duplicating this literal "Unknown" 5 times.(÷ëÓúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¯’µÍ
+t
+java:S3008¤"XRename this field "IS_ATTACHABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø€¾Ÿüÿÿÿÿ
+n
+java:S3008¥"WRename this field "IS_KERNEL_VM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„öœŠ
+G
+java:S1068¥"0Remove this unused "IS_KERNEL_VM" private field.(„öœŠ

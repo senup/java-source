@@ -1,0 +1,201 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥åÚóøÿÿÿÿ
+K
+java:S3740³"/Provide the parametrized type for this generic.(õß°»úÿÿÿÿ
+K
+java:S3740³"/Provide the parametrized type for this generic.(õß°»úÿÿÿÿ
+g
+java:S1192ô"PDefine a constant instead of duplicating this literal "BMPImageReader1" 5 times.(­£Æ¿
+g
+java:S1192Ä"PDefine a constant instead of duplicating this literal "BMPImageReader6" 6 times.(ªÄë
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î¡œ 
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î¡œ 
+?
+java:S1604ã"(Make this anonymous inner class a lambda(Œğ¡¯
+?
+java:S1604ˆ"(Make this anonymous inner class a lambda(’Åì°
+?
+java:S1604¡"(Make this anonymous inner class a lambda(’Åì°
+^
+java:S2184ì"BCast one of the operands of this division operation to a "double".(ŞÄ´ñûÿÿÿÿ
+U
+java:S3034¨">Prevent "int" promotion by adding "& 0xff" to this expression.(Î¡œ 
+`
+java:S2259ö"I"NullPointerException" will be thrown when invoking method "read16Bit()".(ı¯ÍÚ
+`
+java:S2259ª"DA "NullPointerException" could be thrown; "raster" is nullable here.(ÚÁÃ™ıÿÿÿÿ
+d
+java:S2259Â"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+d
+java:S2259â"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+d
+java:S2259›"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+e
+java:S2259±"I"NullPointerException" will be thrown when invoking method "read32Bit()".(ª„ÓÁûÿÿÿÿ
+`
+java:S2259­"DA "NullPointerException" could be thrown; "raster" is nullable here.(ÕÊ³Çûÿÿÿÿ
+e
+java:S2259ú"I"NullPointerException" will be thrown when invoking method "read32Bit()".(ª„ÓÁûÿÿÿÿ
+`
+java:S2259°"DA "NullPointerException" could be thrown; "raster" is nullable here.(ó¬¨ÿÿÿÿÿ
+`
+java:S2259©"I"NullPointerException" will be thrown when invoking method "read16Bit()".(ı¯ÍÚ
+a
+java:S1659v"FDeclare "greenMask" and all following declarations on a separate line.(£üÃşÿÿÿÿ
+G
+java:S1659x"1Declare "originalSampleModel" on a separate line.(èèå¢
+F
+java:S1659y"0Declare "originalColorModel" on a separate line.( îæş
+;
+java:S1659œ"$Declare "scaleY" on a separate line.(ÆÙŒ½
+>
+java:S1659Ÿ"'Declare "destBands" on a separate line.(²ªÎÈ
+q
+java:S1450u"[Remove the "bitsPerPixel" field and declare it as a local variable in the relevant methods.(â¥ä
+n
+java:S1450™"WRemove the "seleBand" field and declare it as a local variable in the relevant methods.(Âûë¶
+@
+java:S1197q"*Move the array designators [] to the type.(ªîŒÇ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(­°§é
+j
+java:S3776ä"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(÷§­¾
+Q
+java:S1854":Remove this useless assignment to local variable "planes".(™İ¸Œ
+E
+java:S1659ë")Declare "profileSize" on a separate line.(¹Ÿñèÿÿÿÿÿ
+B
+java:S1481"+Remove this unused "planes" local variable.(™İ¸Œ
+R	java:S125"<This block of commented-out lines of code should be removed.(óÏ¸
+W	java:S125â"<This block of commented-out lines of code should be removed.(Ÿ“Ôõşÿÿÿÿ
+U
+java:S1659Â">Declare "g" and all following declarations on a separate line.(úŸ¸ñ
+A
+java:S1197Â"*Move the array designators [] to the type.(úŸ¸ñ
+A
+java:S1197Â"*Move the array designators [] to the type.(úŸ¸ñ
+A
+java:S1197Â"*Move the array designators [] to the type.(úŸ¸ñ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(Šßƒ†şÿÿÿÿ
+n
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¨É×úÿÿÿÿ
+F
+java:S1197¢"*Move the array designators [] to the type.(Ë¡™ğıÿÿÿÿ
+F
+java:S1197£"*Move the array designators [] to the type.(­´†şÿÿÿÿ
+@
+java:S1197¤"*Move the array designators [] to the type.(¿öÎO
+@
+java:S1905©")Remove this unnecessary cast to "byte[]".(Í»ß†
+F
+java:S1905¬"*Remove this unnecessary cast to "short[]".(‰½ŞÄıÿÿÿÿ
+?
+java:S1905¯"(Remove this unnecessary cast to "int[]".(ÎßöÂ
+g	java:S128‡"LEnd this switch case with an unconditional break, return or throw statement.(×È€şÿÿÿÿ
+8	java:S131´""Add a default case to this switch.(ğıË§
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(Š«äÜ
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(Ñ¡œ
+N
+java:S1117Ã"7Rename "bi" which hides the field declared at line 145.(œÚ©™
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(¡ÀØ”
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(šˆ¥èûÿÿÿÿ
+B
+java:S1481"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(èæÍıÿÿÿÿ
+B
+java:S1481à"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¯ûüÓ
+B
+java:S1481£	"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+i
+java:S3776º	"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(îî×¡
+B
+java:S1481æ	"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+n
+java:S3776ş	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“ñ¡øÿÿÿÿ
+F
+java:S1197ş	"*Move the array designators [] to the type.(“ñ¡øÿÿÿÿ
+B
+java:S1481«
+"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+n
+java:S3776Á
+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(üÌûúÿÿÿÿÿ
+F
+java:S1197Á
+"*Move the array designators [] to the type.(üÌûúÿÿÿÿÿ
+B
+java:S1481ã
+"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+F
+java:S1197ù
+"*Move the array designators [] to the type.(ÌÔŠúÿÿÿÿ
+F
+java:S1197‰"*Move the array designators [] to the type.(ğÏäğûÿÿÿÿ
+J
+java:S1481Š".Remove this unused "bytesRead" local variable.(ğÎæøÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(“ÜÎ¥
+ƒ
+java:S1130”"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬»ÔÆ
+J
+java:S1172’".Remove this unused method parameter "padding".(øÛ®ıÿÿÿÿ
+6
+java:S1659—"Declare "l" on a separate line.(á‰éÆ
+A
+java:S1197–"*Move the array designators [] to the type.(Ø¹¯³
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(šØ®ÿ
+ƒ
+java:S1130Œ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬»ÔÆ
+J
+java:S1172Š".Remove this unused method parameter "padding".(øÛ®ıÿÿÿÿ
+6
+java:S1659"Declare "l" on a separate line.(á‰éÆ
+A
+java:S2185ì"%Remove this silly call to "Math.ceil"(ŞÄ´ñûÿÿÿÿ
+F
+java:S1197ó"*Move the array designators [] to the type.(²ñÍÎıÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(ÏıÄ¡ÿÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëİÛåşÿÿÿÿ
+
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û¹óíÿÿÿÿÿ
+
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒõ‰ñûÿÿÿÿ
+˜
+java:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñç
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÀ±¡úÿÿÿÿ
+
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İèŞ”úÿÿÿÿ
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼¼÷Û
+˜
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„¿ÿù
+˜
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÀ˜°
+˜
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍêÛ•
+
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ä§üÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—Â«°
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì±‰µşÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.awt.Transparency'.(«Ö¿õùÿÿÿÿ
+Z
+java:S1128$"?Remove this unused import 'java.awt.image.ComponentColorModel'.(šëã‰ûÿÿÿÿ
+Q
+java:S1128E"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ

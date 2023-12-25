@@ -1,0 +1,19 @@
+
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÂÀç
+g	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÂÀç
+?
+java:S1604å"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+Y
+java:S2583S"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+Z
+java:S2583Ö"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+Y
+java:S25839"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º‡¢øÿÿÿÿ
+m
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(›¥Ìñúÿÿÿÿ
+n
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ı§ğ¸ıÿÿÿÿ

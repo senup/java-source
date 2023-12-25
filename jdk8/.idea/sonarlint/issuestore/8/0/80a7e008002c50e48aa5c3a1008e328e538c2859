@@ -1,0 +1,47 @@
+
+n
+java:S1192­"WDefine a constant instead of duplicating this literal "Metadata is read-only!" 4 times.(ØŸ»¾
+]
+java:S1192e"GDefine a constant instead of duplicating this literal "value" 12 times.(×¸ş
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŒ™Û
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇÌ›úÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅµÇüÿÿÿÿ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ€Ñıÿÿÿÿ
+i
+java:S1104+"SMake version a static final constant or non-public and provide accessors if needed.(Ş¾««
+t
+java:S1104,"^Make logicalScreenWidth a static final constant or non-public and provide accessors if needed.(ÁµÕ
+t
+java:S1104-"_Make logicalScreenHeight a static final constant or non-public and provide accessors if needed.(İ‚ÈK
+v
+java:S1104."[Make colorResolution a static final constant or non-public and provide accessors if needed.(Ø’Ÿÿÿÿÿÿ
+r
+java:S1104/"\Make pixelAspectRatio a static final constant or non-public and provide accessors if needed.(ñ¤Õ«
+{
+java:S11041"`Make backgroundColorIndex a static final constant or non-public and provide accessors if needed.(‹´Ò¿øÿÿÿÿ
+j
+java:S11042"TMake sortFlag a static final constant or non-public and provide accessors if needed.( ±Á¬
+r
+java:S11049"\Make globalColorTable a static final constant or non-public and provide accessors if needed.(ÆÅø­
+t	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹£Ûıÿÿÿÿ
+^
+java:S2387'"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(¹£Ûıÿÿÿÿ
+H
+java:S1135!"2Complete the task associated to this TODO comment.(œÙ£û
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(ƒ•Ğ”ıÿÿÿÿ
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(ªÙ“¹
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(ŠôïÇùÿÿÿÿ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(¿ÌÆ­
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(”Â÷òüÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(ú´ëÄúÿÿÿÿ
+P
+java:S1161¥":Add the "@Override" annotation above this method signature(ÿû·,
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ

@@ -1,0 +1,21 @@
+
+y
+java:S1319°"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(ç·ı≤
+m
+java:S1149°"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ç·ı≤
+P
+java:S11183":Add a private constructor to hide the implicit public one.(©© Î
+Q	java:S125]"<This block of commented-out lines of code should be removed.(æÈóÙ
+^
+java:S3878b"CDisambiguate this call by either casting as "Object" or "Object[]".(°˙‡Ÿ˝ˇˇˇˇ
+V	java:S125f"<This block of commented-out lines of code should be removed.(ﬂ¡´ˆ¯ˇˇˇˇ
+Y
+java:S3878~"CDisambiguate this call by either casting as "Object" or "Object[]".(€«±–
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(ﬂ¡´ˆ¯ˇˇˇˇ
+i
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ç·ı≤
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(˜Ñ•ö˚ˇˇˇˇ
+O
+java:S3878ˇ"8Remove this array creation and simply pass the elements.(˛ü∫«
+O
+java:S3878ã"8Remove this array creation and simply pass the elements.(˙∏·ï

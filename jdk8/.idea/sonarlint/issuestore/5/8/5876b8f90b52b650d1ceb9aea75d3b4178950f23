@@ -1,0 +1,9 @@
+
+D
+java:S1604Ž"(Make this anonymous inner class a lambda(Á·í»ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ä›â³
+`
+java:S2583”"DChange this condition so that it does not always evaluate to "false"(Í·†¯ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(”÷‘æ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ð•Ò…

@@ -1,0 +1,20 @@
+
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(Æ‘“Á
+J
+java:S1121à".Extract the assignment out of this expression.(ë’Âéýÿÿÿÿ
+X
+java:S2259—"AA "NullPointerException" could be thrown; "obj" is nullable here.(éø”Ô
+;
+java:S1948<"%Make "prf" transient or serializable.(²¹ÓÍ
+P
+java:S4719?":Replace Charset.forName() call with StandardCharsets.UTF_8(†Ä³²
+U
+java:S1117Q":Rename "passwd" which hides the field declared at line 55.(°¸êüÿÿÿÿÿ
+B
+java:S1481Ü"+Remove this unused "retval" local variable.(ç‹§Ø
+B
+java:S2165‹"&Remove this nullification of "passwd".(ª¹Ð¹ùÿÿÿÿ
+?
+java:S2165"#Remove this nullification of "key".(ÊÍ­Ðýÿÿÿÿ
+I
+java:S1113‡"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ

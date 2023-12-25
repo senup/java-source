@@ -1,0 +1,16 @@
+
+o
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü…è
+_
+java:S1192l"JDefine a constant instead of duplicating this literal "negotiate" 3 times.(²Ó„L
+K
+java:S1066Ğ"/Merge this if statement with the enclosing one.(”²ıÿÿÿÿ
+K
+java:S1066Ñ"/Merge this if statement with the enclosing one.(ÜÂÔœúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+k	java:S116S"VRename this field "preferred_r" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı°ñÁ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(å¼”üÿÿÿÿ
+I
+java:S1659˜"-Declare "lastSchemeIndex" on a separate line.(®Ôá¼üÿÿÿÿ

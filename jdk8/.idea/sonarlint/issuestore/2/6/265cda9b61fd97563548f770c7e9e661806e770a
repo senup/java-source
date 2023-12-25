@@ -1,0 +1,37 @@
+
+k
+java:S1104&"PMake name a static final constant or non-public and provide accessors if needed.(…üœ¬ûÿÿÿÿ
+s
+java:S1104+"XMake creationDate a static final constant or non-public and provide accessors if needed.(ìì‹‰ùÿÿÿÿ
+k
+java:S1104/"UMake engineers a static final constant or non-public and provide accessors if needed.(íúï
+n
+java:S11043"SMake product a static final constant or non-public and provide accessors if needed.(ÁÅ†şÿÿÿÿ
+p
+java:S11047"UMake copyright a static final constant or non-public and provide accessors if needed.(ó¿±ûÿÿÿÿ
+o
+java:S1104;"TMake comments a static final constant or non-public and provide accessors if needed.(‰â¯üÿÿÿÿ
+l
+java:S1104?"QMake tools a static final constant or non-public and provide accessors if needed.(±™ÏÌùÿÿÿÿ
+x
+java:S1104C"]Make archival_location a static final constant or non-public and provide accessors if needed.(öäÉ£ÿÿÿÿÿ
+m
+java:S1104G"RMake artist a static final constant or non-public and provide accessors if needed.(©À«ÿÿÿÿÿ
+m
+java:S1104K"XMake commissioned a static final constant or non-public and provide accessors if needed.(™›Ş
+g
+java:S1104P"QMake genre a static final constant or non-public and provide accessors if needed.(úê
+j
+java:S1104U"TMake keywords a static final constant or non-public and provide accessors if needed.(ŞÑ³í
+m
+java:S1104Z"RMake medium a static final constant or non-public and provide accessors if needed.(­”‹Úúÿÿÿÿ
+i
+java:S1104^"SMake subject a static final constant or non-public and provide accessors if needed.(£©¢Â
+m
+java:S1104c"RMake source a static final constant or non-public and provide accessors if needed.(Æå¹üøÿÿÿÿ
+m
+java:S1104h"WMake source_form a static final constant or non-public and provide accessors if needed.(³ûœ
+l
+java:S1104l"VMake technician a static final constant or non-public and provide accessors if needed.(³Û²·
+v	java:S116C"\Rename this field "archival_location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öäÉ£ÿÿÿÿÿ
+k	java:S116h"VRename this field "source_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ûœ

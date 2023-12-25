@@ -1,0 +1,14 @@
+
+r	java:S127Q"XRefactor the code in order to not assign to this loop counter from within the loop body.(àøŒïúÿÿÿÿ
+r	java:S127R"XRefactor the code in order to not assign to this loop counter from within the loop body.(ø­şìÿÿÿÿÿ
+i
+java:S1104("SMake encoder a static final constant or non-public and provide accessors if needed.(ÇÖ÷
+u
+java:S1104e"ZMake unicodeEncoder a static final constant or non-public and provide accessors if needed.(˜§ƒÈşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+@
+java:S2157 "%Add a "clone()" method to this class.(Ÿ›™ãúÿÿÿÿ
+>	java:S108n")Either remove or fill this block of code.(ö—¥
+?
+java:S1905t")Remove this unnecessary cast to "String".(¹à¬‰

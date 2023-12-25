@@ -1,0 +1,54 @@
+
+u
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØàáÕûÿÿÿÿ
+K
+java:S1066ì"/Merge this if statement with the enclosing one.(İŞŠĞøÿÿÿÿ
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(šŠ·ô
+D
+java:S1604é"(Make this anonymous inner class a lambda(—§Ö¹ÿÿÿÿÿ
+D
+java:S1604…"(Make this anonymous inner class a lambda(åâÄ®ûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+\
+java:S2095¥"EUse try-with-resources or close this "JarFile" in a "finally" clause.(ãÒ
+€
+java:S1149I"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨¥»°øÿÿÿÿ
+|
+java:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ıßÂã
+|
+java:S1149â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°«Äü
+
+java:S1149Ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØàáÕûÿÿÿÿ
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(×óÏ³øÿÿÿÿ
+[
+java:S1124`"EReorder the modifiers to comply with the Java Language Specification.(åî‡ê
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¥¼şÖşÿÿÿÿ
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(İÈèüÿÿÿÿ
+\
+java:S2147â"ECombine this catch with the one at line 224, which has the same body.(ï­£Ä
+\
+java:S2147ü"ECombine this catch with the one at line 250, which has the same body.(ï­£Ä
+V
+java:S1854³"@Remove this useless assignment to local variable "isCompatible".(¥ì¶
+
+java:S1130•"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(âã¤Û
+”
+java:S1130¢"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¬Å¦‰ıÿÿÿÿ
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ò°Çøıÿÿÿÿ
+ˆ
+java:S1130Ï"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Õ¿›™üÿÿÿÿ
+ˆ
+java:S1130ç"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(æœÆúÿÿÿÿ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”Ğ©•ûÿÿÿÿ
+\
+java:S2147¤"ECombine this catch with the one at line 546, which has the same body.(ï­£Ä
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(šäœÎùÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'java.io.FilenameFilter'.(¶àıİşÿÿÿÿ

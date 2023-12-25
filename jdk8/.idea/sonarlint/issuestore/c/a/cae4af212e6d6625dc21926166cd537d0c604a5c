@@ -1,0 +1,40 @@
+
+J
+java:S3740<"/Provide the parametrized type for this generic.(¾ÂğŠúÿÿÿÿ
+J
+java:S3740<"/Provide the parametrized type for this generic.(¾ÂğŠúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+q
+java:S1149<"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¾ÂğŠúÿÿÿÿ
+{
+java:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+E
+java:S1197O"*Move the array designators [] to the type.(€Ñ¾òÿÿÿÿÿ
+<
+java:S2129«" Remove this "String" constructor(¥‹±€üÿÿÿÿ
+P
+java:S3400À"9Remove this method and declare a constant for this value.(”·³›
+7
+java:S2129Õ" Remove this "String" constructor(Â¥ÓÑ
+F
+java:S1197”"*Move the array designators [] to the type.(ÇÈÛ„ûÿÿÿÿ
+S
+java:S1195¯"<Move the array designators [] to the end of the return type.(Ü‡Šœ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Î˜ıë
+=	java:S131½""Add a default case to this switch.(Î·Ÿùÿÿÿÿ
+;
+java:S1659Ç"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+A
+java:S1197Å"*Move the array designators [] to the type.(˜Çå
+A
+java:S1197Ï"*Move the array designators [] to the type.(‘Ïû²
+A
+java:S1197Ö"*Move the array designators [] to the type.(Â·”‚
+?
+java:S1172ä"(Remove this unused method parameter "t".(äİ¾¨
+=	java:S131î""Add a default case to this switch.(¾Ñó²üÿÿÿÿ
+=	java:S131Š""Add a default case to this switch.(¾Ñó²üÿÿÿÿ
+M
+java:S1172£"6Remove these unused method parameters "abbrev", "ret".(ÌÚˆÖ

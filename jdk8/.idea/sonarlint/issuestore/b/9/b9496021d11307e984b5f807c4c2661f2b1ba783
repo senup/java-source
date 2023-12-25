@@ -1,0 +1,29 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çžü¤þÿÿÿÿ
+o
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘©ú·
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß…·²
+s	java:S135Q"YReduce the total number of break and continue statements in this loop to use at most one.(€Ð®Ýúÿÿÿÿ
+o	java:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(Æ­èà
+E
+java:S1066÷"/Merge this if statement with the enclosing one.(–éÖ
+Q
+java:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604:"(Make this anonymous inner class a lambda(ý¤ü
+>
+java:S1604¾"(Make this anonymous inner class a lambda(ÆÞÖ
+>
+java:S1604¢"(Make this anonymous inner class a lambda(¯©Š
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+m
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(í¡¨µÿÿÿÿÿ
+e
+java:S4201‡"IRemove this unnecessary null check; "instanceof" returns false for nulls.(–ÈÃ°øÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(±€ÏÉùÿÿÿÿ
+2
+java:S3626è"Remove this redundant jump.(ÉŠ©ƒ

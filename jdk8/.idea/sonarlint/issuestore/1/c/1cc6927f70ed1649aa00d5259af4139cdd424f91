@@ -1,0 +1,40 @@
+
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¹î•úÿÿÿÿ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÍóËûÿÿÿÿ
+{
+java:S1192|"eDefine a constant instead of duplicating this literal "Could not add certificate from file " 5 times.(Ë’ğ®
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Şê¤
+[
+java:S2147~"ECombine this catch with the one at line 122, which has the same body.(¦‰°á
+a
+java:S2147‚"ECombine this catch with the one at line 122, which has the same body.(£Éì¤şÿÿÿÿ
+\
+java:S2147†"ECombine this catch with the one at line 122, which has the same body.(ïŞÒ¬
+J
+java:S3457|"4Lambda should be used to defer string concatenation.(Ë’ğ®
+K
+java:S3457€"4Lambda should be used to defer string concatenation.(Ë’ğ®
+K
+java:S3457„"4Lambda should be used to defer string concatenation.(Ë’ğ®
+K
+java:S3457ˆ"4Lambda should be used to defer string concatenation.(Ë’ğ®
+K
+java:S3457‘"4Lambda should be used to defer string concatenation.(Ë’ğ®
+E
+java:S2093o"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+g
+java:S3457—"KFormat specifiers or lambda should be used instead of string concatenation.(üá–ªùÿÿÿÿ
+e
+java:S2272¼"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÕâÖÌ
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+F
+java:S1197Ï"*Move the array designators [] to the type.(ç²¨óøÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(‹Ğ…²
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(»ÂÔëúÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(ÕçÚ”şÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(„¼³ÿÿÿÿÿ

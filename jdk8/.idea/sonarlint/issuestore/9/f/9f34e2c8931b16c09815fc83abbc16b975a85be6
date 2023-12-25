@@ -1,0 +1,284 @@
+
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅýÿÿÿÿ
+i
+java:S1192ž	"RDefine a constant instead of duplicating this literal "xmlrch.badvalue1" 11 times.(¼íÎ³
+m
+java:S1192’"QDefine a constant instead of duplicating this literal "xmlrch.badvalue" 11 times.(ç¾ÒÃýÿÿÿÿ
+Q
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+L
+java:S1191—"5Use classes from the Java API instead of Sun classes.(®ÝÉ¡
+g
+java:S2259¨"P"NullPointerException" will be thrown when invoking method "setPropertyValue()".(ØÅÊÝ
+o	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Œ†ø
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÉÂ¹–
+u	java:S115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èã‚Ûüÿÿÿÿ
+p	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—“ÙÞ
+u	java:S115Ž"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÚÕšýþÿÿÿÿ
+u	java:S115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰’€–ýÿÿÿÿ
+p	java:S115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß¢“Ñ
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂÈéœ
+o	java:S115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Žã
+p	java:S115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·‚ðƒ
+p	java:S115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„Ð˜Ä
+o	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•á
+p	java:S115¸"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯â¸®
+u	java:S115½"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡¤…¼ûÿÿÿÿ
+u	java:S115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºÍÊÐýÿÿÿÿ
+u	java:S115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åÝŸ¢ûÿÿÿÿ
+u	java:S115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÆÜ“üÿÿÿÿ
+p	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™‡®™
+u	java:S115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûà¥ûþÿÿÿÿ
+p	java:S115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ùŒ»
+u	java:S115à"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªœæ…úÿÿÿÿ
+o	java:S115å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëÍ•e
+u	java:S115ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™çÎêýÿÿÿÿ
+u	java:S115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¦ƒ®ÿÿÿÿÿ
+u	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÖÍÜûÿÿÿÿ
+u	java:S115ý"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òòÎ•þÿÿÿÿ
+u	java:S115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã¾›ùÿÿÿÿ
+p	java:S115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š¬È‚
+p	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·½—»
+u	java:S115ž"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Óêûÿÿÿÿ
+u	java:S115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï¨·¹üÿÿÿÿ
+p	java:S115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡”Ö“
+u	java:S115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤Ü…íùÿÿÿÿ
+p	java:S115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë©¸ó
+p	java:S115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø“ÿµ
+u	java:S115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ýïâàýÿÿÿÿ
+p	java:S115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òüà
+u	java:S115Æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–¾ñÇþÿÿÿÿ
+p	java:S115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ú¥ 
+p	java:S115Ð"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÈýÆœ
+u	java:S115Õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹Ëò•ûÿÿÿÿ
+o	java:S115Ú"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ýò´S
+u	java:S115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öé‰›ÿÿÿÿÿ
+o	java:S115ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šô¼a
+u	java:S115é"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( Œ°ûÿÿÿÿ
+u	java:S115î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÝÓï•þÿÿÿÿ
+u	java:S115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…—Þêûÿÿÿÿ
+u	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°´€‡øÿÿÿÿ
+u	java:S115ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï»Ñ„üÿÿÿÿ
+p	java:S115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚®ÀÛ
+u	java:S115ú"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ»½ãùÿÿÿÿ
+p	java:S115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÁÐæ
+u	java:S115ü"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•â„ûÿÿÿÿ
+u	java:S115ý"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ðÏÒûÿÿÿÿ
+u	java:S115þ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÐƒ½üÿÿÿÿ
+l	java:S116`"RRename this field "Key_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‰Ö‰þÿÿÿÿ
+h	java:S116a"TRename this field "Value_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©»
+
+java:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ®…ëþÿÿÿÿ
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ÌÑ±
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À³Ù@
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦—ºþÿÿÿÿ
+o
+java:S1845’"XRename field "PROPERTIES" to prevent any misunderstanding/clash with field "properties".(È“ü‚
+h
+java:S1845¢"LRename field "DATA" to prevent any misunderstanding/clash with field "data".(öïÅéÿÿÿÿÿ
+€
+java:S1149P"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ü†é™ýÿÿÿÿ
+€
+java:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Òè‹ïøÿÿÿÿ
+[
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(¡Œ†ø
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÉÂ¹–
+a
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(èã‚Ûüÿÿÿÿ
+\
+java:S1124‰"EReorder the modifiers to comply with the Java Language Specification.(—“ÙÞ
+a
+java:S1124Ž"EReorder the modifiers to comply with the Java Language Specification.(ÚÕšýþÿÿÿÿ
+a
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(‰’€–ýÿÿÿÿ
+\
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(ß¢“Ñ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÂÈéœ
+[
+java:S1124¤"EReorder the modifiers to comply with the Java Language Specification.(Žã
+\
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(·‚ðƒ
+\
+java:S1124®"EReorder the modifiers to comply with the Java Language Specification.(„Ð˜Ä
+[
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(•á
+\
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(¯â¸®
+a
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(‡¤…¼ûÿÿÿÿ
+a
+java:S1124Â"EReorder the modifiers to comply with the Java Language Specification.(ºÍÊÐýÿÿÿÿ
+a
+java:S1124Ç"EReorder the modifiers to comply with the Java Language Specification.(åÝŸ¢ûÿÿÿÿ
+a
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(ÎÆÜ“üÿÿÿÿ
+\
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(™‡®™
+a
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(Ûà¥ûþÿÿÿÿ
+\
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.(½ùŒ»
+a
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(ªœæ…úÿÿÿÿ
+[
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(ëÍ•e
+a
+java:S1124ë"EReorder the modifiers to comply with the Java Language Specification.(™çÎêýÿÿÿÿ
+a
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(ç¦ƒ®ÿÿÿÿÿ
+a
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(ÜÖÍÜûÿÿÿÿ
+a
+java:S1124ý"EReorder the modifiers to comply with the Java Language Specification.(òòÎ•þÿÿÿÿ
+a
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(ã¾›ùÿÿÿÿ
+\
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(š¬È‚
+\
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(·½—»
+a
+java:S1124ž"EReorder the modifiers to comply with the Java Language Specification.(·Óêûÿÿÿÿ
+a
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(ï¨·¹üÿÿÿÿ
+\
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(‡”Ö“
+a
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(¤Ü…íùÿÿÿÿ
+\
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(ë©¸ó
+\
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(ø“ÿµ
+a
+java:S1124¼"EReorder the modifiers to comply with the Java Language Specification.(ýïâàýÿÿÿÿ
+\
+java:S1124Á"EReorder the modifiers to comply with the Java Language Specification.(Òüà
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(–¾ñÇþÿÿÿÿ
+\
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(“Ú¥ 
+\
+java:S1124Ð"EReorder the modifiers to comply with the Java Language Specification.(ÈýÆœ
+a
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(‹Ëò•ûÿÿÿÿ
+[
+java:S1124Ú"EReorder the modifiers to comply with the Java Language Specification.(ýò´S
+a
+java:S1124ß"EReorder the modifiers to comply with the Java Language Specification.(öé‰›ÿÿÿÿÿ
+[
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(šô¼a
+a
+java:S1124é"EReorder the modifiers to comply with the Java Language Specification.( Œ°ûÿÿÿÿ
+a
+java:S1124î"EReorder the modifiers to comply with the Java Language Specification.(ÝÓï•þÿÿÿÿ
+a
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(…—Þêûÿÿÿÿ
+a
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(°´€‡øÿÿÿÿ
+a
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(ï»Ñ„üÿÿÿÿ
+\
+java:S1124ù"EReorder the modifiers to comply with the Java Language Specification.(‚®ÀÛ
+a
+java:S1124ú"EReorder the modifiers to comply with the Java Language Specification.(Ÿ»½ãùÿÿÿÿ
+\
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(ÎÁÐæ
+a
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(•â„ûÿÿÿÿ
+a
+java:S1124ý"EReorder the modifiers to comply with the Java Language Specification.(¼ðÏÒûÿÿÿÿ
+a
+java:S1124þ"EReorder the modifiers to comply with the Java Language Specification.(ûÐƒ½üÿÿÿÿ
+a
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(àÚøöøÿÿÿÿ
+\
+java:S1124’"EReorder the modifiers to comply with the Java Language Specification.(È“ü‚
+a
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(„óúñÿÿÿÿÿ
+a
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(öïÅéÿÿÿÿÿ
+;
+java:S1659Þ"Declare "i" on a separate line.(ÚíÄ¥üÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(Ÿ®…ëþÿÿÿÿ
+Q
+java:S1161ü":Add the "@Override" annotation above this method signature(¶ÌÑ±
+n
+java:S3776ž"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(±ŸËŠþÿÿÿÿ
+V
+java:S1161ž":Add the "@Override" annotation above this method signature(±ŸËŠþÿÿÿÿ
+N
+java:S1117Ÿ"7Rename "tag" which hides the field declared at line 87.(±æ™þ
+8
+java:S1116Ò"Remove this empty statement.(Åñ­õþÿÿÿÿ
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(±§œøÿÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(±§œøÿÿÿÿÿ
+N
+java:S1117û"7Rename "tag" which hides the field declared at line 87.(±æ™þ
+F
+java:S1197Œ"*Move the array designators [] to the type.(ÞçÿÖúÿÿÿÿ
+Z
+java:S1155¶">Use isEmpty() to check whether the collection is empty or not.(ç½°Èýÿÿÿÿ
+A
+java:S1197¸"*Move the array designators [] to the type.(È¨ÏŠ
+O
+java:S1117¸"8Rename "upd" which hides the field declared at line 101.(È¨ÏŠ
+Q
+java:S1161Ý":Add the "@Override" annotation above this method signature(³æþ·
+8
+java:S1116Œ"Remove this empty statement.(Åñ­õþÿÿÿÿ
+ˆ
+java:S1130“"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ûËèÁ
+X
+java:S2130Ú"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ˆ‹««
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(­ÌÇÖ
+3
+java:S1116Œ"Remove this empty statement.(°çÃŒ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(°çÃŒ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(òË—Ûÿÿÿÿÿ
+8
+java:S1116ð"Remove this empty statement.(Åñ­õþÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(»¥Øðÿÿÿÿÿ
+n
+java:S3776”	"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ºèŒ°ùÿÿÿÿ
+Q	java:S125Š
+"<This block of commented-out lines of code should be removed.(šÿœ
+…
+java:S1130
+"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ïé±Ù
+=	java:S131‘
+""Add a default case to this switch.(Ùë¼þûÿÿÿÿ
+Q	java:S125«
+"<This block of commented-out lines of code should be removed.(ã¬Î3
+W	java:S125®
+"<This block of commented-out lines of code should be removed.(€†ìðøÿÿÿÿ
+V
+java:S1161ú
+":Add the "@Override" annotation above this method signature(ê¬¤£úÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(º¢Ã´øÿÿÿÿ
+N	java:S106‡"9Replace this use of System.out or System.err by a logger.(Ù™Æp
+Y
+java:S3878‡"CDisambiguate this call by either casting as "Object" or "Object[]".(Ù™Æp
+P
+java:S1161":Add the "@Override" annotation above this method signature(À³Ù@
+V
+java:S1161”":Add the "@Override" annotation above this method signature(¦—ºþÿÿÿÿ
+Š
+java:S1130Ÿ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(“—¤ãüÿÿÿÿ
+E
+java:S1172Ÿ")Remove this unused method parameter "rs".(“—¤ãüÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(õû³½ÿÿÿÿÿ
+I
+java:S1068å"3Remove this unused "SyncProviderTag" private field.(ëÍ•e
+H
+java:S1144á"1Remove this unused private "getByteValue" method.(»±»Œ
+N
+java:S1144Ÿ"2Remove this unused private "getPresentRow" method.(“—¤ãüÿÿÿÿ

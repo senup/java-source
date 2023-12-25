@@ -1,0 +1,15 @@
+
+t	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¬ížÌÿÿÿÿÿ
+U
+java:S1161@":Add the "@Override" annotation above this method signature(è¼Ù§üÿÿÿÿ
+P
+java:S1161J":Add the "@Override" annotation above this method signature(ÕŒì¦
+>
+java:S1659L"(Declare "saslBuffer" on a separate line.(«ù÷Ê
+E
+java:S1481L"/Remove this unused "saslBuffer" local variable.(«ù÷Ê
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ïæØ’
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(É¡ºñ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(æÔ«÷þÿÿÿÿ

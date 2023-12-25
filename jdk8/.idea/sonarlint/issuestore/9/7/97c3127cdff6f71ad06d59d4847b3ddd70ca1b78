@@ -1,0 +1,7 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+e
+java:S3252A"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(¶¸üü
+f
+java:S3252C"PUse static access with "sun.java2d.pipe.BufferedContext" for "NO_CONTEXT_FLAGS".(¾äœÚ

@@ -1,0 +1,19 @@
+
+T
+java:S59938"9Change the visibility of this constructor to "protected".( ÌÏüûÿÿÿÿ
+O
+java:S5993I"9Change the visibility of this constructor to "protected".(ÉØŽº
+O
+java:S5993W"9Change the visibility of this constructor to "protected".(„¸ˆ‰
+T
+java:S5993f"9Change the visibility of this constructor to "protected".(€ë€—þÿÿÿÿ
+m
+java:S1149Æ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÍÕ¸…
+m
+java:S1149Ô"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÝØöö
+`
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(ŠÀƒçýÿÿÿÿ
+<
+java:S2129J"!Remove this "Integer" constructor(ÎæóÁúÿÿÿÿ
+=
+java:S2129¸"!Remove this "Integer" constructor(‘¥ÏÇøÿÿÿÿ

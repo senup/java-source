@@ -1,0 +1,20 @@
+
+€
+java:S1319b"jThe type of "environment" should be an interface such as "Map" rather than the implementation "Hashtable".(î²×Ñ
+J
+java:S19486"/Make "followingLink" transient or serializable.(æˆ¥¶ýÿÿÿÿ
+H
+java:S1948<"-Make "environment" transient or serializable.(ÄÄ¢–ùÿÿÿÿ
+L
+java:S1948J"1Make "resolvedContext" transient or serializable.(ý§þÓÿÿÿÿÿ
+U
+java:S1854©"9Remove this useless assignment to local variable "rname".(–®ïºýÿÿÿÿ
+F
+java:S1481©"*Remove this unused "rname" local variable.(–®ïºýÿÿÿÿ
+D	java:S108º")Either remove or fill this block of code.(ˆê¥ÿýÿÿÿÿ
+D	java:S108ý")Either remove or fill this block of code.(ˆê¥ÿýÿÿÿÿ
+D	java:S108„")Either remove or fill this block of code.(Õ¡ËÞøÿÿÿÿ
+L
+java:S1133”"5Do not forget to remove this deprecated code someday.(âß«²
+H
+java:S1172"1Remove this unused method parameter "relResName".(¶ƒé

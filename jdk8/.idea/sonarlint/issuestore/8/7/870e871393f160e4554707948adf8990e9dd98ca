@@ -1,0 +1,82 @@
+
+u
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(–á¬ãøÿÿÿÿ
+u
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(–á¬ãøÿÿÿÿ
+t
+java:S1192¬"XDefine a constant instead of duplicating this literal "\t\t[JndiLoginModule] " 13 times.(¸¯”Àþÿÿÿÿ
+t
+java:S1192—"XDefine a constant instead of duplicating this literal "\t\t[JndiLoginModule]: " 3 times.(Ï£‘ƒüÿÿÿÿ
+d
+java:S1192Ú"HDefine a constant instead of duplicating this literal "user: '" 3 times.(÷’í´þÿÿÿÿ
+D
+java:S1604ž"(Make this anonymous inner class a lambda(•„òíýÿÿÿÿ
+^
+java:S2259ó"GA "NullPointerException" could be thrown; "gidNumber" is nullable here.(¦Ö²
+N
+java:S2589½"7Remove this expression which always evaluates to "true"(±ªœ¦
+s	java:S116§"XRename this field "USER_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¯Ù¤ÿÿÿÿÿ
+o	java:S116¨"YRename this field "GROUP_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ´¼ý
+r	java:S116¿"WRename this field "UIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïä²†ÿÿÿÿÿ
+r	java:S116À"WRename this field "GIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…©’¼ýÿÿÿÿ
+=
+java:S1170§"!Make this final field static too.( ¯Ù¤ÿÿÿÿÿ
+8
+java:S1170¨"!Make this final field static too.(þ´¼ý
+m
+java:S1450È"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ß™Ž“øÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(é»—Îûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œÁÿÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›¶§þ
+C
+java:S1125‚"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(Üì—õýÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(Ã§½
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(¬“ªýÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
+C
+java:S1125»"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+>
+java:S1125½"'Remove the unnecessary boolean literal.(±ªœ¦
+>
+java:S1125½"'Remove the unnecessary boolean literal.(±ªœ¦
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ú ¹èýÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(ò³ž¾
+P
+java:S4719´"9Replace charset name argument with StandardCharsets.UTF_8(‰Ëêã
+>
+java:S1125¹"'Remove the unnecessary boolean literal.(¼Ç÷–
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(½£áÛÿÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(½£áÛÿÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(¸¯”Àþÿÿÿÿ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ßòË–üÿÿÿÿ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(üÚä½ûÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+A
+java:S1197ê"*Move the array designators [] to the type.(–ÇÄ£
+P
+java:S4719ê"9Replace charset name argument with StandardCharsets.UTF_8(–ÇÄ£
+F
+java:S1197ë"*Move the array designators [] to the type.(‡ãŸ¦ùÿÿÿÿ
+U
+java:S4719ë"9Replace charset name argument with StandardCharsets.UTF_8(‡ãŸ¦ùÿÿÿÿ
+B
+java:S1068È"+Remove this unused "options" private field.(ØÌŸ¼

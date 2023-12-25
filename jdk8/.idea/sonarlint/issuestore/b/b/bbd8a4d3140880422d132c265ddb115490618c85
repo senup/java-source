@@ -1,0 +1,234 @@
+
+a	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+p
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖÄš
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔŒ×ø
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖÄš
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔŒ×ø
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖÄš
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔŒ×ø
+p
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖÄš
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔŒ×ø
+t
+java:S1192Ÿ#"]Define a constant instead of duplicating this literal "jdbcrowsetimpl.featnotsupp" 102 times.(¨ã¤á
+p
+java:S1192É"YDefine a constant instead of duplicating this literal "jdbcrowsetimpl.paramtype" 3 times.(ä¬©ö
+E
+java:S1121Û".Extract the assignment out of this expression.(œØ§Ê
+o	java:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(íôô
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§éšùÿÿÿÿ
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õœ´
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨úÿÿÿÿ
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¹À†
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§éšùÿÿÿÿ
+z
+java:S1488º"^Immediately return this expression instead of assigning it to the temporary variable "rstype".(€×úÁøÿÿÿÿ
+Y
+java:S2259ç"BA "NullPointerException" could be thrown; "conn" is nullable here.(ê»Îß
+]
+java:S2259¥"AA "NullPointerException" could be thrown; "con" is nullable here.(•Şúùÿÿÿÿ
+A
+java:S19483"&Make "conn" transient or serializable.(´¤´‚ıÿÿÿÿ
+:
+java:S1948;"$Make "ps" transient or serializable.(œíÂÊ
+?
+java:S1948C"$Make "rs" transient or serializable.(‰Úèüÿÿÿÿ
+B
+java:S1948S"'Make "resMD" transient or serializable.(¶…ç¶ûÿÿÿÿ
+{
+java:S1149Y"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Óª
+€
+java:S1149^"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üıÎœıÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ØÑˆäúÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(°äÉÿÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(çœ†ñ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(š¤Øş
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(ÿÎÍ‹
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(‘îÄøÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(Şıó
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(”±‰ 
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(ÿÎÍ‹
+O	java:S106Ì"9Replace this use of System.out or System.err by a logger.(š¤Øş
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(çœ†ñ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(°äÉÿÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(­×Õûÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(™€æğúÿÿÿÿ
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ŠĞ›ï
+2
+java:S3626Ø"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626ˆ"Remove this redundant jump.(ÉŠ©ƒ
+E
+java:S1481±".Remove this unused "arraySize" local variable.(ğ‡­È
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(åŒŸô
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ù³êùüÿÿÿÿ
+l
+java:S3252å"PUse static access with "javax.sql.rowset.BaseRowSet" for "UNICODE_STREAM_PARAM".(ì¾Â÷ıÿÿÿÿ
+k
+java:S3252ê"OUse static access with "javax.sql.rowset.BaseRowSet" for "BINARY_STREAM_PARAM".(ßª˜şÿÿÿÿÿ
+j
+java:S3252ï"NUse static access with "javax.sql.rowset.BaseRowSet" for "ASCII_STREAM_PARAM".(ãó¦Æûÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(»à¸
+Q
+java:S1133ü"5Do not forget to remove this deprecated code someday.(ïÀ°Ëşÿÿÿÿ
+L
+java:S1133‡	"5Do not forget to remove this deprecated code someday.(èËÇì
+L
+java:S1133¾
+"5Do not forget to remove this deprecated code someday.(È—ı¼
+L
+java:S1133¼"5Do not forget to remove this deprecated code someday.(•İ¾Ğ
+6
+java:S2232®"Remove this call to "isLast()".(†‡¨½
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(ùÒ¾ºıÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(Èé³Áÿÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(¯³›úÿÿÿÿ
+Q
+java:S1161®":Add the "@Override" annotation above this method signature(¯ŞÅ
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(„Òòí
+F
+java:S1197"*Move the array designators [] to the type.(»—Ã–üÿÿÿÿ
+A
+java:S1197˜"*Move the array designators [] to the type.(™¶ Ú
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¯“ø–ùÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(æëÉ½şÿÿÿÿ
+V
+java:S1161!":Add the "@Override" annotation above this method signature(ôİŒÿÿÿÿÿ
+V
+java:S1161È!":Add the "@Override" annotation above this method signature(Âãğóşÿÿÿÿ
+V
+java:S1161"":Add the "@Override" annotation above this method signature(¤Š¦ãıÿÿÿÿ
+V
+java:S1161¤"":Add the "@Override" annotation above this method signature(Şø¥şÿÿÿÿ
+P
+java:S1161Æ"":Add the "@Override" annotation above this method signature(ï““<
+Q
+java:S1161æ"":Add the "@Override" annotation above this method signature(åšñî
+Q
+java:S1161†#":Add the "@Override" annotation above this method signature(šË±—
+V
+java:S1161à$":Add the "@Override" annotation above this method signature(¾çûèşÿÿÿÿ
+Q
+java:S1161ì$":Add the "@Override" annotation above this method signature(«ò÷…
+Q
+java:S1161û$":Add the "@Override" annotation above this method signature(•œø…
+V
+java:S1161‰%":Add the "@Override" annotation above this method signature(âÎÇïşÿÿÿÿ
+Q
+java:S1161%":Add the "@Override" annotation above this method signature(¾ó‹
+V
+java:S1161¹%":Add the "@Override" annotation above this method signature(Í¤®úÿÿÿÿ
+Q
+java:S1161È%":Add the "@Override" annotation above this method signature(ûñé
+Q
+java:S1161ù,":Add the "@Override" annotation above this method signature(±Ó…ù
+V
+java:S1161•-":Add the "@Override" annotation above this method signature(±¸Ôãúÿÿÿÿ
+V
+java:S1161±-":Add the "@Override" annotation above this method signature(œÙøÿÿÿÿ
+V
+java:S1161Ì-":Add the "@Override" annotation above this method signature(±õí˜ÿÿÿÿÿ
+P
+java:S1161ç-":Add the "@Override" annotation above this method signature(ÿ±°
+Q
+java:S1161ø-":Add the "@Override" annotation above this method signature(ŒÚ±
+Q
+java:S1161ˆ.":Add the "@Override" annotation above this method signature( í±
+Q
+java:S1161š.":Add the "@Override" annotation above this method signature(˜†“©
+V
+java:S1161­.":Add the "@Override" annotation above this method signature(¸ÂÔŠüÿÿÿÿ
+Q
+java:S1161È.":Add the "@Override" annotation above this method signature(÷ØÂ£
+V
+java:S1161á.":Add the "@Override" annotation above this method signature(ØÎ¼€øÿÿÿÿ
+V
+java:S1161û.":Add the "@Override" annotation above this method signature(Î¹¹ûıÿÿÿÿ
+V
+java:S1161/":Add the "@Override" annotation above this method signature(ÒùĞ¨ıÿÿÿÿ
+V
+java:S1161§/":Add the "@Override" annotation above this method signature(é¼‹µüÿÿÿÿ
+Q
+java:S1161½/":Add the "@Override" annotation above this method signature(•ô®ë
+V
+java:S1161×/":Add the "@Override" annotation above this method signature(ÚØÿşÿÿÿÿ
+Q
+java:S1161ë/":Add the "@Override" annotation above this method signature(ÇÓ°ç
+V
+java:S1161…0":Add the "@Override" annotation above this method signature(„Œ¤úÿÿÿÿ
+V
+java:S1161Ÿ0":Add the "@Override" annotation above this method signature(›á’Æÿÿÿÿÿ
+Q
+java:S1161¸0":Add the "@Override" annotation above this method signature(§´é…
+V
+java:S1161Ö0":Add the "@Override" annotation above this method signature(ì¶¾åúÿÿÿÿ
+V
+java:S1161ö0":Add the "@Override" annotation above this method signature(ášÄúÿÿÿÿ
+Q
+java:S1161•1":Add the "@Override" annotation above this method signature(¼Œ¤Ï
+V
+java:S1161¨1":Add the "@Override" annotation above this method signature(¤”Êıÿÿÿÿ
+V
+java:S1161Á1":Add the "@Override" annotation above this method signature(Ğ–ë‹úÿÿÿÿ
+Q
+java:S1161ï1":Add the "@Override" annotation above this method signature(ÀÇ¸ø
+Q
+java:S1161‰2":Add the "@Override" annotation above this method signature(«ºç—
+Q
+java:S1161²2":Add the "@Override" annotation above this method signature(µıâµ
+V
+java:S1161Ì2":Add the "@Override" annotation above this method signature(¢İ™şÿÿÿÿ
+Q
+java:S1161ç2":Add the "@Override" annotation above this method signature(Ü‚øç
+V
+java:S1161ƒ3":Add the "@Override" annotation above this method signature(•—Áàûÿÿÿÿ
+V
+java:S1161Ÿ3":Add the "@Override" annotation above this method signature(³‹­Åıÿÿÿÿ
+Q
+java:S1161º3":Add the "@Override" annotation above this method signature(ß„å
+V
+java:S1161×3":Add the "@Override" annotation above this method signature(•—Áàûÿÿÿÿ
+V
+java:S1161ë3":Add the "@Override" annotation above this method signature(©ÔÆøùÿÿÿÿ
+V
+java:S1161€4":Add the "@Override" annotation above this method signature(İç–¶ÿÿÿÿÿ
+Q
+java:S1161–4":Add the "@Override" annotation above this method signature(œšı–
+A
+java:S1197–4"*Move the array designators [] to the type.(œšı–
+V
+java:S1161©4":Add the "@Override" annotation above this method signature(‰îÇ“ıÿÿÿÿ
+P
+java:S1161»4":Add the "@Override" annotation above this method signature(íÃĞc
+V
+java:S1161ß4":Add the "@Override" annotation above this method signature(øÑõêùÿÿÿÿ
+V
+java:S1161ò4":Add the "@Override" annotation above this method signature(îÊÏÌùÿÿÿÿ
+V
+java:S1161†5":Add the "@Override" annotation above this method signature(‹¤§•úÿÿÿÿ
+V
+java:S1161™5":Add the "@Override" annotation above this method signature(¸åÊ¹ıÿÿÿÿ
+Q
+java:S1161¬5":Add the "@Override" annotation above this method signature(àğÆ¨
+V
+java:S1161¾5":Add the "@Override" annotation above this method signature(Ğšôûÿÿÿÿ
+V
+java:S1161Ñ5":Add the "@Override" annotation above this method signature(·ïÙ„ÿÿÿÿÿ
+V
+java:S1161ã5":Add the "@Override" annotation above this method signature(òŠæ­ùÿÿÿÿ
+D	java:S108ò5")Either remove or fill this block of code.(“Ùô†ÿÿÿÿÿ

@@ -1,0 +1,16 @@
+
+o	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(žÊºº
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ
+n	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªúˆ
+R
+java:S2387'"<"vendorName" is the name of a field in "IIOServiceProvider".(žÊºº
+T
+java:S2387)"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
+T
+java:S2387+"9"names" is the name of a field in "ImageReaderWriterSpi".(ÓüèÅþÿÿÿÿ
+R
+java:S2387-"<"suffixes" is the name of a field in "ImageReaderWriterSpi".(Š²à§
+X
+java:S2387/"="MIMETypes" is the name of a field in "ImageReaderWriterSpi".(¾âž…úÿÿÿÿ
+R
+java:S23874"<"readerSpiNames" is the name of a field in "ImageWriterSpi".(µˆõ¡

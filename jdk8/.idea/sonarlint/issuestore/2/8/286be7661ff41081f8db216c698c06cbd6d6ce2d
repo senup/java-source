@@ -1,0 +1,22 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+`
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(…çŸ×úÿÿÿÿ
+`
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(äÑËêøÿÿÿÿ
+U
+java:S1161C":Add the "@Override" annotation above this method signature(è¼Ù§üÿÿÿÿ
+U
+java:S1161O":Add the "@Override" annotation above this method signature(üıÛÂúÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(æ¯åµ
+:
+java:S1128"%Remove this unused import 'java.net'.(Ğ‡
+I
+java:S1128"3Remove this unused import 'com.sun.net.httpserver'.(°Ñâõ
+M
+java:S1128"7Remove this unused import 'com.sun.net.httpserver.spi'.(ÄÓ—

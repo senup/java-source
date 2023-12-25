@@ -1,0 +1,10 @@
+
+a
+java:S1192¤"JDefine a constant instead of duplicating this literal "GGGGy/M/d" 4 times.(Êâã¤
+b	java:S101Q"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½‚ÙÎ
+K
+java:S1191M"5Use classes from the Java API instead of Sun classes.(÷Ìà“
+V
+java:S1854W";Remove this useless assignment to local variable "rocEras".(÷„£çüÿÿÿÿ
+G
+java:S1481W",Remove this unused "rocEras" local variable.(÷„£çüÿÿÿÿ

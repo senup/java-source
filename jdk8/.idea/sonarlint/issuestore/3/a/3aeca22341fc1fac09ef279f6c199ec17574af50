@@ -1,0 +1,27 @@
+
+K
+java:S1191'"5Use classes from the Java API instead of Sun classes.(ΕσÒΫ
+^
+java:S3973ή"GUse indentation to denote the code conditionally executed by this "if".(όνΊΆ
+@
+java:S1197`"*Move the array designators [] to the type.(ά—Έ
+E
+java:S1197a"*Move the array designators [] to the type.(’Μόÿÿÿÿ
+=
+java:S1905„"&Remove this unnecessary cast to "int".(ΎÒ†
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ς‚Έ¦ϊÿÿÿÿ
+a
+java:S1124Χ"EReorder the modifiers to comply with the Java Language Specification.(μφίχόÿÿÿÿ
+S
+java:S1195χ"<Move the array designators [] to the end of the return type.(΅”·
+X
+java:S1195ÿ"<Move the array designators [] to the end of the return type.(Ώ―ςθόÿÿÿÿ
+o
+java:S2975‡"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(―ΤΪ“ωÿÿÿÿ
+A
+java:S1197έ"*Move the array designators [] to the type.(’δ„
+8
+java:S1116ΰ"Remove this empty statement.(τμϊÿÿÿÿ
+I
+java:S1144Ρ"-Remove this unused private "getArray" method.(®Ò­ωÿÿÿÿ

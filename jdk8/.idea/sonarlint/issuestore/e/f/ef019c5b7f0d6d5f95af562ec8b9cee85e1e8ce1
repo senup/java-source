@@ -1,0 +1,9 @@
+
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(×ÔÿÜùÿÿÿÿ
+n	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+u
+java:S3008*"ZRename this field "MNEMONIC_LOOKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸóïúÿÿÿÿ
+H
+java:S3011ƒ",This accessibility bypass should be removed.(‚—Þ¥ÿÿÿÿÿ

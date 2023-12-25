@@ -1,0 +1,19 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ´ õøÿÿÿÿ
+t	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ÓªÃıÿÿÿÿ
+y	java:S116:"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+`
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(¤ÓªÃıÿÿÿÿ
+C
+java:S1172?"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(¯À©Œ
+P
+java:S1161R":Add the "@Override" annotation above this method signature(À…âÈ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(Å×÷üÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'javax.swing.plaf.basic'.(›€»
+;
+java:S1128""%Remove this unused import 'java.awt'.(ï´µ©

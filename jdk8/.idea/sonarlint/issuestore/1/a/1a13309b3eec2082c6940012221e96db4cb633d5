@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+U
+java:S1161W":Add the "@Override" annotation above this method signature(•Ÿšˆúÿÿÿÿ
+L
+java:S1117`"6Rename "bb" which hides the field declared at line 70.(İ¸¼
+U
+java:S1161p":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+U
+java:S1161z":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.nio.channels.spi'.(ïË¬°

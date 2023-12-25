@@ -1,0 +1,87 @@
+
+r
+java:S1192¨"VDefine a constant instead of duplicating this literal "waitClientTermination" 3 times.(Çæôêüÿÿÿÿ
+u
+java:S1192¨"YDefine a constant instead of duplicating this literal "Got unexpected exception" 3 times.(ö®öÍúÿÿÿÿ
+d
+java:S1192ú"MDefine a constant instead of duplicating this literal "waitForStart" 4 times.(‡Ì°÷
+j
+java:S1192ø"SDefine a constant instead of duplicating this literal "terminateAllClient" 3 times.(ßÉì
+f
+java:S1192µ"JDefine a constant instead of duplicating this literal "waitState" 5 times.(ÜÚèÎùÿÿÿÿ
+\
+java:S1192°"FDefine a constant instead of duplicating this literal "start" 3 times.(åşâT
+E
+java:S1066¦"/Merge this if statement with the enclosing one.(­ÎŒz
+E
+java:S1066Å"/Merge this if statement with the enclosing one.(­ÎŒz
+E
+java:S1066Ò"/Merge this if statement with the enclosing one.(­ÎŒz
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+b
+java:S1301û"KReplace this "switch" statement by "if" statements to increase readability.(¡¼³Ù
+u
+java:S1488³"^Immediately return this expression instead of assigning it to the temporary variable "result".(…£Ü§
+P
+java:S5993ù"9Change the visibility of this constructor to "protected".(™àÚÀ
+
+java:S1149à"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢ƒÃøúÿÿÿÿ
+
+java:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚Òùÿÿÿÿ
+L
+java:S2065°"0Remove the "transient" modifier from this field.(¸„Ô›øÿÿÿÿ
+L
+java:S2065½"0Remove the "transient" modifier from this field.(ªè§äûÿÿÿÿ
+G
+java:S2065È"0Remove the "transient" modifier from this field.(ª­×ß
+G
+java:S2065Ş"0Remove the "transient" modifier from this field.(”»ÒÎ
+L
+java:S2065à"0Remove the "transient" modifier from this field.(¢ƒÃøúÿÿÿÿ
+L
+java:S2065ã"0Remove the "transient" modifier from this field.(¨áĞŒùÿÿÿÿ
+G
+java:S2065ç"0Remove the "transient" modifier from this field.(‘©Ü˜
+G
+java:S2065ê"0Remove the "transient" modifier from this field.(Õ’œ³
+G
+java:S2065ë"0Remove the "transient" modifier from this field.(‘—ôŞ
+F
+java:S2065í"0Remove the "transient" modifier from this field.(Îí³O
+W	java:S125“"<This block of commented-out lines of code should be removed.(Ü©ö¶ùÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(õà´Óûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Úõ¸°ıÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¨óãÛûÿÿÿÿ
+z
+java:S2142Ë"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÔÍÏÚıÿÿÿÿ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ø¢ƒ
+u
+java:S2142Ô"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+n
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ß•Î‚úÿÿÿÿ
+2
+java:S3626´"Remove this redundant jump.(ûÁİ…
+ƒ
+java:S3038›"g"getProtocol" is defined in the "CommunicatorServerMBean" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+P
+java:S3400ë"9Remove this method and declare a constant for this value.(ãÈÌÿ
+P
+java:S3400ó"9Remove this method and declare a constant for this value.(½Ñÿß
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(“–ış
+z
+java:S2142¥"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(©Ë»‡ıÿÿÿÿ
+n
+java:S2737™"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(±Ñğ¸
+z
+java:S2142Î"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÔÍÏÚıÿÿÿÿ
+z
+java:S2142ë"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(©Ë»‡ıÿÿÿÿ
+=
+java:S2129û	"!Remove this "Integer" constructor(ü¨ˆüÿÿÿÿ
+8
+java:S2129ü	"!Remove this "Integer" constructor(Æˆ¾³

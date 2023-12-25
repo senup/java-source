@@ -1,0 +1,11 @@
+
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã®Êè
+Y
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(ÿÒ„p
+=
+java:S1125x"'Remove the unnecessary boolean literal.(Ó´Åÿ
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(Ó´Åÿ

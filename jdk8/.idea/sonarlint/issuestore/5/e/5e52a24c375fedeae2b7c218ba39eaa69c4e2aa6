@@ -1,0 +1,12 @@
+
+i
+java:S1192B"NDefine a constant instead of duplicating this literal " not present!" 4 times.(Âö¯–ûÿÿÿÿ
+e
+java:S1192W"ODefine a constant instead of duplicating this literal "Bad value for " 3 times.(Ù–¶š
+o
+java:S1192B"TDefine a constant instead of duplicating this literal "Required attribute " 4 times.(Âö¯–ûÿÿÿÿ
+g
+java:S1192K"LDefine a constant instead of duplicating this literal " attribute " 4 times.(÷×ì£øÿÿÿÿ
+s	java:S127°"XRefactor the code in order to not assign to this loop counter from within the loop body.(Úôž§øÿÿÿÿ
+m	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘ý€=
+s	java:S127²"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñÁÒ­ÿÿÿÿÿ

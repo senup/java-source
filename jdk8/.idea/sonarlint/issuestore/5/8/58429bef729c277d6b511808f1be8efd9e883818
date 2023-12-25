@@ -1,0 +1,71 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+^
+java:S3973Ô"GUse indentation to denote the code conditionally executed by this "if".(ĞıÙÈ
+£
+java:S2681Ö"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(æúğûÿÿÿÿ
+P
+java:S1118&":Add a private constructor to hide the implicit public one.(ÛÌÇ¹
+G
+java:S2387)","b2Min" is the name of a field in "Decoder".(ö÷‘ßúÿÿÿÿ
+G
+java:S2387*","b2Max" is the name of a field in "Decoder".(®ü•şøÿÿÿÿ
+Q	java:S1254"<This block of commented-out lines of code should be removed.(õ¯×“
+P
+java:S1161=":Add the "@Override" annotation above this method signature(ÆÄû¢
+O
+java:S1161E":Add the "@Override" annotation above this method signature(†£³
+V	java:S125L"<This block of commented-out lines of code should be removed.(¬ÁÃÕüÿÿÿÿ
+m
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‰·Ùûÿÿÿÿ
+U
+java:S1161R":Add the "@Override" annotation above this method signature(‰·Ùûÿÿÿÿ
+;
+java:S1659_"%Declare "outSize" on a separate line.(‰‡²³
+=
+java:S1481`"'Remove this unused "cc" local variable.(İ·šñ
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Â€Á½
+Q
+java:S1161‡":Add the "@Override" annotation above this method signature(Â€Á½
+<
+java:S1659"%Declare "outSize" on a separate line.(‰‡²³
+>
+java:S1481‹"'Remove this unused "cc" local variable.(İ·šñ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(òŒø“ûÿÿÿÿ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(òŒø“ûÿÿÿÿ
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(×¥¾Öşÿÿÿÿ
+u
+java:S3008‰"YRename this field "C2B_UNMAPPABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•·Á¯ıÿÿÿÿ
+G
+java:S2387ç"+"repl" is the name of a field in "Encoder".(ïİĞŠıÿÿÿÿ
+¦
+java:S1845"Rename method "initc2b" to prevent any misunderstanding/clash with method "initC2B" defined in superclass "sun.nio.cs.ext.DoubleByte$Encoder".(³»ô÷
+V
+java:S1161û":Add the "@Override" annotation above this method signature(°°èÀÿÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(üõÀÙúÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(üõÀÙúÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(İŠÜßıÿÿÿÿ
+V
+java:S1161º":Add the "@Override" annotation above this method signature(İŠÜßıÿÿÿÿ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(ŸÇ¢ùÿÿÿÿ
+V
+java:S1161è":Add the "@Override" annotation above this method signature(•İÙüÿÿÿÿ
+P
+java:S1161ì":Add the "@Override" annotation above this method signature(’¿ˆ#
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³»ô÷
+R
+java:S1128"<Remove this unused import 'java.nio.charset.CharsetDecoder'.(ÆÌŠİ
+W
+java:S1128 "<Remove this unused import 'java.nio.charset.CharsetEncoder'.(‘›šıøÿÿÿÿ

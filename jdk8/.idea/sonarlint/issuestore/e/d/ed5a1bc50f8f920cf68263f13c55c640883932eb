@@ -1,0 +1,21 @@
+
+b
+java:S1301–"KReplace this "switch" statement by "if" statements to increase readability.(ÖóÁº
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Õæˆùÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(û™íâ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(¬¸ƒ¢ıÿÿÿÿ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(¦İï‰ıÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(Ó·Øªùÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(’†èùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(›ÏŞÆıÿÿÿÿ
+7
+java:S1659›" Declare "lb" on a separate line.(÷öÜß
+D
+java:S1481¼"(Remove this unused "ets" local variable.(»æœııÿÿÿÿ
+A
+java:S1144T",Remove this unused private "getNext" method.(ñËÅk
+B
+java:S1144o",Remove this unused private "matches" method.(¥³
+Q
+java:S1144ş":Remove this unused private "parseTypeArgumentsOpt" method.(Ü÷·è

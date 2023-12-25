@@ -1,0 +1,22 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ı‹¾
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯²‚Áüÿÿÿÿ
+o	java:S115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓÍ“­
+t	java:S115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï‘ÿ¼şÿÿÿÿ
+t	java:S115u"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îœõÓøÿÿÿÿ
+t	java:S115v"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥½×ÿøÿÿÿÿ
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú·š¤
+u	java:S115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ¦ç¬ùÿÿÿÿ
+N
+java:S2386›"7Move "opPrecedence" to a class and lower its visibility(Ùêâà
+I
+java:S2386¦"2Move "opNames" to a class and lower its visibility(´õ©ò
+W	java:S125"<This block of commented-out lines of code should be removed.(°¼Ìñûÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(»ÂÚÛ
+R	java:S125§"<This block of commented-out lines of code should be removed.(å¨½º
+A
+java:S1197›"*Move the array designators [] to the type.(Ùêâà
+A
+java:S1197¦"*Move the array designators [] to the type.(´õ©ò

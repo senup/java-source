@@ -1,0 +1,18 @@
+
+P
+java:S1141{"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604A"(Make this anonymous inner class a lambda(³‚þ•ýÿÿÿÿ
+C
+java:S1604I"(Make this anonymous inner class a lambda(³‚þ•ýÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+s
+java:S30083"]Rename this field "MAX_DATA_REMAINING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ìËí
+m
+java:S30086"WRename this field "MAX_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÕÏý
+m
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÿŸ¾Ðüÿÿÿÿ
+z
+java:S2142˜"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(–½·Õÿÿÿÿÿ
+D	java:S108˜")Either remove or fill this block of code.(–½·Õÿÿÿÿÿ

@@ -1,0 +1,23 @@
+
+_
+java:S2259z"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(ªöÛÿÿÿÿÿ
+h
+java:S2975t"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+C	java:S108x")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+D
+java:S1905z")Remove this unnecessary cast to "byte[]".(ªöÛÿÿÿÿÿ
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ù¤¯Ê
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ú¶…Îÿÿÿÿÿ
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(€†¤ıÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+B
+java:S1905Õ"&Remove this unnecessary cast to "int".(ìØĞ«şÿÿÿÿ
+N	java:S106×"9Replace this use of System.out or System.err by a logger.(Şá
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+B
+java:S1905Ú"&Remove this unnecessary cast to "int".(ìØĞ«şÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(ÁßÒ£
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+B
+java:S1905à"&Remove this unnecessary cast to "int".(ìØĞ«şÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

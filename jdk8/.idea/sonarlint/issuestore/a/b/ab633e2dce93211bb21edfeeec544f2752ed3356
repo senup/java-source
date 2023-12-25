@@ -1,0 +1,158 @@
+
+a	java:S112Ì"FDefine and throw a dedicated exception instead of using a generic one.(•ù¤ùÿÿÿÿ
+a	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(¿ªÜ¬şÿÿÿÿ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢İşùÿÿÿÿ
+u
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¼‹Ğıÿÿÿÿ
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù÷
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù÷
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(„–¥©ûÿÿÿÿ
+p
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íƒ³ÿ
+p
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(áı¾í
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¦±·
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÎõÜøÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÎõÜøÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–û¢
+l
+java:S1192‰"PDefine a constant instead of duplicating this literal ", ObjectName = " 4 times.(©Õ™àøÿÿÿÿ
+j
+java:S1192Ñ	"NDefine a constant instead of duplicating this literal ", Listener = " 3 times.(ÒåÆÊùÿÿÿÿ
+^
+java:S1192–
+"GDefine a constant instead of duplicating this literal "MBean " 3 times.(ŒÊÉÏ
+v
+java:S1192•"_Define a constant instead of duplicating this literal "ObjectName name cannot be null" 3 times.(Ü—ÊÀ
+c
+java:S1192ˆ"LDefine a constant instead of duplicating this literal "createMBean" 3 times.(Ø™öÀ
+e
+java:S1192¤"NDefine a constant instead of duplicating this literal "ObjectName = " 8 times.(Äİ—º
+o
+java:S1192™"SDefine a constant instead of duplicating this literal "Not supported yet." 8 times.(³È‹—ıÿÿÿÿ
+j
+java:S1192"NDefine a constant instead of duplicating this literal "registerMBean" 4 times.(¾îÏöşÿÿÿÿ
+i
+java:S1192‰"MDefine a constant instead of duplicating this literal "ClassName = " 3 times.(©Õ™àøÿÿÿÿ
+d
+java:S1192â"MDefine a constant instead of duplicating this literal "setAttribute" 4 times.(ÉÌé­
+i
+java:S1192ÿ"MDefine a constant instead of duplicating this literal "getAttribute" 4 times.(–¢õüÿÿÿÿ
+€
+java:S1192„"dDefine a constant instead of duplicating this literal ">, but keeping the MBean registered" 4 times.(òñ€–ùÿÿÿÿ
+i
+java:S1192„"MDefine a constant instead of duplicating this literal "rethrowing <" 8 times.(òñ€–ùÿÿÿÿ
+w
+java:S1192æ"[Define a constant instead of duplicating this literal "Object name cannot be null" 5 times.(ì‘†’øÿÿÿÿ
+t
+java:S1192	"XDefine a constant instead of duplicating this literal "addNotificationListener" 3 times.(İÛñ®ıÿÿÿÿ
+˜
+java:S1192ò"|Define a constant instead of duplicating this literal "Exception occurred trying to invoke the getter on the MBean" 4 times.(‘¤ì¹øÿÿÿÿ
+˜
+java:S1192Ô"|Define a constant instead of duplicating this literal "Exception occurred trying to invoke the setter on the MBean" 4 times.(à™ë¾ÿÿÿÿÿ
+w
+java:S1192í	"[Define a constant instead of duplicating this literal "removeNotificationListener" 4 times.(–«şÚşÿÿÿÿ
+K
+java:S1066Í"/Merge this if statement with the enclosing one.(¼¤‹üÿÿÿÿ
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡Çœùÿÿÿÿ
+?
+java:S1604°"(Make this anonymous inner class a lambda(‘°Óé
+>
+java:S1604"(Make this anonymous inner class a lambda(Ñ…ä0
+}
+java:S4165Ü"aRemove this useless assignment; "res" already holds the assigned value along all execution paths.(™ÚÜ¦ùÿÿÿÿ
+K
+java:S2065u"0Remove the "transient" modifier from this field.(Šÿİúÿÿÿÿ
+K
+java:S2065y"0Remove the "transient" modifier from this field.(´ÜÎ üÿÿÿÿ
+K
+java:S2065}"0Remove the "transient" modifier from this field.(Šæ‘Ùøÿÿÿÿ
+G
+java:S2065€"0Remove the "transient" modifier from this field.(À‚Şí
+L
+java:S2065„"0Remove the "transient" modifier from this field.(ä á³ùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(²ùàÍøÿÿÿÿ
+ª
+java:S1130¶"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130À"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130Ê"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130Ü"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130è"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+u
+java:S2142•"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+W	java:S125—"<This block of commented-out lines of code should be removed.(®­Ÿşşÿÿÿÿ
+A
+java:S1181Š"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+A
+java:S1181Æ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+A
+java:S1181ï"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+\
+java:S2147í"ECombine this catch with the one at line 747, which has the same body.(Äœ·
+A
+java:S1181£"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+F
+java:S1197ª"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+F
+java:S1197ª"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+A
+java:S1181´"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+=
+java:S1181È"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+A
+java:S1181Ê"%Catch Exception instead of Throwable.(°ÿïùÿÿÿÿ
+a
+java:S2147Â"ECombine this catch with the one at line 832, which has the same body.(é¦ñÿüÿÿÿÿ
+a
+java:S2147Ä"ECombine this catch with the one at line 832, which has the same body.(¾œÕûÿÿÿÿ
+œ
+java:S1130Œ"„Remove the declaration of thrown exception 'javax.management.NotCompliantMBeanException', as it cannot be thrown from method's body.(ıİ®Ê
+\
+java:S1193¥"@Replace the usage of the "instanceof" operator by a catch block.(´’¡·øÿÿÿÿ
+W
+java:S1193§"@Replace the usage of the "instanceof" operator by a catch block.(ÿÑü¹
+ 
+java:S1130é"ˆRemove the declaration of thrown exception 'javax.management.InstanceAlreadyExistsException', as it cannot be thrown from method's body.(À½ÊÓ
+A
+java:S1181ğ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+8
+java:S1181ˆ"!Catch Exception instead of Error.(ë‘¤¥
+A
+java:S1181–"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+8
+java:S1181¨"!Catch Exception instead of Error.(ë‘¤¥
+=
+java:S1181ê
+"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+b
+java:S2147å
+"FCombine this catch with the one at line 1379, which has the same body.(¾œÕûÿÿÿÿ
+®
+java:S1130®"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(ù¨ÀŸ
+®
+java:S1130¹"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(ú¹¢œ
+˜
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ĞæÏ
+˜
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™ÛìÚ
+
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïí²™şÿÿÿÿ
+œ
+java:S1130â"„Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException', as it cannot be thrown from method's body.(ÌšşÓ
+D
+java:S1172Š"-Remove this unused method parameter "object".(¤Ù™á
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸¶‘«

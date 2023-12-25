@@ -1,0 +1,29 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+g
+java:S1223L"LRename this method to prevent any misunderstanding or make it a constructor.(îàÀùÿÿÿÿ
+g
+java:S1223R"LRename this method to prevent any misunderstanding or make it a constructor.(ôšæÖşÿÿÿÿ
+t	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É““şÿÿÿÿ
+o	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äö©ã
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(É““şÿÿÿÿ
+T
+java:S18580"9there's no need to call "toString()" on a string literal.(É““şÿÿÿÿ
+[
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(Äö©ã
+h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îàÀùÿÿÿÿ
+h	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôšæÖşÿÿÿÿ
+P
+java:S1161o":Add the "@Override" annotation above this method signature(ù» 
+U
+java:S1161s":Add the "@Override" annotation above this method signature(ôšæÖşÿÿÿÿ
+j
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê
+F
+java:S1128#"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Q
+java:S1128$"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍşÿÿÿÿ
+M
+java:S1128%"2Remove this unused import 'java.awt.image.Raster'.(õ˜åÙüÿÿÿÿ

@@ -1,0 +1,34 @@
+
+E
+java:S3740I"/Provide the parametrized type for this generic.(¤¯ùÿ
+F
+java:S3740÷"/Provide the parametrized type for this generic.(‚Ãõš
+K
+java:S3740ù"/Provide the parametrized type for this generic.(Îž¨¼úÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ñæ²
+p
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¤ž›
+u
+java:S1192œ"YDefine a constant instead of duplicating this literal " transmitter's receivers" 3 times.(Âã±¼þÿÿÿÿ
+K
+java:S1066¼"/Merge this if statement with the enclosing one.(ËÛžÛÿÿÿÿÿ
+K
+java:S1066ó"/Merge this if statement with the enclosing one.(¼Ë¬áüÿÿÿÿ
+U
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(õˆäá
+I
+java:S1113Ó"-Do not override the Object.finalize() method.(ÙôÐÚýÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢ï–úÿÿÿÿÿ
+?
+java:S1172ê"(Remove this unused method parameter "t".(ÏÄ­ë
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(·¢²“ÿÿÿÿÿ
+J
+java:S1905ž".Remove this unnecessary cast to "Transmitter".(ÚÅÏïùÿÿÿÿ
+2
+java:S3626Å"Remove this redundant jump.(ûÁÝ…
+J
+java:S1905¸".Remove this unnecessary cast to "Transmitter".(ÚÅÏïùÿÿÿÿ
+J
+java:S1905Ü".Remove this unnecessary cast to "Transmitter".(ÚÅÏïùÿÿÿÿ

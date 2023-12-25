@@ -1,0 +1,38 @@
+
+i
+java:S1104B"SMake m_trie_ a static final constant or non-public and provide accessors if needed.(—á™†
+s
+java:S1104G"XMake m_trieIndex_ a static final constant or non-public and provide accessors if needed.(³Ÿ—ÿÿÿÿÿ
+r
+java:S1104L"WMake m_trieData_ a static final constant or non-public and provide accessors if needed.(©ü›–şÿÿÿÿ
+z
+java:S1104Q"_Make m_trieInitialValue_ a static final constant or non-public and provide accessors if needed.(¢¢Á®şÿÿÿÿ
+x
+java:S1104U"]Make m_unicodeVersion_ a static final constant or non-public and provide accessors if needed.(»üÜœûÿÿÿÿ
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+p	java:S115¦"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£˜­¸
+p	java:S115«"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èï«è
+p	java:S115°"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôîø™
+u	java:S115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö²»öúÿÿÿÿ
+u	java:S115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô’½©øÿÿÿÿ
+p	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ùÃÕ
+p	java:S115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦‰Ñ±
+p	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıÜºˆ
+p	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦“ëÌ
+g	java:S116B"RRename this field "m_trie_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—á™†
+q	java:S116G"WRename this field "m_trieIndex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ÿ—ÿÿÿÿÿ
+p	java:S116L"VRename this field "m_trieData_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ü›–şÿÿÿÿ
+x	java:S116Q"^Rename this field "m_trieInitialValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¢Á®şÿÿÿÿ
+v	java:S116U"\Rename this field "m_unicodeVersion_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»üÜœûÿÿÿÿ
+w	java:S116‡"\Rename this field "m_additionalTrie_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø€Úóÿÿÿÿÿ
+u	java:S116Œ"_Rename this field "m_additionalVectors_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎ¸ï
+	java:S116"dRename this field "m_additionalColumnsCount_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØãıŒÿÿÿÿÿ
+w	java:S116•"aRename this field "m_maxBlockScriptValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š’˜œ
+t	java:S116š"YRename this field "m_maxJTGValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÎÇ…úÿÿÿÿ
+k
+java:S3008¡"TRename this field "INSTANCE_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆöè·
+R	java:S125™"<This block of commented-out lines of code should be removed.(ä§ªÌ
+A
+java:S1197Œ"*Move the array designators [] to the type.(ŒÎ¸ï
+d	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‰¯…

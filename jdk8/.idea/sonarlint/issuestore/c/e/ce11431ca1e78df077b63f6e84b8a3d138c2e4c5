@@ -1,0 +1,103 @@
+
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ´Ä¦úÿÿÿÿ
+K
+java:S1066Ô"/Merge this if statement with the enclosing one.(Óä€—şÿÿÿÿ
+ƒ
+java:S4165w"mRemove this useless assignment; "mappedErrorCode" already holds the assigned value along all execution paths.(»Ã†
+ƒ
+java:S4165|"mRemove this useless assignment; "mappedErrorCode" already holds the assigned value along all execution paths.(»Ã†
+
+java:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Î«ùÕøÿÿÿÿ
+|
+java:S1149ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùÜ¼ù
+|
+java:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óµ
+|
+java:S1149ˆ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ä‚’²
+
+java:S1149ä"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷³ÏÂùÿÿÿÿ
+
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÉÎ¯ùÿÿÿÿ
+
+java:S1149Á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡ÈÌùÿÿÿÿ
+r
+java:S1149·"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îôü„üÿÿÿÿ
+‘
+java:S1130S"}Remove the declaration of thrown exception 'com.sun.jmx.snmp.SnmpStatusException', as it cannot be thrown from method's body.(¢¸
+b
+java:S1871d"LThis branch's code block is the same as the block for the branch on line 96.(×øŸŞ
+i
+java:S3252`"SUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNotWritable".(×øŸŞ
+i
+java:S3252d"SUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNotWritable".(×øŸŞ
+‘
+java:S1130j"}Remove the declaration of thrown exception 'com.sun.jmx.snmp.SnmpStatusException', as it cannot be thrown from method's body.(¢¸
+o
+java:S3252˜"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(×¾§º
+m
+java:S3252£"QUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspWrongType".(Ñ¤ğªıÿÿÿÿ
+u
+java:S3252¤"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(ÌÈ”øÿÿÿÿ
+v
+java:S3252°"ZUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspAuthorizationError".(ˆıÄúÿÿÿÿ
+j
+java:S3252±"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ÚÄÑğÿÿÿÿÿ
+G
+java:S1150À"+Implement Iterator rather than Enumeration.(ÆÊÇşÿÿÿÿ
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(ùÜ¼ù
+\
+java:S1124ô"EReorder the modifiers to comply with the Java Language Specification.(èˆã‹
+a
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(æ¼»õüÿÿÿÿ
+\
+java:S1124ö"EReorder the modifiers to comply with the Java Language Specification.(—¡‹°
+a
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(õ›ª”úÿÿÿÿ
+\
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(¹ÀÈÅ
+a
+java:S1124ù"EReorder the modifiers to comply with the Java Language Specification.(Èİìøıÿÿÿÿ
+P
+java:S6213Î":Rename this variable to not match a restricted identifier.(—…ÜC
+V
+java:S6213ù":Rename this variable to not match a restricted identifier.(‚óØ…üÿÿÿÿ
+Q
+java:S6213‘":Rename this variable to not match a restricted identifier.(êûƒÖ
+p	java:S115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃŒÏğ
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(ÃŒÏğ
+R	java:S125è"<This block of commented-out lines of code should be removed.(øİíµ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(µ…Š´
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(¿ÒëË
+W	java:S125ú"<This block of commented-out lines of code should be removed.(³ù×Œûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(‰ä÷„ıÿÿÿÿ
+R	java:S125„"<This block of commented-out lines of code should be removed.(ãÙè½
+u
+java:S3252‹"YUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentValue".(òÿ„Şúÿÿÿÿ
+R	java:S125›"<This block of commented-out lines of code should be removed.(³“èÉ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(”àÈ©øÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(½ãòíşÿÿÿÿ
+Q	java:S125­"<This block of commented-out lines of code should be removed.(Ü’®C
+Q	java:S125³"<This block of commented-out lines of code should be removed.(ûÔ·~
+R	java:S125µ"<This block of commented-out lines of code should be removed.(×óç
+Q	java:S125»"<This block of commented-out lines of code should be removed.(ûÔ·~
+R	java:S125½"<This block of commented-out lines of code should be removed.(×óç
+B
+java:S1168Â"+Return an empty collection instead of null.(ï¢
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(³Íš¤øÿÿÿÿ
+A
+java:S1168Ä"+Return an empty collection instead of null.(şüØM
+W	java:S125Å"<This block of commented-out lines of code should be removed.(Ó·öñşÿÿÿÿ
+Q	java:S125Ë"<This block of commented-out lines of code should be removed.(òğ¾:
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(šÂÒÔşÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(Š˜Ô×
+R	java:S125Á"<This block of commented-out lines of code should be removed.(Üßç
+R	java:S125ì"<This block of commented-out lines of code should be removed.(ÒÅ•î
+W	java:S125"<This block of commented-out lines of code should be removed.(‰ÆÍ‡øÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+<
+java:S3398Ú" Move this method into "Handler".(ÿ¾à¡ıÿÿÿÿ
+<
+java:S3398·" Move this method into "Handler".(Â‡æøÿÿÿÿ

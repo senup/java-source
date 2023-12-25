@@ -1,0 +1,15 @@
+
+C
+java:S1172/"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S11613":Add the "@Override" annotation above this method signature(ûŸ¤¦
+>
+java:S1185;"(Remove this method to simply inherit it.(ïÆ•ø
+P
+java:S1161;":Add the "@Override" annotation above this method signature(ïÆ•ø
+P
+java:S1161?":Add the "@Override" annotation above this method signature(˜ˆßË
+Q
+java:S1874C";Remove this use of "requestDefaultFocus"; it is deprecated.(¬Áôë
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

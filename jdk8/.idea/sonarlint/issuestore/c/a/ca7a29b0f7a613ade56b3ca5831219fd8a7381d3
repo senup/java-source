@@ -1,0 +1,33 @@
+
+g
+java:S1301ä"KReplace this "switch" statement by "if" statements to increase readability.(Æóõµıÿÿÿÿ
+a
+java:S1301ó"KReplace this "switch" statement by "if" statements to increase readability.(üóš0
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+I
+java:S19481".Make "collapseIcon" transient or serializable.(È“ıûşÿÿÿÿ
+G
+java:S19482",Make "expandIcon" transient or serializable.(×ï½üÿÿÿÿ
+P
+java:S1161M":Add the "@Override" annotation above this method signature(°‰Æ­
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+Q
+java:S1161»":Add the "@Override" annotation above this method signature(‹—°¨
+=	java:S131ä""Add a default case to this switch.(Æóõµıÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ƒ¹—”
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(ƒ¹—”
+7	java:S131ó""Add a default case to this switch.(üóš0
+V
+java:S1161·":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(Ï‚ÎÁùÿÿÿÿ
+]
+java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(äêìˆúÿÿÿÿ
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(ƒ¹—”
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ

@@ -1,0 +1,165 @@
+
+e
+java:S1192Ø"IDefine a constant instead of duplicating this literal "identity" 3 times.(Áäøƒúÿÿÿÿ
+E
+java:S1121×".Extract the assignment out of this expression.(ÜˆŸ‘
+J
+java:S1121Ú".Extract the assignment out of this expression.(ÚĞ‡úÿÿÿÿ
+E
+java:S1121„".Extract the assignment out of this expression.(¤óœå
+E
+java:S1121".Extract the assignment out of this expression.(éòŞõ
+E
+java:S1121•".Extract the assignment out of this expression.(„ˆÃÍ
+J
+java:S1121–	".Extract the assignment out of this expression.(øóÔúüÿÿÿÿ
+E
+java:S1121—	".Extract the assignment out of this expression.(ÊËç
+=
+java:S1604."(Make this anonymous inner class a lambda(ÆŞÖ
+b
+java:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(¡ õÄ
+b
+java:S1301—"KReplace this "switch" statement by "if" statements to increase readability.(¡ õÄ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚Ê“·ùÿÿÿÿ
+h
+java:S2259e"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(Óœ±Æ
+m
+java:S2259Y"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(»É½şÿÿÿÿ
+m
+java:S2259_"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(ñØÒŒøÿÿÿÿ
+h
+java:S2259k"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(¹¦Ü
+h
+java:S2259w"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(€ß€ö
+m
+java:S2259q"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(ñêğéúÿÿÿÿ
+m
+java:S2259M"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(ğò±¸üÿÿÿÿ
+g
+java:S2259S"RA "NullPointerException" could be thrown; "primitiveConversion()" can return null.(Üúš/
+`
+java:S2583²"DChange this condition so that it does not always evaluate to "false"(ø¤©Úûÿÿÿÿ
+
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñÇ´¯úÿÿÿÿ
+<
+java:S1659¯"%Declare "ONE_INT" on a separate line.(ŞÎ½é
+a
+java:S1659Ğ"KDeclare "CAST_REFERENCE" and all following declarations on a separate line.(¬‚Ï:
+W	java:S107÷"<Method has 8 parameters, which is greater than 7 authorized.(¦Ìôõùÿÿÿÿ
+W	java:S107ú"<Method has 9 parameters, which is greater than 7 authorized.(¦Ìôõùÿÿÿÿ
+X	java:S107ş"=Method has 10 parameters, which is greater than 7 authorized.(¦Ìôõùÿÿÿÿ
+R	java:S107©"<Method has 8 parameters, which is greater than 7 authorized.(üÉÏƒ
+R	java:S107¬"<Method has 9 parameters, which is greater than 7 authorized.(üÉÏƒ
+S	java:S107¯"=Method has 10 parameters, which is greater than 7 authorized.(üÉÏƒ
+S	java:S107²"=Method has 11 parameters, which is greater than 7 authorized.(üÉÏƒ
+S	java:S107¶"=Method has 12 parameters, which is greater than 7 authorized.(üÉÏƒ
+R	java:S107ø"<Method has 8 parameters, which is greater than 7 authorized.(„óÃº
+R	java:S107û"<Method has 9 parameters, which is greater than 7 authorized.(„óÃº
+S	java:S107ÿ"=Method has 10 parameters, which is greater than 7 authorized.(„óÃº
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(ë¾õÅùÿÿÿÿ
+o	java:S131ˆ"YComplete cases by adding the missing enum constants or add a default case to this switch.(¡ õÄ
+\
+java:S1124¯"EReorder the modifiers to comply with the Java Language Specification.(ŞÎ½é
+o	java:S131—"YComplete cases by adding the missing enum constants or add a default case to this switch.(¡ õÄ
+P
+java:S3400Ğ"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S3400Ô"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S3400Ø"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S3400Ü"9Remove this method and declare a constant for this value.(”·³›
+o	java:S131ê"YComplete cases by adding the missing enum constants or add a default case to this switch.(¡ õÄ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(á²Éüùÿÿÿÿ
+p
+java:S1659ì"TDeclare "COPY_AS_PRIMITIVE_ARRAY" and all following declarations on a separate line.(£‘òÿÿÿÿÿ
+V
+java:S1118ë":Add a private constructor to hide the implicit public one.(ê­¤øÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(íÿÿÿÿÿ
+?
+java:S1905Ü"(Remove this unnecessary cast to "short".(¢ä§Ó
+?
+java:S4274Ù"(Replace this assert with a proper check.(¿±Ÿ
+?
+java:S4274Ô"(Replace this assert with a proper check.(¿±Ÿ
+Z
+java:S1134¸"DTake the required action to fix the issue indicated by this comment.(Äß÷U
+F
+java:S1197Ä"*Move the array designators [] to the type.(¨óÙşÿÿÿÿ
+A
+java:S1144å"*Remove this unused private "array" method.(…Ñ²õ
+F
+java:S1144æ"*Remove this unused private "array" method.(Ëµãçûÿÿÿÿ
+F
+java:S1144è"*Remove this unused private "array" method.(¿ùÂ©üÿÿÿÿ
+A
+java:S1144ê"*Remove this unused private "array" method.(´ëæˆ
+F
+java:S1144ì"*Remove this unused private "array" method.(•­Ìªøÿÿÿÿ
+F
+java:S1144î"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+F
+java:S1144ñ"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+F
+java:S1144ô"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+F
+java:S1144÷"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+F
+java:S1144ú"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+F
+java:S1144ş"*Remove this unused private "array" method.(¦Ìôõùÿÿÿÿ
+H
+java:S1144"1Remove this unused private "fillNewArray" method.(²æè
+M
+java:S1144•"6Remove this unused private "fillNewTypedArray" method.(óÚ“î
+E
+java:S1144".Remove this unused private "fillArray" method.(µÇğ
+J
+java:S1144 ".Remove this unused private "fillArray" method.(¸Ôîÿÿÿÿÿ
+E
+java:S1144¢".Remove this unused private "fillArray" method.(—áÙ’
+E
+java:S1144¤".Remove this unused private "fillArray" method.(’Øó
+E
+java:S1144¦".Remove this unused private "fillArray" method.(üÉÏƒ
+E
+java:S1144©".Remove this unused private "fillArray" method.(üÉÏƒ
+E
+java:S1144¬".Remove this unused private "fillArray" method.(üÉÏƒ
+E
+java:S1144¯".Remove this unused private "fillArray" method.(üÉÏƒ
+E
+java:S1144²".Remove this unused private "fillArray" method.(üÉÏƒ
+E
+java:S1144¶".Remove this unused private "fillArray" method.(üÉÏƒ
+U
+java:S1144Ç"9Remove this unused private "copyAsReferenceArray" method.(ƒ‘şÓÿÿÿÿÿ
+P
+java:S1144Ê"9Remove this unused private "copyAsPrimitiveArray" method.(ÑÄ¸¾
+@
+java:S1144æ")Remove this unused private "list" method.(Ùòø¨
+E
+java:S1144ç")Remove this unused private "list" method.(öï—²ùÿÿÿÿ
+@
+java:S1144é")Remove this unused private "list" method.(úÆşò
+@
+java:S1144ë")Remove this unused private "list" method.(«ù»
+@
+java:S1144í")Remove this unused private "list" method.(°ŞîÉ
+@
+java:S1144ï")Remove this unused private "list" method.(„óÃº
+@
+java:S1144ò")Remove this unused private "list" method.(„óÃº
+@
+java:S1144õ")Remove this unused private "list" method.(„óÃº
+@
+java:S1144ø")Remove this unused private "list" method.(„óÃº
+@
+java:S1144û")Remove this unused private "list" method.(„óÃº
+@
+java:S1144ÿ")Remove this unused private "list" method.(„óÃº
+L
+java:S1144¡	"5Remove this unused private "newInternalError" method.(ÒÚ‹‘

@@ -1,0 +1,26 @@
+
+Q
+java:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l
+java:S1149<"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½¯ü
+J
+java:S1172m"/Remove this unused method parameter "userData".(øèŸ×şÿÿÿÿ
+B
+java:S1125o"'Remove the unnecessary boolean literal.(Ê«äºşÿÿÿÿ
+5
+java:S2129‹"Remove this "Long" constructor(ÂÕŒŠ
+\
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(òì›©
+a
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(˜·Û†üÿÿÿÿ
+\
+java:S1124ê"EReorder the modifiers to comply with the Java Language Specification.(Ğè“
+4
+java:S2129‡"Remove this "Long" constructor(ÀªT
+e
+java:S3252Ï"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£
+?
+java:S1481Š")Remove this unused "node" local variable.(í¨Ü3
+W	java:S125Å"<This block of commented-out lines of code should be removed.(”Ğåàúÿÿÿÿ

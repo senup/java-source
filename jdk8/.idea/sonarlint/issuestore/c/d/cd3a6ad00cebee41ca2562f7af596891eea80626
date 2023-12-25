@@ -1,0 +1,15 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+U
+java:S1161;":Add the "@Override" annotation above this method signature(­•´ƒøÿÿÿÿ
+P
+java:S1161J":Add the "@Override" annotation above this method signature( Ã˜œ
+@
+java:S1197J"*Move the array designators [] to the type.( Ã˜œ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(ÔÉ×‰ÿÿÿÿÿ
+P
+java:S1161e":Add the "@Override" annotation above this method signature(ÞÃ„Ì
+:
+java:S1128"%Remove this unused import 'java.net'.(ÐŽ‡

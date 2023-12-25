@@ -1,0 +1,10 @@
+
+n
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Ëªf
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆò
+N	java:S106Š"9Replace this use of System.out or System.err by a logger.(ƒ×–~
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âÖÑÊúÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(Éò§+
+Z
+java:S1155å">Use isEmpty() to check whether the collection is empty or not.(ƒÊÍëşÿÿÿÿ

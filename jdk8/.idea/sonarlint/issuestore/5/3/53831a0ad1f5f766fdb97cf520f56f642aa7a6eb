@@ -1,0 +1,114 @@
+
+\	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(ãà¤à
+a	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(§·€ßıÿÿÿÿ
+a	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(«½Òúùÿÿÿÿ
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(Öµ•üÿÿÿÿ
+F
+java:S3740€"/Provide the parametrized type for this generic.(íÒ«
+F
+java:S3740€"/Provide the parametrized type for this generic.(íÒ«
+E
+java:S3740Ñ"/Provide the parametrized type for this generic.(Å­´
+F
+java:S3740ª"/Provide the parametrized type for this generic.(ÄĞşŸ
+F
+java:S3740ª"/Provide the parametrized type for this generic.(ÄĞşŸ
+t	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(àÎÙóÿÿÿÿÿ
+?
+java:S1604¨"(Make this anonymous inner class a lambda(üÑ… 
+?
+java:S1604Ñ"(Make this anonymous inner class a lambda(üÑ… 
+?
+java:S1604ª"(Make this anonymous inner class a lambda(ÄĞşŸ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(Ÿ¶æ¾ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(†Åüµ
+S
+java:S2589²"7Remove this expression which always evaluates to "true"(Ààµëúÿÿÿÿ
+@
+java:S2160)"+Override the "equals" method in this class.(œ¥
+|
+java:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+U
+java:S1161W":Add the "@Override" annotation above this method signature(Ÿ¢ì·ÿÿÿÿÿ
+U
+java:S1161n":Add the "@Override" annotation above this method signature(Šî§Øşÿÿÿÿ
+P
+java:S1161x":Add the "@Override" annotation above this method signature(Ñ÷ó‘
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(ß“Êà
+`
+java:S4201®"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Çì½Ÿ
+\
+java:S2147Ö"ECombine this catch with the one at line 213, which has the same body.(ßÈ´
+?	java:S108Õ")Either remove or fill this block of code.(ıàÑÎ
+?	java:S108Ö")Either remove or fill this block of code.(ßÈ´
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Õ»Íâ
+Q
+java:S1117°":Rename "parent" which hides the field declared at line 46.(ÂÁÌÀ
+V
+java:S1161Ú":Add the "@Override" annotation above this method signature(¼Æî€úÿÿÿÿ
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(¾ÊÙ”
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(Â´ÀÇ
+C
+java:S1125ã"'Remove the unnecessary boolean literal.(ş‡ÀÇüÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(Õ¡Ÿ›şÿÿÿÿ
+C
+java:S1125ì"'Remove the unnecessary boolean literal.(ï»‚úÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(†û¤¬úÿÿÿÿ
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(Ê°•
+C
+java:S1125ö"'Remove the unnecessary boolean literal.(çïø»üÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(Ñ¢‘Šüÿÿÿÿ
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(Æ–…™
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ñ³¼´
+V
+java:S1161…":Add the "@Override" annotation above this method signature(¨°ïÿùÿÿÿÿ
+C
+java:S1125†"'Remove the unnecessary boolean literal.(¼Ûœáùÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(Âúİ¶ÿÿÿÿÿ
+C
+java:S1125Š"'Remove the unnecessary boolean literal.(°ªÃúıÿÿÿÿ
+j
+java:S4042Š"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(°ªÃúıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Àª†üÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(ıºÁÏşÿÿÿÿ
+C
+java:S1125–"'Remove the unnecessary boolean literal.(­ŸÑùÿÿÿÿ
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(Ô©íú
+>
+java:S1125š"'Remove the unnecessary boolean literal.(‰Ÿõ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(¤É‹
+C
+java:S1125"'Remove the unnecessary boolean literal.(ğÃÕ¢ÿÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(şµ–çùÿÿÿÿ
+>
+java:S1125¢"'Remove the unnecessary boolean literal.(¡ 
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(œ±á•üÿÿÿÿ
+>
+java:S1125¦"'Remove the unnecessary boolean literal.(ÆŒÄÒ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(Á»›ê
+=
+java:S1168Æ"&Return an empty array instead of null.(¥¹ï
+I
+java:S1172é"-Remove this unused method parameter "column".(Á¤Ë»øÿÿÿÿ
+u
+java:S2142õ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

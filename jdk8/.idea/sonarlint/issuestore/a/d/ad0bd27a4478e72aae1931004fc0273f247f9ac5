@@ -1,0 +1,42 @@
+
+u
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¦²çıÿÿÿÿ
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‘áß
+p
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ùîû
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(é®Şâøÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âˆ€
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬•×…ÿÿÿÿÿ
+d
+java:S1192†"HDefine a constant instead of duplicating this literal "name = " 3 times.(ıÄ¢·øÿÿÿÿ
+t	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(Îô¯àùÿÿÿÿ
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿµÇøÿÿÿÿ
+S
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(ååˆ
+X
+java:S4973‡"<Strings and Boxed types should be compared using "equals()".(†’ûĞùÿÿÿÿ
+`
+java:S1124o"EReorder the modifiers to comply with the Java Language Specification.(õ»Ëøÿÿÿÿ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğ©ÿ­
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(»ñİ‰
+f
+java:S2445å"J"moiTb" is a method parameter, and should not be used for synchronization.(‹ÇÏ´úÿÿÿÿ
+W
+java:S3078÷"AUse an "AtomicInteger" for this field; its operations are atomic.(êÁ¥i
+J
+java:S3457‹"4Lambda should be used to defer string concatenation.(òÆœH
+2
+java:S3626¯"Remove this redundant jump.(ûÁİ…
+W
+java:S3078·"AUse an "AtomicInteger" for this field; its operations are atomic.(êÁ¥i
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¾û†‡şÿÿÿÿ
+P
+java:S2864¿"4Iterate over the "entrySet" instead of the "keySet".(Ú¯øÿÿÿÿ
+]
+java:S3078ı"AUse an "AtomicInteger" for this field; its operations are atomic.(´¨Áúÿÿÿÿ

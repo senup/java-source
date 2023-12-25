@@ -1,0 +1,26 @@
+
+b	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÷¶É
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûþÿÿÿÿ
+j
+java:S3008+"URename this field "ksc5601_cs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯À
+=
+java:S3010/"'Remove this assignment of "ksc5601_cs".(£ö›
+U
+java:S1161=":Add the "@Override" annotation above this method signature(ú¥ó±ÿÿÿÿÿ
+U
+java:S1161A":Add the "@Override" annotation above this method signature(ÿØÀßøÿÿÿÿ
+>	java:S108N")Either remove or fill this block of code.(³±Þ 
+2
+java:S1116N"Remove this empty statement.(³±Þ 
+C	java:S108[")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(­©°üþÿÿÿÿ
+K
+java:S1128 "0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ
+K
+java:S1128!"0Remove this unused import 'java.nio.CharBuffer'.(¦­²ãþÿÿÿÿ
+O
+java:S1128$"9Remove this unused import 'java.nio.charset.CoderResult'.(ÕŸ—Š
+o
+java:S1128&"TRemove this unnecessary import: same package classes are always implicitly imported.(ëøÃ´þÿÿÿÿ

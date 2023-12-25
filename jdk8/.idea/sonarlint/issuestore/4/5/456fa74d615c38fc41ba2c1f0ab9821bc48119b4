@@ -1,0 +1,37 @@
+
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(È¢«À
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ªÔÜÆÿÿÿÿÿ
+t	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜áüî
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜áüî
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(ñ¹³ëùÿÿÿÿ
+`
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(”šĞ´ÿÿÿÿÿ
+‡
+java:S1130["lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àúâ ùÿÿÿÿ
+‡
+java:S1130p"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜÷ÚÈûÿÿÿÿ
+I
+java:S1172p".Remove this unused method parameter "aStream".(˜÷ÚÈûÿÿÿÿ
+[
+java:S1124u"EReorder the modifiers to comply with the Java Language Specification.(Ğàª×
+@
+java:S1197u"*Move the array designators [] to the type.(Ğàª×
+@
+java:S1197|"*Move the array designators [] to the type.(ûÊú×
+@
+java:S1197‘"*Move the array designators [] to the type.(ÕÇ×6
+A
+java:S1197°"*Move the array designators [] to the type.(Ü•Ûİ
+F
+java:S1197º"*Move the array designators [] to the type.(á™‘úÿÿÿÿ
+@
+java:S1197˜"*Move the array designators [] to the type.(ÕÇ×6
+A
+java:S1197µ"*Move the array designators [] to the type.(–È¨¢
+A
+java:S1197¿"*Move the array designators [] to the type.(áœğÁ

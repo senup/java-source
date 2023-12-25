@@ -1,0 +1,10 @@
+
+s	java:S135m"YReduce the total number of break and continue statements in this loop to use at most one.(û“Œ»şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+t	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬åÚøÿÿÿÿ
+t	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íÏĞ°ùÿÿÿÿ
+d
+java:S3008+"NRename this field "EOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©ğ°
+i
+java:S37769"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(Œ§‡

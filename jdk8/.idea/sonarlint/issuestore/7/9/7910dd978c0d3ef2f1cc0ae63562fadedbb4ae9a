@@ -1,0 +1,16 @@
+
+p	java:S115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š§˜î
+3
+java:S2129W"Remove this "Long" constructor(£”ÈD
+7
+java:S2129g"!Remove this "Integer" constructor(ÛÙÉÖ
+\
+java:S1124¯"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
+j
+java:S2975·"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–ïêã
+\
+java:S1124·"EReorder the modifiers to comply with the Java Language Specification.(–ïêã
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(êÙëšþÿÿÿÿ
+\
+java:S1124Ï"EReorder the modifiers to comply with the Java Language Specification.(š§˜î

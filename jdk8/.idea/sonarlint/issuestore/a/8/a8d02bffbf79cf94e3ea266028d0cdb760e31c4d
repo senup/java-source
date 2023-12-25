@@ -1,0 +1,21 @@
+
+C
+java:S11728"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+U
+java:S1161@":Add the "@Override" annotation above this method signature(‘‘ºçıÿÿÿÿ
+U
+java:S1161L":Add the "@Override" annotation above this method signature(÷åÌùøÿÿÿÿ
+U
+java:S1161P":Add the "@Override" annotation above this method signature(‹À…ÿÿÿÿÿ
+U
+java:S1161S":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+P
+java:S1161W":Add the "@Override" annotation above this method signature(¶øÂÁ
+U
+java:S1161f":Add the "@Override" annotation above this method signature(ÊïÖŠûÿÿÿÿ
+E
+java:S1128 "/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
+G
+java:S1128$",Remove this unused import 'java.awt.Insets'.(šôÇ³ûÿÿÿÿ
+E
+java:S1128%"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û

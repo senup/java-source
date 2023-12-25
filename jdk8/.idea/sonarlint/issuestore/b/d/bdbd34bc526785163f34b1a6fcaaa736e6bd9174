@@ -1,0 +1,11 @@
+
+n
+java:S1104%"SMake startPC a static final constant or non-public and provide accessors if needed.(ú¬¡Ðúÿÿÿÿ
+g
+java:S1104&"QMake endPC a static final constant or non-public and provide accessors if needed.(‰¶øð
+j
+java:S1104'"UMake handlerPC a static final constant or non-public and provide accessors if needed.(äÑÖi
+u
+java:S1104("ZMake exceptionClass a static final constant or non-public and provide accessors if needed.(ø“§îýÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ý¦¥’

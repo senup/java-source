@@ -1,0 +1,24 @@
+
+E
+java:S3740="/Provide the parametrized type for this generic.(ÎôÄŒ
+E
+java:S3740="/Provide the parametrized type for this generic.(ÎôÄŒ
+D
+java:S1121x".Extract the assignment out of this expression.(ßí›¤
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ý¦¥’
+d
+java:S3824v"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ë¹Ÿ¢
+u	java:S115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïþ±‘ûÿÿÿÿ
+l
+java:S1149="VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÎôÄŒ
+d
+java:S4201e"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä‘Ê—üÿÿÿÿ
+7
+java:S2129m"!Remove this "Integer" constructor(ŒËÈ¸
+V	java:S125n"<This block of commented-out lines of code should be removed.(Å½‡®øÿÿÿÿ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(õÂ¢Î
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×êŽ’
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®

@@ -1,0 +1,14 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê£’ë
+t	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µª‹±üÿÿÿÿ
+E
+java:S1659P"*Declare "enclosedURL2" on a separate line.(ºƒ¿Ìúÿÿÿÿ
+W
+java:S1126X"AReplace this if-then-else statement by a single return statement.(¯ÏÐý
+0
+java:S2112q"Use the URI class instead.(”üöâ
+S
+java:S1854°"7Remove this useless assignment to local variable "url".(Ó¦Ážøÿÿÿÿ
+D
+java:S1481§"(Remove this unused "url" local variable.(Ëµ™éÿÿÿÿÿ

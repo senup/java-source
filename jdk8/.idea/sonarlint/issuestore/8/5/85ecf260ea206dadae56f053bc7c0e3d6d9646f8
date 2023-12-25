@@ -1,0 +1,7 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊýÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÙÐš¢
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(œñâÇ

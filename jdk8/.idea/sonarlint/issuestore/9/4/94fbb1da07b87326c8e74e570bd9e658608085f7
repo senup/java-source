@@ -1,0 +1,12 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+u	java:S116Ô"ZRename this field "m_initialValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡çøÿÿÿÿ
+h	java:S116Ø"RRename this field "m_data_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½İ–“
+t	java:S116Ü"YRename this field "m_friendAgent_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îåí”üÿÿÿÿ
+d
+java:S1659`"IDeclare "latin1Length" and all following declarations on a separate line.(»Ä§¯ıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ƒ÷øì
+A
+java:S1197Ø"*Move the array designators [] to the type.(½İ–“

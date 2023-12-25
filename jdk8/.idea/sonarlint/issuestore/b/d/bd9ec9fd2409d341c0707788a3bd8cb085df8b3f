@@ -1,0 +1,36 @@
+
+t	java:S135Ø"YReduce the total number of break and continue statements in this loop to use at most one.(˜öÜıûÿÿÿÿ
+a	java:S1014"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àê­Q
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+h	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éó“‡ÿÿÿÿÿ
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÂÚúÿÿÿÿ
+h	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯†ƒøÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(¢Ï»ßøÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(¢³™¥ÿÿÿÿÿ
+=
+java:S1110¶"!Remove these useless parentheses.(Ù´Ëõøÿÿÿÿ
+=
+java:S1110¼"!Remove these useless parentheses.(­°—¢ÿÿÿÿÿ
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(”Î¡½
+h
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ºÖÂ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(äã¼Ù
+=
+java:S1068Â"&Remove this unused "c2" private field.(ØÖã
+F
+java:S1144i"1Remove this unused private "isMalformed4" method.(İêÕ@
+N
+java:S1144o"3Remove this unused private "isMalformed4_2" method.(åÂÚúÿÿÿÿ
+N
+java:S1144t"3Remove this unused private "isMalformed4_3" method.(¯†ƒøÿÿÿÿ

@@ -1,0 +1,14 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+o	java:S115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ì–¡À
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼âßùøÿÿÿÿ
+o	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡…­’
+t	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( €Ø•ÿÿÿÿÿ
+o	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ‚É×
+C
+java:S1125-"(Remove the unnecessary boolean literals.( €Ø•ÿÿÿÿÿ
+=
+java:S1125."'Remove the unnecessary boolean literal.(õ‚É×
+@
+java:S1659v"%Declare "fiveArg" on a separate line.(Úüşÿÿÿÿ

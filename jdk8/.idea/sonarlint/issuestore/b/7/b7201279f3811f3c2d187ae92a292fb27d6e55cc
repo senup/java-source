@@ -1,0 +1,9 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ð×ÏÀ
+S
+java:S49290"=Provide an override of "read(byte[],int,int)" for this class.(¤°ñÄ
+O
+java:S34009"9Remove this method and declare a constant for this value.(”·³›
+O
+java:S1128"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ

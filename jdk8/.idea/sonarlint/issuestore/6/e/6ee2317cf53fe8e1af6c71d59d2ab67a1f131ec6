@@ -1,0 +1,30 @@
+
+a	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(•ƒéÉşÿÿÿÿ
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ôÙøûÿÿÿÿ
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åë÷¼
+u
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óñéıûÿÿÿÿ
+m
+java:S1192g"WDefine a constant instead of duplicating this literal "utils.resolver.noClass" 5 times.(¿ßß
+E
+java:S1197a"*Move the array designators [] to the type.(»êéşÿÿÿÿ
+`
+java:S3457j"KFormat specifiers or lambda should be used instead of string concatenation.(ëë‹v
+E
+java:S1197s"*Move the array designators [] to the type.(»êéşÿÿÿÿ
+F
+java:S1197Š"*Move the array designators [] to the type.(»êéşÿÿÿÿ
+a
+java:S3457“"KFormat specifiers or lambda should be used instead of string concatenation.(ëë‹v
+F
+java:S1197œ"*Move the array designators [] to the type.(»êéşÿÿÿÿ
+\
+java:S2147Î"ECombine this catch with the one at line 204, which has the same body.(Å¡ß
+\
+java:S2147Ğ"ECombine this catch with the one at line 204, which has the same body.(¯áè
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+8
+java:S1116”"Remove this empty statement.(ôŸìúÿÿÿÿ

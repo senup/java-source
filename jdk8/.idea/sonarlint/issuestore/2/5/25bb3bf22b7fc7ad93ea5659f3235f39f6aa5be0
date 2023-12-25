@@ -1,0 +1,21 @@
+
+9
+java:S1165H"Make this "msgID" field final.(ÁîëÇıÿÿÿÿ
+E
+java:S1197e"*Move the array designators [] to the type.(”øš£ÿÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(¯§¿Î
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(Á»›ê
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(â«üåşÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(Å«ß«
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(©¸È¥
+D
+java:S1185À"(Remove this method to simply inherit it.(åšòµüÿÿÿÿ
+V
+java:S1161À":Add the "@Override" annotation above this method signature(åšòµüÿÿÿÿ
+D
+java:S1185É"(Remove this method to simply inherit it.(å‹ßşÿÿÿÿ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(å‹ßşÿÿÿÿ

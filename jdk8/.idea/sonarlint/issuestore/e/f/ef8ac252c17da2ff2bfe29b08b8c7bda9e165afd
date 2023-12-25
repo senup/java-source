@@ -1,0 +1,56 @@
+
+v
+java:S1192ì"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 9 times.(¡ÈĞİúÿÿÿÿ
+u
+java:S1192ë"YDefine a constant instead of duplicating this literal "Invalid raster dimension" 3 times.(â¸¹ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+A
+java:S1197’"*Move the array designators [] to the type.(•¤™·
+@
+java:S1197“"*Move the array designators [] to the type.(§¨©
+A
+java:S1197”"*Move the array designators [] to the type.(¤ıÛ‚
+?
+java:S1905¬"(Remove this unnecessary cast to "int[]".(é„×Ä
+P
+java:S3400Ç"9Remove this method and declare a constant for this value.(È¸å
+V
+java:S1161è":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197î"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(ç×‹“
+@
+java:S1197©"*Move the array designators [] to the type.(ûÌ‹	
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(„£šß
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Í°—
+@
+java:S1197‡"*Move the array designators [] to the type.(ûÌ‹	
+E
+java:S1481·")Remove this unused "xoff" local variable.(öé‘Îÿÿÿÿÿ
+A
+java:S1481¹"+Remove this unused "xstart" local variable.(ãÊN
+V
+java:S1161†":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+F
+java:S1197‰"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(Ç§æ
+F
+java:S1197À"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161È":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(ÌŸ­
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ğ öÈüÿÿÿÿ
+7
+java:S2129°" Remove this "String" constructor(ÆàÌ

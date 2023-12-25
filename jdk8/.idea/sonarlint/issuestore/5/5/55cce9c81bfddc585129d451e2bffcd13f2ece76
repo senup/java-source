@@ -1,0 +1,40 @@
+
+t	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(¿½Ì»ÿÿÿÿÿ
+t	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(ó ü£øÿÿÿÿ
+>
+java:S1604½"(Make this anonymous inner class a lambda(Õø‡l
+g
+java:S1301¿"KReplace this "switch" statement by "if" statements to increase readability.(€ğ‹”üÿÿÿÿ
+{
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(‘—–‡ûÿÿÿÿ
+>
+java:S4274="(Replace this assert with a proper check.(Ì’«
+?
+java:S4274©"(Replace this assert with a proper check.(¢’°Š
+a
+java:S1124İ"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+i
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(øí™œ
+R	java:S125û"<This block of commented-out lines of code should be removed.(õÖşğ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(È÷«úÿÿÿÿ
+=	java:S131¿""Add a default case to this switch.(€ğ‹”üÿÿÿÿ
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(£œ×Ëÿÿÿÿÿ
+V
+java:S1854ú":Remove this useless assignment to local variable "newlen".(Í‡Ğ“şÿÿÿÿ
+L
+java:S1854‚"6Remove this useless assignment to local variable "ok".(ÛÑÎx
+G
+java:S1481ú"+Remove this unused "newlen" local variable.(Í‡Ğ“şÿÿÿÿ
+E
+java:S1940Ò")Use the opposite operator (">=") instead.(ÁÕ±Şÿÿÿÿÿ
+?
+java:S1940Ó"(Use the opposite operator (">") instead.(±ç ¢
+K
+java:S1172ç"4Remove this unused method parameter "valueSequence".(Òû¡‰
+W	java:S125ê"<This block of commented-out lines of code should be removed.(ŠÂšıÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(›ƒ³•
+Q
+java:S1144ğ"5Remove this unused private "regroupHistogram" method.(£œ×Ëÿÿÿÿÿ

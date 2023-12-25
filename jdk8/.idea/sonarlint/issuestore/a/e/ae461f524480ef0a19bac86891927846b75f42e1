@@ -1,0 +1,292 @@
+
+E
+java:S3740I"/Provide the parametrized type for this generic.(ñÉ…“
+E
+java:S3740I"/Provide the parametrized type for this generic.(ñÉ…“
+F
+java:S3740è"/Provide the parametrized type for this generic.(şïÑõ
+F
+java:S3740œ"/Provide the parametrized type for this generic.(‹õ®‘
+K
+java:S3740û"/Provide the parametrized type for this generic.(Ï¯Œüÿÿÿÿ
+K
+java:S3740û"/Provide the parametrized type for this generic.(Ï¯Œüÿÿÿÿ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(Èê…‘
+F
+java:S3740¥"/Provide the parametrized type for this generic.(Èê…‘
+K
+java:S3740¦"/Provide the parametrized type for this generic.(ÈĞ˜áúÿÿÿÿ
+K
+java:S3740¦"/Provide the parametrized type for this generic.(ÈĞ˜áúÿÿÿÿ
+F
+java:S3740§"/Provide the parametrized type for this generic.(ûĞŸ“
+F
+java:S3740§"/Provide the parametrized type for this generic.(ûĞŸ“
+K
+java:S3740Æ"/Provide the parametrized type for this generic.(ˆ—ìıøÿÿÿÿ
+F
+java:S3740Ù"/Provide the parametrized type for this generic.(—ëè¯
+K
+java:S3740å"/Provide the parametrized type for this generic.(Şîóÿÿÿÿÿ
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(—ëè¯
+K
+java:S3740ã"/Provide the parametrized type for this generic.(ˆ—ìıøÿÿÿÿ
+K
+java:S3740å"/Provide the parametrized type for this generic.(Şîóÿÿÿÿÿ
+K
+java:S3740é"/Provide the parametrized type for this generic.(’Ğ´ıÿÿÿÿÿ
+b
+java:S1192"KDefine a constant instead of duplicating this literal "Deprecated" 4 times.(ìöÔî
+a
+java:S1192“"JDefine a constant instead of duplicating this literal "Synthetic" 4 times.(ô’÷
+l
+java:S1192å"PDefine a constant instead of duplicating this literal "class.not.found" 5 times.(ü¿•şÿÿÿÿ
+o	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+t	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(„¼·Şıÿÿÿÿ
+o	java:S135ü	"YReduce the total number of break and continue statements in this loop to use at most one.(¼‚¸Ş
+o	java:S135ø	"YReduce the total number of break and continue statements in this loop to use at most one.(÷Ë
+o	java:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(ªØì»
+s	java:S127á"XRefactor the code in order to not assign to this loop counter from within the loop body.(ĞŒøŒúÿÿÿÿ
+F
+java:S1066©"/Merge this if statement with the enclosing one.(å½Šİ
+F
+java:S1066Ú"/Merge this if statement with the enclosing one.(œ¡ë„
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŸÕÑÿÿÿÿÿ
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½œä
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıŸçşÿÿÿÿ
+l	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±Ûıÿÿÿÿ
+g	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô„åÇ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëï×
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠıà
+8
+java:S1643â"Use a StringBuilder instead.(­€˜üÿÿÿÿ
+{
+java:S1488Ì"_Immediately return this expression instead of assigning it to the temporary variable "AbsName".(ªŸÕÑÿÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(®®ƒa
+_
+java:S2259"HA "NullPointerException" could be thrown; "outerClass" is nullable here.(–ùŒÅ
+K
+java:S11335"5Do not forget to remove this deprecated code someday.(ç‡®÷
+>
+java:S11235"(Add the missing @deprecated Javadoc tag.(ç‡®÷
+l
+java:S1149I"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñÉ…“
+|
+java:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şïÑõ
+
+java:S1149û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ï¯Œüÿÿÿÿ
+|
+java:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Èê…‘
+
+java:S1149¦"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÈĞ˜áúÿÿÿÿ
+|
+java:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ûĞŸ“
+V	java:S107d"AConstructor has 9 parameters, which is greater than 7 authorized.(è¼óÓ
+h
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(è¼óÓ
+E
+java:S1197g"*Move the array designators [] to the type.(³éå©ıÿÿÿÿ
+Q	java:S125–"<This block of commented-out lines of code should be removed.(ÚÅç
+
+E
+java:S1905".Remove this unnecessary cast to "SourceClass".(–ùŒÅ
+V
+java:S1161æ":Add the "@Override" annotation above this method signature(›Ïåëûÿÿÿÿ
+j
+java:S3776õ"SRefactor this method to reduce its Cognitive Complexity from 124 to the 15 allowed.(À¬Ÿ¬
+Y
+java:S1854ë"BRemove this useless assignment to local variable "argumentLength".(Ñ¸›Ë
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(À¬Ÿ¬
+J
+java:S1481ë"3Remove this unused "argumentLength" local variable.(Ñ¸›Ë
+F
+java:S1197ì"*Move the array designators [] to the type.(›÷ûØùÿÿÿÿ
+A
+java:S1172Í"*Remove this unused method parameter "env".(Å…ŞÎ
+V
+java:S1161Ú":Add the "@Override" annotation above this method signature(¤ñšşÿÿÿÿ
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(ÕÉ¤ğ
+O
+java:S1854"8Remove this useless assignment to local variable "vset".(ı»Æ—
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(ºÈ«®úÿÿÿÿ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¼ƒä¥
+W	java:S125å"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(ïîàœøÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(Š¬‚ˆûÿÿÿÿ
+N
+java:S1854â"7Remove this useless assignment to local variable "def".(ßê­ä
+R
+java:S1119‡";Refactor the code to remove this label and the need for it.(œì§›
+W
+java:S1119Ê";Refactor the code to remove this label and the need for it.(®Õªÿùÿÿÿÿ
+F
+java:S1197Û"*Move the array designators [] to the type.(ê¾ËÊÿÿÿÿÿ
+h
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÆúÉP
+U
+java:S1854ù"9Remove this useless assignment to local variable "vsFld".(Ó·ğüøÿÿÿÿ
+Q	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ğ’çB
+W
+java:S1117Ô";Rename "thisArg" which hides the field declared at line 78.(Ğ±·Şüÿÿÿÿ
+F
+java:S1481ù"*Remove this unused "vsFld" local variable.(Ó·ğüøÿÿÿÿ
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(îÒäÏ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¥¨íÃıÿÿÿÿ
+Q
+java:S1161	":Add the "@Override" annotation above this method signature(´«¤×
+W	java:S125—	"<This block of commented-out lines of code should be removed.(Òî»±şÿÿÿÿ
+i
+java:S3776®	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(§Æ¹
+Q
+java:S1161®	":Add the "@Override" annotation above this method signature(§Æ¹
+2
+java:S3626„
+"Remove this redundant jump.(ÉŠ©ƒ
+`
+java:S4201¶	"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ì‡¿
+i
+java:S3776Œ
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(É”ÄÖ
+V
+java:S1161Ã
+":Add the "@Override" annotation above this method signature(ÜŸà™øÿÿÿÿ
+A
+java:S1197Å
+"*Move the array designators [] to the type.(£’°ë
+A
+java:S1197Å
+"*Move the array designators [] to the type.(£’°ë
+W	java:S125Ô
+"<This block of commented-out lines of code should be removed.(–ş”áıÿÿÿÿ
+Q
+java:S1161Ü
+":Add the "@Override" annotation above this method signature(Ô ‰â
+Q	java:S125î
+"<This block of commented-out lines of code should be removed.(ô»Ïd
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ş²¢ú
+A
+java:S1197‡"*Move the array designators [] to the type.(£’°ë
+A
+java:S1197‡"*Move the array designators [] to the type.(£’°ë
+W	java:S125“"<This block of commented-out lines of code should be removed.(ûéşûÿÿÿÿ
+A
+java:S1197›"*Move the array designators [] to the type.(×šş›
+F
+java:S1197Ÿ"*Move the array designators [] to the type.(…Ú¦ğùÿÿÿÿ
+A
+java:S1197±"*Move the array designators [] to the type.(ñï­á
+A
+java:S1197·"*Move the array designators [] to the type.(‰çş­
+F
+java:S1197Æ"*Move the array designators [] to the type.(ÃÈáÉÿÿÿÿÿ
+F
+java:S1197Ô"*Move the array designators [] to the type.(÷¤©Åÿÿÿÿÿ
+F
+java:S1197Ù"*Move the array designators [] to the type.(…‡´èÿÿÿÿÿ
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(ÜÁ‚©
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(£»ÙÔùÿÿÿÿ
+o
+java:S3776ı"SRefactor this method to reduce its Cognitive Complexity from 105 to the 15 allowed.(¡â‹»øÿÿÿÿ
+A
+java:S1197Â"*Move the array designators [] to the type.(ã Ò÷
+F
+java:S1197Ó"*Move the array designators [] to the type.(Š·€æøÿÿÿÿ
+@
+java:S1197Ô"*Move the array designators [] to the type.(úÈ’b
+?	java:S108Ú")Either remove or fill this block of code.(æ•”ì
+3
+java:S1116Ú"Remove this empty statement.(æ•”ì
+A
+java:S1197ê"*Move the array designators [] to the type.(¦İôÚ
+A
+java:S1197ğ"*Move the array designators [] to the type.(Á„¶„
+@
+java:S1197ô"*Move the array designators [] to the type.(«ú±
+A
+java:S1197…"*Move the array designators [] to the type.( ğ¨ç
+A
+java:S1197‰"*Move the array designators [] to the type.(´Û”Ó
+A
+java:S1197"*Move the array designators [] to the type.(ªøÕã
+p
+java:S3012¢"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Œ½Áª
+F
+java:S1197»"*Move the array designators [] to the type.(ó“’Èùÿÿÿÿ
+R
+java:S1117Á";Rename "thisArg" which hides the field declared at line 78.(­Æ´‹
+F
+java:S1197Â"*Move the array designators [] to the type.(…âÇçüÿÿÿÿ
+F
+java:S1197ñ"*Move the array designators [] to the type.(…¤«áøÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(­œÕ
+R	java:S125À"<This block of commented-out lines of code should be removed.(£“ÍÙ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(«ÖÙûÿÿÿÿ
+A
+java:S1197‘"*Move the array designators [] to the type.(ã Ò÷
+J
+java:S1905”".Remove this unnecessary cast to "SourceClass".(Ç€†ùøÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(¥œ÷ä
+W	java:S125¥"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ÓÿÜŠ
+F
+java:S1197¾"*Move the array designators [] to the type.(’š¾£øÿÿÿÿ
+F
+java:S1197Í"*Move the array designators [] to the type.(ç©úëûÿÿÿÿ
+F
+java:S1197Ò"*Move the array designators [] to the type.(­í­îüÿÿÿÿ
+F
+java:S1197Ö"*Move the array designators [] to the type.(£×‰–øÿÿÿÿ
+F
+java:S1197è"*Move the array designators [] to the type.(Š·€æøÿÿÿÿ
+@
+java:S1197é"*Move the array designators [] to the type.(úÈ’b
+?	java:S108ï")Either remove or fill this block of code.(æ•”ì
+3
+java:S1116ï"Remove this empty statement.(æ•”ì
+o
+java:S3776£"SRefactor this method to reduce its Cognitive Complexity from 161 to the 15 allowed.(ìËÍ³şÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(‚ßñçşÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(—ı ÿøÿÿÿÿ
+Z
+java:S1155ö">Use isEmpty() to check whether the collection is empty or not.(¥ä…úÿÿÿÿ
+Z
+java:S1155£">Use isEmpty() to check whether the collection is empty or not.(ë¾õÇûÿÿÿÿ
+A
+java:S1197Í"*Move the array designators [] to the type.(ˆ¾Ò
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(™§ºÚ
+R	java:S125£"<This block of commented-out lines of code should be removed.(ëó¡€
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ãåâÓÿÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¾–æ¡øÿÿÿÿ
+A
+java:S1197ö"*Move the array designators [] to the type.(ˆ¾Ò
+I
+java:S1905—"2Remove this unnecessary cast to "ClassDefinition".(Ôñ¨ÿ
+H
+java:S1905­"2Remove this unnecessary cast to "ClassDefinition".(ß“¬	
+Z
+java:S1155á">Use isEmpty() to check whether the collection is empty or not.(ë¾õÇûÿÿÿÿ
+N	java:S106®"9Replace this use of System.out or System.err by a logger.(Ş› P
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(×ÍÏò
+N
+java:S1905½"2Remove this unnecessary cast to "ClassDefinition".(ˆúºùÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(£êË×øÿÿÿÿ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(”Ûß·şÿÿÿÿ
+?
+java:S1128)")Remove this unused import 'java.io.File'.(†Ğ¥Å

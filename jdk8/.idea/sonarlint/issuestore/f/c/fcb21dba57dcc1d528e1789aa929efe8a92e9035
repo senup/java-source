@@ -1,0 +1,127 @@
+
+K
+java:S3740µ"/Provide the parametrized type for this generic.(™Ñøÿÿÿÿ
+p
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(­€ı
+u
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÕ¯”üÿÿÿÿ
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Å©·
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(·Êúùÿÿÿÿ
+C
+java:S1604v"(Make this anonymous inner class a lambda(³—¯øÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(Ë¢¦’ıÿÿÿÿ
+?
+java:S1604†"(Make this anonymous inner class a lambda(ÉÃ·
+g
+java:S1301Á"KReplace this "switch" statement by "if" statements to increase readability.(ÿ¶°Øüÿÿÿÿ
+S
+java:S4973¨"<Strings and Boxed types should be compared using "equals()".(•ãÅ¼
+S
+java:S4973«"<Strings and Boxed types should be compared using "equals()".(œ¶óá
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤üˆØúÿÿÿÿ
+u	java:S115½"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â²ë’ùÿÿÿÿ
+o
+java:S3008W"YRename this field "LIST_PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÒ±²
+u
+java:S1450>"ZRemove the "lookInLabel" field and declare it as a local variable in the relevant methods.(ïäæúÿÿÿÿ
+t
+java:S1450\"^Remove the "saveInLabelText" field and declare it as a local variable in the relevant methods.(ìÈŠÂ
+{
+java:S1149¹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|
+java:S1149â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
+
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(¸—®Ëúÿÿÿÿ
+i
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ú¯ò©
+W
+java:S1854Ä";Remove this useless assignment to local variable "context".(óöËÿÿÿÿÿ
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(Ú¯ò©
+H
+java:S1481Ä",Remove this unused "context" local variable.(óöËÿÿÿÿÿ
+]
+java:S3252ã"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ŞÖÈ“ÿÿÿÿÿ
+W
+java:S3252ä"@Use static access with "java.awt.Component" for "TOP_ALIGNMENT".(–İ¶Ô
+X
+java:S3252ü"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(şöíÅ
+Z
+java:S3252ı"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(ÃØì
+]
+java:S3252"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ØÄ°…ûÿÿÿÿ
+_
+java:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(»Î‚£øÿÿÿÿ
+]
+java:S3252œ"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ØÄ°…ûÿÿÿÿ
+_
+java:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(»Î‚£øÿÿÿÿ
+W
+java:S3252«"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(áÖÀI
+_
+java:S3252¬"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(ÇË“ûÿÿÿÿ
+]
+java:S3252¶"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(°şı øÿÿÿÿ
+Z
+java:S3252·"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ó–õõ
+=	java:S131Á""Add a default case to this switch.(ÿ¶°Øüÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161ó":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(Îš³¼ùÿÿÿÿ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Ô“–Ã
+V
+java:S1161›":Add the "@Override" annotation above this method signature(†ş•Ñşÿÿÿÿ
+V
+java:S1161§":Add the "@Override" annotation above this method signature(ë€“Ûûÿÿÿÿ
+Q
+java:S1161Æ":Add the "@Override" annotation above this method signature(òÊñé
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(ÛÈ™Æ
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(«ÎÚ—
+E
+java:S1172”")Remove this unused method parameter "fc".(ÏÛˆæúÿÿÿÿ
+a
+java:S1124½"EReorder the modifiers to comply with the Java Language Specification.(â²ë’ùÿÿÿÿ
+E
+java:S1172Ú")Remove this unused method parameter "fc".(ŞêÛôûÿÿÿÿ
+<
+java:S1948æ"%Make "fsv" transient or serializable.(¥’„¾
+|
+java:S1149â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
+
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
+@
+java:S1948 ")Make "filters" transient or serializable.(¸¬ÇË
+C
+java:S1125Å"'Remove the unnecessary boolean literal.(­šÕÅûÿÿÿÿ
+˜
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÌš‚
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®åØ”
+<
+java:S1659ş"%Declare "xOffset" on a separate line.(ïº¬š
+]
+java:S3252º"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(¾ö¦êûÿÿÿÿ
+]
+java:S3252¿"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(¾ö¦êûÿÿÿÿ
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+I
+java:S1068\"3Remove this unused "saveInLabelText" private field.(ìÈŠÂ

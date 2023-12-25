@@ -1,0 +1,15 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûþÿÿÿÿ
+N
+java:S2589Š"7Remove this expression which always evaluates to "true"(ö¦¬ÿ
+@
+java:S1197+"*Move the array designators [] to the type.(Á¤àý
+P
+java:S1161A":Add the "@Override" annotation above this method signature(Š®ÃÉ
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÓŽð—
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ñäŒ
+>
+java:S1125Š"'Remove the unnecessary boolean literal.(ö¦¬ÿ

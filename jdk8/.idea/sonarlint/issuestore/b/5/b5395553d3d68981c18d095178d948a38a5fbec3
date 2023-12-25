@@ -1,0 +1,41 @@
+
+t	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(˜öÜıûÿÿÿÿ
+b	java:S1019"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ªŸ”
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éó“‡ÿÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÂÚúÿÿÿÿ
+h	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯†ƒøÿÿÿÿ
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(îÜ÷€ÿÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(¢Ï»ßøÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(¢³™¥ÿÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(”Î¡½
+8
+java:S1110â"!Remove these useless parentheses.(É«Ğ”
+=
+java:S1110ë"!Remove these useless parentheses.(æ°îÆıÿÿÿÿ
+h
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ºÖÂ
+=
+java:S1110‘"!Remove these useless parentheses.(ÅŞ‚ƒøÿÿÿÿ
+=
+java:S1110š"!Remove these useless parentheses.(­°—¢ÿÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(•İÙüÿÿÿÿ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(äã¼Ù
+8
+java:S1110Ï"!Remove these useless parentheses.(É«Ğ”
+=
+java:S1110×"!Remove these useless parentheses.(æ°îÆıÿÿÿÿ
+A
+java:S1144|",Remove this unused private "lookupN" method.(À²ÃB

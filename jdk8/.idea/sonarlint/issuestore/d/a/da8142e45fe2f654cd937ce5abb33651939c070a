@@ -1,0 +1,25 @@
+
+F
+java:S3740Œ"/Provide the parametrized type for this generic.(âî…
+Y
+java:S4977À"=Rename "K" which hides a type parameter from the outer scope.(¾ëœ÷ÿÿÿÿÿ
+Y
+java:S4977À"=Rename "V" which hides a type parameter from the outer scope.(¾ëœ÷ÿÿÿÿÿ
+O
+java:S5993H"9Change the visibility of this constructor to "protected".(ÍÆ›ğ
+O
+java:S5993Y"9Change the visibility of this constructor to "protected".(¤¯ôº
+A
+java:S30772"&Use an "AtomicReferenceArray" instead.(„‰™ºûÿÿÿÿ
+T
+java:S1117r"9Rename "table" which hides the field declared at line 50.(¥ºıøÿÿÿÿ
+F
+java:S1905ù"/Remove this unnecessary cast to "CacheEntry[]".(±±¸é
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(†“Æâÿÿÿÿÿ
+n
+java:S3077Ä"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ï ÷¿
+T
+java:S1117á"8Rename "key" which hides the field declared at line 322.(˜Îÿÿÿÿÿ
+n
+java:S2786•"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ìâ¾‘úÿÿÿÿ

@@ -1,0 +1,61 @@
+
+E
+java:S1066•"/Merge this if statement with the enclosing one.(İÉ½,
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+[
+java:S2583·"DChange this condition so that it does not always evaluate to "false"(Íåç–
+n	java:S116ø"XRename this field "MAXINLINECOST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ğ¥×
+8
+java:S1170ø"!Make this final field static too.(¯Ğ¥×
+@
+java:S11971"*Move the array designators [] to the type.(§Ğ«
+@
+java:S11975"*Move the array designators [] to the type.(µÌü
+U
+java:S1161D":Add the "@Override" annotation above this method signature(”‰Øœşÿÿÿÿ
+O
+java:S1161H":Add the "@Override" annotation above this method signature(…’¨7
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.( èúÿÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+F
+java:S1197¥"*Move the array designators [] to the type.(ş´æôúÿÿÿÿ
+F
+java:S1197¯"*Move the array designators [] to the type.(Ê·úÿÿÿÿ
+A
+java:S1197Ç"*Move the array designators [] to the type.(±ÔªÎ
+A
+java:S1197İ"*Move the array designators [] to the type.(î·Èà
+F
+java:S1197ß"*Move the array designators [] to the type.(–öªˆşÿÿÿÿ
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(®ÂÌ’
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(Âõ¦È
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(àóğúúÿÿÿÿ
+A
+java:S1197†"*Move the array designators [] to the type.(›š¥‚
+F
+java:S1197‡"*Move the array designators [] to the type.(áİ¨õşÿÿÿÿ
+T
+java:S1117‡"8Rename "body" which hides the field declared at line 41.(áİ¨õşÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(ŠÅÈå
+W	java:S125•"<This block of commented-out lines of code should be removed.(ç”±æúÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(ëßùÃûÿÿÿÿ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(”¬ÅÏ
+>
+java:S1125·"'Remove the unnecessary boolean literal.(Íåç–
+V
+java:S1161Ë":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ÿ×½­
+D	java:S108Û")Either remove or fill this block of code.(•×’®ûÿÿÿÿ
+Q
+java:S1161ä":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(çé½Ì
+D	java:S108")Either remove or fill this block of code.(•×’®ûÿÿÿÿ

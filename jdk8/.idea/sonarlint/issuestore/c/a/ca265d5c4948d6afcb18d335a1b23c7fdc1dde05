@@ -1,0 +1,15 @@
+
+t
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(äò·¦ýÿÿÿÿ
+Q
+java:S1141­"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+R
+java:S4838Œ"6Change "Object" to the type handled by the Collection.(ó¯Ï“ùÿÿÿÿ
+\
+java:S2147µ"ECombine this catch with the one at line 179, which has the same body.(ƒ¯ù£
+\
+java:S2147Û"ECombine this catch with the one at line 214, which has the same body.(ƒ¯ù£
+\
+java:S2147‰"ECombine this catch with the one at line 261, which has the same body.(ßý²Ã

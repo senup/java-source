@@ -1,0 +1,12 @@
+
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ýä©Ëùÿÿÿÿ
+P
+java:S1161O":Add the "@Override" annotation above this method signature(¼é±Ž
+B
+java:S1125R"'Remove the unnecessary boolean literal.(Ú‚æéþÿÿÿÿ
+6
+java:S1659‚"Declare "n" on a separate line.(áÁ¦¨
+C
+java:S1125˜"'Remove the unnecessary boolean literal.(Æ…éÊýÿÿÿÿ

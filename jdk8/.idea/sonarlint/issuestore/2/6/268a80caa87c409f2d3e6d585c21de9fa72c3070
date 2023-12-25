@@ -1,0 +1,33 @@
+
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚĞİÉûÿÿÿÿ
+]
+java:S1192R"GDefine a constant instead of duplicating this literal "socket" 5 times.(äÊ÷¶
+a
+java:S1192N"FDefine a constant instead of duplicating this literal "proxy" 3 times.(ÃÖ—şÿÿÿÿ
+a
+java:S1192O"FDefine a constant instead of duplicating this literal "https" 3 times.(Ëíÿåüÿÿÿÿ
+f
+java:S1192N"KDefine a constant instead of duplicating this literal "socksProxy" 5 times.(ÃÖ—şÿÿÿÿ
+K
+java:S1066Œ"/Merge this if statement with the enclosing one.(ãÎÃşÿÿÿÿ
+C
+java:S1604\"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
+>
+java:S1604b"(Make this anonymous inner class a lambda(’­Ûü
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(»Àûªşÿÿÿÿ
+3
+java:S1643ˆ"Use a StringBuilder instead.(ÇµÍÓ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(–Ï£—ıÿÿÿÿ
+[
+java:S1124J"EReorder the modifiers to comply with the Java Language Specification.(ªëı
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ¬¤é
+i
+java:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 134 to the 15 allowed.(öá®x
+;
+java:S1659Ò"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+?	java:S108“")Either remove or fill this block of code.(öâŸ
+a
+java:S1124ä"EReorder the modifiers to comply with the Java Language Specification.(ÀïåÏÿÿÿÿÿ

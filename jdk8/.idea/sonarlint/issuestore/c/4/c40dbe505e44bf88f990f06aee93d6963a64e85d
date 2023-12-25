@@ -1,0 +1,68 @@
+
+o
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(è—¡®ıÿÿÿÿ
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÒèùÿÿÿÿ
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÍŒ×
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦„øùÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+P
+java:S5993Ä"9Change the visibility of this constructor to "protected".(ÈúğÖ
+7
+java:S1116J"Remove this empty statement.(ôŸìúÿÿÿÿ
+m
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(»é½Şúÿÿÿÿ
+8
+java:S1116»"Remove this empty statement.(ôŸìúÿÿÿÿ
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
+Q
+java:S1117ú":Rename "result" which hides the field declared at line 65.(İäî–
+A
+java:S1197’"*Move the array designators [] to the type.(Ë‡÷É
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(”˜Êüÿÿÿÿ
+Q
+java:S1117»":Rename "result" which hides the field declared at line 65.(İäî–
+A
+java:S1197å"*Move the array designators [] to the type.(Ë‡÷É
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’ÅÂíşÿÿÿÿ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(’ÅÂíşÿÿÿÿ
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ê‰ú­
+c
+java:S1659Û"GDeclare "tauthority" and all following declarations on a separate line.(ã‹ùœÿÿÿÿÿ
+=
+java:S1075ö"&Remove this hard-coded path-delimiter.(Åô’
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(×´í–úÿÿÿÿ
+_
+java:S5361”"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ù»ïë
+`
+java:S1134»"DTake the required action to fix the issue indicated by this comment.(ğ¼öÜÿÿÿÿÿ
+`
+java:S1134İ"DTake the required action to fix the issue indicated by this comment.(ğ¼öÜÿÿÿÿÿ
+g
+java:S3457§"KFormat specifiers or lambda should be used instead of string concatenation.(¼”¿ûÿÿÿÿ
+b
+java:S3457©"KFormat specifiers or lambda should be used instead of string concatenation.(ö‰àƒ
+b
+java:S3457«"KFormat specifiers or lambda should be used instead of string concatenation.(Úïö¹
+<
+java:S3398Ã"%Move this method into "XmlAttrStack".(ê‰ú­

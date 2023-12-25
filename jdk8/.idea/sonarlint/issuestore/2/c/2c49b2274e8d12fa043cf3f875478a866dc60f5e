@@ -1,0 +1,22 @@
+
+o	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êºº
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(– ô
+R
+java:S2387'"<"vendorName" is the name of a field in "IIOServiceProvider".(Êºº
+T
+java:S2387)"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
+T
+java:S2387+"9"names" is the name of a field in "ImageReaderWriterSpi".(ÓüèÅşÿÿÿÿ
+R
+java:S2387-"<"suffixes" is the name of a field in "ImageReaderWriterSpi".(Š²à§
+X
+java:S2387/"="MIMETypes" is the name of a field in "ImageReaderWriterSpi".(¾â…úÿÿÿÿ
+R
+java:S23874"<"writerSpiNames" is the name of a field in "ImageReaderSpi".(Ôšä­
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+`
+java:S1128 "ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+_
+java:S1128!"IRemove this unused import 'javax.imageio.metadata.IIOMetadataFormatImpl'.(¥Ï”ï

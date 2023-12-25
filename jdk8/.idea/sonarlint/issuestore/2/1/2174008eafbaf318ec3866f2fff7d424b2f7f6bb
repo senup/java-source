@@ -1,0 +1,47 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿ©üÉ
+F
+java:S2160_"+Override the "equals" method in this class.(çşİ¦şÿÿÿÿ
+F
+java:S2065g"0Remove the "transient" modifier from this field.(ıã˜Ï
+W
+java:S1854®";Remove this useless assignment to local variable "oldData".(ñ—«»ÿÿÿÿÿ
+F
+java:S1197®"*Move the array designators [] to the type.(ñ—«»ÿÿÿÿÿ
+H
+java:S1481®",Remove this unused "oldData" local variable.(ñ—«»ÿÿÿÿÿ
+Q
+java:S1161Å":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(«ÚÖİüÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(ì¦Æıûÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(İìÆíøÿÿÿÿ
+P
+java:S1161Ğ":Add the "@Override" annotation above this method signature(å{
+V
+java:S1161ß":Add the "@Override" annotation above this method signature(İÏç´øÿÿÿÿ
+Q
+java:S1161ò":Add the "@Override" annotation above this method signature(‡ğÎ
+V
+java:S1161":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+V
+java:S1161©":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(˜Íşô
+P
+java:S1161Ø":Add the "@Override" annotation above this method signature(µ´ˆ2
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(œ÷¾ÿ
+n
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(šÈ¢­
+n
+java:S2177š"WRename this method; there is a "private" method in the parent class with the same name.(ÿ§Ú¶

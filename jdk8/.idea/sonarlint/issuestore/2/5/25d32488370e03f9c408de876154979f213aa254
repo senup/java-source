@@ -1,0 +1,26 @@
+
+P
+java:S1191-"5Use classes from the Java API instead of Sun classes.( ¤úÊşÿÿÿÿ
+œ
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë·Ä–ıÿÿÿÿ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“·ò¦
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(·’»è
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(¼Èµ•
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(–‘Òâ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(Ä¿Š»şÿÿÿÿ
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(¶‹úA
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ä¿Š»şÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¡§ôşÿÿÿÿ
+N	java:S106ç"9Replace this use of System.out or System.err by a logger.(†»Ñ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
+N	java:S106÷"9Replace this use of System.out or System.err by a logger.(¢°»S
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(Ä¿Š»şÿÿÿÿ
+F
+java:S1128("0Remove this unused import 'java.io.InputStream'.(¹»º
+N
+java:S1128*"8Remove this unused import 'java.io.PushbackInputStream'.(øÈ­ı
+H
+java:S1128+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

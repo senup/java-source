@@ -1,0 +1,13 @@
+
+p
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘°«™
+m
+java:S3077M"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¡§«¡
+`
+java:S2886s"ESynchronize this method to match the synchronization on "setContext".(ýÓþïûÿÿÿÿ
+B
+java:S1452¨"&Remove usage of generic wildcard type.(ØáÛ°ýÿÿÿÿ
+B
+java:S1452¨"&Remove usage of generic wildcard type.(ØáÛ°ýÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'java.beans.PropertyChangeEvent'.(’¢œ§

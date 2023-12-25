@@ -1,0 +1,13 @@
+
+{
+java:S11490"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„òù 
+z
+java:S11491"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ôàâu
+{
+java:S11492"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ø¢ÎÃ
+€
+java:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ûùĞœûÿÿÿÿ
+Y
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(·”‰úÿÿÿÿ
+Y
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(·”‰úÿÿÿÿ

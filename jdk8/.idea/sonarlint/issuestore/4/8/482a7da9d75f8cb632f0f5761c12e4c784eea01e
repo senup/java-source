@@ -1,0 +1,17 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(æóæå
+r
+java:S3077'"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(™ñúœıÿÿÿÿ
+r
+java:S3077)"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÀàÕôúÿÿÿÿ
+:
+java:S3010-"$Remove this assignment of "pattern".(…ä ´
+;
+java:S3010."%Remove this assignment of "cpattern".(ƒÍµ«
+h
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(¼µøÈ
+_
+java:S35513"IMake this method "synchronized" to match the parent class implementation.(¼µøÈ
+P
+java:S62133":Rename this variable to not match a restricted identifier.(¼µøÈ

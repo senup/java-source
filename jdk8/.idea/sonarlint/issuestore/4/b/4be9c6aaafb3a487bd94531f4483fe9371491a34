@@ -1,0 +1,17 @@
+
+I
+java:S1199Õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+¡
+java:S1130L"…Remove the declaration of thrown exception 'java.util.InvalidPropertiesFormatException' which is a subclass of 'java.io.IOException'.(¯¯•€ùÿÿÿÿ
+š
+java:S1130L"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(¯¯•€ùÿÿÿÿ
+e
+java:S2445o"J"props" is a method parameter, and should not be used for synchronization.(ÎÇˆ¥øÿÿÿÿ
+a
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(°ÜºÁüÿÿÿÿ
+\
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(Ùéî›
+S
+java:S1068H"8Remove this unused "EXTERNAL_XML_VERSION" private field.(áïÁâûÿÿÿÿ

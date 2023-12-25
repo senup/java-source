@@ -1,0 +1,80 @@
+
+p
+java:S1192ş"YDefine a constant instead of duplicating this literal "HttpClient.available(): " 3 times.(ğ¡Çà
+F
+java:S1066”"/Merge this if statement with the enclosing one.(ù¯¨Â
+Q
+java:S1141÷"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l
+java:S1104W"VMake usingProxy a static final constant or non-public and provide accessors if needed.(¹ô¿
+l
+java:S1104y"QMake reuse a static final constant or non-public and provide accessors if needed.(­ÚİÔúÿÿÿÿ
+S
+java:S4973“"<Strings and Boxed types should be compared using "equals()".(†¾ºú
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+t	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å‘¼üùÿÿÿÿ
+˜
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ‘§É
+{
+java:S1149±"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôñ‘çúÿÿÿÿ
+`
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(×±Í©ûÿÿÿÿ
+L
+java:S1133Š"5Do not forget to remove this deprecated code someday.(Õ‘§É
+]
+java:S2130™"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(»çËóøÿÿÿÿ
+X
+java:S2130Ÿ"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ä—ì¤
+a
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(˜›äşÿÿÿÿ
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ óßúÿÿÿÿ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø—¦…
+c	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙšÂ7
+h
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÙšÂ7
+c	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¶ƒ'
+d	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î’„ğ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î’„ğ
+F
+java:S2093÷"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+
+java:S1130Ö"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ŠÀ
+”
+java:S1130ò"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¥›ˆÏûÿÿÿÿ
+2
+java:S3626Œ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626‘"Remove this redundant jump.(ûÁİ…
+2
+java:S3626œ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¡"Remove this redundant jump.(ûÁİ…
+i
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›ÜâŒ
+B
+java:S1075Î"&Remove this hard-coded path-delimiter.(ÇÀ«¢øÿÿÿÿ
+L
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(·Ì©µ
+i
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(øÖ·
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(ï”åÂÿÿÿÿÿ
+n
+java:S2737˜"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+D	java:S108¨")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+c
+java:S3252Û"LUse static access with "java.net.HttpURLConnection" for "HTTP_NOT_MODIFIED".(Ì¿¢˜
+f
+java:S3252Ü"JUse static access with "java.net.HttpURLConnection" for "HTTP_NO_CONTENT".(Ô„ï×ûÿÿÿÿ
+c
+java:S3252â"LUse static access with "java.net.HttpURLConnection" for "HTTP_NOT_MODIFIED".(Ì¿¢˜
+a
+java:S3252ã"JUse static access with "java.net.HttpURLConnection" for "HTTP_NO_CONTENT".(«Õ÷Õ
+I
+java:S1113Å"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+D	java:S108Ù")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+K
+java:S1144±"4Remove this unused private "HttpClient" constructor.(¹ŸÇ¢
+K
+java:S1144ğ"4Remove this unused private "superOpenServer" method.(ú§Ëˆ

@@ -1,0 +1,120 @@
+
+E
+java:S37402"/Provide the parametrized type for this generic.(›‰ëş
+E
+java:S37402"/Provide the parametrized type for this generic.(›‰ëş
+F
+java:S3740Á"/Provide the parametrized type for this generic.(í÷Í¦
+K
+java:S3740Â"/Provide the parametrized type for this generic.(¦˜ÍŠşÿÿÿÿ
+F
+java:S3740í"/Provide the parametrized type for this generic.(ÈÂ
+K
+java:S3740ï"/Provide the parametrized type for this generic.(ÓßÑ³øÿÿÿÿ
+F
+java:S3740ó"/Provide the parametrized type for this generic.(–ÃáÅ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÉÍZ
+p
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ÁŠì
+`
+java:S1192º"IDefine a constant instead of duplicating this literal " type = " 3 times.(×Û®¹
+l
+java:S1192¢"PDefine a constant instead of duplicating this literal " entry index = " 6 times.(Ä™øøÿÿÿÿ
+m
+java:S1192·"VDefine a constant instead of duplicating this literal "Invalid Monitor type:" 3 times.(ÂŒ×¬
+_
+java:S1192£"IDefine a constant instead of duplicating this literal " name = " 6 times.(–ÔÓE
+F
+java:S1066Û"/Merge this if statement with the enclosing one.(£Àˆ–
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¿œ·ùÿÿÿÿ
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯îÕæ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍçøÊÿÿÿÿÿ
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÛ†®
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛ¶øüÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‰½ùÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¦­üúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(øª–
+d
+java:S3824¤"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(‰æßÙÿÿÿÿÿ
+o	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É†ø
+`
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(Í¨¥‚şÿÿÿÿ
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.( ƒåÜùÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(†ğî
+`
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(½õ‰ ûÿÿÿÿ
+`
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(ı„‰®úÿÿÿÿ
+`
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(Î¯İËøÿÿÿÿ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(é°Ã­ûÿÿÿÿ
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(¦é–
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(¦ûÅï
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(–ÆÖøÿÿÿÿ
+`
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(×¤¨Áùÿÿÿÿ
+Z
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(•š
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(ËûœŸ
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(ç¨Ê¥úÿÿÿÿ
+`
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(˜ĞÄøÿÿÿÿ
+†
+java:S3252Ğ"oUse static access with "sun.jvmstat.perfdata.monitor.AbstractPerfDataBufferPrologue" for "PERFDATA_MAJOR_NAME".(”¬×«
+‹
+java:S3252Ö"oUse static access with "sun.jvmstat.perfdata.monitor.AbstractPerfDataBufferPrologue" for "PERFDATA_MINOR_NAME".(Š‹µúÿÿÿÿ
+u
+java:S2142“"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Ú¾ÓÄ
+?	java:S108“")Either remove or fill this block of code.(Ú¾ÓÄ
+u
+java:S2142¬"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Ú¾ÓÄ
+?	java:S108¬")Either remove or fill this block of code.(Ú¾ÓÄ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(‘´×æ
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(üÎõ³
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(íœîçÿÿÿÿÿ
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(Ãèº¾
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(üÆ‹Óÿÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(¥ÿ²³ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(šäœÎùÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(öÁ¹åùÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş
+Z
+java:S10688"?Remove this unused "PERFDATA_ENTRYLENGTH_OFFSET" private field.(Í¨¥‚şÿÿÿÿ
+X
+java:S10689"=Remove this unused "PERFDATA_ENTRYLENGTH_SIZE" private field.( ƒåÜùÿÿÿÿ
+T
+java:S1068:">Remove this unused "PERFDATA_NAMELENGTH_OFFSET" private field.(†ğî
+W
+java:S1068;"<Remove this unused "PERFDATA_NAMELENGTH_SIZE" private field.(½õ‰ ûÿÿÿÿ
+[
+java:S1068<"@Remove this unused "PERFDATA_VECTORLENGTH_OFFSET" private field.(ı„‰®úÿÿÿÿ
+Y
+java:S1068=">Remove this unused "PERFDATA_VECTORLENGTH_SIZE" private field.(Î¯İËøÿÿÿÿ
+W
+java:S1068>"<Remove this unused "PERFDATA_DATATYPE_OFFSET" private field.(é°Ã­ûÿÿÿÿ
+P
+java:S1068?":Remove this unused "PERFDATA_DATATYPE_SIZE" private field.(¦é–
+O
+java:S1068@"9Remove this unused "PERFDATA_FLAGS_OFFSET" private field.(¦ûÅï
+R
+java:S1068A"7Remove this unused "PERFDATA_FLAGS_SIZE" private field.(–ÆÖøÿÿÿÿ
+X
+java:S1068B"=Remove this unused "PERFDATA_DATAUNITS_OFFSET" private field.(×¤¨Áùÿÿÿÿ
+P
+java:S1068C";Remove this unused "PERFDATA_DATAUNITS_SIZE" private field.(•š
+R
+java:S1068D"<Remove this unused "PERFDATA_DATAATTR_OFFSET" private field.(ËûœŸ
+U
+java:S1068E":Remove this unused "PERFDATA_DATAATTR_SIZE" private field.(ç¨Ê¥úÿÿÿÿ

@@ -1,0 +1,45 @@
+
+p
+java:S2293Ä	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘èõ´
+j
+java:S1192€"SDefine a constant instead of duplicating this literal "// access flags 0x" 4 times.(‹¯Ñ“
+f
+java:S1192ø"ODefine a constant instead of duplicating this literal " // invisible
+" 3 times.(œïë²
+c
+java:S1192ç"GDefine a constant instead of duplicating this literal ".class" 4 times.(Ô°ÇÑşÿÿÿÿ
+h
+java:S1192ˆ"QDefine a constant instead of duplicating this literal "// declaration: " 4 times.(Ùê¾
+f
+java:S1192ş"ODefine a constant instead of duplicating this literal "// DEPRECATED
+" 3 times.(ÿëã®
+d
+java:S3824Æ	"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(«½¸
+
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜µ„Ëÿÿÿÿÿ
+
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûõµ˜ÿÿÿÿÿ
+˜
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Şí Í
+˜
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åãêù
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(Ò¿½Ÿùÿÿÿÿ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(ğì£ÿÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(ğ„”¥
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(²Éºµüÿÿÿÿ
+=
+java:S2129Ô"!Remove this "Integer" constructor(®§‹‡ıÿÿÿÿ
+8	java:S131ò""Add a default case to this switch.(ÜŸ•
+Q
+java:S6213¢":Rename this variable to not match a restricted identifier.(ÈÛ³§
+Q
+java:S1133À"5Do not forget to remove this deprecated code someday.(Ê…™ ùÿÿÿÿ
+D
+java:S1123À"(Add the missing @deprecated Javadoc tag.(Ê…™ ùÿÿÿÿ
+V
+java:S6213¤":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+8	java:S131Ù	""Add a default case to this switch.(¹ŠÒÓ
+8	java:S131¹
+""Add a default case to this switch.(ƒª›Ÿ
+8	java:S131˜""Add a default case to this switch.(§«à±

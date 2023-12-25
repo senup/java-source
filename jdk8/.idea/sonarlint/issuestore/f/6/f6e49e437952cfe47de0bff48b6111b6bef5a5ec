@@ -1,0 +1,19 @@
+
+Q	java:S110'"<This class has 6 parents which is greater than 5 authorized.(±Õ§Ò
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+U
+java:S11615":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+U
+java:S1161L":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+P
+java:S1161\":Add the "@Override" annotation above this method signature(Âõ¦È
+U
+java:S1161k":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(“œÄãùÿÿÿÿ
+P
+java:S1161}":Add the "@Override" annotation above this method signature(çé½Ì
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’

@@ -1,0 +1,50 @@
+
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙüŒŒùÿÿÿÿ
+\
+java:S1192„"FDefine a constant instead of duplicating this literal "short" 4 times.(õÈ¿0
+]
+java:S1192Ç"FDefine a constant instead of duplicating this literal "try {" 6 times.(±Ê
+c
+java:S1192Œ"GDefine a constant instead of duplicating this literal "double" 4 times.(‡ÎÅšþÿÿÿÿ
+~
+java:S1192…"bDefine a constant instead of duplicating this literal "} catch (java.io.IOException e) {" 4 times.(™úŸËüÿÿÿÿ
+h
+java:S1192†"LDefine a constant instead of duplicating this literal "throw new " 10 times.(ðÇ½¬úÿÿÿÿ
+d
+java:S1192õ"HDefine a constant instead of duplicating this literal "$result" 3 times.(úéñÕüÿÿÿÿ
+b
+java:S1192Š"FDefine a constant instead of duplicating this literal "float" 4 times.(ÃÞç•þÿÿÿÿ
+_
+java:S1192Œ"HDefine a constant instead of duplicating this literal "public " 4 times.(‰£ß
+d
+java:S1192þ"HDefine a constant instead of duplicating this literal "boolean" 4 times.(¬Í†ìýÿÿÿÿ
+`
+java:S1192ù"IDefine a constant instead of duplicating this literal "} else {" 3 times.(Õëƒå
+t	java:S135Û"YReduce the total number of break and continue statements in this loop to use at most one.(ò“³Öýÿÿÿÿ
+3
+java:S1643é"Use a StringBuilder instead.(Ï¶ôŽ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Öê’¹
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ëÅùäúÿÿÿÿ
+i
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ØÒ–Ž
+A
+java:S1197¡"*Move the array designators [] to the type.(Úé”ù
+T
+java:S1155Ù">Use isEmpty() to check whether the collection is empty or not.(ðÝœZ
+T
+java:S1155²">Use isEmpty() to check whether the collection is empty or not.(ðÝœZ
+W
+java:S1119Ú";Refactor the code to remove this label and the need for it.(˜ç®˜ýÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(‰¦ößþÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(µ‚’µ
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì‡×Ù
+A
+java:S1197“"*Move the array designators [] to the type.(¡Ø¹Ô
+A
+java:S1197”"*Move the array designators [] to the type.(Úé”ù
+A
+java:S1197¬"*Move the array designators [] to the type.(¡Ø¹Ô

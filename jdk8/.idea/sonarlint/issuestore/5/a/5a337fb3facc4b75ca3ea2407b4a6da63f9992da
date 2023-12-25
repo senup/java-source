@@ -1,0 +1,9 @@
+
+P
+java:S1191I"5Use classes from the Java API instead of Sun classes.(êÐ­³üÿÿÿÿ
+k
+java:S1206_"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+P
+java:S1161G":Add the "@Override" annotation above this method signature(Á»›ê
+U
+java:S1161_":Add the "@Override" annotation above this method signature(Ý¢êÍýÿÿÿÿ

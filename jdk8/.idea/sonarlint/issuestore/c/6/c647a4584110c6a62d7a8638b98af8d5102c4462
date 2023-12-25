@@ -1,0 +1,46 @@
+
+Q
+java:S1141‡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604¬"(Make this anonymous inner class a lambda(¥±½%
+h	java:S101—"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·¢Ù¯ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨ùÕ¥
+n	java:S115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Â‹9
+o	java:S115V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±›‚
+o	java:S115`"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½Ëí§
+u	java:S116l"[Rename this field "hashToMethod_Map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¨³ùÿÿÿÿ
+
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ìúÿÿÿÿ
+
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºµ³‰ıÿÿÿÿ
+G
+java:S1172½"+Remove this unused method parameter "data".(ù§¼Ïûÿÿÿÿ
+i
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÎŒ‹
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(Æ˜Ú
+\
+java:S2147¹"ECombine this catch with the one at line 310, which has the same body.(ıàÑÎ
+D	java:S108")Either remove or fill this block of code.(¥½øÂùÿÿÿÿ
+?	java:S108Û")Either remove or fill this block of code.(³»¢Ç
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(¬‚ï
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(ÄÌÓÂøÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(ºµ³‰ıÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(À½–ç
+H
+java:S3011®",This accessibility update should be removed.(íË©¶úÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’

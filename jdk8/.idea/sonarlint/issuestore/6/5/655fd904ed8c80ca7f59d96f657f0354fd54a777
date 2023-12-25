@@ -1,0 +1,50 @@
+
+o
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¿ý#
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¬®ˆ
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¬®ˆ
+3
+java:S1643†"Use a StringBuilder instead.(œˆñÆ
+W
+java:S4973d"<Strings and Boxed types should be compared using "equals()".(Ï•»ýÿÿÿÿ
+R
+java:S4973†"<Strings and Boxed types should be compared using "equals()".(®¤Æk
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(®¤Æk
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+@
+java:S1197-"*Move the array designators [] to the type.(ŽÌæ
+E
+java:S1197."*Move the array designators [] to the type.(‹µÎ„ýÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(«Òœ
+G
+java:S5261†"1Add explicit curly braces to avoid dangling else.(®¤Æk
+G
+java:S5261"1Add explicit curly braces to avoid dangling else.(®¤Æk
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŠëžÕûÿÿÿÿ
+V
+java:S1161ß":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(˜®²Ñûÿÿÿÿ
+P
+java:S2864œ"4Iterate over the "entrySet" instead of the "keySet".(Ñ×Œƒûÿÿÿÿ
+2
+java:S3626Î"Remove this redundant jump.(ûÁÝ…
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(«áî›ûÿÿÿÿ
+h
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(á°¤"
+F
+java:S1197À"*Move the array designators [] to the type.(¼ÁÒüùÿÿÿÿ
+W
+java:S1119È";Refactor the code to remove this label and the need for it.(¶µúƒýÿÿÿÿ
+=	java:S131Ê""Add a default case to this switch.(îÇËúÿÿÿÿ
+A
+java:S1197å"*Move the array designators [] to the type.(ÿè¥Ü
+<
+java:S2129ü" Remove this "String" constructor(ÅÃµïýÿÿÿÿ

@@ -1,0 +1,24 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÕÑ£
+g
+java:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(©Øûºûÿÿÿÿ
+=
+java:S1168ö"&Return an empty array instead of null.(¥¹ï
+=
+java:S2129›"!Remove this "Integer" constructor(É¾Ë½øÿÿÿÿ
+5
+java:S2129©"Remove this "Long" constructor(€ÿÕÊ
+6
+java:S2129¸"Remove this "Float" constructor(ÌñŞ‚
+<
+java:S2129Ç" Remove this "Double" constructor(Œä‘ßûÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(Ä²Ç—
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(İØÙŒıÿÿÿÿ
+=	java:S131®""Add a default case to this switch.(ğ™øŞøÿÿÿÿ
+=	java:S131""Add a default case to this switch.(ğ™øŞøÿÿÿÿ
+=	java:S131ß""Add a default case to this switch.(©Øûºûÿÿÿÿ
+=	java:S131ë""Add a default case to this switch.(©Øûºûÿÿÿÿ
+n
+java:S3776ë	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯ÛÚåúÿÿÿÿ

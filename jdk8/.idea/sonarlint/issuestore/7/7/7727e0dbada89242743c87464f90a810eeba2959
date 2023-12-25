@@ -1,0 +1,83 @@
+
+a	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(ï¹¨ÿÿÿÿÿ
+\	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ä«Š
+\	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(ä«Š
+a	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(™´œåüÿÿÿÿ
+\	java:S112­	"FDefine and throw a dedicated exception instead of using a generic one.(ä«Š
+a	java:S112À	"FDefine and throw a dedicated exception instead of using a generic one.(™´œåüÿÿÿÿ
+\	java:S112î	"FDefine and throw a dedicated exception instead of using a generic one.(ä«Š
+\	java:S112“
+"FDefine and throw a dedicated exception instead of using a generic one.(ä«Š
+^
+java:S1192³"GDefine a constant instead of duplicating this literal ".class" 3 times.(ÒÕá
+]
+java:S1192ù"FDefine a constant instead of duplicating this literal "try {" 6 times.(±Ê
+~
+java:S1192½"bDefine a constant instead of duplicating this literal "} catch (java.io.IOException e) {" 4 times.(™úŸËüÿÿÿÿ
+h
+java:S1192¾"LDefine a constant instead of duplicating this literal "throw new " 10 times.(êŸ¯ ıÿÿÿÿ
+d
+java:S1192­"HDefine a constant instead of duplicating this literal "$result" 3 times.(úéñÕüÿÿÿÿ
+_
+java:S1192Ç"HDefine a constant instead of duplicating this literal "public " 4 times.(îñğâ
+`
+java:S1192±"IDefine a constant instead of duplicating this literal "} else {" 3 times.(Õëƒå
+n
+java:S1192°"WDefine a constant instead of duplicating this literal "unexpected type code: " 5 times.(ä«Š
+t	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(ªŞ“ÿÿÿÿÿ
+n	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(º’µ
+K
+java:S1066Ò"/Merge this if statement with the enclosing one.(Òí›Öúÿÿÿÿ
+P
+java:S1191!"5Use classes from the Java API instead of Sun classes.(‚ÙÊ¥ùÿÿÿÿ
+l
+java:S1149@"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÚÊéí
+|
+java:S1149Š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ôØ¹
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ÕŠÁüÿÿÿÿ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃÎõ­ÿÿÿÿÿ
+7
+java:S2129B"!Remove this "Integer" constructor(ĞÀŒÀ
+7
+java:S2129C"!Remove this "Integer" constructor( ñÓÅ
+<
+java:S2129D"!Remove this "Integer" constructor(ÁîÓ¬ıÿÿÿÿ
+E
+java:S1197U"*Move the array designators [] to the type.(¹óĞÜùÿÿÿÿ
+[
+java:S1117v"@Rename "remoteClass" which hides the field declared at line 230.(™¹ê´ıÿÿÿÿ
+2
+java:S3626§"Remove this redundant jump.(ûÁİ…
+V	java:S899µ";Do something with the "boolean" value returned by "delete".(ñ®áŸıÿÿÿÿ
+j
+java:S4042µ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ñ®áŸıÿÿÿÿ
+V	java:S899¶";Do something with the "boolean" value returned by "delete".(ƒ†Û¨ûÿÿÿÿ
+j
+java:S4042¶"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ƒ†Û¨ûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(àªÓ…ÿÿÿÿÿ
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ØÒ–
+A
+java:S1197Ü"*Move the array designators [] to the type.(ÃŒÚ£
+A
+java:S1197İ"*Move the array designators [] to the type.(Úé”ù
+T
+java:S1155‘">Use isEmpty() to check whether the collection is empty or not.(ğİœZ
+T
+java:S1155é">Use isEmpty() to check whether the collection is empty or not.(ğİœZ
+W
+java:S1119”";Refactor the code to remove this label and the need for it.(˜ç®˜ıÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(Œ¦­¸
+i
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅÜ÷·
+A
+java:S1197Ï"*Move the array designators [] to the type.(ÃŒÚ£
+A
+java:S1197Ğ"*Move the array designators [] to the type.(Úé”ù
+A
+java:S1197æ"*Move the array designators [] to the type.(ÃŒÚ£
+D
+java:S1068ö"(Remove this unused "cdef" private field.(ÌŠ…ïşÿÿÿÿ

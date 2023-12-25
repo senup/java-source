@@ -1,0 +1,11 @@
+
+t
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q	java:S125E"<This block of commented-out lines of code should be removed.(†€éˆ
+U
+java:S1117J":Rename "buffer" which hides the field declared at line 43.(•˜¼äÿÿÿÿÿ
+M
+java:S1117K"7Rename "ais" which hides the field declared at line 42.(ŸçÞ×
+W
+java:S1117L"BRename "sourceDataLine" which hides the field declared at line 40.(þ¢Ë?
+Q	java:S125X"<This block of commented-out lines of code should be removed.(†€éˆ

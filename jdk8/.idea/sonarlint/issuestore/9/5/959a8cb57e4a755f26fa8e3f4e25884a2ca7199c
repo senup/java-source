@@ -1,0 +1,209 @@
+
+t
+java:S1192‘"XDefine a constant instead of duplicating this literal "Referral limit exceeded" 3 times.(ÎÇæ¶øÿÿÿÿ
+f
+java:S1192ƒ"PDefine a constant instead of duplicating this literal "(objectClass=*)" 4 times.(ê¼a
+J
+java:S1121æ".Extract the assignment out of this expression.(ÑûæÕşÿÿÿÿ
+t	java:S135ú"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(Î”‘‹
+€
+java:S1319–"dThe type of "props" should be an interface such as "Map" rather than the implementation "Hashtable".(¡—Æ‚úÿÿÿÿ
+Q
+java:S1141î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¦“íıÿÿÿÿ
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜®¿üÿÿÿÿ
+g	java:S117ã
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öœÆö
+l	java:S117ğ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç’ôğüÿÿÿÿ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åú¨ùüÿÿÿÿ
+l	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÖ‰èüÿÿÿÿ
+V	java:S110\"<This class has 6 parents which is greater than 5 authorized.(ÂÁí¤ûÿÿÿÿ
+S
+java:S4973Ò"<Strings and Boxed types should be compared using "equals()".(‚†àµ
+[
+java:S2259Œ"?A "NullPointerException" could be thrown; "e" is nullable here.(ÏÊëÍûÿÿÿÿ
+t	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+l	java:S116ß"VRename this field "port_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å­è
+|
+java:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Š„“ı
+
+java:S1149ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û‹«úÿÿÿÿ
+
+java:S1149ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û‹«úÿÿÿÿ
+
+java:S1149ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û‹«úÿÿÿÿ
+
+java:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌˆÙãúÿÿÿÿ
+
+java:S1149»
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌˆÙãúÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(À€•ƒ
+|
+java:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒº´â
+
+java:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­üÆúÿÿÿÿ
+
+java:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­üÆúÿÿÿÿ
+|
+java:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ş—µ
+`
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(ÂÁí¤ûÿÿÿÿ
+[
+java:S1124b"EReorder the modifiers to comply with the Java Language Specification.(™³½
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(È¦“íıÿÿÿÿ
+>
+java:S1125à"'Remove the unnecessary boolean literal.(Û¥¦ƒ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(­„µâøÿÿÿÿ
+2
+java:S3626¸"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¼"Remove this redundant jump.(ÉŠ©ƒ
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(«¼ÎÔ
+i
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ï·âß
+2
+java:S3626Ú"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Ş"Remove this redundant jump.(ÉŠ©ƒ
+D	java:S108ğ")Either remove or fill this block of code.(‰äİşÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ï¼œ“ıÿÿÿÿ
+V
+java:S1161ğ":Add the "@Override" annotation above this method signature(„ˆÏ·ÿÿÿÿÿ
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+2
+java:S3626“"Remove this redundant jump.(ÉŠ©ƒ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ıÃèî
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(ıÃèî
+2
+java:S3626÷"Remove this redundant jump.(ûÁİ…
+2
+java:S3626û"Remove this redundant jump.(ÉŠ©ƒ
+C
+java:S1659¨"'Declare "newParsed" on a separate line.(½ßÊĞÿÿÿÿÿ
+=
+java:S1659©"'Declare "newParent" on a separate line.(İ™Ü$
+R	java:S125­"<This block of commented-out lines of code should be removed.(È¸îÀ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(îŸ¯
+2
+java:S3626Ä"Remove this redundant jump.(ÉŠ©ƒ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(øÒ£Ì
+2
+java:S3626õ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626ø"Remove this redundant jump.(ÉŠ©ƒ
+D	java:S108Û")Either remove or fill this block of code.(ˆê¥ÿıÿÿÿÿ
+P
+java:S1161ò":Add the "@Override" annotation above this method signature(Û”‘g
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ú¨á»
+Q
+java:S1161÷":Add the "@Override" annotation above this method signature(ú¨á»
+2
+java:S3626°"Remove this redundant jump.(ÉŠ©ƒ
+V
+java:S1161Ë":Add the "@Override" annotation above this method signature(‘ôèÏşÿÿÿÿ
+2
+java:S3626÷"Remove this redundant jump.(ÉŠ©ƒ
+P
+java:S1905„	"9Remove this unnecessary cast to "LimitExceededException".(‰å–™
+U
+java:S1905Œ	"9Remove this unnecessary cast to "PartialResultException".(¡¥à©şÿÿÿÿ
+V
+java:S1161”	":Add the "@Override" annotation above this method signature(÷æú“ÿÿÿÿÿ
+2
+java:S3626»	"Remove this redundant jump.(ÉŠ©ƒ
+]
+java:S2147É	"FCombine this catch with the one at line 1218, which has the same body.(¸ìÆ
+Q
+java:S1161Ø	":Add the "@Override" annotation above this method signature(É¿Ä­
+V
+java:S1161ä	":Add the "@Override" annotation above this method signature(µİ¸Üøÿÿÿÿ
+2
+java:S3626Ö
+"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+2
+java:S3626’"Remove this redundant jump.(ûÁİ…
+2
+java:S3626–"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Ô"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Ø"Remove this redundant jump.(ÉŠ©ƒ
+I
+java:S1905¨"-Remove this unnecessary cast to "DirContext".(©ÆôÛşÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(“û¢üÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(ö·Ğôùÿÿÿÿ
+i	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óá†ƒûÿÿÿÿ
+n
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÉÍüÓıÿÿÿÿ
+2
+java:S3626Î"Remove this redundant jump.(ÉŠ©ƒ
+]
+java:S2147İ"FCombine this catch with the one at line 1878, which has the same body.(¸ìÆ
+R	java:S125®"<This block of commented-out lines of code should be removed.(ş§é­
+`
+java:S3358³"DExtract this nested ternary operation into an independent statement.(Ø„Üªşÿÿÿÿ
+>
+java:S1125Æ"'Remove the unnecessary boolean literal.(Ş’›õ
+F
+java:S1197ì"*Move the array designators [] to the type.(Ö’…¼ıÿÿÿÿ
+]
+java:S1126ú"AReplace this if-then-else statement by a single return statement.(÷ÃŸ¡ûÿÿÿÿ
+F
+java:S1197ˆ"*Move the array designators [] to the type.(©‰ßœıÿÿÿÿ
+Q
+java:S1161á":Add the "@Override" annotation above this method signature(ˆŞ¿ø
+8	java:S131ô""Add a default case to this switch.(§Ê¯Á
+8	java:S131¿""Add a default case to this switch.(§Ê¯Á
+Œ
+java:S1130¨"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(â •
+B
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+I
+java:S1113³"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+\
+java:S1124»"EReorder the modifiers to comply with the Java Language Specification.(¢ö¨é
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(¤»ÉÍ
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Üƒ¨Ã
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(™şÇ…
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(¿‰÷Çÿÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(×§Æÿ
+7
+java:S3626—"Remove this redundant jump.(·ğ§Ìùÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ƒø–Ü
+R	java:S125ß"<This block of commented-out lines of code should be removed.(ıÈØ
+T
+java:S1117õ"8Rename "url" which hides the field declared at line 269.(Ïêˆ²üÿÿÿÿ
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(¨ÔãÙ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(„ş”ıÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(¤«×è
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Ø‰÷ÿÿÿÿÿ
+2
+java:S3626â"Remove this redundant jump.(ÉŠ©ƒ
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168¼"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ï"&Return an empty array instead of null.(¥¹ï
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(µ¾Îšøÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(Î²ö…üÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(Œ¬¸ïùÿÿÿÿ

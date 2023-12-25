@@ -1,0 +1,79 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+n	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öİê
+T
+java:S59934"9Change the visibility of this constructor to "protected".(ŠªÅœÿÿÿÿÿ
+o	java:S115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œŠóÿ
+t	java:S115L"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó–¿¾øÿÿÿÿ
+o	java:S115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“çØÏ
+g	java:S116C"RRename this field "SODesig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾†Ó·
+h	java:S116D"SRename this field "SS2Desig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëª‡Ç
+h	java:S116E"SRename this field "SS3Desig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙñÆø
+n	java:S116G"TRename this field "SODecoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×„¾ÿÿÿÿÿ
+o	java:S116H"URename this field "SS2Decoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ëèúşÿÿÿÿ
+o	java:S116I"URename this field "SS3Decoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÌúÉÿÿÿÿÿ
+a
+java:S1659O"FDeclare "curSS2Des" and all following declarations on a separate line.(À÷ÜÂüÿÿÿÿ
+B
+java:S1197C",Move the array designators [][] to the type.(¾†Ó·
+B
+java:S1197D",Move the array designators [][] to the type.(ëª‡Ç
+B
+java:S1197E",Move the array designators [][] to the type.(ÙñÆø
+E
+java:S1197G"*Move the array designators [] to the type.(×„¾ÿÿÿÿÿ
+E
+java:S1197H"*Move the array designators [] to the type.(²ëèúşÿÿÿÿ
+E
+java:S1197I"*Move the array designators [] to the type.(¾ÌúÉÿÿÿÿÿ
+E
+java:S1197Q"*Move the array designators [] to the type.(Šª÷Üÿÿÿÿÿ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+<
+java:S1659f"&Declare "tmpIndex" on a separate line.(âìå…
+<	java:S131h""Add a default case to this switch.(ã”™¡üÿÿÿÿ
+D	java:S108€")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+[
+java:S1659¶"?Declare "b2" and all following declarations on a separate line.(ŸÌÅºÿÿÿÿÿ
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+[
+java:S1659œ"?Declare "b2" and all following declarations on a separate line.(ŸÌÅºÿÿÿÿÿ
+d	java:S116Š"NRename this field "MSB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú©Íø
+m	java:S116"RRename this field "SODesig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µƒü¼ûÿÿÿÿ
+i	java:S116"SRename this field "SS2Desig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğúæï
+n	java:S116"SRename this field "SS3Desig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ÿğşùÿÿÿÿ
+k	java:S116’"URename this field "ISOEncoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥éÙè
+r	java:S116•"WRename this field "SODesDefined" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¯éõşÿÿÿÿ
+s	java:S116–"XRename this field "SS2DesDefined" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œƒ‹øÿÿÿÿ
+n	java:S116—"XRename this field "SS3DesDefined" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ºÒı
+8
+java:S1170Œ"!Make this final field static too.(Á´¢Ú
+\
+java:S1659"EDeclare "SS2Desig" and all following declarations on a separate line.(ğúæï
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ù‰±ºşÿÿÿÿ
+F
+java:S1197­"*Move the array designators [] to the type.(Ù‰±ºşÿÿÿÿ
+F
+java:S1197°"*Move the array designators [] to the type.(²ÍˆÅûÿÿÿÿ
+F
+java:S1197±"*Move the array designators [] to the type.(¹úÉªıÿÿÿÿ
+A
+java:S1197²"*Move the array designators [] to the type.(ÿÿ¡Ø
+i
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(”Î¡½
+h
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºÖÂ
+J
+java:S1481¹".Remove this unused "inputSize" local variable.(³‹œÂşÿÿÿÿ
+>
+java:S1068Š"'Remove this unused "MSB" private field.(ú©Íø

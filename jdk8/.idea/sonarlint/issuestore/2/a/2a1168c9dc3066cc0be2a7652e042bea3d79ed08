@@ -1,0 +1,17 @@
+
+F
+java:S1066ı"/Merge this if statement with the enclosing one.(·™²Ÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+S
+java:S16106"=Convert the abstract class "ImageAccessor" into an interface.(¸Ó²‡
+[
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(¸Ó²‡
+O
+java:S2168}"9Remove this dangerous instance of double-checked locking.(Û­¨
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(’—Úó
+F
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Q
+java:S1128'";Remove this unused import 'sun.java2d.loops.CompositeType'.(œéÔ

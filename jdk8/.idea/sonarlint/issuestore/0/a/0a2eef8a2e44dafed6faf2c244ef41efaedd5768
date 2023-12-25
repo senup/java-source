@@ -1,0 +1,15 @@
+
+p
+java:S1104("ZMake colorSpaceType a static final constant or non-public and provide accessors if needed.(Êñ×’
+o
+java:S1104("YMake numComponents a static final constant or non-public and provide accessors if needed.(Êñ×’
+n
+java:S1104("XMake profileClass a static final constant or non-public and provide accessors if needed.(Êñ×’
+j
+java:S1104)"TMake filename a static final constant or non-public and provide accessors if needed.(ƒ °Œ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(×¨Ÿ2
+S
+java:S4929&"=Provide an override of "read(byte[],int,int)" for this class.(Ú—‡™
+`
+java:S1659("JDeclare "numComponents" and all following declarations on a separate line.(Êñ×’

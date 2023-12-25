@@ -1,0 +1,10 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(≥”·H
+Q	java:S1252"<This block of commented-out lines of code should be removed.(œªŒ€
+e
+java:S32524"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(∂∏¸¸
+f
+java:S32527"PUse static access with "sun.java2d.pipe.BufferedContext" for "NO_CONTEXT_FLAGS".(æ‰ú⁄
+U
+java:S1161B":Add the "@Override" annotation above this method signature(¬¢◊≤¸ˇˇˇˇ

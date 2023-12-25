@@ -1,0 +1,17 @@
+
+[	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+[	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+[	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+>
+java:S16043"(Make this anonymous inner class a lambda(Èú†
+>
+java:S1604'"(Make this anonymous inner class a lambda(ÈØ¿»
+>
+java:S1604h"(Make this anonymous inner class a lambda(ÈØ¿»
+0
+java:S1220""Move this file to a named package.
+m
+java:S3077$"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ó–š‹
+E
+java:S1197&"*Move the array designators [] to the type.(ùï¾Žÿÿÿÿÿ

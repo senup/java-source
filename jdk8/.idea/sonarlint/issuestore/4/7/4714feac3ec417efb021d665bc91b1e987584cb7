@@ -1,0 +1,54 @@
+
+K
+java:S3740ø"/Provide the parametrized type for this generic.( ™‘ºÿÿÿÿÿ
+K
+java:S3740å"/Provide the parametrized type for this generic.(‘“™Ôûÿÿÿÿ
+K
+java:S3740å"/Provide the parametrized type for this generic.(‘“™Ôûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿ¶‡´ùÿÿÿÿ
+U
+java:S5993“"9Change the visibility of this constructor to "protected".(‰¨Å»ÿÿÿÿÿ
+R	java:S107¬"<Method has 9 parameters, which is greater than 7 authorized.(¯Ë
+a
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(ƒÏñ£ıÿÿÿÿ
+a
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(¨Œ•½üÿÿÿÿ
+a
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(ê©Á“úÿÿÿÿ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(áá¢ƒùÿÿÿÿ
+g
+java:S2886ª"KSynchronize this method to match the synchronization on "setTargetActions".(çŠ‚¦şÿÿÿÿ
+i
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÂÍ¡Ø
+c
+java:S3252®"GUse static access with "java.awt.event.MouseEvent" for "MOUSE_ENTERED".(¦É¶ôşÿÿÿÿ
+b
+java:S3252é"FUse static access with "java.awt.event.MouseEvent" for "MOUSE_EXITED".(‰·ğùÿÿÿÿ
+^
+java:S3252¬"GUse static access with "java.awt.event.MouseEvent" for "MOUSE_DRAGGED".(’¸¼ù
+h
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(™Ïu
+M
+java:S1854¸"6Remove this useless assignment to local variable "id".(á¢ŞÃ
+>
+java:S1481¸"'Remove this unused "id" local variable.(á¢ŞÃ
+L
+java:S1905×"5Remove this unnecessary cast to "DropTargetListener".(â¨ßğ
+>
+java:S1125¢"'Remove the unnecessary boolean literal.(–’Õ
+^
+java:S3252ş"GUse static access with "java.awt.event.MouseEvent" for "MOUSE_ENTERED".(ª‘ô§
+^
+java:S3252"GUse static access with "java.awt.event.MouseEvent" for "MOUSE_DRAGGED".(İÒøÆ
+]
+java:S3252„"FUse static access with "java.awt.event.MouseEvent" for "MOUSE_EXITED".(›˜§ı
+N
+java:S1144§"7Remove this unused private "handleEnterMessage" method.(®œõğ
+M
+java:S1144á"6Remove this unused private "handleExitMessage" method.(Ì½ã»
+T
+java:S1144¥"8Remove this unused private "handleMotionMessage" method.(’üŞìúÿÿÿÿ
+R
+java:S1144î"6Remove this unused private "handleDropMessage" method.(æÂ€ëıÿÿÿÿ

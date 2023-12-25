@@ -1,0 +1,41 @@
+
+F
+java:S3740”"/Provide the parametrized type for this generic.(…ÍÁ¦
+j
+java:S1192­"NDefine a constant instead of duplicating this literal "null category" 3 times.(ëá˜Îúÿÿÿÿ
+K
+java:S1066´"/Merge this if statement with the enclosing one.(íáôİÿÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+o
+java:S3008O"TRename this field "MAXCOPIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖîÚ±üÿÿÿÿ
+@
+java:S1197Q"*Move the array designators [] to the type.(ëøéÉ
+1
+java:S3626y"Remove this redundant jump.(ûÁİ…
+1
+java:S3626~"Remove this redundant jump.(ûÁİ…
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ïÿòõ
+<
+java:S1659Ş" Declare "ih" on a separate line.(·üè¬ıÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¡‡™Ï
+W	java:S125“"<This block of commented-out lines of code should be removed.(½ÂÍ¯øÿÿÿÿ
+`
+java:S4201¸"IRemove this unnecessary null check; "instanceof" returns false for nulls.(²œ¼ş
+^
+java:S3252Á"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(›ù ”
+c
+java:S3252Â"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(œñ­Äıÿÿÿÿ
+c
+java:S3252Ñ"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(òÁÎ«şÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(†Ç‰¥şÿÿÿÿ
+d
+java:S1871Ò"MThis branch's code block is the same as the block for the branch on line 463.(•öîÍ
+?	java:S108Õ")Either remove or fill this block of code.(ğıˆÒ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+X
+java:S1128#"BRemove this unused import 'javax.print.StreamPrintServiceFactory'.(ç»Ñï

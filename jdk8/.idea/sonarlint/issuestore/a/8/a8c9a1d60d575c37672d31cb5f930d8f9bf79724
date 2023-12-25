@@ -1,0 +1,36 @@
+
+o
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û°ª 
+o
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(â×¬»
+t
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊØ†šşÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´´–Ú
+b
+java:S1192"FDefine a constant instead of duplicating this literal "empty" 8 times.(‘¡ôûÿÿÿÿ
+t	java:S115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÏÃıÿÿÿÿ
+g
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸É
+O
+java:S1161R":Add the "@Override" annotation above this method signature(¸É
+\
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(Ş³—®
+\
+java:S2147‘"ECombine this catch with the one at line 141, which has the same body.(€àÈ„
+\
+java:S2147“"ECombine this catch with the one at line 141, which has the same body.(¹ƒ›×
+a
+java:S2147•"ECombine this catch with the one at line 141, which has the same body.(µç‡Šúÿÿÿÿ
+\
+java:S2147—"ECombine this catch with the one at line 141, which has the same body.(¶ùø
+\
+java:S2147™"ECombine this catch with the one at line 141, which has the same body.(Ãôş•
+\
+java:S2147›"ECombine this catch with the one at line 141, which has the same body.(‚°„–
+E
+java:S1197a"*Move the array designators [] to the type.(¦àûÇÿÿÿÿÿ
+I
+java:S1135Ã"2Complete the task associated to this TODO comment.(ìî°ş
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ëª€îúÿÿÿÿ

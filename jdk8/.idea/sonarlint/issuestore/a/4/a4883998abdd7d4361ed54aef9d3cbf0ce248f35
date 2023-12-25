@@ -1,0 +1,22 @@
+
+o	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üŞ½¸
+O
+java:S59935"9Change the visibility of this constructor to "protected".(Ùäó½
+T
+java:S5993?"9Change the visibility of this constructor to "protected".(½¢éøÿÿÿÿ
+T
+java:S5993I"9Change the visibility of this constructor to "protected".(¹ª½‡ùÿÿÿÿ
+O
+java:S5993S"9Change the visibility of this constructor to "protected".(õÈÀİ
+P
+java:S1161]":Add the "@Override" annotation above this method signature(ÒÅ™Ş
+U
+java:S1161e":Add the "@Override" annotation above this method signature(Û¬–’ùÿÿÿÿ
+\
+java:S1126f"AReplace this if-then-else statement by a single return statement.(Ï¥íºùÿÿÿÿ
+P
+java:S1161p":Add the "@Override" annotation above this method signature(‰˜ã¶
+\
+java:S1126q"AReplace this if-then-else statement by a single return statement.(Ï¥íºùÿÿÿÿ
+[
+java:S1124|"EReorder the modifiers to comply with the Java Language Specification.(üŞ½¸

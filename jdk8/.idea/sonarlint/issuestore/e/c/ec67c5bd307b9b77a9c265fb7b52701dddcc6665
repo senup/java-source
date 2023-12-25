@@ -1,0 +1,28 @@
+
+o
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦’"
+D
+java:S1948b")Make "entries" transient or serializable.(˜…âıÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(çï¹øÿÿÿÿÿ
+„
+java:S3038¨"h"createNewEntry" is defined in the "SnmpTableEntryFactory" interface and can be removed from this class.(óØ‚ìúÿÿÿÿ
+?	java:S108è")Either remove or fill this block of code.(”ı¾
+A
+java:S1197±"*Move the array designators [] to the type.(Ã¤ å
+R	java:S125 "<This block of commented-out lines of code should be removed.(Æ¬¢
+=
+java:S1168«"&Return an empty array instead of null.(‹õÂ”
+A
+java:S1128!"+Remove this unused import 'java.util.Date'.(¸…¼ü
+H
+java:S1128""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+H
+java:S1128#"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+U
+java:S1128)":Remove this unused import 'javax.management.Notification'.(š¸“­üÿÿÿÿ
+[
+java:S1128-"ERemove this unused import 'javax.management.NotificationBroadcaster'.(á´ö´
+M
+java:S11281"7Remove this unused import 'com.sun.jmx.snmp.SnmpValue'.(±úì¦
+O
+java:S11282"9Remove this unused import 'com.sun.jmx.snmp.SnmpVarBind'.(¦ôÛ°

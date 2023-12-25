@@ -1,0 +1,18 @@
+
+a	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(¿ªÜ¬þÿÿÿÿ
+t
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ûã·ùÿÿÿÿ
+F
+java:S1066‰"/Merge this if statement with the enclosing one.(–Ï’ø
+Q
+java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+[
+java:S2583™"DChange this condition so that it does not always evaluate to "false"(õÞÃÛ
+k
+java:S1149S"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ôç´šþÿÿÿÿ
+P
+java:S1118-":Add a private constructor to hide the implicit public one.(êà†þ
+m
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¤²Èýÿÿÿÿÿ

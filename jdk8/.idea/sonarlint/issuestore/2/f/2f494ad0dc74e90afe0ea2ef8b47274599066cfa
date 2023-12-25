@@ -1,0 +1,104 @@
+
+o
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÅW
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ ±ûÿÿÿÿ
+D
+java:S1604¯"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
+K
+java:S1191("5Use classes from the Java API instead of Sun classes.(Ãíæı
+€
+java:S3008B"eRename this field "WITH_ACCELERATOR_PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨—î“ùÿÿÿÿ
+o
+java:S3008C"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òš˜üşÿÿÿÿ
+n
+java:S3008D"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”©şúÿÿÿÿ
+n
+java:S3008F"XRename this field "PREF_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åãõ
+m
+java:S3008G"XRename this field "ZERO_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊêF
+n
+java:S3008I"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ñ‡ıÿÿÿÿ
+z
+java:S1149|"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(“Êûşÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(Êœˆÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(“Ñ™î
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ú¯ü¼üÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(Ú¯ü¼üÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(Ú¯ò©
+_
+java:S3252š"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ü–Ÿúÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(×õ‡ê
+V
+java:S1161³":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¶”ú¶øÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+X
+java:S3252«"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(÷»
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+D
+java:S1172ş"(Remove this unused method parameter "e".(ôš×Éûÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(Ç¦¡ş
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+n
+java:S2177¥"WRename this method; there is a "private" method in the parent class with the same name.(ÕÅ´õ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(Ã÷´
+V
+java:S1161®":Add the "@Override" annotation above this method signature(×ÃàÅüÿÿÿÿ
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(’Æ•Ûûÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(ñÈ˜š
+X
+java:S3252ÿ"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ôÄ¸‡
+\
+java:S3252€"@Use static access with "java.awt.Component" for "TOP_ALIGNMENT".(¯®‡»øÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+P
+java:S1161û":Add the "@Override" annotation above this method signature(÷²«k
+`
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö×…¶
+@
+java:S1948")Make "filters" transient or serializable.(¸¬ÇË
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(Áª¬Çúÿÿÿÿ

@@ -1,0 +1,41 @@
+
+q
+java:S1192¤"UDefine a constant instead of duplicating this literal "generic.EmptyMessage" 4 times.(µ–öëıÿÿÿÿ
+{
+java:S1488‹"dImmediately return this expression instead of assigning it to the temporary variable "uriNewNoFrag".(¬õ¯¦
+n	java:S115L"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü·Ñ=
+t	java:S115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ—”Õüÿÿÿÿ
+o	java:S115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ¸“ü
+t	java:S115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úù—¤üÿÿÿÿ
+t	java:S115X"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘è˜ãüÿÿÿÿ
+t	java:S115["ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ëÒßşÿÿÿÿ
+S
+java:S2387E"="properties" is the name of a field in "ResourceResolverSpi".(Ìßá
+@
+java:S1197E"*Move the array designators [] to the type.(Ìßá
+H
+java:S1135j"2Complete the task associated to this TODO comment.(Äû€
+[
+java:S2147¥"ECombine this catch with the one at line 163, which has the same body.(ÎËŠ
+\
+java:S2147§"ECombine this catch with the one at line 163, which has the same body.(Ãôş•
+Z
+java:S4719…">Replace charset name argument with StandardCharsets.ISO_8859_1(õ§òÂıÿÿÿÿ
+O
+java:S2647‰"3Use a more secure method than basic authentication.(èŸÎ¦øÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(óø×›ÿÿÿÿÿ
+g
+java:S3457š"KFormat specifiers or lambda should be used instead of string concatenation.(ÜëÙüÿÿÿÿ
+Z
+java:S4719Å">Replace charset name argument with StandardCharsets.ISO_8859_1(ß´Ÿ¨ÿÿÿÿÿ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(–ƒÈ
+b
+java:S3457ç"KFormat specifiers or lambda should be used instead of string concatenation.(ó²œ±
+b
+java:S3457í"KFormat specifiers or lambda should be used instead of string concatenation.(°çü
+b
+java:S3457ó"KFormat specifiers or lambda should be used instead of string concatenation.(è×Á–
+Q
+java:S1161ü":Add the "@Override" annotation above this method signature(Ç½Ÿ

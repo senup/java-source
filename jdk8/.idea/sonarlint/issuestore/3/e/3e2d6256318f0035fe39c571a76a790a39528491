@@ -1,0 +1,52 @@
+
+l
+java:S1192á"PDefine a constant instead of duplicating this literal "CheckBox.shadow" 3 times.(§Û¤Ëýÿÿÿÿ
+z
+java:S1488¤"^Immediately return this expression instead of assigning it to the temporary variable "height".( œêöùÿÿÿÿ
+X
+java:S4973Á"<Strings and Boxed types should be compared using "equals()".(ìà±Ïÿÿÿÿÿ
+S
+java:S4973Ã"<Strings and Boxed types should be compared using "equals()".(µ¶ýŽ
+S
+java:S4973Å"<Strings and Boxed types should be compared using "equals()".(ÂÅâ¥
+S
+java:S4973Ç"<Strings and Boxed types should be compared using "equals()".(ý¼Ùó
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(éþ¡‘øÿÿÿÿ
+p
+java:S30088"ZRename this field "frame_closeIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¯ê¶
+w
+java:S30089"\Rename this field "frame_iconifyIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜ñüÿÿÿÿ
+n
+java:S3008:"XRename this field "frame_maxIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À–Îä
+s
+java:S3008;"XRename this field "frame_minIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝêÌ–þÿÿÿÿ
+q
+java:S3008<"[Rename this field "frame_resizeIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èõÚú
+n
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(‘Æˆ‡þÿÿÿÿ
+8
+java:S1116¼"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+u	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œûªþÿÿÿÿ
+a
+java:S1124À"EReorder the modifiers to comply with the Java Language Specification.(Œûªþÿÿÿÿ
+i
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(»€ýÎ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(»€ýÎ
+A
+java:S1481º"*Remove this unused "index" local variable.(ìüà·
+U
+java:S1854¾"9Remove this useless assignment to local variable "model".(Úð¿ñýÿÿÿÿ
+F
+java:S1481¾"*Remove this unused "model" local variable.(Úð¿ñýÿÿÿÿ
+C
+java:S1125¿"'Remove the unnecessary boolean literal.(†Àøÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(‰ƒçøÿÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(‰ƒçøÿÿÿÿÿ
+D
+java:S4274Š"(Replace this assert with a proper check.(ë¢úüùÿÿÿÿ
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(»€ýÎ
+F
+java:S3398±"/Move this method into "VistaMenuItemCheckIcon".(ÔˆŸÚ

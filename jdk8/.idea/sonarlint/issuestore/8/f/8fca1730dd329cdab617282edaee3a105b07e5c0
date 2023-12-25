@@ -1,0 +1,15 @@
+
+o
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÖ¿†
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+d
+java:S3824I"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(èò·‡
+G
+java:S1905<",Remove this unnecessary cast to "DataInput".(­êÀÍûÿÿÿÿ
+‡
+java:S1130Z"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÁìÜýÿÿÿÿ
+\
+java:S2147“"ECombine this catch with the one at line 145, which has the same body.(ï­£Ä
+D
+java:S1905…"-Remove this unnecessary cast to "DataOutput".(Ëú÷ú

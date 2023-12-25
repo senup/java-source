@@ -1,0 +1,48 @@
+
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+V
+java:S2259g"@A "NullPointerException" could be thrown; "sc" is nullable here.(ƒîÁğ
+P
+java:S1161B":Add the "@Override" annotation above this method signature(üƒÀ
+P
+java:S1161F":Add the "@Override" annotation above this method signature(ØºšÀ
+U
+java:S1161P":Add the "@Override" annotation above this method signature(´äë¤øÿÿÿÿ
+P
+java:S1161W":Add the "@Override" annotation above this method signature(¢±€
+m
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÀŠÂàşÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(ÀŠÂàşÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Ÿ‘î”ÿÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(¦‰½Ÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(„™´ùÿÿÿÿ
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(Õ ÿÿÿÿÿ
+e
+java:S3551˜"IMake this method "synchronized" to match the parent class implementation.(Õ ÿÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(÷±‚Ûûÿÿÿÿ
+e
+java:S3551œ"IMake this method "synchronized" to match the parent class implementation.(÷±‚Ûûÿÿÿÿ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(Òƒû¯
+P
+java:S1161¨":Add the "@Override" annotation above this method signature(¸ï­]
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(Á»›ê
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(òÑ†õ
+`
+java:S3551¹"IMake this method "synchronized" to match the parent class implementation.(òÑ†õ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(³³¡¢
+`
+java:S3551Ä"IMake this method "synchronized" to match the parent class implementation.(³³¡¢

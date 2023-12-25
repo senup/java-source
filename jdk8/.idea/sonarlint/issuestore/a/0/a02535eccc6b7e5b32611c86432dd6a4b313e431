@@ -1,0 +1,14 @@
+
+?
+java:S1604È"(Make this anonymous inner class a lambda(®¥Ñ
+?
+java:S1604à"(Make this anonymous inner class a lambda(ğ‹Ê¾
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+o	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â‡±­
+A
+java:S5164G"+Call "remove()" on "myGroupAndInvokeCount".(›½§
+a
+java:S4065H"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ñ¯åîùÿÿÿÿ
+W
+java:S1126k"AReplace this if-then-else statement by a single return statement.(ãšŞÜ

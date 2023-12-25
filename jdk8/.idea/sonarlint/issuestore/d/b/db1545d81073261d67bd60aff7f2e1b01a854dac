@@ -1,0 +1,27 @@
+
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ…„’øÿÿÿÿ
+k
+java:S1104*"UMake deferring a static final constant or non-public and provide accessors if needed.(¹Ş×
+E
+java:S1444*"/Make this "public static deferring" field final(¹Ş×
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(×¨Ÿ2
+€
+java:S1149+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬ñ®Öüÿÿÿÿ
+P
+java:S1118(":Add a private constructor to hide the implicit public one.(¸â£Ø
+1
+java:S3626:"Remove this redundant jump.(ûÁİ…
+1
+java:S3626L"Remove this redundant jump.(ûÁİ…
+K
+java:S1854\"5Remove this useless assignment to local variable "n".(“›ş¦
+1
+java:S3626t"Remove this redundant jump.(ûÁİ…
+:
+java:S1659V"Declare "n" on a separate line.(©ÃÎ—üÿÿÿÿ
+A
+java:S1481V"&Remove this unused "i" local variable.(©ÃÎ—üÿÿÿÿ
+A
+java:S1481V"&Remove this unused "n" local variable.(©ÃÎ—üÿÿÿÿ

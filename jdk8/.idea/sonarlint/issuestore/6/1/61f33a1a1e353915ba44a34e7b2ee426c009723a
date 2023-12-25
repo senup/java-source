@@ -1,0 +1,242 @@
+
+o
+java:S1192t"TDefine a constant instead of duplicating this literal "Greenwich Mean Time" 6 times.(èì·Ãşÿÿÿÿ
+w
+java:S1192"[Define a constant instead of duplicating this literal "Coordinated Universal Time" 3 times.(öõ‡™ÿÿÿÿÿ
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸‹ˆ
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÂÜ¯
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö·ƒ•
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û™ƒûÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÔÕ•
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¯¼æøÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÌ¾«
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÏÓ¾
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡ò­ÿÿÿÿÿ
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üä§Á
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§äŸè
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÅÌæúÿÿÿÿ
+k	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú˜÷–ıÿÿÿÿ
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıóÀÂşÿÿÿÿ
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûİ¶Â
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŒ‘±üÿÿÿÿ
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼·Ú¯
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊçÙ«
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹°­å
+k	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘œÆ¢ÿÿÿÿÿ
+f	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¿ñ
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìõÕ…
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»â†½ùÿÿÿÿ
+k	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èì·Ãşÿÿÿÿ
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò§˜¬
+f	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éà¿¡
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥Æöøÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô›İëûÿÿÿÿ
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸšŞÏ
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å§Œ¨
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑ­À
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“…¦ë
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò£€ß
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¼íˆüÿÿÿÿ
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„½Ğ¡
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õî‹Ÿ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œË·üÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚Ù
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¶˜ú
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÿ¼ı
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àòÓ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ú”ÿ
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“š‰Ñûÿÿÿÿ
+f	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀİt
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«©°Î
+f	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¯œ-
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ÿ½ıÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’öûÿÿÿÿ
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àôå§øÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚øÂÁüÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áëıïúÿÿÿÿ
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’÷‚Ãüÿÿÿÿ
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×Ïøÿÿÿÿ
+f	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù—âf
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ïäÛúÿÿÿÿ
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡›ÇÈ
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åüší
+l	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¸ëıùÿÿÿÿ
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÜïÃşÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øŠÚ¸ıÿÿÿÿ
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ô£
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰”‚Üıÿÿÿÿ
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šáè»ÿÿÿÿÿ
+l	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÌÃÿøÿÿÿÿ
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô°ÎÉ
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¾“×
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÏì€üÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§é¼
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ø™õ
+g	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¼¦
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒèî•ùÿÿÿÿ
+f	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÆ~
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°»Ğ®şÿÿÿÿ
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØëÑüÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚›õúøÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öõ‡™ÿÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¤Î¼ûÿÿÿÿ
+P
+java:S1191)"5Use classes from the Java API instead of Sun classes.(Òÿïàúÿÿÿÿ
+T
+java:S1854õ"8Remove this useless assignment to local variable "WART".(ßÏì€üÿÿÿÿ
+@
+java:S1197/"*Move the array designators [] to the type.(Œ¸‹ˆ
+@
+java:S11972"*Move the array designators [] to the type.(áÂÜ¯
+@
+java:S11975"*Move the array designators [] to the type.(ö·ƒ•
+E
+java:S11978"*Move the array designators [] to the type.(Û™ƒûÿÿÿÿ
+@
+java:S1197;"*Move the array designators [] to the type.( ÔÕ•
+E
+java:S1197>"*Move the array designators [] to the type.(å¯¼æøÿÿÿÿ
+@
+java:S1197A"*Move the array designators [] to the type.(ÇÌ¾«
+@
+java:S1197D"*Move the array designators [] to the type.(ÒÏÓ¾
+E
+java:S1197G"*Move the array designators [] to the type.(«¡ò­ÿÿÿÿÿ
+@
+java:S1197J"*Move the array designators [] to the type.(üä§Á
+@
+java:S1197M"*Move the array designators [] to the type.(§äŸè
+E
+java:S1197P"*Move the array designators [] to the type.(©ÅÌæúÿÿÿÿ
+E
+java:S1197S"*Move the array designators [] to the type.(Ú˜÷–ıÿÿÿÿ
+E
+java:S1197V"*Move the array designators [] to the type.(ıóÀÂşÿÿÿÿ
+@
+java:S1197Y"*Move the array designators [] to the type.(Ûİ¶Â
+E
+java:S1197\"*Move the array designators [] to the type.(ÒŒ‘±üÿÿÿÿ
+@
+java:S1197_"*Move the array designators [] to the type.(¼·Ú¯
+@
+java:S1197b"*Move the array designators [] to the type.(ÊçÙ«
+@
+java:S1197e"*Move the array designators [] to the type.(¹°­å
+E
+java:S1197h"*Move the array designators [] to the type.(‘œÆ¢ÿÿÿÿÿ
+@
+java:S1197k"*Move the array designators [] to the type.(­¿ñ
+@
+java:S1197n"*Move the array designators [] to the type.(ìõÕ…
+E
+java:S1197q"*Move the array designators [] to the type.(»â†½ùÿÿÿÿ
+E
+java:S1197t"*Move the array designators [] to the type.(èì·Ãşÿÿÿÿ
+@
+java:S1197w"*Move the array designators [] to the type.(Ò§˜¬
+@
+java:S1197z"*Move the array designators [] to the type.(éà¿¡
+E
+java:S1197}"*Move the array designators [] to the type.(ä¥Æöøÿÿÿÿ
+F
+java:S1197€"*Move the array designators [] to the type.(ô›İëûÿÿÿÿ
+A
+java:S1197ƒ"*Move the array designators [] to the type.(ŸšŞÏ
+A
+java:S1197†"*Move the array designators [] to the type.(Å§Œ¨
+A
+java:S1197‰"*Move the array designators [] to the type.(îÑ­À
+A
+java:S1197Œ"*Move the array designators [] to the type.(“…¦ë
+A
+java:S1197"*Move the array designators [] to the type.(Ò£€ß
+F
+java:S1197’"*Move the array designators [] to the type.(©¼íˆüÿÿÿÿ
+A
+java:S1197•"*Move the array designators [] to the type.(„½Ğ¡
+A
+java:S1197˜"*Move the array designators [] to the type.(Õî‹Ÿ
+F
+java:S1197›"*Move the array designators [] to the type.(†œË·üÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(¶‚Ù
+A
+java:S1197¡"*Move the array designators [] to the type.(˜¶˜ú
+A
+java:S1197¤"*Move the array designators [] to the type.(ïÿ¼ı
+A
+java:S1197§"*Move the array designators [] to the type.(àòÓ
+A
+java:S1197ª"*Move the array designators [] to the type.(°Ú”ÿ
+F
+java:S1197­"*Move the array designators [] to the type.(“š‰Ñûÿÿÿÿ
+@
+java:S1197°"*Move the array designators [] to the type.(ÓÀİt
+A
+java:S1197³"*Move the array designators [] to the type.(«©°Î
+@
+java:S1197¶"*Move the array designators [] to the type.(ğ¯œ-
+F
+java:S1197¹"*Move the array designators [] to the type.(º·ÿ½ıÿÿÿÿ
+F
+java:S1197¼"*Move the array designators [] to the type.(£’öûÿÿÿÿ
+F
+java:S1197¿"*Move the array designators [] to the type.(àôå§øÿÿÿÿ
+F
+java:S1197Â"*Move the array designators [] to the type.(‚øÂÁüÿÿÿÿ
+F
+java:S1197Å"*Move the array designators [] to the type.(Áëıïúÿÿÿÿ
+F
+java:S1197È"*Move the array designators [] to the type.(’÷‚Ãüÿÿÿÿ
+F
+java:S1197Ë"*Move the array designators [] to the type.(ä×Ïøÿÿÿÿ
+@
+java:S1197Î"*Move the array designators [] to the type.(Ù—âf
+F
+java:S1197Ñ"*Move the array designators [] to the type.(‹ïäÛúÿÿÿÿ
+A
+java:S1197Ô"*Move the array designators [] to the type.(‡›ÇÈ
+A
+java:S1197×"*Move the array designators [] to the type.(åüší
+F
+java:S1197Ú"*Move the array designators [] to the type.(ª¸ëıùÿÿÿÿ
+F
+java:S1197İ"*Move the array designators [] to the type.(‚ÜïÃşÿÿÿÿ
+F
+java:S1197à"*Move the array designators [] to the type.(øŠÚ¸ıÿÿÿÿ
+A
+java:S1197ã"*Move the array designators [] to the type.(‡ô£
+F
+java:S1197æ"*Move the array designators [] to the type.(‰”‚Üıÿÿÿÿ
+F
+java:S1197é"*Move the array designators [] to the type.(Šáè»ÿÿÿÿÿ
+F
+java:S1197ì"*Move the array designators [] to the type.(¶ÌÃÿøÿÿÿÿ
+A
+java:S1197ï"*Move the array designators [] to the type.(Ô°ÎÉ
+A
+java:S1197ò"*Move the array designators [] to the type.(è¾“×
+F
+java:S1197õ"*Move the array designators [] to the type.(ßÏì€üÿÿÿÿ
+E
+java:S1481õ")Remove this unused "WART" local variable.(ßÏì€üÿÿÿÿ
+A
+java:S1197ø"*Move the array designators [] to the type.(º§é¼
+A
+java:S1197û"*Move the array designators [] to the type.(†ø™õ
+A
+java:S1197ş"*Move the array designators [] to the type.(ş¼¦
+F
+java:S1197"*Move the array designators [] to the type.(ƒèî•ùÿÿÿÿ
+@
+java:S1197„"*Move the array designators [] to the type.(ƒÆ~
+F
+java:S1197‡"*Move the array designators [] to the type.(°»Ğ®şÿÿÿÿ
+F
+java:S1197Š"*Move the array designators [] to the type.(ØëÑüÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(‚›õúøÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(öõ‡™ÿÿÿÿÿ
+F
+java:S1197“"*Move the array designators [] to the type.(­¤Î¼ûÿÿÿÿ

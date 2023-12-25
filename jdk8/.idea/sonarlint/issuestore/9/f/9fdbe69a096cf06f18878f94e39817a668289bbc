@@ -1,0 +1,10 @@
+
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™üí¦
+l	java:S1161"WRename this field "_bindingList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÜÅı
+k	java:S1162"WRename this field "_bindingIter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú€û
+i	java:S1165"ORename this field "_ctx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚™àùÿÿÿÿ
+d	java:S1166"ORename this field "_env" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸÇÌ
+=
+java:S1125{"'Remove the unnecessary boolean literal.(ú‘Èç
+I
+java:S1113®"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ

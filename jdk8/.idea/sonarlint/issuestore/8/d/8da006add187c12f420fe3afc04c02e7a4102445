@@ -1,0 +1,10 @@
+
+b	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íåÇî
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûþÿÿÿÿ
+U
+java:S1161G":Add the "@Override" annotation above this method signature( »¶‰ûÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(ç÷æÓþÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'sun.nio.cs.HistoricallyNamedCharset'.(š¯ÅÙ

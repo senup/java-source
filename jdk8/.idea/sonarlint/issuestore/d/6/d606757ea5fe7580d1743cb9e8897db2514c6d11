@@ -1,0 +1,44 @@
+
+a	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª–¶şÿÿÿÿ
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ğô
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ˆıÿÿÿÿ
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(“êŠºşÿÿÿÿ
+u
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(“êŠºşÿÿÿÿ
+u
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÒÏÍûÿÿÿÿ
+u
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇŞÍùÿÿÿÿ
+l
+java:S1192"PDefine a constant instead of duplicating this literal "addNotification" 3 times.(Èñ‹Êûÿÿÿÿ
+]
+java:S1192²"GDefine a constant instead of duplicating this literal "starts" 3 times.(½Õ¯*
+g
+java:S1192Ù"PDefine a constant instead of duplicating this literal "createListeners" 5 times.(àäÜ
+m
+java:S1192¦"QDefine a constant instead of duplicating this literal "destroyListeners" 3 times.(ÈÄ–°ıÿÿÿÿ
+j
+java:S1192²"TDefine a constant instead of duplicating this literal "fetchNotifications" 21 times.(½Õ¯*
+t	java:S135é"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+?
+java:S1604º"(Make this anonymous inner class a lambda(Ì¶ªÇ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(ä’µ¸
+u	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÖíúÿÿÿÿ
+i
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(¢‡Š
+U
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(°ó©„
+U
+java:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(‹åƒÑ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(üí¶ªùÿÿÿÿ
+[
+java:S3398â"?Move this method into the anonymous class declared at line 796.(ËëÓıÿÿÿÿ
+;
+java:S3398±"$Move this method into "ShareBuffer".(Çº¢

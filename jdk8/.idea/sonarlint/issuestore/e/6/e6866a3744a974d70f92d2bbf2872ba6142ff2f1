@@ -1,0 +1,7 @@
+
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+z
+java:S1149`"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±úÂ¡ÿÿÿÿÿ
+j
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë

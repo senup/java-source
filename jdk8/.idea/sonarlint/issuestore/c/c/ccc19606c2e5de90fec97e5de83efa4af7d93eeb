@@ -1,0 +1,71 @@
+
+F
+java:S1066Ú"/Merge this if statement with the enclosing one.(–‰¬Ë
+
+java:S1319c"jThe type of "environment" should be an interface such as "Map" rather than the implementation "Hashtable".(ŞÚé
+f	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤F
+V	java:S110."<This class has 6 parents which is greater than 5 authorized.(ø¯íÛùÿÿÿÿ
+u	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+m
+java:S1845J"RRename field "RETRIES" to prevent any misunderstanding/clash with field "retries".(íå’İüÿÿÿÿ
+k
+java:S1845R"VRename field "RECURSION" to prevent any misunderstanding/clash with field "recursion".(í‚šX
+n
+java:S4144Ş"WUpdate this method so that its implementation is not identical to "c_bind" on line 343.(É™††
+o
+java:S4144ó"YUpdate this method so that its implementation is not identical to "c_unbind" on line 357.(›ÎG
+u
+java:S4144ú"YUpdate this method so that its implementation is not identical to "c_unbind" on line 357.(©œ‘Åıÿÿÿÿ
+p
+java:S4144è"YUpdate this method so that its implementation is not identical to "c_unbind" on line 357.(Í„âŞ
+p
+java:S4144ï"YUpdate this method so that its implementation is not identical to "c_unbind" on line 357.(‰ëÍõ
+m
+java:S4144”"WUpdate this method so that its implementation is not identical to "c_bind" on line 394.(©¶™j
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ğƒæ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(Àğ›ù
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(´‹ˆë
+V
+java:S1161´":Add the "@Override" annotation above this method signature(ò‹Òõüÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(˜‘Ì
+V
+java:S1161È":Add the "@Override" annotation above this method signature(ğØûãøÿÿÿÿ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(¥²”ù
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(É™††
+V
+java:S1161å":Add the "@Override" annotation above this method signature(Üô•åşÿÿÿÿ
+Q
+java:S1161ì":Add the "@Override" annotation above this method signature(œÓè“
+P
+java:S1161ó":Add the "@Override" annotation above this method signature(›ÎG
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(©œ‘Åıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Æ½áôøÿÿÿÿ
+i
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(úÊ›–
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(úÊ›–
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¹…ëª
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¬şÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(çÊìâ
+`
+java:S2445”"J"znode" is a method parameter, and should not be used for synchronization.(â§Ö>
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(ªÚ‚øÿÿÿÿ
+m
+java:S1149Å"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¾­ü”
+v
+java:S3038à"Z"next" is defined in the "NamingEnumeration" interface and can be removed from this class.(ì«Àıøÿÿÿÿ
+a
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(ì«Àıøÿÿÿÿ
+r
+java:S1149ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Óş·‡ıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢ï–úÿÿÿÿÿ

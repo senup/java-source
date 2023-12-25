@@ -1,0 +1,15 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(âƒšå
+œ
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã¥‡úÿÿÿÿ
+U
+java:S1161=":Add the "@Override" annotation above this method signature(—‚ÄÙûÿÿÿÿ
+E
+java:S1197="*Move the array designators [] to the type.(—‚ÄÙûÿÿÿÿ
+U
+java:S1161H":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+E
+java:S1197H"*Move the array designators [] to the type.(èöò¡şÿÿÿÿ
+U
+java:S1161P":Add the "@Override" annotation above this method signature(ã¥‡úÿÿÿÿ

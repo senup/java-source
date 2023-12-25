@@ -1,0 +1,9 @@
+
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘»ÅŽùÿÿÿÿ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÀŸÆûÿÿÿÿ
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¢»Þ
+t	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×¢¾áüÿÿÿÿ
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÂ€˜
+o	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÔÉû

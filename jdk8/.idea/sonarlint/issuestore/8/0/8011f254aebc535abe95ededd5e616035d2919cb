@@ -1,0 +1,15 @@
+
+r
+java:S30778"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ï›‘Äÿÿÿÿÿ
+†
+java:S1130]"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¡Ş…9
+G
+java:S1068,",Remove this unused "fileName" private field.(¥âË÷ûÿÿÿÿ
+D
+java:S1068>".Remove this unused "PROPERTIES" private field.(ƒ¶•
+D
+java:S1068C".Remove this unused "UNDERSCORE" private field.(¹™
+B
+java:S1068H"'Remove this unused "DOT" private field.(ä­úÜûÿÿÿÿ
+D
+java:S1068M")Remove this unused "SLASH" private field.(ßç ôúÿÿÿÿ

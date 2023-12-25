@@ -1,0 +1,27 @@
+
+K
+java:S3740û"/Provide the parametrized type for this generic.(¿İ•Âÿÿÿÿÿ
+F
+java:S3740ş"/Provide the parametrized type for this generic.(ìƒ…ó
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã²œôûÿÿÿÿ
+P
+java:S11910"5Use classes from the Java API instead of Sun classes.(«ØâÙùÿÿÿÿ
+P
+java:S1118:":Add a private constructor to hide the implicit public one.(µ§øò
+h
+java:S2786@"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¡°Æ›
+m
+java:S2786W"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(“¿Ôëşÿÿÿÿ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(Á»›ê
+h
+java:S2786à"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(§æª
+n
+java:S2786Ø"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(•Ï¬üÿÿÿÿ
+Q
+java:S1161‡":Add the "@Override" annotation above this method signature(Á»›ê
+n
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ºÉáüÿÿÿÿ
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(Á»›ê

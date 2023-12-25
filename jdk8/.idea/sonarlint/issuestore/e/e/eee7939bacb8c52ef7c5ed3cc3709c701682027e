@@ -1,0 +1,23 @@
+
+n
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(äáÈ\
+o
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÙù†
+3
+java:S1643…"Use a StringBuilder instead.(¡¹‰¼
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(ùÕÒùúÿÿÿÿ
+@
+java:S11727"*Remove this unused method parameter "key".(†øÙ¥
+`
+java:S1124i"EReorder the modifiers to comply with the Java Language Specification.(ììíÄùÿÿÿÿ
+[
+java:S1124j"EReorder the modifiers to comply with the Java Language Specification.(ªò±
+`
+java:S1124k"EReorder the modifiers to comply with the Java Language Specification.(™¿‘‘ùÿÿÿÿ
+`
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(ÀÆÌ°şÿÿÿÿ
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²Áæ¯

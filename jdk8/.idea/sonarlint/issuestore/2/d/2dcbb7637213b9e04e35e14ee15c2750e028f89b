@@ -1,0 +1,40 @@
+
+g	java:S101x"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü×ò”ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+n
+java:S1845²"RRename field "dec0208" to prevent any misunderstanding/clash with field "DEC0208".(›š†¾şÿÿÿÿ
+a
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(‡‰°şÿÿÿÿ
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(Ïãñüûÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+[
+java:S1659Ì"?Declare "b2" and all following declarations on a separate line.(Óöşüÿÿÿÿ
+=	java:S131’""Add a default case to this switch.(¯ĞÁÍúÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+[
+java:S1659Ë"?Declare "b2" and all following declarations on a separate line.(Óöşüÿÿÿÿ
+=	java:S131‰""Add a default case to this switch.(¯ĞÁÍúÿÿÿÿ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(­Æïø
+n
+java:S1845Ô"RRename field "enc0208" to prevent any misunderstanding/clash with field "ENC0208".(îÔÔûÿÿÿÿ
+a
+java:S1124Î"EReorder the modifiers to comply with the Java Language Specification.(óÙÓúÿÿÿÿ
+G
+java:S1172æ"0Remove this unused method parameter "inputChar".(‘ä¥
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(•İÙüÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(åäÊ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+j
+java:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 100 to the 15 allowed.(”Î¡½
+h
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 98 to the 15 allowed.(ºÖÂ

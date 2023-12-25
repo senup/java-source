@@ -1,0 +1,6 @@
+
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(”îóµ
+W	java:S107'"BConstructor has 12 parameters, which is greater than 7 authorized.(¸…Ÿô
+:
+java:S2097I"Add a type test to this method.(ÐüÓ”øÿÿÿÿ

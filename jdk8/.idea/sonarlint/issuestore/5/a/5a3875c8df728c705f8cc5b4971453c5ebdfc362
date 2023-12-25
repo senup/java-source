@@ -1,0 +1,27 @@
+
+D
+java:S3740R"/Provide the parametrized type for this generic.(³ò™
+F
+java:S3740"/Provide the parametrized type for this generic.(ëÕÖ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(ª˜¡ÿÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+k
+java:S1149R"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³ò™
+m
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ëÕÖ
+Q
+java:S1161“":Add the "@Override" annotation above this method signature(ã®¸Â
+Q
+java:S1161Æ":Add the "@Override" annotation above this method signature( äû¾
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+E
+java:S1128"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
+F
+java:S1128 "+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+o
+java:S1128("TRemove this unnecessary import: same package classes are always implicitly imported.(óòÖ¥şÿÿÿÿ
+o
+java:S1128)"TRemove this unnecessary import: same package classes are always implicitly imported.(¾Ãâíıÿÿÿÿ

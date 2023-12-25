@@ -1,0 +1,48 @@
+
+v
+java:S1192‹"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 9 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+[
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(Ÿ°Âß
+?
+java:S1905Ò"(Remove this unnecessary cast to "int[]".(é„×Ä
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+F
+java:S1197½"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(†Àµ
+Q
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ç×‹“
+@
+java:S1197×"*Move the array designators [] to the type.(ûÌ‹	
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+T
+java:S1854Û"8Remove this useless assignment to local variable "xoff".(Ê…Á—øÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(Í°—
+@
+java:S1197Ï"*Move the array designators [] to the type.(ûÌ‹	
+n
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(­§ê–ıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Ç§æ
+E
+java:S1905ˆ")Remove this unnecessary cast to "Raster".(èƒ¶úÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+Q
+java:S1161Å":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(ÌŸ­
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(îíÒ•ÿÿÿÿÿ
+<
+java:S2129©" Remove this "String" constructor(øšóûÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(ğÜ¹Û

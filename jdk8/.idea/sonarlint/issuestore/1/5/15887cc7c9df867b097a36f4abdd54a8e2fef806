@@ -1,0 +1,34 @@
+
+a	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(²ËÆóøÿÿÿÿ
+r
+java:S1488Ç"[Immediately return this expression instead of assigning it to the temporary variable "out".(° ½Ð
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(÷êò§
+]
+java:S2184™"FCast one of the operands of this multiplication operation to a "long".(¨Çãª
+]
+java:S2184š"FCast one of the operands of this multiplication operation to a "long".(ŸË¡Ø
+t	java:S115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ìó×“üÿÿÿÿ
+t	java:S115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚Æ§òúÿÿÿÿ
+t	java:S115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Žµœ¶ÿÿÿÿÿ
+u	java:S115¸"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ±±íúÿÿÿÿ
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(‚Æ§òúÿÿÿÿ
+@
+java:S1197z"*Move the array designators [] to the type.(”­“µ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ú¾Ý§
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ú¾Ý§
+R	java:S125±"<This block of commented-out lines of code should be removed.(ó±¨ã
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(œÀÖîøÿÿÿÿ
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(»¸Ÿ‚
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(çÎ¶É
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(ÆŸ¼žúÿÿÿÿ
+N	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ë“¨#
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¤ß­–
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(©ÏÖÝ
+u
+java:S1450»"^Remove the "fxLauncherClass" field and declare it as a local variable in the relevant methods.(ý‹¥í
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(´Ï¡íûÿÿÿÿ
+Y
+java:S3878€"CDisambiguate this call by either casting as "Object" or "Object[]".(¡°”

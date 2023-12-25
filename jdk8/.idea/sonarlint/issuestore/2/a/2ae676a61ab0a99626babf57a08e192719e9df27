@@ -1,0 +1,139 @@
+
+K
+java:S3740›"/Provide the parametrized type for this generic.(ç™Šıÿÿÿÿ
+K
+java:S3740›"/Provide the parametrized type for this generic.(ç™Šıÿÿÿÿ
+K
+java:S3740›"/Provide the parametrized type for this generic.(ç™Šıÿÿÿÿ
+F
+java:S3740œ"/Provide the parametrized type for this generic.(Ö»¼ª
+F
+java:S3740œ"/Provide the parametrized type for this generic.(Ö»¼ª
+K
+java:S3740«"/Provide the parametrized type for this generic.(ØÙ¢üÿÿÿÿ
+K
+java:S3740«"/Provide the parametrized type for this generic.(ØÙ¢üÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ÊÉ¼ÿÿÿÿÿ
+F
+java:S3740µ"/Provide the parametrized type for this generic.(ÒÖ¾Ø
+F
+java:S3740µ"/Provide the parametrized type for this generic.(ÒÖ¾Ø
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(ëãÌä
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(ëãÌä
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(Üİ¿¼ùÿÿÿÿ
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(Üİ¿¼ùÿÿÿÿ
+F
+java:S3740Ú"/Provide the parametrized type for this generic.(§‡À
+F
+java:S3740Ú"/Provide the parametrized type for this generic.(§‡À
+F
+java:S3740Û"/Provide the parametrized type for this generic.(Úê‘Ù
+F
+java:S3740Û"/Provide the parametrized type for this generic.(Úê‘Ù
+K
+java:S3740"/Provide the parametrized type for this generic.(ú•ş¨ùÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(ú•ş¨ùÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Â¸ˆïûÿÿÿÿ
+F
+java:S3740 "/Provide the parametrized type for this generic.(ø«ãÏ
+F
+java:S3740 "/Provide the parametrized type for this generic.(ø«ãÏ
+K
+java:S3740¸"/Provide the parametrized type for this generic.(åÊšöüÿÿÿÿ
+K
+java:S3740¹"/Provide the parametrized type for this generic.(áÜÀÅüÿÿÿÿ
+F
+java:S3740º"/Provide the parametrized type for this generic.(Ä™ğâ
+r
+java:S1192¦"VDefine a constant instead of duplicating this literal "Odd number of chains!" 3 times.(¤ãò·øÿÿÿÿ
+J
+java:S1121İ".Extract the assignment out of this expression.(†œ¦ûÿÿÿÿ
+K
+java:S1066»"/Merge this if statement with the enclosing one.(ÕŒˆ¿şÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÉ¼ÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¸ˆïûÿÿÿÿ
+?
+java:S1604µ"(Make this anonymous inner class a lambda(ÒÖ¾Ø
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò›úŒıÿÿÿÿ
+q
+java:S3008µ"ZRename this field "YXTopComparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÖ¾Ø
+o
+java:S3008µ"XRename this field "EmptyLinkList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÛÒ’
+u
+java:S3008¶"YRename this field "EmptyChainList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¡²æùÿÿÿÿ
+
+java:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ç™Šıÿÿÿÿ
+
+java:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ç™Šıÿÿÿÿ
+
+java:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ç™Šıÿÿÿÿ
+|
+java:S1149œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ö»¼ª
+
+java:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØÙ¢üÿÿÿÿ
+
+java:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØÙ¢üÿÿÿÿ
+|
+java:S1149Æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëãÌä
+|
+java:S1149Æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëãÌä
+
+java:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Üİ¿¼ùÿÿÿÿ
+|
+java:S1149Ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§‡À
+|
+java:S1149Û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Úê‘Ù
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú•ş¨ùÿÿÿÿ
+|
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ø«ãÏ
+|
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ø«ãÏ
+
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åÊšöüÿÿÿÿ
+
+java:S1149¹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(áÜÀÅüÿÿÿÿ
+|
+java:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ä™ğâ
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(§‰ç‚ıÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(×–º
+Q	java:S125z"<This block of commented-out lines of code should be removed.(×–º
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(æêí
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(”İÁ
+<
+java:S1659¹" Declare "v2" on a separate line.(º±×øÿÿÿÿ
+j
+java:S3776Æ"SRefactor this method to reduce its Cognitive Complexity from 129 to the 15 allowed.(ëãÌä
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(¾ı£½
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ãï´ú
+A
+java:S1197Ø"*Move the array designators [] to the type.(’ì…ç
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(†ªœÿÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(£×¦Ş
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(˜¬ÚÎ
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(£×¦Ş
+R	java:S125ì"<This block of commented-out lines of code should be removed.(Ğ“¸¢
+O	java:S106î"9Replace this use of System.out or System.err by a logger.(îó§­
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(’ È‡
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(­ÄñÇ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(É“¾©ıÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(ä¡Ò­úÿÿÿÿ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(İ¸ò­
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+O	java:S106ı"9Replace this use of System.out or System.err by a logger.(ªÑ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(´åÆ¨ûÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(µÓÂÜ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(åÊšöüÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(ÒÎ®ùÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ÿ­Êå
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¯¤×Î

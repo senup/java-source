@@ -1,0 +1,13 @@
+
+`
+java:S1192·"IDefine a constant instead of duplicating this literal "zh-guoyu" 3 times.(“½¶
+_
+java:S1192¹"IDefine a constant instead of duplicating this literal "zh-hakka" 3 times.(„¯ä
+^
+java:S1192·"GDefine a constant instead of duplicating this literal "zh-cmn" 3 times.(“½¶
+\
+java:S1192¹"FDefine a constant instead of duplicating this literal "i-hak" 3 times.(„¯ä
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åŠéÌ
+P
+java:S1118"":Add a private constructor to hide the implicit public one.(¨ò£

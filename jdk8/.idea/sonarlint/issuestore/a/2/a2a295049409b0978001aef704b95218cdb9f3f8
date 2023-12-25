@@ -1,0 +1,18 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+h	java:S116/"SRename this field "INIT_CAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍ«
+7
+java:S1170/"!Make this final field static too.(ˆÍ«
+P
+java:S1161F":Add the "@Override" annotation above this method signature(å‹ö
+A
+java:S1197•"*Move the array designators [] to the type.(öõ´«
+p
+java:S3012˜"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(îÙü×
+N
+java:S1905¿"7Remove this unnecessary cast to "AbstractSelectionKey".(îõ¡‰
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+;
+java:S1128 "%Remove this unused import 'sun.misc'.( åÀŞ

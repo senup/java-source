@@ -1,0 +1,18 @@
+
+t
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜»ß¿ýÿÿÿÿ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ž°ïéýÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+<
+java:S11684"&Return an empty array instead of null.(¥¹ï
+a
+java:S1764O"KCorrect one of the identical sub-expressions on both sides of operator "&&"(‹³Ÿþ
+a
+java:S1764O"KCorrect one of the identical sub-expressions on both sides of operator "&&"(‹³Ÿþ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÜÉº”ÿÿÿÿÿ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÃîÁ¼ýÿÿÿÿ
+8	java:S131Þ""Add a default case to this switch.(Ù¿Èë

@@ -1,0 +1,148 @@
+
+_
+java:S1192‘"HDefine a constant instead of duplicating this literal "ERROR: " 3 times.(ãñŠ
+J
+java:S1121¨".Extract the assignment out of this expression.(¢Å˜‚ùÿÿÿÿ
+m	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ïõü\
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úì·Øøÿÿÿÿ
+g	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şöÿ„
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚àÏ×øÿÿÿÿ
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç«Á‹ûÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÖè…ûÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰ÓÓ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”Á˜
+f	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ„²c
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îş‡
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Š–¹ùÿÿÿÿ
+3
+java:S1643ÿ"Use a StringBuilder instead.(È—İÃ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+_
+java:S2259«"CA "NullPointerException" could be thrown; "first" is nullable here.(µáó›ûÿÿÿÿ
+d
+java:S2095©"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(Ö”Á˜
+l
+java:S1128*"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+u
+java:S3008^"ZRename this field "SourceClassList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó·¬µûÿÿÿÿ
+q
+java:S3008`"VRename this field "TmpCovTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÅíüşÿÿÿÿ
+t
+java:S3008b"^Rename this field "JcovClassCountArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´õ‘
+s
+java:S3008d"XRename this field "JcovMagicLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´İ’ùıÿÿÿÿ
+s
+java:S3008e"XRename this field "JcovClassLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(· é©úÿÿÿÿ
+p
+java:S3008f"ZRename this field "JcovSrcfileLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µâ²›
+r
+java:S3008g"\Rename this field "JcovTimestampLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†ìÇ
+r
+java:S3008h"WRename this field "JcovDataLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêÀ‚ıÿÿÿÿ
+p
+java:S3008i"ZRename this field "JcovHeadingLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÃÛ¼
+‘
+java:S1845E"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(Àóº
+–
+java:S1845K"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(”ÙÚ£ıÿÿÿÿ
+
+java:S1845N"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(—÷ËP
+‘
+java:S1845R"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(–ìÉÕ
+‘
+java:S1845V"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(é–éì
+‘
+java:S1845Z"{Rename method "add" to prevent any misunderstanding/clash with field "ADD" defined in interface "sun.tools.java.Constants".(Ãš«Ä
+€
+java:S1149^"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ó·¬µûÿÿÿÿ
+€
+java:S1149`"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÅíüşÿÿÿÿ
+|
+java:S1149ñ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñşƒ÷
+|
+java:S1149…"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñşƒ÷
+
+java:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(úì·Øøÿÿÿÿ
+
+java:S1149Ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¶´ûÿÿÿÿ
+
+java:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û²¼—şÿÿÿÿ
+|
+java:S1149İ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñşƒ÷
+|
+java:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñşƒ÷
+7	java:S131x""Add a default case to this switch.(öâ›
+8	java:S131ƒ""Add a default case to this switch.(º‘Â
+R	java:S125à"<This block of commented-out lines of code should be removed.(‡Í´
+@
+java:S1905ñ")Remove this unnecessary cast to "Vector".(ñşƒ÷
+h
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¦·Ñ6
+W	java:S125‡"<This block of commented-out lines of code should be removed.(†Ù’ñùÿÿÿÿ
+8	java:S131""Add a default case to this switch.(º‘Â
+E
+java:S1659—")Declare "nexceptions" on a separate line.(ƒÆ¨Öÿÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(‡Í´
+@
+java:S1905…")Remove this unnecessary cast to "Vector".(ñşƒ÷
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ãñŠ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ÛéËô
+R	java:S125²"<This block of commented-out lines of code should be removed.(‡Í´
+W	java:S125Á"<This block of commented-out lines of code should be removed.(»Ü×Øùÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ì°Öûÿÿÿÿ
+O
+java:S1172Ô"3Remove these unused method parameters "env", "tab".(ì°Öûÿÿÿÿ
+=
+java:S1659Ò"!Declare "pos" on a separate line.(Ï§°¤ıÿÿÿÿ
+J
+java:S1481Û".Remove this unused "numberTry" local variable.(ƒ›Å¹ÿÿÿÿÿ
+8	java:S131ø""Add a default case to this switch.(º‘Â
+8
+java:S2129±"!Remove this "Integer" constructor(º÷±„
+L
+java:S2696ß"6Make the enclosing method "static" or remove this set.(Çñ¼
+M
+java:S1172é"1Remove these unused method parameters "env", "c".(ÅùÚÛúÿÿÿÿ
+M
+java:S2696ê"6Make the enclosing method "static" or remove this set.(À·É‘
+A
+java:S1172ñ"*Remove this unused method parameter "env".(«õõ™
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÖè…ûÿÿÿÿ
+7
+java:S2129˜" Remove this "String" constructor(ÙÿË
+M
+java:S2696™"6Make the enclosing method "static" or remove this set.(ÒÈÃ
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÕÍ¹şÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(şÕÍ¹şÿÿÿÿ
+a
+java:S2147Õ"ECombine this catch with the one at line 722, which has the same body.(©œ¡ÿÿÿÿÿ
+U
+java:S1117­"9Rename "first" which hides the field declared at line 60.(èó»Ïøÿÿÿÿ
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ãñŠ
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ãñŠ
+O
+java:S1172ß"3Remove these unused method parameters "env", "tab".(î³ä÷úÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(”«‡şûÿÿÿÿ
+i
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¯åµ
+A
+java:S1197ı"*Move the array designators [] to the type.(¯åµ
+A
+java:S1197€"*Move the array designators [] to the type.(Ã¡ÿ»
+F
+java:S1197"*Move the array designators [] to the type.(´¶ÿÿÿÿÿ
+8	java:S131’""Add a default case to this switch.(º‘Â
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¯µ½¡şÿÿÿÿ
+A
+java:S1197Ö"*Move the array designators [] to the type.(ÙÉÖ×
+@
+java:S1905İ")Remove this unnecessary cast to "Vector".(ñşƒ÷
+@
+java:S1905î")Remove this unnecessary cast to "Vector".(ñşƒ÷
+A
+java:S1197÷"*Move the array designators [] to the type.(î»ª•
+8	java:S131ú""Add a default case to this switch.(º‘Â

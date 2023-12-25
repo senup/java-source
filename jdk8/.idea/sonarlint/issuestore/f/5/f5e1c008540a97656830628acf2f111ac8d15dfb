@@ -1,0 +1,101 @@
+
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Âìëùÿÿÿÿ
+c
+java:S1192§"GDefine a constant instead of duplicating this literal "empty" 21 times.(Áüµöüÿÿÿÿ
+D
+java:S1604€"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
+?
+java:S1604ë"(Make this anonymous inner class a lambda(æ®‘Ã
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(½ê”~
+s
+java:S2629‘"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ôÏåÄ
+Y
+java:S1163è"=Refactor this code to not throw exceptions in finally blocks.(Áüµöüÿÿÿÿ
+P
+java:S1143è"4Remove this throw statement from this finally block.(Áüµöüÿÿÿÿ
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(Ïô§äıÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(ê©Ëôşÿÿÿÿ
+F
+java:S1197ì"*Move the array designators [] to the type.(Éå¸²ıÿÿÿÿ
+F
+java:S1197‹"*Move the array designators [] to the type.(ÁÌ†Òøÿÿÿÿ
+]
+java:S1126Ş"AReplace this if-then-else statement by a single return statement.(¬’÷²ıÿÿÿÿ
+W
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(ÔŞÎC
+û
+java:S1130"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ºÊñí
+\
+java:S2147¾"ECombine this catch with the one at line 444, which has the same body.(€àÈ„
+\
+java:S2147À"ECombine this catch with the one at line 444, which has the same body.(¹ƒ›×
+a
+java:S2147Â"ECombine this catch with the one at line 444, which has the same body.(±ÃÙÿøÿÿÿÿ
+a
+java:S2147Ä"ECombine this catch with the one at line 444, which has the same body.(µç‡Šúÿÿÿÿ
+[
+java:S1117¯"?Rename "transforms" which hides the field declared at line 141.(ä”‰Æøÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(Ò¸şûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Ëµ¨ÿÿÿÿÿ
+\
+java:S2147ù"ECombine this catch with the one at line 503, which has the same body.(×ÓŒ
+\
+java:S2147û"ECombine this catch with the one at line 503, which has the same body.(€àÈ„
+\
+java:S2147ı"ECombine this catch with the one at line 503, which has the same body.(¹ƒ›×
+a
+java:S2147ÿ"ECombine this catch with the one at line 503, which has the same body.(±ÃÙÿøÿÿÿÿ
+a
+java:S2147"ECombine this catch with the one at line 503, which has the same body.(µç‡Šúÿÿÿÿ
+[
+java:S1117ã"?Rename "transforms" which hides the field declared at line 141.(ä”‰Æøÿÿÿÿ
+R
+java:S1119æ";Refactor the code to remove this label and the need for it.(ªø¦Û
+a
+java:S2147¶"ECombine this catch with the one at line 564, which has the same body.(÷•Ï¥ıÿÿÿÿ
+a
+java:S2147¸"ECombine this catch with the one at line 564, which has the same body.(µç‡Šúÿÿÿÿ
+[
+java:S1117"?Rename "transforms" which hides the field declared at line 141.(ä”‰Æøÿÿÿÿ
+R
+java:S1119“";Refactor the code to remove this label and the need for it.(ªø¦Û
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+a
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(›ê¬7
+b
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(µ¼¨ó
+õ
+java:S1130œ"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+ú
+java:S1130œ"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+ø
+java:S1130"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ê‡ìŒüÿÿÿÿ
+¾
+java:S1130"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException', as it cannot be thrown from method's body.(ê‡ìŒüÿÿÿÿ
+€
+java:S1130©"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ŠÃ‰Üüÿÿÿÿ
+\
+java:S2147¯"ECombine this catch with the one at line 685, which has the same body.(€àÈ„
+€
+java:S1130¾"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ŠÃ‰Üüÿÿÿÿ
+\
+java:S2147á"ECombine this catch with the one at line 735, which has the same body.(Ãôş•
+R	java:S125Û"<This block of commented-out lines of code should be removed.(¹ªë»
+F
+java:S2093À"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+ø
+java:S1130õ"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.exceptions.Base64DecodingException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(•ûºûıÿÿÿÿ
+€
+java:S1130‰"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(œŸ±Ãøÿÿÿÿ
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(ËåÚËúÿÿÿÿ
+a
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(½ê”~
+b
+java:S3457‘"KFormat specifiers or lambda should be used instead of string concatenation.(ôÏåÄ
+g
+java:S3457”"KFormat specifiers or lambda should be used instead of string concatenation.(ºîë©øÿÿÿÿ

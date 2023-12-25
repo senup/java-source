@@ -1,0 +1,45 @@
+
+t	java:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+F
+java:S1066”"/Merge this if statement with the enclosing one.(åÏ½§
+f	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ…„
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ…©â
+f	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ç©
+C
+java:S1604~"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ
+r	java:S1163"XRename this field "buffers_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢ÑÈùÿÿÿÿ
+l	java:S1166"RRename this field "w_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ°¼ûÿÿÿÿ
+n	java:S1167"TRename this field "w_min_tol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚”¢Æùÿÿÿÿ
+i	java:S1168"TRename this field "w_max_tol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÜÜó
+e	java:S116:"PRename this field "w_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÑÁœ
+p	java:S116<"VRename this field "bbuffer_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ªßâúÿÿÿÿ
+p	java:S116="VRename this field "bbuffer_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖúÿÿÿÿÿ
+u
+java:S3008+"ZRename this field "MAX_BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢İùÿÿÿÿÿ
+t
+java:S2142Q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+<
+java:S1168S"&Return an empty array instead of null.(¥¹ï
+Q	java:S125R"<This block of commented-out lines of code should be removed.(†€éˆ
+h
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÂØ¬‚
+u
+java:S2142®"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125¯"<This block of commented-out lines of code should be removed.(†€éˆ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿ
+u
+java:S2142Ñ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(†€éˆ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+u
+java:S2142æ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125ç"<This block of commented-out lines of code should be removed.(†€éˆ
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(¹ï†Ÿşÿÿÿÿ
+W
+java:S1117";Rename "bbuffer" which hides the field declared at line 62.(ùşÎ¯şÿÿÿÿ
+U
+java:S1117‚"?Rename "bbuffer_pos" which hides the field declared at line 60.(•ç©
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(âËÎ¡ıÿÿÿÿ

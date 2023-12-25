@@ -1,0 +1,69 @@
+
+F
+java:S3740"/Provide the parametrized type for this generic.(Ø™ş´
+F
+java:S3740"/Provide the parametrized type for this generic.(Ø™ş´
+F
+java:S3740¡"/Provide the parametrized type for this generic.(„“¬„
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âî“¹úÿÿÿÿ
+m	java:S127ò"XRefactor the code in order to not assign to this loop counter from within the loop body.(£ŸÄC
+m	java:S127¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(£ŸÄC
+m	java:S127ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(£ŸÄC
+F
+java:S1066ş"/Merge this if statement with the enclosing one.(¹ô¢Æ
+x
+java:S1319ş"aThe type of "ht" should be an interface such as "Map" rather than the implementation "Hashtable".(±ÕéÈ
+x
+java:S1319ƒ"aThe type of "ht" should be an interface such as "Map" rather than the implementation "Hashtable".(´¨€×
+†
+java:S1319œ"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(¿¼—
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.(”îóµ
+c
+java:S3973Ö"GUse indentation to denote the code conditionally executed by this "if".(õßçâüÿÿÿÿ
+^
+java:S3973Ü"GUse indentation to denote the code conditionally executed by this "if".(ºùâÙ
+f
+java:S2259Ü"OA "NullPointerException" could be thrown; "baselineTransform" is nullable here.(©ÍğË
+[
+java:S2259¨"DA "NullPointerException" could be thrown; "clone()" can return null.(Ì®ë»
+m
+java:S1149ş"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(±ÕéÈ
+m
+java:S1149ƒ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(´¨€×
+m
+java:S1149œ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¿¼—
+m
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ø™ş´
+?	java:S108¢")Either remove or fill this block of code.(”ı¾
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´¨€×
+?	java:S108”")Either remove or fill this block of code.(¥Îé—
+;
+java:S2097·"Add a type test to this method.(èŠÈïúÿÿÿÿ
+?	java:S108»")Either remove or fill this block of code.(íƒè¨
+j
+java:S2975ã"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(à©Ø¸
+0
+java:S2225ğ"Return a non null object.(¥¹ï
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ş¶Õùÿÿÿÿ
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¢İÂ
+d	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑ¸»
+i
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßÑ¸»
+N
+java:S1905œ"7Remove this unnecessary cast to "InputMethodHighlight".(ıà…
+S
+java:S1905"7Remove this unnecessary cast to "InputMethodHighlight".(è›Ÿüÿÿÿÿ
+i	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œšÑùÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ß¯şıÿÿÿÿ
+N
+java:S1135À"2Complete the task associated to this TODO comment.(”ëŒ²ûÿÿÿÿ
+d	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À©ÄÃ
+i
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(À©ÄÃ
+`
+java:S4201ÿ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ûõş€
+`
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(î¢çü

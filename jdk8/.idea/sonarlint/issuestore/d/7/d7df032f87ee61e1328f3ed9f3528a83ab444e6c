@@ -1,0 +1,155 @@
+
+Š
+java:S1192Ç"sDefine a constant instead of duplicating this literal "\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD" 139 times.(í½Ë»
+ˆ
+java:S1192÷"qDefine a constant instead of duplicating this literal "\u213C\u213D\u213E\u213F\u2140\u2141\u2142\u2143" 3 times.(øä£Á
+‡
+java:S1192Ø."qDefine a constant instead of duplicating this literal "\u20E4\u20E5\u20E6\u20E7\u20E8\u20E9\u20EA\u20EB" 3 times.(ŞÇ“Y
+ˆ
+java:S1192ò"qDefine a constant instead of duplicating this literal "\u2124\u2125\u2126\u2127\u2128\u2129\u212A\u212B" 3 times.(êÊÅ
+ˆ
+java:S1192ù"qDefine a constant instead of duplicating this literal "\u214C\u214D\u214E\u214F\u2150\u2151\u2152\u2153" 3 times.(¶ò§
+ˆ
+java:S1192ø"qDefine a constant instead of duplicating this literal "\u2144\u2145\u2146\u2147\u2148\u2149\u214A\u214B" 3 times.(Ÿí‹
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+o	java:S115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(é ßÍ
+u	java:S115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œÜú´ùÿÿÿÿ
+u	java:S115õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áòèñûÿÿÿÿ
+p	java:S115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ«á†
+u	java:S115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§Ç¿ÿÿÿÿÿ
+u	java:S115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è†Ô‹ùÿÿÿÿ
+p	java:S115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èªœå
+p	java:S115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£µ°
+p	java:S115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®‰„
+o	java:S115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·é
+p	java:S115œ""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É§šè
+u	java:S115œ%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó£¨úÿÿÿÿ
+p	java:S115œ("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö×ÕÉ
+u	java:S115œ+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿Ã¯µøÿÿÿÿ
+p	java:S115§."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£õÄ·
+p	java:S115©2"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Á‹
+u	java:S115«6"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ĞûŞ¬úÿÿÿÿ
+u	java:S115­:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß²Ñùÿÿÿÿ
+p	java:S115¯>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èóŠÆ
+u	java:S115±B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó¬…×şÿÿÿÿ
+p	java:S115³F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œÌ’â
+u	java:S115µJ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘«¹÷ÿÿÿÿÿ
+u	java:S115·N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡È¾Üùÿÿÿÿ
+u	java:S115¹R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃøË­ÿÿÿÿÿ
+p	java:S115»V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹·ñ³
+u	java:S115½Z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ñØ†øÿÿÿÿ
+p	java:S115¿^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µË²Ù
+[
+java:S1124p"EReorder the modifiers to comply with the Java Language Specification.(é ßÍ
+a
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(œÜú´ùÿÿÿÿ
+a
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(Áòèñûÿÿÿÿ
+\
+java:S1124÷"EReorder the modifiers to comply with the Java Language Specification.(Õ«á†
+a
+java:S1124ù"EReorder the modifiers to comply with the Java Language Specification.(§Ç¿ÿÿÿÿÿ
+a
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(è†Ô‹ùÿÿÿÿ
+A
+java:S1197ı"*Move the array designators [] to the type.(¸ºı‚
+\
+java:S1124ı"EReorder the modifiers to comply with the Java Language Specification.(¸ºı‚
+F
+java:S1197"*Move the array designators [] to the type.(Æ²¿Éÿÿÿÿÿ
+\
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(Èªœå
+\
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(£µ°
+\
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(®‰„
+[
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(·é
+\
+java:S1124œ""EReorder the modifiers to comply with the Java Language Specification.(É§šè
+a
+java:S1124œ%"EReorder the modifiers to comply with the Java Language Specification.(ó£¨úÿÿÿÿ
+\
+java:S1124œ("EReorder the modifiers to comply with the Java Language Specification.(Ö×ÕÉ
+a
+java:S1124œ+"EReorder the modifiers to comply with the Java Language Specification.(¿Ã¯µøÿÿÿÿ
+A
+java:S1197…."*Move the array designators [] to the type.(°ëšÛ
+\
+java:S1124…."EReorder the modifiers to comply with the Java Language Specification.(°ëšÛ
+F
+java:S1197˜."*Move the array designators [] to the type.(÷™Ÿèÿÿÿÿÿ
+\
+java:S1124§."EReorder the modifiers to comply with the Java Language Specification.(£õÄ·
+\
+java:S1124©2"EReorder the modifiers to comply with the Java Language Specification.(¸Á‹
+a
+java:S1124«6"EReorder the modifiers to comply with the Java Language Specification.(ĞûŞ¬úÿÿÿÿ
+a
+java:S1124­:"EReorder the modifiers to comply with the Java Language Specification.(ß²Ñùÿÿÿÿ
+\
+java:S1124¯>"EReorder the modifiers to comply with the Java Language Specification.(èóŠÆ
+a
+java:S1124±B"EReorder the modifiers to comply with the Java Language Specification.(ó¬…×şÿÿÿÿ
+\
+java:S1124³F"EReorder the modifiers to comply with the Java Language Specification.(œÌ’â
+a
+java:S1124µJ"EReorder the modifiers to comply with the Java Language Specification.(‘«¹÷ÿÿÿÿÿ
+a
+java:S1124·N"EReorder the modifiers to comply with the Java Language Specification.(¡È¾Üùÿÿÿÿ
+a
+java:S1124¹R"EReorder the modifiers to comply with the Java Language Specification.(ÃøË­ÿÿÿÿÿ
+\
+java:S1124»V"EReorder the modifiers to comply with the Java Language Specification.(‹·ñ³
+a
+java:S1124½Z"EReorder the modifiers to comply with the Java Language Specification.(”ñØ†øÿÿÿÿ
+\
+java:S1124¿^"EReorder the modifiers to comply with the Java Language Specification.(µË²Ù
+F
+java:S1197á_"*Move the array designators [] to the type.(ç§Æüÿÿÿÿ
+a
+java:S1124á_"EReorder the modifiers to comply with the Java Language Specification.(ç§Æüÿÿÿÿ
+A
+java:S1197ô_"*Move the array designators [] to the type.(ãÀ•
+8
+java:S1659`"!Declare "end" on a separate line.(ÉÇ¸÷
+8
+java:S1659›`"!Declare "end" on a separate line.(ãíÇš
+V
+java:S1161¤`":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+n
+java:S3776¨`"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+^
+java:S1659»`"BDeclare "byte2" and all following declarations on a separate line.(çÖĞÆøÿÿÿÿ
+=	java:S131è`""Add a default case to this switch.(¯ĞÁÍúÿÿÿÿ
+B
+java:S1481ó`"+Remove this unused "hiByte" local variable.(’˜±æ
+C
+java:S1481ô`",Remove this unused "lowByte" local variable.(¸…ğÿ
+n
+java:S3776œa"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+^
+java:S1659£a"BDeclare "byte2" and all following declarations on a separate line.(çÖĞÆøÿÿÿÿ
+=	java:S131Ïa""Add a default case to this switch.(¯ĞÁÍúÿÿÿÿ
+B
+java:S1481Úa"+Remove this unused "hiByte" local variable.(’˜±æ
+C
+java:S1481Ûa",Remove this unused "lowByte" local variable.(¸…ğÿ
+V
+java:S1161”b":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+V
+java:S1161¡b":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+i
+java:S3776¥b"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(”Î¡½
+;
+java:S1659´b"$Declare "loByte" on a separate line.(ÄÂ×§
+W	java:S125Àb"<This block of commented-out lines of code should be removed.(«³õâúÿÿÿÿ
+[
+java:S1659ób"?Declare "b2" and all following declarations on a separate line.(ªÿ¿Çúÿÿÿÿ
+h
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ºÖÂ
+;
+java:S1659“c"$Declare "loByte" on a separate line.(ÄÂ×§
+[
+java:S1659Êc"?Declare "b2" and all following declarations on a separate line.(ªÿ¿Çúÿÿÿÿ

@@ -1,0 +1,21 @@
+
+n
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÆŽu
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùãöÜþÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(É´Æ–ÿÿÿÿÿ
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Ö¯˜þÿÿÿÿ
+p
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ªð¡
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¦ä–š
+h
+java:S27863"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ó“öî
+2
+java:S11163"Remove this empty statement.(Ó“öî
+m
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ì¦» ûÿÿÿÿ
+<
+java:S1110r"!Remove these useless parentheses.(ÒØåêúÿÿÿÿ

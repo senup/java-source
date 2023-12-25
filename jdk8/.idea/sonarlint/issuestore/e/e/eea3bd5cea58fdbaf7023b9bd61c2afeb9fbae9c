@@ -1,0 +1,7 @@
+
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(”îóµ
+u	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§³÷±øÿÿÿÿ
+p	java:S115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ïŽ‹
+4
+java:S2178/"Correct this "&" to "&&".(›‘ë¤úÿÿÿÿ

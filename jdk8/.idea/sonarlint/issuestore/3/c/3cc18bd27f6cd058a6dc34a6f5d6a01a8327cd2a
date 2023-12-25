@@ -1,0 +1,164 @@
+
+F
+java:S1066œ"/Merge this if statement with the enclosing one.(İ õ‡
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èçø•
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µæµë
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢é¸¹úÿÿÿÿ
+f	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ”İn
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶îñ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ããÄùÿÿÿÿ
+l	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨óÖåşÿÿÿÿ
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èçø•
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µæµë
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢é¸¹úÿÿÿÿ
+f	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ”İn
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶îñ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ããÄùÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨óÖåşÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èçø•
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·óû”
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ããÄùÿÿÿÿ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨óÖåşÿÿÿÿ
+h	java:S116K"SRename this field "last_wet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÂŞº
+l	java:S116L"RRename this field "last_a0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¦÷çÿÿÿÿÿ
+g	java:S116M"RRename this field "last_a1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ñüû
+g	java:S116N"RRename this field "last_a2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÍæ§
+g	java:S116O"RRename this field "last_b1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŠªœ
+g	java:S116P"RRename this field "last_b2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É
+f	java:S116Q"QRename this field "last_q" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¼×¬
+n	java:S116R"TRename this field "last_gain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ƒáğşÿÿÿÿ
+h	java:S116S"SRename this field "last_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™ªí
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(ç£ù“ûÿÿÿÿ
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(‘®Ášüÿÿÿÿ
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(Ãè¢ñûÿÿÿÿ
+[
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(ÍË¯ã
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(Û¹Üÿøÿÿÿÿ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(îÆş
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(Üğ·úÿÿÿÿ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ø€óï
+R
+java:S1117ª"6Rename "a0" which hides the field declared at line 67.(…§êÍıÿÿÿÿ
+R
+java:S1117«"6Rename "a1" which hides the field declared at line 68.(½’×ûÿÿÿÿ
+M
+java:S1117¬"6Rename "a2" which hides the field declared at line 69.(€ ”
+R
+java:S1117­"6Rename "b1" which hides the field declared at line 70.(“¶¿ìúÿÿÿÿ
+R
+java:S1117®"6Rename "b2" which hides the field declared at line 71.(•îúÿÿÿÿ
+O
+java:S1117¯"8Rename "gain" which hides the field declared at line 73.(—¡şÅ
+S
+java:S1117°"7Rename "wet" which hides the field declared at line 74.(ñ¶¬Ëøÿÿÿÿ
+M
+java:S1117¸"6Rename "x1" which hides the field declared at line 59.(´á™ü
+R
+java:S1117¹"6Rename "x2" which hides the field declared at line 60.(Òßãûùÿÿÿÿ
+R
+java:S1117º"6Rename "y1" which hides the field declared at line 61.(ğ…Ø”úÿÿÿÿ
+R
+java:S1117»"6Rename "y2" which hides the field declared at line 62.(ÊŞÁÓûÿÿÿÿ
+N
+java:S1117¼"7Rename "xx1" which hides the field declared at line 63.(ŒâÏ
+N
+java:S1117½"7Rename "xx2" which hides the field declared at line 64.(É¨ÈË
+M
+java:S1117¾"7Rename "yy1" which hides the field declared at line 65.(•â_
+N
+java:S1117¿"7Rename "yy2" which hides the field declared at line 66.(‹¥Û
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(œîãòûÿÿÿÿ
+[
+java:S1117£"?Rename "resonancedB" which hides the field declared at line 85.(Ş’ÓĞşÿÿÿÿ
+M
+java:S1117¹"6Rename "b1" which hides the field declared at line 70.(ò®²Â
+R
+java:S1117º"6Rename "b2" which hides the field declared at line 71.(¼Ü¶‹üÿÿÿÿ
+M
+java:S1117»"6Rename "a0" which hides the field declared at line 67.(ÇşÈı
+R
+java:S1117¼"6Rename "a1" which hides the field declared at line 68.(Š”©´üÿÿÿÿ
+R
+java:S1117½"6Rename "a2" which hides the field declared at line 69.(üú“íøÿÿÿÿ
+M
+java:S1117Õ"6Rename "b1" which hides the field declared at line 70.(”²×©
+R
+java:S1117Ö"6Rename "b2" which hides the field declared at line 71.(°Ñœ‰ÿÿÿÿÿ
+M
+java:S1117×"6Rename "a0" which hides the field declared at line 67.(ÇşÈı
+R
+java:S1117Ø"6Rename "a1" which hides the field declared at line 68.(Š”©´üÿÿÿÿ
+R
+java:S1117Ù"6Rename "a2" which hides the field declared at line 69.(üú“íøÿÿÿÿ
+Q
+java:S1117ó"5Rename "q" which hides the field declared at line 72.(™´Ğôùÿÿÿÿ
+R
+java:S1117ô"6Rename "a0" which hides the field declared at line 67.(¸ğ·„üÿÿÿÿ
+R
+java:S1117õ"6Rename "a1" which hides the field declared at line 68.(·×Şÿÿÿÿÿ
+R
+java:S1117ö"6Rename "a2" which hides the field declared at line 69.(ëú˜Õùÿÿÿÿ
+M
+java:S1117÷"6Rename "b1" which hides the field declared at line 70.(ïÃÎ‚
+R
+java:S1117ø"6Rename "b2" which hides the field declared at line 71.(¿ñ­çıÿÿÿÿ
+Q
+java:S1117Œ"5Rename "q" which hides the field declared at line 72.(™´Ğôùÿÿÿÿ
+R
+java:S1117"6Rename "a0" which hides the field declared at line 67.(¸ğ·„üÿÿÿÿ
+M
+java:S1117"6Rename "a1" which hides the field declared at line 68.( ´îğ
+R
+java:S1117"6Rename "a2" which hides the field declared at line 69.(ëú˜Õùÿÿÿÿ
+M
+java:S1117"6Rename "b1" which hides the field declared at line 70.(ñ¢Õ½
+R
+java:S1117‘"6Rename "b2" which hides the field declared at line 71.(¿ñ­çıÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(‚ÿ¾åùÿÿÿÿ
+R
+java:S1117´"6Rename "a0" which hides the field declared at line 67.(…§êÍıÿÿÿÿ
+R
+java:S1117µ"6Rename "a1" which hides the field declared at line 68.(½’×ûÿÿÿÿ
+M
+java:S1117¶"6Rename "a2" which hides the field declared at line 69.(€ ”
+R
+java:S1117·"6Rename "b1" which hides the field declared at line 70.(“¶¿ìúÿÿÿÿ
+R
+java:S1117¸"6Rename "b2" which hides the field declared at line 71.(•îúÿÿÿÿ
+O
+java:S1117¹"8Rename "gain" which hides the field declared at line 73.(—¡şÅ
+S
+java:S1117º"7Rename "wet" which hides the field declared at line 74.(ñ¶¬Ëøÿÿÿÿ
+M
+java:S1117Â"6Rename "x1" which hides the field declared at line 59.(´á™ü
+R
+java:S1117Ã"6Rename "x2" which hides the field declared at line 60.(Òßãûùÿÿÿÿ
+R
+java:S1117Ä"6Rename "y1" which hides the field declared at line 61.(ğ…Ø”úÿÿÿÿ
+R
+java:S1117Å"6Rename "y2" which hides the field declared at line 62.(ÊŞÁÓûÿÿÿÿ
+=
+java:S1110š"!Remove these useless parentheses.(İûÒıÿÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ñ­ã§ùÿÿÿÿ
+R
+java:S1117²"6Rename "a0" which hides the field declared at line 67.(…§êÍıÿÿÿÿ
+L
+java:S1117³"5Rename "q" which hides the field declared at line 72.(œÖç
+O
+java:S1117´"8Rename "gain" which hides the field declared at line 73.(—¡şÅ
+S
+java:S1117µ"7Rename "wet" which hides the field declared at line 74.(ñ¶¬Ëøÿÿÿÿ
+R
+java:S1117º"6Rename "y2" which hides the field declared at line 62.(ÊŞÁÓûÿÿÿÿ
+R
+java:S1117»"6Rename "y1" which hides the field declared at line 61.(ğ…Ø”úÿÿÿÿ

@@ -1,0 +1,21 @@
+
+P
+java:S1191/"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+m
+java:S1450š"VRemove the "jgArray" field and declare it as a local variable in the relevant methods.(§£‰˜
+r
+java:S1450™"VRemove the "mirrors" field and declare it as a local variable in the relevant methods.(¶ë×ƒüÿÿÿÿ
+9
+java:S1659J"#Declare "count" on a separate line.(ýêèé
+?
+java:S1197l"*Move the array designators [] to the type.(ñõé
+L
+java:S1172€"0Remove this unused method parameter "makeDummy".(¿æ„¢üÿÿÿÿ
+F
+java:S1197˜"*Move the array designators [] to the type.(Ò‡Üðûÿÿÿÿ
+F
+java:S1197™"*Move the array designators [] to the type.(¶ë×ƒüÿÿÿÿ
+A
+java:S1197š"*Move the array designators [] to the type.(§£‰˜
+F
+java:S1197¢"*Move the array designators [] to the type.(—¸Äîùÿÿÿÿ

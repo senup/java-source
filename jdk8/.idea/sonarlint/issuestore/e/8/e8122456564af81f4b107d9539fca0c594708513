@@ -1,0 +1,23 @@
+
+U
+java:S11618":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+h
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(èÄíÅ
+P
+java:S1161O":Add the "@Override" annotation above this method signature(èÄíÅ
+f
+java:S3457S"KFormat specifiers or lambda should be used instead of string concatenation.(—Ò‚Íşÿÿÿÿ
+E
+java:S1197V"*Move the array designators [] to the type.(Û¢œøùÿÿÿÿ
+7
+java:S3457Z"!Single quote "'" must be escaped.(Şõåë
+7
+java:S3457d"!Single quote "'" must be escaped.(Şõåë
+E
+java:S1197k"*Move the array designators [] to the type.(ûµşÿÿÿÿ
+g
+java:S3457ƒ"KFormat specifiers or lambda should be used instead of string concatenation.(è«óßùÿÿÿÿ
+b
+java:S3457ˆ"KFormat specifiers or lambda should be used instead of string concatenation.(ıØª¤
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(©í»¼

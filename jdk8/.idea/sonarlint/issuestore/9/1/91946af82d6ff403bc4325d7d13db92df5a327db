@@ -1,0 +1,92 @@
+
+w
+java:S1192¿"[Define a constant instead of duplicating this literal "Coordinate out of bounds!" 13 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+]
+java:S1126 "AReplace this if-then-else statement by a single return statement.(¥ÓËõøÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(Åïïèüÿÿÿÿ
+?
+java:S1905†"(Remove this unnecessary cast to "int[]".(é„×Ä
+Q
+java:S1161":Add the "@Override" annotation above this method signature(šõĞ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(…¬˜ñ
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(øÃû1
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(ıÂ‚â
+V
+java:S1161»":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197Á"*Move the array designators [] to the type.(¿ğ€üÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(†Àµ
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(†Àµ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(®ßö®
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(®ßö®
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ç×‹“
+@
+java:S1197¥"*Move the array designators [] to the type.(ûÌ‹	
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(Í°—
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(‘†ŸÈùÿÿÿÿ
+n
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(­§ê–ıÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(­§ê–ıÿÿÿÿ
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(ëæú£
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(Šö¿Éûÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğÕˆ½
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(ğÕˆ½
+A
+java:S1197ï"*Move the array designators [] to the type.(ŸÕÜ®
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(úƒˆ—
+A
+java:S1197•"*Move the array designators [] to the type.(úƒˆ—
+n
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(õ¦Èúüÿÿÿÿ
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(õ¦Èúüÿÿÿÿ
+A
+java:S1197Â"*Move the array designators [] to the type.(›æ»
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(ÔîÓ°
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ÔîÓ°
+Q
+java:S1161û":Add the "@Override" annotation above this method signature(åÊÿ©
+Q
+java:S1161µ	":Add the "@Override" annotation above this method signature(Ç§æ
+E
+java:S1905¼	")Remove this unnecessary cast to "Raster".(èƒ¶úÿÿÿÿ
+V
+java:S1161Ò	":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+Q
+java:S1161ù	":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161‹
+":Add the "@Override" annotation above this method signature(ÌŸ­
+Q
+java:S1161
+":Add the "@Override" annotation above this method signature(Á»›ê
+<
+java:S2129
+" Remove this "String" constructor(¶å»šûÿÿÿÿ
+R	java:S125š
+"<This block of commented-out lines of code should be removed.(ğÜ¹Û

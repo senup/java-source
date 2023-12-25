@@ -1,0 +1,77 @@
+
+E
+java:S3740?"/Provide the parametrized type for this generic.(ì¢¾–
+J
+java:S3740["/Provide the parametrized type for this generic.(ûšıäøÿÿÿÿ
+E
+java:S3740]"/Provide the parametrized type for this generic.(¹ß±Ò
+J
+java:S3740h"/Provide the parametrized type for this generic.(˜ŒˆÔÿÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(´ÿÒùùÿÿÿÿ
+F
+java:S3740”"/Provide the parametrized type for this generic.(½Ë¹¶
+j
+java:S1192y"UDefine a constant instead of duplicating this literal "componentOrientation" 3 times.(ûÍG
+I
+java:S1121z".Extract the assignment out of this expression.(Œú­†ıÿÿÿÿ
+C
+java:S1604u"(Make this anonymous inner class a lambda(ãáÆşÿÿÿÿ
+Q
+java:S4973y"<Strings and Boxed types should be compared using "equals()".(ûÍG
+P
+java:S1191("5Use classes from the Java API instead of Sun classes.(à»¹£úÿÿÿÿ
+U
+java:S1161S":Add the "@Override" annotation above this method signature(Ö„˜şúÿÿÿÿ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(•ßçùÿÿÿÿ
+D
+java:S1172Š"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+V
+java:S1161š":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+P
+java:S1161Á":Add the "@Override" annotation above this method signature(–™Ë
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(Äò¯ıÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+P
+java:S1161ÿ":Add the "@Override" annotation above this method signature(ŒåƒH
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(Ş¢‚Üúÿÿÿÿ
+V
+java:S1161Æ":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
+V
+java:S1161×":Add the "@Override" annotation above this method signature(Ûƒ«¥ùÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(âµô«şÿÿÿÿ
+H
+java:S1905à",Remove this unnecessary cast to "JComboBox".(®à¤Ïùÿÿÿÿ
+?
+java:S1185ê"(Remove this method to simply inherit it.(˜ˆßË
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(˜ˆßË
+D
+java:S1185î"(Remove this method to simply inherit it.(ÒÒ’Ëùÿÿÿÿ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(ÒÒ’Ëùÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(Ä¡ßüÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(×Í€êıÿÿÿÿ
+[
+java:S3358Ÿ"DExtract this nested ternary operation into an independent statement.(Ö“Æœ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Q
+java:S1133Î"5Do not forget to remove this deprecated code someday.(¬ıÖ›ÿÿÿÿÿ
+Q
+java:S1161Ô":Add the "@Override" annotation above this method signature(Ÿµğ
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(²È›
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(˜‘±Éùÿÿÿÿ
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(œĞóØ

@@ -1,0 +1,9 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+j	java:S1164"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÉáãþÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ë´ó°
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ë´ó°
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ë´ó°
+B
+java:S1068/"'Remove this unused "url" private field.(°å”àùÿÿÿÿ

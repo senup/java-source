@@ -1,0 +1,1695 @@
+
+n
+java:S1104+"SMake ONE_DAY a static final constant or non-public and provide accessors if needed.(°ËÌûûÿÿÿÿ
+j
+java:S1104,"TMake ONE_HOUR a static final constant or non-public and provide accessors if needed.(¶“·æ
+n
+java:S1104-"SMake ONE_MIN a static final constant or non-public and provide accessors if needed.(µô·˜ıÿÿÿÿ
+k
+java:S1104."UMake ONE_MONTH a static final constant or non-public and provide accessors if needed.(éÂÚ¥
+o
+java:S1104/"TMake ONE_YEAR a static final constant or non-public and provide accessors if needed.(½í¦İşÿÿÿÿ
+k
+java:S11040"UMake TWO_HOURS a static final constant or non-public and provide accessors if needed.(Ş–áà
+r
+java:S11041"WMake THREE_HOURS a static final constant or non-public and provide accessors if needed.(¸›ƒ†ıÿÿÿÿ
+m
+java:S11042"XMake THREE_MONTHS a static final constant or non-public and provide accessors if needed.(å•ñ!
+j
+java:S11043"TMake FIVE_MIN a static final constant or non-public and provide accessors if needed.(÷½µ¸
+k
+java:S11044"UMake SIX_HOURS a static final constant or non-public and provide accessors if needed.(ÁÎ¦À
+q
+java:S11045"VMake SIX_MONTHS a static final constant or non-public and provide accessors if needed.(ş¹À•úÿÿÿÿ
+q
+java:S11046"VMake SEVEN_DAYS a static final constant or non-public and provide accessors if needed.(˜ÌÌÄøÿÿÿÿ
+i
+java:S11047"SMake TEN_MIN a static final constant or non-public and provide accessors if needed.(—˜—
+s
+java:S11048"XMake TWELVE_HOURS a static final constant or non-public and provide accessors if needed.(–ñË¥üÿÿÿÿ
+q
+java:S11049"VMake THIRTY_MIN a static final constant or non-public and provide accessors if needed.(ıÿƒÍÿÿÿÿÿ
+k
+java:S1104:"UMake LESS_THAN a static final constant or non-public and provide accessors if needed.(ÛúŸÄ
+q
+java:S1104;"[Make A_LOT_LESS_THAN a static final constant or non-public and provide accessors if needed.(¾€„¸
+s
+java:S1104<"XMake GREATER_THAN a static final constant or non-public and provide accessors if needed.(Ã¦úöüÿÿÿÿ
+y
+java:S1104="^Make ACTION_CAPITALIZED a static final constant or non-public and provide accessors if needed.(´ü¥íüÿÿÿÿ
+y
+java:S1104>"cMake ACTION_INFO_CAPITALIZED a static final constant or non-public and provide accessors if needed.(À§¿¬
+j
+java:S1104?"OMake ALL a static final constant or non-public and provide accessors if needed.(¨ÃëÁıÿÿÿÿ
+s
+java:S1104@"XMake ARCHITECTURE a static final constant or non-public and provide accessors if needed.(ö´ñÂüÿÿÿÿ
+p
+java:S1104A"UMake ATTRIBUTE a static final constant or non-public and provide accessors if needed.(ÊŒê¤ıÿÿÿÿ
+v
+java:S1104B"[Make ATTRIBUTE_VALUE a static final constant or non-public and provide accessors if needed.(÷ï¤Íüÿÿÿÿ
+w
+java:S1104C"\Make ATTRIBUTE_VALUES a static final constant or non-public and provide accessors if needed.(õ”‘¦ûÿÿÿÿ
+l
+java:S1104D"VMake ATTRIBUTES a static final constant or non-public and provide accessors if needed.(²™İ
+g
+java:S1104E"QMake BLANK a static final constant or non-public and provide accessors if needed.(Ë‹–
+|
+java:S1104F"fMake BLOCKED_COUNT_WAITED_COUNT a static final constant or non-public and provide accessors if needed.(¤Œá‘
+q
+java:S1104G"[Make BOOT_CLASS_PATH a static final constant or non-public and provide accessors if needed.(£¬àß
+
+java:S1104H"zMake BORDERED_COMPONENT_MORE_OR_LESS_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(¾äŒ—
+k
+java:S1104I"UMake CPU_USAGE a static final constant or non-public and provide accessors if needed.(úúÙş
+w
+java:S1104J"\Make CPU_USAGE_FORMAT a static final constant or non-public and provide accessors if needed.(ìÕñËşÿÿÿÿ
+h
+java:S1104K"RMake CANCEL a static final constant or non-public and provide accessors if needed.(¬®¬
+i
+java:S1104L"SMake CASCADE a static final constant or non-public and provide accessors if needed.(ÒÛ¯à
+m
+java:S1104M"WMake CHART_COLON a static final constant or non-public and provide accessors if needed.(Ù×Ø
+q
+java:S1104N"VMake CLASS_PATH a static final constant or non-public and provide accessors if needed.(ŞÃğòÿÿÿÿÿ
+q
+java:S1104O"VMake CLASS_NAME a static final constant or non-public and provide accessors if needed.(Ô§ˆĞüÿÿÿÿ
+}
+java:S1104P"gMake CLASS_TAB_INFO_LABEL_FORMAT a static final constant or non-public and provide accessors if needed.(ëñŠŠ
+’
+java:S1104Q"|Make CLASS_TAB_LOADED_CLASSES_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(ÙšÏ¹
+n
+java:S1104R"SMake CLASSES a static final constant or non-public and provide accessors if needed.(ÆòÅøÿÿÿÿ
+g
+java:S1104S"QMake CLOSE a static final constant or non-public and provide accessors if needed.(ê’¯
+r
+java:S1104T"WMake COLUMN_NAME a static final constant or non-public and provide accessors if needed.(ù÷ìÃøÿÿÿÿ
+q
+java:S1104U"VMake COLUMN_PID a static final constant or non-public and provide accessors if needed.(ë³¦ÿÿÿÿÿ
+r
+java:S1104V"\Make COMMITTED_MEMORY a static final constant or non-public and provide accessors if needed.(€¡ú
+
+java:S1104W"dMake COMMITTED_VIRTUAL_MEMORY a static final constant or non-public and provide accessors if needed.(˜Ûºúÿÿÿÿ
+p
+java:S1104X"UMake COMMITTED a static final constant or non-public and provide accessors if needed.(Ïñÿ¡şÿÿÿÿ
+i
+java:S1104Y"SMake CONNECT a static final constant or non-public and provide accessors if needed.(”Øæş
+Œ
+java:S1104Z"qMake CONNECT_DIALOG_CONNECT_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(Ş–ƒÍıÿÿÿÿ
+Œ
+java:S1104["qMake CONNECT_DIALOG_ACCESSIBLE_DESCRIPTION a static final constant or non-public and provide accessors if needed.(ß©¤Çıÿÿÿÿ
+
+java:S1104\"sMake CONNECT_DIALOG_MASTHEAD_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(ßñõşÿÿÿÿ
+„
+java:S1104]"iMake CONNECT_DIALOG_MASTHEAD_TITLE a static final constant or non-public and provide accessors if needed.(…õçŸøÿÿÿÿ
+‹
+java:S1104^"uMake CONNECT_DIALOG_STATUS_BAR_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(›ñ–ø
+{
+java:S1104_"`Make CONNECT_DIALOG_TITLE a static final constant or non-public and provide accessors if needed.(’òœ”üÿÿÿÿ
+Œ
+java:S1104`"vMake CONNECTED_PUNCTUATION_CLICK_TO_DISCONNECT_ a static final constant or non-public and provide accessors if needed.(²ê è
+s
+java:S1104a"]Make CONNECTION_FAILED a static final constant or non-public and provide accessors if needed.(Û¬ÁÍ
+q
+java:S1104b"VMake CONNECTION a static final constant or non-public and provide accessors if needed.(ÃûêÇüÿÿÿÿ
+v
+java:S1104c"[Make CONNECTION_NAME a static final constant or non-public and provide accessors if needed.(ÍõÓøıÿÿÿÿ
+…
+java:S1104d"jMake CONNECTION_NAME__DISCONNECTED_ a static final constant or non-public and provide accessors if needed.(´è•«ÿÿÿÿÿ
+r
+java:S1104e"WMake CONSTRUCTOR a static final constant or non-public and provide accessors if needed.(Ó³¡Õÿÿÿÿÿ
+}
+java:S1104f"bMake CURRENT_CLASSES_LOADED a static final constant or non-public and provide accessors if needed.(“’ûúÿÿÿÿ
+x
+java:S1104g"]Make CURRENT_HEAP_SIZE a static final constant or non-public and provide accessors if needed.(º×ÉÓúÿÿÿÿ
+t
+java:S1104h"YMake CURRENT_VALUE a static final constant or non-public and provide accessors if needed.(¯‡Ãâşÿÿÿÿ
+m
+java:S1104i"RMake CREATE a static final constant or non-public and provide accessors if needed.(ş·Ÿúüÿÿÿÿ
+p
+java:S1104j"ZMake DAEMON_THREADS a static final constant or non-public and provide accessors if needed.(ÔÿŒ©
+‘
+java:S1104k"vMake DISCONNECTED_PUNCTUATION_CLICK_TO_CONNECT_ a static final constant or non-public and provide accessors if needed.(ç½›ñùÿÿÿÿ
+
+java:S1104l"yMake DOUBLE_CLICK_TO_EXPAND_FORWARD_SLASH_COLLAPSE a static final constant or non-public and provide accessors if needed.(¥²·
+{
+java:S1104m"eMake DOUBLE_CLICK_TO_VISUALIZE a static final constant or non-public and provide accessors if needed.(¥Œú
+r
+java:S1104n"WMake DESCRIPTION a static final constant or non-public and provide accessors if needed.(©¢Í¡øÿÿÿÿ
+q
+java:S1104o"VMake DESCRIPTOR a static final constant or non-public and provide accessors if needed.(Êíá­úÿÿÿÿ
+n
+java:S1104p"SMake DETAILS a static final constant or non-public and provide accessors if needed.(µøŞŞùÿÿÿÿ
+v
+java:S1104q"[Make DETECT_DEADLOCK a static final constant or non-public and provide accessors if needed.(¦Öïéûÿÿÿÿ
+y
+java:S1104r"cMake DETECT_DEADLOCK_TOOLTIP a static final constant or non-public and provide accessors if needed.(æß£Ó
+‚
+java:S1104s"lMake DIMENSION_IS_NOT_SUPPORTED_COLON a static final constant or non-public and provide accessors if needed.(“ê§€
+o
+java:S1104t"YMake DISCARD_CHART a static final constant or non-public and provide accessors if needed.(ç¨÷ì
+}
+java:S1104u"gMake DURATION_DAYS_HOURS_MINUTES a static final constant or non-public and provide accessors if needed.(•”®‘
+}
+java:S1104v"bMake DURATION_HOURS_MINUTES a static final constant or non-public and provide accessors if needed.(–ÏÈ›ùÿÿÿÿ
+r
+java:S1104w"\Make DURATION_MINUTES a static final constant or non-public and provide accessors if needed.(´ºüá
+r
+java:S1104x"\Make DURATION_SECONDS a static final constant or non-public and provide accessors if needed.(à¾ğÌ
+m
+java:S1104y"WMake EMPTY_ARRAY a static final constant or non-public and provide accessors if needed.(øı Ë
+g
+java:S1104z"QMake ERROR a static final constant or non-public and provide accessors if needed.(ºÌŒÎ
+‚
+java:S1104{"lMake ERROR_COLON_MBEANS_ALREADY_EXIST a static final constant or non-public and provide accessors if needed.(çÓÈæ
+†
+java:S1104|"kMake ERROR_COLON_MBEANS_DO_NOT_EXIST a static final constant or non-public and provide accessors if needed.(°¶†Öùÿÿÿÿ
+l
+java:S1104}"QMake EVENT a static final constant or non-public and provide accessors if needed.(›«êŞÿÿÿÿÿ
+k
+java:S1104~"PMake EXIT a static final constant or non-public and provide accessors if needed.(¸ïÛ¸ùÿÿÿÿ
+z
+java:S1104"_Make FAIL_TO_LOAD_PLUGIN a static final constant or non-public and provide accessors if needed.(«Ó›‘ıÿÿÿÿ
+‰
+java:S1104€"rMake FILE_CHOOSER_FILE_EXISTS_CANCEL_OPTION a static final constant or non-public and provide accessors if needed.(ï‰êÒ
+ƒ
+java:S1104"lMake FILE_CHOOSER_FILE_EXISTS_MESSAGE a static final constant or non-public and provide accessors if needed.(«ñòÂ
+Š
+java:S1104‚"nMake FILE_CHOOSER_FILE_EXISTS_OK_OPTION a static final constant or non-public and provide accessors if needed.(Ä³Ä¾şÿÿÿÿ
+†
+java:S1104ƒ"jMake FILE_CHOOSER_FILE_EXISTS_TITLE a static final constant or non-public and provide accessors if needed.(„ğä¹ÿÿÿÿÿ
+z
+java:S1104„"cMake FILE_CHOOSER_SAVED_FILE a static final constant or non-public and provide accessors if needed.(§ÕÁÈ
+ƒ
+java:S1104…"lMake FILE_CHOOSER_SAVE_FAILED_MESSAGE a static final constant or non-public and provide accessors if needed.(´Õí
+†
+java:S1104†"jMake FILE_CHOOSER_SAVE_FAILED_TITLE a static final constant or non-public and provide accessors if needed.(ö–³”ûÿÿÿÿ
+w
+java:S1104‡"`Make FREE_PHYSICAL_MEMORY a static final constant or non-public and provide accessors if needed.(êƒ
+r
+java:S1104ˆ"[Make FREE_SWAP_SPACE a static final constant or non-public and provide accessors if needed.(ÈÊ’
+s
+java:S1104‰"]Make GARBAGE_COLLECTOR a static final constant or non-public and provide accessors if needed.(Ş‰d
+j
+java:S1104Š"SMake GC_INFO a static final constant or non-public and provide accessors if needed.(ÏÙèõ
+j
+java:S1104‹"SMake GC_TIME a static final constant or non-public and provide accessors if needed.(üŞåÜ
+w
+java:S1104Œ"[Make GC_TIME_DETAILS a static final constant or non-public and provide accessors if needed.(§—¸âşÿÿÿÿ
+t
+java:S1104"]Make HEAP_MEMORY_USAGE a static final constant or non-public and provide accessors if needed.(êÆœÃ
+g
+java:S1104"PMake HEAP a static final constant or non-public and provide accessors if needed.(Ó•íÙ
+‹
+java:S1104"tMake HELP_ABOUT_DIALOG_ACCESSIBLE_DESCRIPTION a static final constant or non-public and provide accessors if needed.(ò£°›
+…
+java:S1104"nMake HELP_ABOUT_DIALOG_JCONSOLE_VERSION a static final constant or non-public and provide accessors if needed.(Û£¤Î
+
+java:S1104‘"jMake HELP_ABOUT_DIALOG_JAVA_VERSION a static final constant or non-public and provide accessors if needed.(¯ûˆ
+
+java:S1104’"vMake HELP_ABOUT_DIALOG_MASTHEAD_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(Ô†‡•
+ƒ
+java:S1104“"lMake HELP_ABOUT_DIALOG_MASTHEAD_TITLE a static final constant or non-public and provide accessors if needed.(¢¬¡
+
+java:S1104”"cMake HELP_ABOUT_DIALOG_TITLE a static final constant or non-public and provide accessors if needed.(á¼ÈÕşÿÿÿÿ
+
+java:S1104•"qMake HELP_ABOUT_DIALOG_USER_GUIDE_LINK_URL a static final constant or non-public and provide accessors if needed.(¿ĞÕ’ûÿÿÿÿ
+}
+java:S1104–"aMake HELP_MENU_ABOUT_TITLE a static final constant or non-public and provide accessors if needed.(„æœûÿÿÿÿ
+‚
+java:S1104—"fMake HELP_MENU_USER_GUIDE_TITLE a static final constant or non-public and provide accessors if needed.(×Ç“ûÿÿÿÿ
+w
+java:S1104˜"[Make HELP_MENU_TITLE a static final constant or non-public and provide accessors if needed.(×ø¼ùÿÿÿÿ
+z
+java:S1104™"cMake HOTSPOT_MBEANS_ELLIPSIS a static final constant or non-public and provide accessors if needed.(‚×§®
+”
+java:S1104š"xMake HOTSPOT_MBEANS_DIALOG_ACCESSIBLE_DESCRIPTION a static final constant or non-public and provide accessors if needed.(â˜Ùïúÿÿÿÿ
+n
+java:S1104›"RMake IMPACT a static final constant or non-public and provide accessors if needed.(©İŒ‘øÿÿÿÿ
+l
+java:S1104œ"PMake INFO a static final constant or non-public and provide accessors if needed.(íõÎåÿÿÿÿÿ
+s
+java:S1104"\Make INFO_CAPITALIZED a static final constant or non-public and provide accessors if needed.(¨¶ÿã
+p
+java:S1104"TMake INSECURE a static final constant or non-public and provide accessors if needed.(øı¹¯ûÿÿÿÿ
+v
+java:S1104Ÿ"_Make INVALID_PLUGIN_PATH a static final constant or non-public and provide accessors if needed.(¼ÑÖ„
+s
+java:S1104 "WMake INVALID_URL a static final constant or non-public and provide accessors if needed.(ş‹Ìûÿÿÿÿ
+e
+java:S1104¡"NMake IS a static final constant or non-public and provide accessors if needed.(ÈãùÂ
+‡
+java:S1104¢"pMake JAVA_MONITORING___MANAGEMENT_CONSOLE a static final constant or non-public and provide accessors if needed.(Î Ü¦
+w
+java:S1104£"[Make JCONSOLE_COLON_ a static final constant or non-public and provide accessors if needed.(éÓªœûÿÿÿÿ
+x
+java:S1104¤"\Make JCONSOLE_VERSION a static final constant or non-public and provide accessors if needed.(š‹ø´øÿÿÿÿ
+‡
+java:S1104¥"kMake JCONSOLE_ACCESSIBLE_DESCRIPTION a static final constant or non-public and provide accessors if needed.(šµãÂüÿÿÿÿ
+o
+java:S1104¦"XMake JIT_COMPILER a static final constant or non-public and provide accessors if needed.(Ù¶Ëç
+t
+java:S1104§"XMake LIBRARY_PATH a static final constant or non-public and provide accessors if needed.(Óô»¯ûÿÿÿÿ
+o
+java:S1104¨"XMake LIVE_THREADS a static final constant or non-public and provide accessors if needed.(°ÛÀ®
+i
+java:S1104©"RMake LOADED a static final constant or non-public and provide accessors if needed.(‚ËìÙ
+{
+java:S1104ª"_Make LOCAL_PROCESS_COLON a static final constant or non-public and provide accessors if needed.(ÍèÁÈøÿÿÿÿ
+u
+java:S1104«"YMake MASTHEAD_FONT a static final constant or non-public and provide accessors if needed.(¸Ê­ıÿÿÿÿ
+y
+java:S1104¬"bMake MANAGEMENT_NOT_ENABLED a static final constant or non-public and provide accessors if needed.(ñ¡å€
+‚
+java:S1104­"fMake MANAGEMENT_WILL_BE_ENABLED a static final constant or non-public and provide accessors if needed.(¦˜»âÿÿÿÿÿ
+|
+java:S1104®"`Make MBEAN_ATTRIBUTE_INFO a static final constant or non-public and provide accessors if needed.(Éà„Ùúÿÿÿÿ
+r
+java:S1104¯"VMake MBEAN_INFO a static final constant or non-public and provide accessors if needed.(Â§­ùÿÿÿÿ
+z
+java:S1104°"cMake MBEAN_NOTIFICATION_INFO a static final constant or non-public and provide accessors if needed.(¤¶ÿ±
+|
+java:S1104±"`Make MBEAN_OPERATION_INFO a static final constant or non-public and provide accessors if needed.(¥“º¨üÿÿÿÿ
+n
+java:S1104²"RMake MBEANS a static final constant or non-public and provide accessors if needed.(Ê‘®øÿÿÿÿ
+
+java:S1104³"qMake MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON a static final constant or non-public and provide accessors if needed.(Åëšîÿÿÿÿÿ
+•
+java:S1104´"yMake MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(£Ï®»şÿÿÿÿ
+‹
+java:S1104µ"tMake MBEANS_TAB_COMPOSITE_NAVIGATION_MULTIPLE a static final constant or non-public and provide accessors if needed.(¿‚—ã
+‰
+java:S1104¶"rMake MBEANS_TAB_COMPOSITE_NAVIGATION_SINGLE a static final constant or non-public and provide accessors if needed.( ³™Ò
+‡
+java:S1104·"pMake MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON a static final constant or non-public and provide accessors if needed.(ŸÇùì
+
+java:S1104¸"xMake MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(Ê’ËÔ
+‘
+java:S1104¹"uMake MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON a static final constant or non-public and provide accessors if needed.(¤ñÚÜÿÿÿÿÿ
+”
+java:S1104º"}Make MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(¢³ÊÀ
+‰
+java:S1104»"rMake MBEANS_TAB_TABULAR_NAVIGATION_MULTIPLE a static final constant or non-public and provide accessors if needed.(ä—æ
+Œ
+java:S1104¼"pMake MBEANS_TAB_TABULAR_NAVIGATION_SINGLE a static final constant or non-public and provide accessors if needed.(ßæ¤¨üÿÿÿÿ
+“
+java:S1104½"wMake MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON a static final constant or non-public and provide accessors if needed.(¿²«Åÿÿÿÿÿ
+•
+java:S1104¾"Make MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP a static final constant or non-public and provide accessors if needed.(ÀÃÅ/
+‡
+java:S1104¿"kMake MANAGE_HOTSPOT_MBEANS_IN_COLON_ a static final constant or non-public and provide accessors if needed.(÷è“Üùÿÿÿÿ
+e
+java:S1104À"OMake MAX a static final constant or non-public and provide accessors if needed.(¦¶œH
+t
+java:S1104Á"]Make MAXIMUM_HEAP_SIZE a static final constant or non-public and provide accessors if needed.(ˆ¹üü
+n
+java:S1104Â"RMake MEMORY a static final constant or non-public and provide accessors if needed.(êõ‰„şÿÿÿÿ
+y
+java:S1104Ã"]Make MEMORY_POOL_LABEL a static final constant or non-public and provide accessors if needed.(†åà”ûÿÿÿÿ
+Š
+java:S1104Ä"sMake MEMORY_TAB_HEAP_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(·ôÕ
+~
+java:S1104Å"hMake MEMORY_TAB_INFO_LABEL_FORMAT a static final constant or non-public and provide accessors if needed.(¬æÚ	
+
+java:S1104Æ"wMake MEMORY_TAB_NON_HEAP_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(¬£Ôß
+ˆ
+java:S1104Ç"qMake MEMORY_TAB_POOL_CHART_ABOVE_THRESHOLD a static final constant or non-public and provide accessors if needed.(óÅÔ¸
+ˆ
+java:S1104È"qMake MEMORY_TAB_POOL_CHART_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(Ø¥ø¯
+ˆ
+java:S1104É"qMake MEMORY_TAB_POOL_CHART_BELOW_THRESHOLD a static final constant or non-public and provide accessors if needed.(·ıíÕ
+
+java:S1104Ê"sMake MEMORY_TAB_POOL_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(©´—àüÿÿÿÿ
+o
+java:S1104Ë"SMake MESSAGE a static final constant or non-public and provide accessors if needed.(òÊ’ÿÿÿÿÿ
+~
+java:S1104Ì"gMake METHOD_SUCCESSFULLY_INVOKED a static final constant or non-public and provide accessors if needed.(îØù
+t
+java:S1104Í"XMake MINIMIZE_ALL a static final constant or non-public and provide accessors if needed.(Ç±ˆüüÿÿÿÿ
+q
+java:S1104Î"ZMake MONITOR_LOCKED a static final constant or non-public and provide accessors if needed.(èîÊ£
+g
+java:S1104Ï"PMake NAME a static final constant or non-public and provide accessors if needed.(Ì¥¢š
+m
+java:S1104Ğ"VMake NAME_STATE a static final constant or non-public and provide accessors if needed.(šÒ¸
+|
+java:S1104Ñ"`Make NAME_STATE_LOCK_NAME a static final constant or non-public and provide accessors if needed.(®’ûæÿÿÿÿÿ
+‡
+java:S1104Ò"kMake NAME_STATE_LOCK_NAME_LOCK_OWNER a static final constant or non-public and provide accessors if needed.(‹ä¦Òşÿÿÿÿ
+v
+java:S1104Ó"ZMake NAME_AND_BUILD a static final constant or non-public and provide accessors if needed.(Øòñôÿÿÿÿÿ
+z
+java:S1104Ô"cMake NEW_CONNECTION_ELLIPSIS a static final constant or non-public and provide accessors if needed.(˜Åñû
+v
+java:S1104Õ"`Make NO_DEADLOCK_DETECTED a static final constant or non-public and provide accessors if needed.(Ë¬µ+
+x
+java:S1104Ö"aMake NON_HEAP_MEMORY_USAGE a static final constant or non-public and provide accessors if needed.(¿Š‘Õ
+j
+java:S1104×"TMake NON_HEAP a static final constant or non-public and provide accessors if needed.( ûÕ!
+n
+java:S1104Ø"XMake NOTIFICATION a static final constant or non-public and provide accessors if needed.(°Ë L
+v
+java:S1104Ù"_Make NOTIFICATION_BUFFER a static final constant or non-public and provide accessors if needed.(ë ÿ
+u
+java:S1104Ú"YMake NOTIFICATIONS a static final constant or non-public and provide accessors if needed.(µ¦•Èüÿÿÿÿ
+s
+java:S1104Û"WMake NOTIF_TYPES a static final constant or non-public and provide accessors if needed.(æá£ûÿÿÿÿ
+t
+java:S1104Ü"]Make NUMBER_OF_THREADS a static final constant or non-public and provide accessors if needed.(­È°»
+{
+java:S1104İ"dMake NUMBER_OF_LOADED_CLASSES a static final constant or non-public and provide accessors if needed.(‰è´
+v
+java:S1104Ş"`Make NUMBER_OF_PROCESSORS a static final constant or non-public and provide accessors if needed.(‚Í‰h
+n
+java:S1104ß"WMake OBJECT_NAME a static final constant or non-public and provide accessors if needed.(ßĞÁ”
+x
+java:S1104à"\Make OPERATING_SYSTEM a static final constant or non-public and provide accessors if needed.(İ¾Àùÿÿÿÿ
+q
+java:S1104á"UMake OPERATION a static final constant or non-public and provide accessors if needed.(Şš”üÿÿÿÿ
+w
+java:S1104â"`Make OPERATION_INVOCATION a static final constant or non-public and provide accessors if needed.(Ö·‹Ü
+~
+java:S1104ã"bMake OPERATION_RETURN_VALUE a static final constant or non-public and provide accessors if needed.(Çùî¨üÿÿÿÿ
+m
+java:S1104ä"VMake OPERATIONS a static final constant or non-public and provide accessors if needed.(³¿¹
+p
+java:S1104å"TMake OVERVIEW a static final constant or non-public and provide accessors if needed.(Å»İÁşÿÿÿÿ
+‰
+java:S1104æ"rMake OVERVIEW_PANEL_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(œåòŸ
+q
+java:S1104ç"UMake PARAMETER a static final constant or non-public and provide accessors if needed.(™¤Šşÿÿÿÿ
+r
+java:S1104è"[Make PASSWORD_COLON_ a static final constant or non-public and provide accessors if needed.(á‹Î‚
+{
+java:S1104é"dMake PASSWORD_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(û­èï
+g
+java:S1104ê"PMake PEAK a static final constant or non-public and provide accessors if needed.(âìÛõ
+r
+java:S1104ë"VMake PERFORM_GC a static final constant or non-public and provide accessors if needed.(”Óï”ûÿÿÿÿ
+z
+java:S1104ì"^Make PERFORM_GC_TOOLTIP a static final constant or non-public and provide accessors if needed.(ÀòÚÚüÿÿÿÿ
+z
+java:S1104í"cMake PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(æé—ô
+
+java:S1104î"qMake PLOTTER_ACCESSIBLE_NAME_KEY_AND_VALUE a static final constant or non-public and provide accessors if needed.(Á¶Ù¨ùÿÿÿÿ
+
+java:S1104ï"kMake PLOTTER_ACCESSIBLE_NAME_NO_DATA a static final constant or non-public and provide accessors if needed.(ˆÑÜ[
+|
+java:S1104ğ"eMake PLOTTER_SAVE_AS_MENU_ITEM a static final constant or non-public and provide accessors if needed.(ù§ˆØ
+
+java:S1104ñ"cMake PLOTTER_TIME_RANGE_MENU a static final constant or non-public and provide accessors if needed.(ÌéÏ—üÿÿÿÿ
+†
+java:S1104ò"oMake PLUGIN_EXCEPTION_DIALOG_BUTTON_EXIT a static final constant or non-public and provide accessors if needed.(–ªƒä
+‡
+java:S1104ó"qMake PLUGIN_EXCEPTION_DIALOG_BUTTON_IGNORE a static final constant or non-public and provide accessors if needed.(¸®«"
+„
+java:S1104ô"mMake PLUGIN_EXCEPTION_DIALOG_BUTTON_OK a static final constant or non-public and provide accessors if needed.(Á×ëŠ
+‚
+java:S1104õ"kMake PLUGIN_EXCEPTION_DIALOG_MESSAGE a static final constant or non-public and provide accessors if needed.(‰™—ƒ
+€
+java:S1104ö"iMake PLUGIN_EXCEPTION_DIALOG_TITLE a static final constant or non-public and provide accessors if needed.(‡ƒÜ÷
+z
+java:S1104÷"cMake PROBLEM_ADDING_LISTENER a static final constant or non-public and provide accessors if needed.(ÊÏŞŠ
+{
+java:S1104ø"dMake PROBLEM_DISPLAYING_MBEAN a static final constant or non-public and provide accessors if needed.(šŞƒ»
+x
+java:S1104ù"\Make PROBLEM_INVOKING a static final constant or non-public and provide accessors if needed.(Ğ’Åªıÿÿÿÿ
+
+java:S1104ú"eMake PROBLEM_REMOVING_LISTENER a static final constant or non-public and provide accessors if needed.(«„„Íüÿÿÿÿ
+|
+java:S1104û"eMake PROBLEM_SETTING_ATTRIBUTE a static final constant or non-public and provide accessors if needed.(Ó›«
+s
+java:S1104ü"\Make PROCESS_CPU_TIME a static final constant or non-public and provide accessors if needed.(¨ÜÆ³
+p
+java:S1104ı"TMake READABLE a static final constant or non-public and provide accessors if needed.(¡©Õ‹ûÿÿÿÿ
+q
+java:S1104ş"UMake RECONNECT a static final constant or non-public and provide accessors if needed.(ôäùíøÿÿÿÿ
+|
+java:S1104ÿ"`Make REMOTE_PROCESS_COLON a static final constant or non-public and provide accessors if needed.(¦€²ûÿÿÿÿ
+‘
+java:S1104€"uMake REMOTE_PROCESS_TEXT_FIELD_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(ÓƒÒ”øÿÿÿÿ
+s
+java:S1104"WMake RESTORE_ALL a static final constant or non-public and provide accessors if needed.(ŠÓ¤Êúÿÿÿÿ
+s
+java:S1104‚"WMake RETURN_TYPE a static final constant or non-public and provide accessors if needed.(¤®Û¶øÿÿÿÿ
+j
+java:S1104ƒ"SMake SEQ_NUM a static final constant or non-public and provide accessors if needed.(ã„Ø¼
+r
+java:S1104„"VMake SIZE_BYTES a static final constant or non-public and provide accessors if needed.(äª¥»úÿÿÿÿ
+o
+java:S1104…"SMake SIZE_GB a static final constant or non-public and provide accessors if needed.(Üé˜¹ıÿÿÿÿ
+j
+java:S1104†"SMake SIZE_KB a static final constant or non-public and provide accessors if needed.(şÀ÷ó
+o
+java:S1104‡"SMake SIZE_MB a static final constant or non-public and provide accessors if needed.(´“éşÿÿÿÿ
+i
+java:S1104ˆ"RMake SOURCE a static final constant or non-public and provide accessors if needed.(Ş£ş
+s
+java:S1104‰"WMake STACK_TRACE a static final constant or non-public and provide accessors if needed.(Ñï—ôúÿÿÿÿ
+†
+java:S1104Š"oMake SUMMARY_TAB_HEADER_DATE_TIME_FORMAT a static final constant or non-public and provide accessors if needed.(Ğğú®
+
+java:S1104‹"rMake SUMMARY_TAB_PENDING_FINALIZATION_LABEL a static final constant or non-public and provide accessors if needed.(äûÌÿÿÿÿÿ
+
+java:S1104Œ"rMake SUMMARY_TAB_PENDING_FINALIZATION_VALUE a static final constant or non-public and provide accessors if needed.(ò·×ùÿÿÿÿÿ
+v
+java:S1104"`Make SUMMARY_TAB_TAB_NAME a static final constant or non-public and provide accessors if needed.(›ãô$
+~
+java:S1104"bMake SUMMARY_TAB_VM_VERSION a static final constant or non-public and provide accessors if needed.(Í…¼úÿÿÿÿ
+o
+java:S1104"SMake THREADS a static final constant or non-public and provide accessors if needed.(Ë¬Ø‘ûÿÿÿÿ
+
+java:S1104"rMake THREAD_TAB_THREAD_INFO_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(şÑš¦ùÿÿÿÿ
+‘
+java:S1104‘"uMake THREAD_TAB_THREAD_PLOTTER_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(‘±ÖŒıÿÿÿÿ
+
+java:S1104’"rMake THREAD_TAB_INITIAL_STACK_TRACE_MESSAGE a static final constant or non-public and provide accessors if needed.(¾¬½şøÿÿÿÿ
+q
+java:S1104“"UMake THRESHOLD a static final constant or non-public and provide accessors if needed.(¦è¶êøÿÿÿÿ
+l
+java:S1104”"PMake TILE a static final constant or non-public and provide accessors if needed.(Œ¹“€üÿÿÿÿ
+s
+java:S1104•"\Make TIME_RANGE_COLON a static final constant or non-public and provide accessors if needed.(Ì„í‹
+l
+java:S1104–"PMake TIME a static final constant or non-public and provide accessors if needed.(¸é¸˜øÿÿÿÿ
+r
+java:S1104—"VMake TIME_STAMP a static final constant or non-public and provide accessors if needed.(¥•šúùÿÿÿÿ
+t
+java:S1104˜"XMake TOTAL_LOADED a static final constant or non-public and provide accessors if needed.(ò¼«Şùÿÿÿÿ
+w
+java:S1104™"`Make TOTAL_CLASSES_LOADED a static final constant or non-public and provide accessors if needed.(Œİìâ
+x
+java:S1104š"bMake TOTAL_CLASSES_UNLOADED a static final constant or non-public and provide accessors if needed.(õ°õ
+u
+java:S1104›"^Make TOTAL_COMPILE_TIME a static final constant or non-public and provide accessors if needed.(Õ·Â
+}
+java:S1104œ"aMake TOTAL_PHYSICAL_MEMORY a static final constant or non-public and provide accessors if needed.(ôê™¤úÿÿÿÿ
+}
+java:S1104"aMake TOTAL_THREADS_STARTED a static final constant or non-public and provide accessors if needed.(Ä³ö°ıÿÿÿÿ
+x
+java:S1104"\Make TOTAL_SWAP_SPACE a static final constant or non-public and provide accessors if needed.(ÏÂ÷Ùûÿÿÿÿ
+l
+java:S1104Ÿ"PMake TYPE a static final constant or non-public and provide accessors if needed.( ««Úûÿÿÿÿ
+n
+java:S1104 "WMake UNAVAILABLE a static final constant or non-public and provide accessors if needed.(û˜ –
+{
+java:S1104¡"_Make UNKNOWN_CAPITALIZED a static final constant or non-public and provide accessors if needed.(ÑŠ©´ùÿÿÿÿ
+t
+java:S1104¢"XMake UNKNOWN_HOST a static final constant or non-public and provide accessors if needed.(ùÑÓ‰üÿÿÿÿ
+m
+java:S1104£"VMake UNREGISTER a static final constant or non-public and provide accessors if needed.(ÓÚæ†
+n
+java:S1104¤"RMake UPTIME a static final constant or non-public and provide accessors if needed.(÷ÄüÉÿÿÿÿÿ
+r
+java:S1104¥"[Make USAGE_THRESHOLD a static final constant or non-public and provide accessors if needed.(Ş…óæ
+w
+java:S1104¦"[Make REMOTE_TF_USAGE a static final constant or non-public and provide accessors if needed.(‹¥Ä¹ûÿÿÿÿ
+g
+java:S1104§"PMake USED a static final constant or non-public and provide accessors if needed.(Ÿ½ÔÈ
+w
+java:S1104¨"[Make USERNAME_COLON_ a static final constant or non-public and provide accessors if needed.(èÅ‡øÿÿÿÿ
+{
+java:S1104©"dMake USERNAME_ACCESSIBLE_NAME a static final constant or non-public and provide accessors if needed.(¸Òµ
+q
+java:S1104ª"UMake USER_DATA a static final constant or non-public and provide accessors if needed.(®û¦Ğüÿÿÿÿ
+r
+java:S1104«"[Make VIRTUAL_MACHINE a static final constant or non-public and provide accessors if needed.(ù§«·
+t
+java:S1104¬"XMake VM_ARGUMENTS a static final constant or non-public and provide accessors if needed.(ü‹°Èúÿÿÿÿ
+Š
+java:S1104­"sMake VMINTERNAL_FRAME_ACCESSIBLE_DESCRIPTION a static final constant or non-public and provide accessors if needed.(¿‘£õ
+m
+java:S1104®"QMake VALUE a static final constant or non-public and provide accessors if needed.(¢şÿˆıÿÿÿÿ
+i
+java:S1104¯"RMake VENDOR a static final constant or non-public and provide accessors if needed.(€ü¹Í
+v
+java:S1104°"ZMake VERBOSE_OUTPUT a static final constant or non-public and provide accessors if needed.(Å°í¦şÿÿÿÿ
+~
+java:S1104±"bMake VERBOSE_OUTPUT_TOOLTIP a static final constant or non-public and provide accessors if needed.(„À§ìûÿÿÿÿ
+g
+java:S1104²"PMake VIEW a static final constant or non-public and provide accessors if needed.(¦Õ²¨
+n
+java:S1104³"RMake WINDOW a static final constant or non-public and provide accessors if needed.(öÈßÂşÿÿÿÿ
+o
+java:S1104´"SMake WINDOWS a static final constant or non-public and provide accessors if needed.(Ÿ€òùÿÿÿÿ
+k
+java:S1104µ"TMake WRITABLE a static final constant or non-public and provide accessors if needed.(ñ±ì
+u
+java:S1104¶"^Make CONNECTION_FAILED1 a static final constant or non-public and provide accessors if needed.(à—Ç¶
+u
+java:S1104·"^Make CONNECTION_FAILED2 a static final constant or non-public and provide accessors if needed.(Ó–âË
+~
+java:S1104¸"bMake CONNECTION_FAILED_SSL1 a static final constant or non-public and provide accessors if needed.(˜ö ²şÿÿÿÿ
+y
+java:S1104¹"bMake CONNECTION_FAILED_SSL2 a static final constant or non-public and provide accessors if needed.(ÌüÁ
+x
+java:S1104º"\Make CONNECTION_LOST1 a static final constant or non-public and provide accessors if needed.(öŸŠÿÿÿÿÿ
+q
+java:S1104»"ZMake CONNECTING_TO1 a static final constant or non-public and provide accessors if needed.(‰³¹Ê
+q
+java:S1104¼"ZMake CONNECTING_TO2 a static final constant or non-public and provide accessors if needed.(Âş¨Ô
+t
+java:S1104½"XMake DEADLOCK_TAB a static final constant or non-public and provide accessors if needed.(†Ö’¨ùÿÿÿÿ
+q
+java:S1104¾"ZMake DEADLOCK_TAB_N a static final constant or non-public and provide accessors if needed.(¼íå×
+n
+java:S1104¿"RMake EXPAND a static final constant or non-public and provide accessors if needed.(ôñƒÊûÿÿÿÿ
+i
+java:S1104À"RMake KBYTES a static final constant or non-public and provide accessors if needed.(Êêå
+l
+java:S1104Á"PMake PLOT a static final constant or non-public and provide accessors if needed.(ùÄïøÿÿÿÿ
+q
+java:S1104Â"UMake VISUALIZE a static final constant or non-public and provide accessors if needed.(°¼³™ùÿÿÿÿ
+p
+java:S1104Ã"YMake ZZ_USAGE_TEXT a static final constant or non-public and provide accessors if needed.(——±ç
+H
+java:S1444+"-Make this "public static ONE_DAY" field final(°ËÌûûÿÿÿÿ
+D
+java:S1444,".Make this "public static ONE_HOUR" field final(¶“·æ
+H
+java:S1444-"-Make this "public static ONE_MIN" field final(µô·˜ıÿÿÿÿ
+E
+java:S1444."/Make this "public static ONE_MONTH" field final(éÂÚ¥
+I
+java:S1444/".Make this "public static ONE_YEAR" field final(½í¦İşÿÿÿÿ
+E
+java:S14440"/Make this "public static TWO_HOURS" field final(Ş–áà
+L
+java:S14441"1Make this "public static THREE_HOURS" field final(¸›ƒ†ıÿÿÿÿ
+G
+java:S14442"2Make this "public static THREE_MONTHS" field final(å•ñ!
+D
+java:S14443".Make this "public static FIVE_MIN" field final(÷½µ¸
+E
+java:S14444"/Make this "public static SIX_HOURS" field final(ÁÎ¦À
+K
+java:S14445"0Make this "public static SIX_MONTHS" field final(ş¹À•úÿÿÿÿ
+K
+java:S14446"0Make this "public static SEVEN_DAYS" field final(˜ÌÌÄøÿÿÿÿ
+C
+java:S14447"-Make this "public static TEN_MIN" field final(—˜—
+M
+java:S14448"2Make this "public static TWELVE_HOURS" field final(–ñË¥üÿÿÿÿ
+K
+java:S14449"0Make this "public static THIRTY_MIN" field final(ıÿƒÍÿÿÿÿÿ
+E
+java:S1444:"/Make this "public static LESS_THAN" field final(ÛúŸÄ
+K
+java:S1444;"5Make this "public static A_LOT_LESS_THAN" field final(¾€„¸
+M
+java:S1444<"2Make this "public static GREATER_THAN" field final(Ã¦úöüÿÿÿÿ
+S
+java:S1444="8Make this "public static ACTION_CAPITALIZED" field final(´ü¥íüÿÿÿÿ
+S
+java:S1444>"=Make this "public static ACTION_INFO_CAPITALIZED" field final(À§¿¬
+D
+java:S1444?")Make this "public static ALL" field final(¨ÃëÁıÿÿÿÿ
+M
+java:S1444@"2Make this "public static ARCHITECTURE" field final(ö´ñÂüÿÿÿÿ
+J
+java:S1444A"/Make this "public static ATTRIBUTE" field final(ÊŒê¤ıÿÿÿÿ
+P
+java:S1444B"5Make this "public static ATTRIBUTE_VALUE" field final(÷ï¤Íüÿÿÿÿ
+Q
+java:S1444C"6Make this "public static ATTRIBUTE_VALUES" field final(õ”‘¦ûÿÿÿÿ
+F
+java:S1444D"0Make this "public static ATTRIBUTES" field final(²™İ
+A
+java:S1444E"+Make this "public static BLANK" field final(Ë‹–
+V
+java:S1444F"@Make this "public static BLOCKED_COUNT_WAITED_COUNT" field final(¤Œá‘
+K
+java:S1444G"5Make this "public static BOOT_CLASS_PATH" field final(£¬àß
+j
+java:S1444H"TMake this "public static BORDERED_COMPONENT_MORE_OR_LESS_BUTTON_TOOLTIP" field final(¾äŒ—
+E
+java:S1444I"/Make this "public static CPU_USAGE" field final(úúÙş
+Q
+java:S1444J"6Make this "public static CPU_USAGE_FORMAT" field final(ìÕñËşÿÿÿÿ
+B
+java:S1444K",Make this "public static CANCEL" field final(¬®¬
+C
+java:S1444L"-Make this "public static CASCADE" field final(ÒÛ¯à
+G
+java:S1444M"1Make this "public static CHART_COLON" field final(Ù×Ø
+K
+java:S1444N"0Make this "public static CLASS_PATH" field final(ŞÃğòÿÿÿÿÿ
+K
+java:S1444O"0Make this "public static CLASS_NAME" field final(Ô§ˆĞüÿÿÿÿ
+W
+java:S1444P"AMake this "public static CLASS_TAB_INFO_LABEL_FORMAT" field final(ëñŠŠ
+l
+java:S1444Q"VMake this "public static CLASS_TAB_LOADED_CLASSES_PLOTTER_ACCESSIBLE_NAME" field final(ÙšÏ¹
+H
+java:S1444R"-Make this "public static CLASSES" field final(ÆòÅøÿÿÿÿ
+A
+java:S1444S"+Make this "public static CLOSE" field final(ê’¯
+L
+java:S1444T"1Make this "public static COLUMN_NAME" field final(ù÷ìÃøÿÿÿÿ
+K
+java:S1444U"0Make this "public static COLUMN_PID" field final(ë³¦ÿÿÿÿÿ
+L
+java:S1444V"6Make this "public static COMMITTED_MEMORY" field final(€¡ú
+Y
+java:S1444W">Make this "public static COMMITTED_VIRTUAL_MEMORY" field final(˜Ûºúÿÿÿÿ
+J
+java:S1444X"/Make this "public static COMMITTED" field final(Ïñÿ¡şÿÿÿÿ
+C
+java:S1444Y"-Make this "public static CONNECT" field final(”Øæş
+f
+java:S1444Z"KMake this "public static CONNECT_DIALOG_CONNECT_BUTTON_TOOLTIP" field final(Ş–ƒÍıÿÿÿÿ
+f
+java:S1444["KMake this "public static CONNECT_DIALOG_ACCESSIBLE_DESCRIPTION" field final(ß©¤Çıÿÿÿÿ
+h
+java:S1444\"MMake this "public static CONNECT_DIALOG_MASTHEAD_ACCESSIBLE_NAME" field final(ßñõşÿÿÿÿ
+^
+java:S1444]"CMake this "public static CONNECT_DIALOG_MASTHEAD_TITLE" field final(…õçŸøÿÿÿÿ
+e
+java:S1444^"OMake this "public static CONNECT_DIALOG_STATUS_BAR_ACCESSIBLE_NAME" field final(›ñ–ø
+U
+java:S1444_":Make this "public static CONNECT_DIALOG_TITLE" field final(’òœ”üÿÿÿÿ
+f
+java:S1444`"PMake this "public static CONNECTED_PUNCTUATION_CLICK_TO_DISCONNECT_" field final(²ê è
+M
+java:S1444a"7Make this "public static CONNECTION_FAILED" field final(Û¬ÁÍ
+K
+java:S1444b"0Make this "public static CONNECTION" field final(ÃûêÇüÿÿÿÿ
+P
+java:S1444c"5Make this "public static CONNECTION_NAME" field final(ÍõÓøıÿÿÿÿ
+_
+java:S1444d"DMake this "public static CONNECTION_NAME__DISCONNECTED_" field final(´è•«ÿÿÿÿÿ
+L
+java:S1444e"1Make this "public static CONSTRUCTOR" field final(Ó³¡Õÿÿÿÿÿ
+W
+java:S1444f"<Make this "public static CURRENT_CLASSES_LOADED" field final(“’ûúÿÿÿÿ
+R
+java:S1444g"7Make this "public static CURRENT_HEAP_SIZE" field final(º×ÉÓúÿÿÿÿ
+N
+java:S1444h"3Make this "public static CURRENT_VALUE" field final(¯‡Ãâşÿÿÿÿ
+G
+java:S1444i",Make this "public static CREATE" field final(ş·Ÿúüÿÿÿÿ
+J
+java:S1444j"4Make this "public static DAEMON_THREADS" field final(ÔÿŒ©
+k
+java:S1444k"PMake this "public static DISCONNECTED_PUNCTUATION_CLICK_TO_CONNECT_" field final(ç½›ñùÿÿÿÿ
+i
+java:S1444l"SMake this "public static DOUBLE_CLICK_TO_EXPAND_FORWARD_SLASH_COLLAPSE" field final(¥²·
+U
+java:S1444m"?Make this "public static DOUBLE_CLICK_TO_VISUALIZE" field final(¥Œú
+L
+java:S1444n"1Make this "public static DESCRIPTION" field final(©¢Í¡øÿÿÿÿ
+K
+java:S1444o"0Make this "public static DESCRIPTOR" field final(Êíá­úÿÿÿÿ
+H
+java:S1444p"-Make this "public static DETAILS" field final(µøŞŞùÿÿÿÿ
+P
+java:S1444q"5Make this "public static DETECT_DEADLOCK" field final(¦Öïéûÿÿÿÿ
+S
+java:S1444r"=Make this "public static DETECT_DEADLOCK_TOOLTIP" field final(æß£Ó
+\
+java:S1444s"FMake this "public static DIMENSION_IS_NOT_SUPPORTED_COLON" field final(“ê§€
+I
+java:S1444t"3Make this "public static DISCARD_CHART" field final(ç¨÷ì
+W
+java:S1444u"AMake this "public static DURATION_DAYS_HOURS_MINUTES" field final(•”®‘
+W
+java:S1444v"<Make this "public static DURATION_HOURS_MINUTES" field final(–ÏÈ›ùÿÿÿÿ
+L
+java:S1444w"6Make this "public static DURATION_MINUTES" field final(´ºüá
+L
+java:S1444x"6Make this "public static DURATION_SECONDS" field final(à¾ğÌ
+G
+java:S1444y"1Make this "public static EMPTY_ARRAY" field final(øı Ë
+A
+java:S1444z"+Make this "public static ERROR" field final(ºÌŒÎ
+\
+java:S1444{"FMake this "public static ERROR_COLON_MBEANS_ALREADY_EXIST" field final(çÓÈæ
+`
+java:S1444|"EMake this "public static ERROR_COLON_MBEANS_DO_NOT_EXIST" field final(°¶†Öùÿÿÿÿ
+F
+java:S1444}"+Make this "public static EVENT" field final(›«êŞÿÿÿÿÿ
+E
+java:S1444~"*Make this "public static EXIT" field final(¸ïÛ¸ùÿÿÿÿ
+T
+java:S1444"9Make this "public static FAIL_TO_LOAD_PLUGIN" field final(«Ó›‘ıÿÿÿÿ
+c
+java:S1444€"LMake this "public static FILE_CHOOSER_FILE_EXISTS_CANCEL_OPTION" field final(ï‰êÒ
+]
+java:S1444"FMake this "public static FILE_CHOOSER_FILE_EXISTS_MESSAGE" field final(«ñòÂ
+d
+java:S1444‚"HMake this "public static FILE_CHOOSER_FILE_EXISTS_OK_OPTION" field final(Ä³Ä¾şÿÿÿÿ
+`
+java:S1444ƒ"DMake this "public static FILE_CHOOSER_FILE_EXISTS_TITLE" field final(„ğä¹ÿÿÿÿÿ
+T
+java:S1444„"=Make this "public static FILE_CHOOSER_SAVED_FILE" field final(§ÕÁÈ
+]
+java:S1444…"FMake this "public static FILE_CHOOSER_SAVE_FAILED_MESSAGE" field final(´Õí
+`
+java:S1444†"DMake this "public static FILE_CHOOSER_SAVE_FAILED_TITLE" field final(ö–³”ûÿÿÿÿ
+Q
+java:S1444‡":Make this "public static FREE_PHYSICAL_MEMORY" field final(êƒ
+L
+java:S1444ˆ"5Make this "public static FREE_SWAP_SPACE" field final(ÈÊ’
+M
+java:S1444‰"7Make this "public static GARBAGE_COLLECTOR" field final(Ş‰d
+D
+java:S1444Š"-Make this "public static GC_INFO" field final(ÏÙèõ
+D
+java:S1444‹"-Make this "public static GC_TIME" field final(üŞåÜ
+Q
+java:S1444Œ"5Make this "public static GC_TIME_DETAILS" field final(§—¸âşÿÿÿÿ
+N
+java:S1444"7Make this "public static HEAP_MEMORY_USAGE" field final(êÆœÃ
+A
+java:S1444"*Make this "public static HEAP" field final(Ó•íÙ
+e
+java:S1444"NMake this "public static HELP_ABOUT_DIALOG_ACCESSIBLE_DESCRIPTION" field final(ò£°›
+_
+java:S1444"HMake this "public static HELP_ABOUT_DIALOG_JCONSOLE_VERSION" field final(Û£¤Î
+[
+java:S1444‘"DMake this "public static HELP_ABOUT_DIALOG_JAVA_VERSION" field final(¯ûˆ
+g
+java:S1444’"PMake this "public static HELP_ABOUT_DIALOG_MASTHEAD_ACCESSIBLE_NAME" field final(Ô†‡•
+]
+java:S1444“"FMake this "public static HELP_ABOUT_DIALOG_MASTHEAD_TITLE" field final(¢¬¡
+Y
+java:S1444”"=Make this "public static HELP_ABOUT_DIALOG_TITLE" field final(á¼ÈÕşÿÿÿÿ
+g
+java:S1444•"KMake this "public static HELP_ABOUT_DIALOG_USER_GUIDE_LINK_URL" field final(¿ĞÕ’ûÿÿÿÿ
+W
+java:S1444–";Make this "public static HELP_MENU_ABOUT_TITLE" field final(„æœûÿÿÿÿ
+\
+java:S1444—"@Make this "public static HELP_MENU_USER_GUIDE_TITLE" field final(×Ç“ûÿÿÿÿ
+Q
+java:S1444˜"5Make this "public static HELP_MENU_TITLE" field final(×ø¼ùÿÿÿÿ
+T
+java:S1444™"=Make this "public static HOTSPOT_MBEANS_ELLIPSIS" field final(‚×§®
+n
+java:S1444š"RMake this "public static HOTSPOT_MBEANS_DIALOG_ACCESSIBLE_DESCRIPTION" field final(â˜Ùïúÿÿÿÿ
+H
+java:S1444›",Make this "public static IMPACT" field final(©İŒ‘øÿÿÿÿ
+F
+java:S1444œ"*Make this "public static INFO" field final(íõÎåÿÿÿÿÿ
+M
+java:S1444"6Make this "public static INFO_CAPITALIZED" field final(¨¶ÿã
+J
+java:S1444".Make this "public static INSECURE" field final(øı¹¯ûÿÿÿÿ
+P
+java:S1444Ÿ"9Make this "public static INVALID_PLUGIN_PATH" field final(¼ÑÖ„
+M
+java:S1444 "1Make this "public static INVALID_URL" field final(ş‹Ìûÿÿÿÿ
+?
+java:S1444¡"(Make this "public static IS" field final(ÈãùÂ
+a
+java:S1444¢"JMake this "public static JAVA_MONITORING___MANAGEMENT_CONSOLE" field final(Î Ü¦
+Q
+java:S1444£"5Make this "public static JCONSOLE_COLON_" field final(éÓªœûÿÿÿÿ
+R
+java:S1444¤"6Make this "public static JCONSOLE_VERSION" field final(š‹ø´øÿÿÿÿ
+a
+java:S1444¥"EMake this "public static JCONSOLE_ACCESSIBLE_DESCRIPTION" field final(šµãÂüÿÿÿÿ
+I
+java:S1444¦"2Make this "public static JIT_COMPILER" field final(Ù¶Ëç
+N
+java:S1444§"2Make this "public static LIBRARY_PATH" field final(Óô»¯ûÿÿÿÿ
+I
+java:S1444¨"2Make this "public static LIVE_THREADS" field final(°ÛÀ®
+C
+java:S1444©",Make this "public static LOADED" field final(‚ËìÙ
+U
+java:S1444ª"9Make this "public static LOCAL_PROCESS_COLON" field final(ÍèÁÈøÿÿÿÿ
+O
+java:S1444«"3Make this "public static MASTHEAD_FONT" field final(¸Ê­ıÿÿÿÿ
+S
+java:S1444¬"<Make this "public static MANAGEMENT_NOT_ENABLED" field final(ñ¡å€
+\
+java:S1444­"@Make this "public static MANAGEMENT_WILL_BE_ENABLED" field final(¦˜»âÿÿÿÿÿ
+V
+java:S1444®":Make this "public static MBEAN_ATTRIBUTE_INFO" field final(Éà„Ùúÿÿÿÿ
+L
+java:S1444¯"0Make this "public static MBEAN_INFO" field final(Â§­ùÿÿÿÿ
+T
+java:S1444°"=Make this "public static MBEAN_NOTIFICATION_INFO" field final(¤¶ÿ±
+V
+java:S1444±":Make this "public static MBEAN_OPERATION_INFO" field final(¥“º¨üÿÿÿÿ
+H
+java:S1444²",Make this "public static MBEANS" field final(Ê‘®øÿÿÿÿ
+g
+java:S1444³"KMake this "public static MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON" field final(Åëšîÿÿÿÿÿ
+o
+java:S1444´"SMake this "public static MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON_TOOLTIP" field final(£Ï®»şÿÿÿÿ
+e
+java:S1444µ"NMake this "public static MBEANS_TAB_COMPOSITE_NAVIGATION_MULTIPLE" field final(¿‚—ã
+c
+java:S1444¶"LMake this "public static MBEANS_TAB_COMPOSITE_NAVIGATION_SINGLE" field final( ³™Ò
+a
+java:S1444·"JMake this "public static MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON" field final(ŸÇùì
+i
+java:S1444¸"RMake this "public static MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON_TOOLTIP" field final(Ê’ËÔ
+k
+java:S1444¹"OMake this "public static MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON" field final(¤ñÚÜÿÿÿÿÿ
+n
+java:S1444º"WMake this "public static MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP" field final(¢³ÊÀ
+c
+java:S1444»"LMake this "public static MBEANS_TAB_TABULAR_NAVIGATION_MULTIPLE" field final(ä—æ
+f
+java:S1444¼"JMake this "public static MBEANS_TAB_TABULAR_NAVIGATION_SINGLE" field final(ßæ¤¨üÿÿÿÿ
+m
+java:S1444½"QMake this "public static MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON" field final(¿²«Åÿÿÿÿÿ
+o
+java:S1444¾"YMake this "public static MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP" field final(ÀÃÅ/
+a
+java:S1444¿"EMake this "public static MANAGE_HOTSPOT_MBEANS_IN_COLON_" field final(÷è“Üùÿÿÿÿ
+?
+java:S1444À")Make this "public static MAX" field final(¦¶œH
+N
+java:S1444Á"7Make this "public static MAXIMUM_HEAP_SIZE" field final(ˆ¹üü
+H
+java:S1444Â",Make this "public static MEMORY" field final(êõ‰„şÿÿÿÿ
+S
+java:S1444Ã"7Make this "public static MEMORY_POOL_LABEL" field final(†åà”ûÿÿÿÿ
+d
+java:S1444Ä"MMake this "public static MEMORY_TAB_HEAP_PLOTTER_ACCESSIBLE_NAME" field final(·ôÕ
+X
+java:S1444Å"BMake this "public static MEMORY_TAB_INFO_LABEL_FORMAT" field final(¬æÚ	
+h
+java:S1444Æ"QMake this "public static MEMORY_TAB_NON_HEAP_PLOTTER_ACCESSIBLE_NAME" field final(¬£Ôß
+b
+java:S1444Ç"KMake this "public static MEMORY_TAB_POOL_CHART_ABOVE_THRESHOLD" field final(óÅÔ¸
+b
+java:S1444È"KMake this "public static MEMORY_TAB_POOL_CHART_ACCESSIBLE_NAME" field final(Ø¥ø¯
+b
+java:S1444É"KMake this "public static MEMORY_TAB_POOL_CHART_BELOW_THRESHOLD" field final(·ıíÕ
+i
+java:S1444Ê"MMake this "public static MEMORY_TAB_POOL_PLOTTER_ACCESSIBLE_NAME" field final(©´—àüÿÿÿÿ
+I
+java:S1444Ë"-Make this "public static MESSAGE" field final(òÊ’ÿÿÿÿÿ
+X
+java:S1444Ì"AMake this "public static METHOD_SUCCESSFULLY_INVOKED" field final(îØù
+N
+java:S1444Í"2Make this "public static MINIMIZE_ALL" field final(Ç±ˆüüÿÿÿÿ
+K
+java:S1444Î"4Make this "public static MONITOR_LOCKED" field final(èîÊ£
+A
+java:S1444Ï"*Make this "public static NAME" field final(Ì¥¢š
+G
+java:S1444Ğ"0Make this "public static NAME_STATE" field final(šÒ¸
+V
+java:S1444Ñ":Make this "public static NAME_STATE_LOCK_NAME" field final(®’ûæÿÿÿÿÿ
+a
+java:S1444Ò"EMake this "public static NAME_STATE_LOCK_NAME_LOCK_OWNER" field final(‹ä¦Òşÿÿÿÿ
+P
+java:S1444Ó"4Make this "public static NAME_AND_BUILD" field final(Øòñôÿÿÿÿÿ
+T
+java:S1444Ô"=Make this "public static NEW_CONNECTION_ELLIPSIS" field final(˜Åñû
+P
+java:S1444Õ":Make this "public static NO_DEADLOCK_DETECTED" field final(Ë¬µ+
+R
+java:S1444Ö";Make this "public static NON_HEAP_MEMORY_USAGE" field final(¿Š‘Õ
+D
+java:S1444×".Make this "public static NON_HEAP" field final( ûÕ!
+H
+java:S1444Ø"2Make this "public static NOTIFICATION" field final(°Ë L
+P
+java:S1444Ù"9Make this "public static NOTIFICATION_BUFFER" field final(ë ÿ
+O
+java:S1444Ú"3Make this "public static NOTIFICATIONS" field final(µ¦•Èüÿÿÿÿ
+M
+java:S1444Û"1Make this "public static NOTIF_TYPES" field final(æá£ûÿÿÿÿ
+N
+java:S1444Ü"7Make this "public static NUMBER_OF_THREADS" field final(­È°»
+U
+java:S1444İ">Make this "public static NUMBER_OF_LOADED_CLASSES" field final(‰è´
+P
+java:S1444Ş":Make this "public static NUMBER_OF_PROCESSORS" field final(‚Í‰h
+H
+java:S1444ß"1Make this "public static OBJECT_NAME" field final(ßĞÁ”
+R
+java:S1444à"6Make this "public static OPERATING_SYSTEM" field final(İ¾Àùÿÿÿÿ
+K
+java:S1444á"/Make this "public static OPERATION" field final(Şš”üÿÿÿÿ
+Q
+java:S1444â":Make this "public static OPERATION_INVOCATION" field final(Ö·‹Ü
+X
+java:S1444ã"<Make this "public static OPERATION_RETURN_VALUE" field final(Çùî¨üÿÿÿÿ
+G
+java:S1444ä"0Make this "public static OPERATIONS" field final(³¿¹
+J
+java:S1444å".Make this "public static OVERVIEW" field final(Å»İÁşÿÿÿÿ
+c
+java:S1444æ"LMake this "public static OVERVIEW_PANEL_PLOTTER_ACCESSIBLE_NAME" field final(œåòŸ
+K
+java:S1444ç"/Make this "public static PARAMETER" field final(™¤Šşÿÿÿÿ
+L
+java:S1444è"5Make this "public static PASSWORD_COLON_" field final(á‹Î‚
+U
+java:S1444é">Make this "public static PASSWORD_ACCESSIBLE_NAME" field final(û­èï
+A
+java:S1444ê"*Make this "public static PEAK" field final(âìÛõ
+L
+java:S1444ë"0Make this "public static PERFORM_GC" field final(”Óï”ûÿÿÿÿ
+T
+java:S1444ì"8Make this "public static PERFORM_GC_TOOLTIP" field final(ÀòÚÚüÿÿÿÿ
+T
+java:S1444í"=Make this "public static PLOTTER_ACCESSIBLE_NAME" field final(æé—ô
+g
+java:S1444î"KMake this "public static PLOTTER_ACCESSIBLE_NAME_KEY_AND_VALUE" field final(Á¶Ù¨ùÿÿÿÿ
+[
+java:S1444ï"EMake this "public static PLOTTER_ACCESSIBLE_NAME_NO_DATA" field final(ˆÑÜ[
+V
+java:S1444ğ"?Make this "public static PLOTTER_SAVE_AS_MENU_ITEM" field final(ù§ˆØ
+Y
+java:S1444ñ"=Make this "public static PLOTTER_TIME_RANGE_MENU" field final(ÌéÏ—üÿÿÿÿ
+`
+java:S1444ò"IMake this "public static PLUGIN_EXCEPTION_DIALOG_BUTTON_EXIT" field final(–ªƒä
+a
+java:S1444ó"KMake this "public static PLUGIN_EXCEPTION_DIALOG_BUTTON_IGNORE" field final(¸®«"
+^
+java:S1444ô"GMake this "public static PLUGIN_EXCEPTION_DIALOG_BUTTON_OK" field final(Á×ëŠ
+\
+java:S1444õ"EMake this "public static PLUGIN_EXCEPTION_DIALOG_MESSAGE" field final(‰™—ƒ
+Z
+java:S1444ö"CMake this "public static PLUGIN_EXCEPTION_DIALOG_TITLE" field final(‡ƒÜ÷
+T
+java:S1444÷"=Make this "public static PROBLEM_ADDING_LISTENER" field final(ÊÏŞŠ
+U
+java:S1444ø">Make this "public static PROBLEM_DISPLAYING_MBEAN" field final(šŞƒ»
+R
+java:S1444ù"6Make this "public static PROBLEM_INVOKING" field final(Ğ’Åªıÿÿÿÿ
+[
+java:S1444ú"?Make this "public static PROBLEM_REMOVING_LISTENER" field final(«„„Íüÿÿÿÿ
+V
+java:S1444û"?Make this "public static PROBLEM_SETTING_ATTRIBUTE" field final(Ó›«
+M
+java:S1444ü"6Make this "public static PROCESS_CPU_TIME" field final(¨ÜÆ³
+J
+java:S1444ı".Make this "public static READABLE" field final(¡©Õ‹ûÿÿÿÿ
+K
+java:S1444ş"/Make this "public static RECONNECT" field final(ôäùíøÿÿÿÿ
+V
+java:S1444ÿ":Make this "public static REMOTE_PROCESS_COLON" field final(¦€²ûÿÿÿÿ
+k
+java:S1444€"OMake this "public static REMOTE_PROCESS_TEXT_FIELD_ACCESSIBLE_NAME" field final(ÓƒÒ”øÿÿÿÿ
+M
+java:S1444"1Make this "public static RESTORE_ALL" field final(ŠÓ¤Êúÿÿÿÿ
+M
+java:S1444‚"1Make this "public static RETURN_TYPE" field final(¤®Û¶øÿÿÿÿ
+D
+java:S1444ƒ"-Make this "public static SEQ_NUM" field final(ã„Ø¼
+L
+java:S1444„"0Make this "public static SIZE_BYTES" field final(äª¥»úÿÿÿÿ
+I
+java:S1444…"-Make this "public static SIZE_GB" field final(Üé˜¹ıÿÿÿÿ
+D
+java:S1444†"-Make this "public static SIZE_KB" field final(şÀ÷ó
+I
+java:S1444‡"-Make this "public static SIZE_MB" field final(´“éşÿÿÿÿ
+C
+java:S1444ˆ",Make this "public static SOURCE" field final(Ş£ş
+M
+java:S1444‰"1Make this "public static STACK_TRACE" field final(Ñï—ôúÿÿÿÿ
+`
+java:S1444Š"IMake this "public static SUMMARY_TAB_HEADER_DATE_TIME_FORMAT" field final(Ğğú®
+h
+java:S1444‹"LMake this "public static SUMMARY_TAB_PENDING_FINALIZATION_LABEL" field final(äûÌÿÿÿÿÿ
+h
+java:S1444Œ"LMake this "public static SUMMARY_TAB_PENDING_FINALIZATION_VALUE" field final(ò·×ùÿÿÿÿÿ
+P
+java:S1444":Make this "public static SUMMARY_TAB_TAB_NAME" field final(›ãô$
+X
+java:S1444"<Make this "public static SUMMARY_TAB_VM_VERSION" field final(Í…¼úÿÿÿÿ
+I
+java:S1444"-Make this "public static THREADS" field final(Ë¬Ø‘ûÿÿÿÿ
+h
+java:S1444"LMake this "public static THREAD_TAB_THREAD_INFO_ACCESSIBLE_NAME" field final(şÑš¦ùÿÿÿÿ
+k
+java:S1444‘"OMake this "public static THREAD_TAB_THREAD_PLOTTER_ACCESSIBLE_NAME" field final(‘±ÖŒıÿÿÿÿ
+h
+java:S1444’"LMake this "public static THREAD_TAB_INITIAL_STACK_TRACE_MESSAGE" field final(¾¬½şøÿÿÿÿ
+K
+java:S1444“"/Make this "public static THRESHOLD" field final(¦è¶êøÿÿÿÿ
+F
+java:S1444”"*Make this "public static TILE" field final(Œ¹“€üÿÿÿÿ
+M
+java:S1444•"6Make this "public static TIME_RANGE_COLON" field final(Ì„í‹
+F
+java:S1444–"*Make this "public static TIME" field final(¸é¸˜øÿÿÿÿ
+L
+java:S1444—"0Make this "public static TIME_STAMP" field final(¥•šúùÿÿÿÿ
+N
+java:S1444˜"2Make this "public static TOTAL_LOADED" field final(ò¼«Şùÿÿÿÿ
+Q
+java:S1444™":Make this "public static TOTAL_CLASSES_LOADED" field final(Œİìâ
+R
+java:S1444š"<Make this "public static TOTAL_CLASSES_UNLOADED" field final(õ°õ
+O
+java:S1444›"8Make this "public static TOTAL_COMPILE_TIME" field final(Õ·Â
+W
+java:S1444œ";Make this "public static TOTAL_PHYSICAL_MEMORY" field final(ôê™¤úÿÿÿÿ
+W
+java:S1444";Make this "public static TOTAL_THREADS_STARTED" field final(Ä³ö°ıÿÿÿÿ
+R
+java:S1444"6Make this "public static TOTAL_SWAP_SPACE" field final(ÏÂ÷Ùûÿÿÿÿ
+F
+java:S1444Ÿ"*Make this "public static TYPE" field final( ««Úûÿÿÿÿ
+H
+java:S1444 "1Make this "public static UNAVAILABLE" field final(û˜ –
+U
+java:S1444¡"9Make this "public static UNKNOWN_CAPITALIZED" field final(ÑŠ©´ùÿÿÿÿ
+N
+java:S1444¢"2Make this "public static UNKNOWN_HOST" field final(ùÑÓ‰üÿÿÿÿ
+G
+java:S1444£"0Make this "public static UNREGISTER" field final(ÓÚæ†
+H
+java:S1444¤",Make this "public static UPTIME" field final(÷ÄüÉÿÿÿÿÿ
+L
+java:S1444¥"5Make this "public static USAGE_THRESHOLD" field final(Ş…óæ
+Q
+java:S1444¦"5Make this "public static REMOTE_TF_USAGE" field final(‹¥Ä¹ûÿÿÿÿ
+A
+java:S1444§"*Make this "public static USED" field final(Ÿ½ÔÈ
+Q
+java:S1444¨"5Make this "public static USERNAME_COLON_" field final(èÅ‡øÿÿÿÿ
+U
+java:S1444©">Make this "public static USERNAME_ACCESSIBLE_NAME" field final(¸Òµ
+K
+java:S1444ª"/Make this "public static USER_DATA" field final(®û¦Ğüÿÿÿÿ
+L
+java:S1444«"5Make this "public static VIRTUAL_MACHINE" field final(ù§«·
+N
+java:S1444¬"2Make this "public static VM_ARGUMENTS" field final(ü‹°Èúÿÿÿÿ
+d
+java:S1444­"MMake this "public static VMINTERNAL_FRAME_ACCESSIBLE_DESCRIPTION" field final(¿‘£õ
+G
+java:S1444®"+Make this "public static VALUE" field final(¢şÿˆıÿÿÿÿ
+C
+java:S1444¯",Make this "public static VENDOR" field final(€ü¹Í
+P
+java:S1444°"4Make this "public static VERBOSE_OUTPUT" field final(Å°í¦şÿÿÿÿ
+X
+java:S1444±"<Make this "public static VERBOSE_OUTPUT_TOOLTIP" field final(„À§ìûÿÿÿÿ
+A
+java:S1444²"*Make this "public static VIEW" field final(¦Õ²¨
+H
+java:S1444³",Make this "public static WINDOW" field final(öÈßÂşÿÿÿÿ
+I
+java:S1444´"-Make this "public static WINDOWS" field final(Ÿ€òùÿÿÿÿ
+E
+java:S1444µ".Make this "public static WRITABLE" field final(ñ±ì
+O
+java:S1444¶"8Make this "public static CONNECTION_FAILED1" field final(à—Ç¶
+O
+java:S1444·"8Make this "public static CONNECTION_FAILED2" field final(Ó–âË
+X
+java:S1444¸"<Make this "public static CONNECTION_FAILED_SSL1" field final(˜ö ²şÿÿÿÿ
+S
+java:S1444¹"<Make this "public static CONNECTION_FAILED_SSL2" field final(ÌüÁ
+R
+java:S1444º"6Make this "public static CONNECTION_LOST1" field final(öŸŠÿÿÿÿÿ
+K
+java:S1444»"4Make this "public static CONNECTING_TO1" field final(‰³¹Ê
+K
+java:S1444¼"4Make this "public static CONNECTING_TO2" field final(Âş¨Ô
+N
+java:S1444½"2Make this "public static DEADLOCK_TAB" field final(†Ö’¨ùÿÿÿÿ
+K
+java:S1444¾"4Make this "public static DEADLOCK_TAB_N" field final(¼íå×
+H
+java:S1444¿",Make this "public static EXPAND" field final(ôñƒÊûÿÿÿÿ
+C
+java:S1444À",Make this "public static KBYTES" field final(Êêå
+F
+java:S1444Á"*Make this "public static PLOT" field final(ùÄïøÿÿÿÿ
+K
+java:S1444Â"/Make this "public static VISUALIZE" field final(°¼³™ùÿÿÿÿ
+J
+java:S1444Ã"3Make this "public static ZZ_USAGE_TEXT" field final(——±ç
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+m
+java:S3008+"RRename this field "ONE_DAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ËÌûûÿÿÿÿ
+i
+java:S3008,"SRename this field "ONE_HOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶“·æ
+m
+java:S3008-"RRename this field "ONE_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µô·˜ıÿÿÿÿ
+j
+java:S3008."TRename this field "ONE_MONTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÂÚ¥
+n
+java:S3008/"SRename this field "ONE_YEAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½í¦İşÿÿÿÿ
+j
+java:S30080"TRename this field "TWO_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş–áà
+q
+java:S30081"VRename this field "THREE_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸›ƒ†ıÿÿÿÿ
+l
+java:S30082"WRename this field "THREE_MONTHS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å•ñ!
+i
+java:S30083"SRename this field "FIVE_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷½µ¸
+j
+java:S30084"TRename this field "SIX_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÎ¦À
+p
+java:S30085"URename this field "SIX_MONTHS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¹À•úÿÿÿÿ
+p
+java:S30086"URename this field "SEVEN_DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÌÌÄøÿÿÿÿ
+h
+java:S30087"RRename this field "TEN_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—˜—
+r
+java:S30088"WRename this field "TWELVE_HOURS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ñË¥üÿÿÿÿ
+p
+java:S30089"URename this field "THIRTY_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÿƒÍÿÿÿÿÿ
+j
+java:S3008:"TRename this field "LESS_THAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛúŸÄ
+p
+java:S3008;"ZRename this field "A_LOT_LESS_THAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾€„¸
+r
+java:S3008<"WRename this field "GREATER_THAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¦úöüÿÿÿÿ
+x
+java:S3008="]Rename this field "ACTION_CAPITALIZED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ü¥íüÿÿÿÿ
+x
+java:S3008>"bRename this field "ACTION_INFO_CAPITALIZED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À§¿¬
+i
+java:S3008?"NRename this field "ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÃëÁıÿÿÿÿ
+r
+java:S3008@"WRename this field "ARCHITECTURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö´ñÂüÿÿÿÿ
+o
+java:S3008A"TRename this field "ATTRIBUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŒê¤ıÿÿÿÿ
+u
+java:S3008B"ZRename this field "ATTRIBUTE_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ï¤Íüÿÿÿÿ
+v
+java:S3008C"[Rename this field "ATTRIBUTE_VALUES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ”‘¦ûÿÿÿÿ
+k
+java:S3008D"URename this field "ATTRIBUTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²™İ
+f
+java:S3008E"PRename this field "BLANK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹–
+{
+java:S3008F"eRename this field "BLOCKED_COUNT_WAITED_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Œá‘
+p
+java:S3008G"ZRename this field "BOOT_CLASS_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¬àß
+
+java:S3008H"yRename this field "BORDERED_COMPONENT_MORE_OR_LESS_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾äŒ—
+j
+java:S3008I"TRename this field "CPU_USAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úúÙş
+v
+java:S3008J"[Rename this field "CPU_USAGE_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÕñËşÿÿÿÿ
+g
+java:S3008K"QRename this field "CANCEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬®¬
+h
+java:S3008L"RRename this field "CASCADE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÛ¯à
+l
+java:S3008M"VRename this field "CHART_COLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù×Ø
+p
+java:S3008N"URename this field "CLASS_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÃğòÿÿÿÿÿ
+p
+java:S3008O"URename this field "CLASS_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô§ˆĞüÿÿÿÿ
+|
+java:S3008P"fRename this field "CLASS_TAB_INFO_LABEL_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñŠŠ
+‘
+java:S3008Q"{Rename this field "CLASS_TAB_LOADED_CLASSES_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙšÏ¹
+m
+java:S3008R"RRename this field "CLASSES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆòÅøÿÿÿÿ
+f
+java:S3008S"PRename this field "CLOSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’¯
+q
+java:S3008T"VRename this field "COLUMN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù÷ìÃøÿÿÿÿ
+p
+java:S3008U"URename this field "COLUMN_PID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë³¦ÿÿÿÿÿ
+q
+java:S3008V"[Rename this field "COMMITTED_MEMORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¡ú
+~
+java:S3008W"cRename this field "COMMITTED_VIRTUAL_MEMORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ûºúÿÿÿÿ
+o
+java:S3008X"TRename this field "COMMITTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïñÿ¡şÿÿÿÿ
+h
+java:S3008Y"RRename this field "CONNECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Øæş
+‹
+java:S3008Z"pRename this field "CONNECT_DIALOG_CONNECT_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş–ƒÍıÿÿÿÿ
+‹
+java:S3008["pRename this field "CONNECT_DIALOG_ACCESSIBLE_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß©¤Çıÿÿÿÿ
+
+java:S3008\"rRename this field "CONNECT_DIALOG_MASTHEAD_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßñõşÿÿÿÿ
+ƒ
+java:S3008]"hRename this field "CONNECT_DIALOG_MASTHEAD_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…õçŸøÿÿÿÿ
+Š
+java:S3008^"tRename this field "CONNECT_DIALOG_STATUS_BAR_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ñ–ø
+z
+java:S3008_"_Rename this field "CONNECT_DIALOG_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’òœ”üÿÿÿÿ
+‹
+java:S3008`"uRename this field "CONNECTED_PUNCTUATION_CLICK_TO_DISCONNECT_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ê è
+r
+java:S3008a"\Rename this field "CONNECTION_FAILED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¬ÁÍ
+p
+java:S3008b"URename this field "CONNECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃûêÇüÿÿÿÿ
+u
+java:S3008c"ZRename this field "CONNECTION_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍõÓøıÿÿÿÿ
+„
+java:S3008d"iRename this field "CONNECTION_NAME__DISCONNECTED_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´è•«ÿÿÿÿÿ
+q
+java:S3008e"VRename this field "CONSTRUCTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó³¡Õÿÿÿÿÿ
+|
+java:S3008f"aRename this field "CURRENT_CLASSES_LOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’ûúÿÿÿÿ
+w
+java:S3008g"\Rename this field "CURRENT_HEAP_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º×ÉÓúÿÿÿÿ
+s
+java:S3008h"XRename this field "CURRENT_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‡Ãâşÿÿÿÿ
+l
+java:S3008i"QRename this field "CREATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş·Ÿúüÿÿÿÿ
+o
+java:S3008j"YRename this field "DAEMON_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÿŒ©
+
+java:S3008k"uRename this field "DISCONNECTED_PUNCTUATION_CLICK_TO_CONNECT_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç½›ñùÿÿÿÿ
+
+java:S3008l"xRename this field "DOUBLE_CLICK_TO_EXPAND_FORWARD_SLASH_COLLAPSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥²·
+z
+java:S3008m"dRename this field "DOUBLE_CLICK_TO_VISUALIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Œú
+q
+java:S3008n"VRename this field "DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¢Í¡øÿÿÿÿ
+p
+java:S3008o"URename this field "DESCRIPTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êíá­úÿÿÿÿ
+m
+java:S3008p"RRename this field "DETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µøŞŞùÿÿÿÿ
+u
+java:S3008q"ZRename this field "DETECT_DEADLOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Öïéûÿÿÿÿ
+x
+java:S3008r"bRename this field "DETECT_DEADLOCK_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æß£Ó
+
+java:S3008s"kRename this field "DIMENSION_IS_NOT_SUPPORTED_COLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ê§€
+n
+java:S3008t"XRename this field "DISCARD_CHART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¨÷ì
+|
+java:S3008u"fRename this field "DURATION_DAYS_HOURS_MINUTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•”®‘
+|
+java:S3008v"aRename this field "DURATION_HOURS_MINUTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÏÈ›ùÿÿÿÿ
+q
+java:S3008w"[Rename this field "DURATION_MINUTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ºüá
+q
+java:S3008x"[Rename this field "DURATION_SECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¾ğÌ
+l
+java:S3008y"VRename this field "EMPTY_ARRAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øı Ë
+f
+java:S3008z"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÌŒÎ
+
+java:S3008{"kRename this field "ERROR_COLON_MBEANS_ALREADY_EXIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓÈæ
+…
+java:S3008|"jRename this field "ERROR_COLON_MBEANS_DO_NOT_EXIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶†Öùÿÿÿÿ
+k
+java:S3008}"PRename this field "EVENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›«êŞÿÿÿÿÿ
+j
+java:S3008~"ORename this field "EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ïÛ¸ùÿÿÿÿ
+y
+java:S3008"^Rename this field "FAIL_TO_LOAD_PLUGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ó›‘ıÿÿÿÿ
+ˆ
+java:S3008€"qRename this field "FILE_CHOOSER_FILE_EXISTS_CANCEL_OPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‰êÒ
+‚
+java:S3008"kRename this field "FILE_CHOOSER_FILE_EXISTS_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñòÂ
+‰
+java:S3008‚"mRename this field "FILE_CHOOSER_FILE_EXISTS_OK_OPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä³Ä¾şÿÿÿÿ
+…
+java:S3008ƒ"iRename this field "FILE_CHOOSER_FILE_EXISTS_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ğä¹ÿÿÿÿÿ
+y
+java:S3008„"bRename this field "FILE_CHOOSER_SAVED_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÕÁÈ
+‚
+java:S3008…"kRename this field "FILE_CHOOSER_SAVE_FAILED_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Õí
+…
+java:S3008†"iRename this field "FILE_CHOOSER_SAVE_FAILED_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö–³”ûÿÿÿÿ
+v
+java:S3008‡"_Rename this field "FREE_PHYSICAL_MEMORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒ
+q
+java:S3008ˆ"ZRename this field "FREE_SWAP_SPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÊ’
+r
+java:S3008‰"\Rename this field "GARBAGE_COLLECTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‰d
+i
+java:S3008Š"RRename this field "GC_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙèõ
+i
+java:S3008‹"RRename this field "GC_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞåÜ
+v
+java:S3008Œ"ZRename this field "GC_TIME_DETAILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§—¸âşÿÿÿÿ
+s
+java:S3008"\Rename this field "HEAP_MEMORY_USAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÆœÃ
+f
+java:S3008"ORename this field "HEAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó•íÙ
+Š
+java:S3008"sRename this field "HELP_ABOUT_DIALOG_ACCESSIBLE_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò£°›
+„
+java:S3008"mRename this field "HELP_ABOUT_DIALOG_JCONSOLE_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û£¤Î
+€
+java:S3008‘"iRename this field "HELP_ABOUT_DIALOG_JAVA_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûˆ
+Œ
+java:S3008’"uRename this field "HELP_ABOUT_DIALOG_MASTHEAD_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô†‡•
+‚
+java:S3008“"kRename this field "HELP_ABOUT_DIALOG_MASTHEAD_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¬¡
+~
+java:S3008”"bRename this field "HELP_ABOUT_DIALOG_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¼ÈÕşÿÿÿÿ
+Œ
+java:S3008•"pRename this field "HELP_ABOUT_DIALOG_USER_GUIDE_LINK_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ĞÕ’ûÿÿÿÿ
+|
+java:S3008–"`Rename this field "HELP_MENU_ABOUT_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æœûÿÿÿÿ
+
+java:S3008—"eRename this field "HELP_MENU_USER_GUIDE_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ç“ûÿÿÿÿ
+v
+java:S3008˜"ZRename this field "HELP_MENU_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ø¼ùÿÿÿÿ
+y
+java:S3008™"bRename this field "HOTSPOT_MBEANS_ELLIPSIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚×§®
+“
+java:S3008š"wRename this field "HOTSPOT_MBEANS_DIALOG_ACCESSIBLE_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â˜Ùïúÿÿÿÿ
+m
+java:S3008›"QRename this field "IMPACT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©İŒ‘øÿÿÿÿ
+k
+java:S3008œ"ORename this field "INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íõÎåÿÿÿÿÿ
+r
+java:S3008"[Rename this field "INFO_CAPITALIZED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¶ÿã
+o
+java:S3008"SRename this field "INSECURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øı¹¯ûÿÿÿÿ
+u
+java:S3008Ÿ"^Rename this field "INVALID_PLUGIN_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÑÖ„
+r
+java:S3008 "VRename this field "INVALID_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‹Ìûÿÿÿÿ
+d
+java:S3008¡"MRename this field "IS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈãùÂ
+†
+java:S3008¢"oRename this field "JAVA_MONITORING___MANAGEMENT_CONSOLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î Ü¦
+v
+java:S3008£"ZRename this field "JCONSOLE_COLON_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÓªœûÿÿÿÿ
+w
+java:S3008¤"[Rename this field "JCONSOLE_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹ø´øÿÿÿÿ
+†
+java:S3008¥"jRename this field "JCONSOLE_ACCESSIBLE_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šµãÂüÿÿÿÿ
+n
+java:S3008¦"WRename this field "JIT_COMPILER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¶Ëç
+s
+java:S3008§"WRename this field "LIBRARY_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óô»¯ûÿÿÿÿ
+n
+java:S3008¨"WRename this field "LIVE_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÛÀ®
+h
+java:S3008©"QRename this field "LOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ËìÙ
+z
+java:S3008ª"^Rename this field "LOCAL_PROCESS_COLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍèÁÈøÿÿÿÿ
+t
+java:S3008«"XRename this field "MASTHEAD_FONT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ê­ıÿÿÿÿ
+x
+java:S3008¬"aRename this field "MANAGEMENT_NOT_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¡å€
+
+java:S3008­"eRename this field "MANAGEMENT_WILL_BE_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦˜»âÿÿÿÿÿ
+{
+java:S3008®"_Rename this field "MBEAN_ATTRIBUTE_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éà„Ùúÿÿÿÿ
+q
+java:S3008¯"URename this field "MBEAN_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â§­ùÿÿÿÿ
+y
+java:S3008°"bRename this field "MBEAN_NOTIFICATION_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¶ÿ±
+{
+java:S3008±"_Rename this field "MBEAN_OPERATION_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥“º¨üÿÿÿÿ
+m
+java:S3008²"QRename this field "MBEANS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê‘®øÿÿÿÿ
+Œ
+java:S3008³"pRename this field "MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åëšîÿÿÿÿÿ
+”
+java:S3008´"xRename this field "MBEANS_TAB_CLEAR_NOTIFICATIONS_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ï®»şÿÿÿÿ
+Š
+java:S3008µ"sRename this field "MBEANS_TAB_COMPOSITE_NAVIGATION_MULTIPLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‚—ã
+ˆ
+java:S3008¶"qRename this field "MBEANS_TAB_COMPOSITE_NAVIGATION_SINGLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ³™Ò
+†
+java:S3008·"oRename this field "MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÇùì
+
+java:S3008¸"wRename this field "MBEANS_TAB_REFRESH_ATTRIBUTES_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’ËÔ
+
+java:S3008¹"tRename this field "MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ñÚÜÿÿÿÿÿ
+“
+java:S3008º"|Rename this field "MBEANS_TAB_SUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢³ÊÀ
+ˆ
+java:S3008»"qRename this field "MBEANS_TAB_TABULAR_NAVIGATION_MULTIPLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—æ
+‹
+java:S3008¼"oRename this field "MBEANS_TAB_TABULAR_NAVIGATION_SINGLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßæ¤¨üÿÿÿÿ
+’
+java:S3008½"vRename this field "MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿²«Åÿÿÿÿÿ
+”
+java:S3008¾"~Rename this field "MBEANS_TAB_UNSUBSCRIBE_NOTIFICATIONS_BUTTON_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÃÅ/
+†
+java:S3008¿"jRename this field "MANAGE_HOTSPOT_MBEANS_IN_COLON_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷è“Üùÿÿÿÿ
+d
+java:S3008À"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¶œH
+s
+java:S3008Á"\Rename this field "MAXIMUM_HEAP_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¹üü
+m
+java:S3008Â"QRename this field "MEMORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êõ‰„şÿÿÿÿ
+x
+java:S3008Ã"\Rename this field "MEMORY_POOL_LABEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†åà”ûÿÿÿÿ
+‰
+java:S3008Ä"rRename this field "MEMORY_TAB_HEAP_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ôÕ
+}
+java:S3008Å"gRename this field "MEMORY_TAB_INFO_LABEL_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æÚ	
+
+java:S3008Æ"vRename this field "MEMORY_TAB_NON_HEAP_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬£Ôß
+‡
+java:S3008Ç"pRename this field "MEMORY_TAB_POOL_CHART_ABOVE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅÔ¸
+‡
+java:S3008È"pRename this field "MEMORY_TAB_POOL_CHART_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¥ø¯
+‡
+java:S3008É"pRename this field "MEMORY_TAB_POOL_CHART_BELOW_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ıíÕ
+
+java:S3008Ê"rRename this field "MEMORY_TAB_POOL_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´—àüÿÿÿÿ
+n
+java:S3008Ë"RRename this field "MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÊ’ÿÿÿÿÿ
+}
+java:S3008Ì"fRename this field "METHOD_SUCCESSFULLY_INVOKED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îØù
+s
+java:S3008Í"WRename this field "MINIMIZE_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç±ˆüüÿÿÿÿ
+p
+java:S3008Î"YRename this field "MONITOR_LOCKED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èîÊ£
+f
+java:S3008Ï"ORename this field "NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥¢š
+l
+java:S3008Ğ"URename this field "NAME_STATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÒ¸
+{
+java:S3008Ñ"_Rename this field "NAME_STATE_LOCK_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®’ûæÿÿÿÿÿ
+†
+java:S3008Ò"jRename this field "NAME_STATE_LOCK_NAME_LOCK_OWNER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ä¦Òşÿÿÿÿ
+u
+java:S3008Ó"YRename this field "NAME_AND_BUILD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øòñôÿÿÿÿÿ
+y
+java:S3008Ô"bRename this field "NEW_CONNECTION_ELLIPSIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Åñû
+u
+java:S3008Õ"_Rename this field "NO_DEADLOCK_DETECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¬µ+
+w
+java:S3008Ö"`Rename this field "NON_HEAP_MEMORY_USAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Š‘Õ
+i
+java:S3008×"SRename this field "NON_HEAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ûÕ!
+m
+java:S3008Ø"WRename this field "NOTIFICATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ë L
+u
+java:S3008Ù"^Rename this field "NOTIFICATION_BUFFER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë ÿ
+t
+java:S3008Ú"XRename this field "NOTIFICATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¦•Èüÿÿÿÿ
+r
+java:S3008Û"VRename this field "NOTIF_TYPES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æá£ûÿÿÿÿ
+s
+java:S3008Ü"\Rename this field "NUMBER_OF_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­È°»
+z
+java:S3008İ"cRename this field "NUMBER_OF_LOADED_CLASSES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰è´
+u
+java:S3008Ş"_Rename this field "NUMBER_OF_PROCESSORS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Í‰h
+m
+java:S3008ß"VRename this field "OBJECT_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßĞÁ”
+w
+java:S3008à"[Rename this field "OPERATING_SYSTEM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¾Àùÿÿÿÿ
+p
+java:S3008á"TRename this field "OPERATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şš”üÿÿÿÿ
+v
+java:S3008â"_Rename this field "OPERATION_INVOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö·‹Ü
+}
+java:S3008ã"aRename this field "OPERATION_RETURN_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çùî¨üÿÿÿÿ
+l
+java:S3008ä"URename this field "OPERATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¿¹
+o
+java:S3008å"SRename this field "OVERVIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å»İÁşÿÿÿÿ
+ˆ
+java:S3008æ"qRename this field "OVERVIEW_PANEL_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œåòŸ
+p
+java:S3008ç"TRename this field "PARAMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¤Šşÿÿÿÿ
+q
+java:S3008è"ZRename this field "PASSWORD_COLON_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‹Î‚
+z
+java:S3008é"cRename this field "PASSWORD_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û­èï
+f
+java:S3008ê"ORename this field "PEAK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âìÛõ
+q
+java:S3008ë"URename this field "PERFORM_GC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Óï”ûÿÿÿÿ
+y
+java:S3008ì"]Rename this field "PERFORM_GC_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀòÚÚüÿÿÿÿ
+y
+java:S3008í"bRename this field "PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æé—ô
+Œ
+java:S3008î"pRename this field "PLOTTER_ACCESSIBLE_NAME_KEY_AND_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¶Ù¨ùÿÿÿÿ
+€
+java:S3008ï"jRename this field "PLOTTER_ACCESSIBLE_NAME_NO_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÑÜ[
+{
+java:S3008ğ"dRename this field "PLOTTER_SAVE_AS_MENU_ITEM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù§ˆØ
+~
+java:S3008ñ"bRename this field "PLOTTER_TIME_RANGE_MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌéÏ—üÿÿÿÿ
+…
+java:S3008ò"nRename this field "PLUGIN_EXCEPTION_DIALOG_BUTTON_EXIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ªƒä
+†
+java:S3008ó"pRename this field "PLUGIN_EXCEPTION_DIALOG_BUTTON_IGNORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸®«"
+ƒ
+java:S3008ô"lRename this field "PLUGIN_EXCEPTION_DIALOG_BUTTON_OK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á×ëŠ
+
+java:S3008õ"jRename this field "PLUGIN_EXCEPTION_DIALOG_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰™—ƒ
+
+java:S3008ö"hRename this field "PLUGIN_EXCEPTION_DIALOG_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ƒÜ÷
+y
+java:S3008÷"bRename this field "PROBLEM_ADDING_LISTENER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÏŞŠ
+z
+java:S3008ø"cRename this field "PROBLEM_DISPLAYING_MBEAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŞƒ»
+w
+java:S3008ù"[Rename this field "PROBLEM_INVOKING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ’Åªıÿÿÿÿ
+€
+java:S3008ú"dRename this field "PROBLEM_REMOVING_LISTENER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«„„Íüÿÿÿÿ
+{
+java:S3008û"dRename this field "PROBLEM_SETTING_ATTRIBUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó›«
+r
+java:S3008ü"[Rename this field "PROCESS_CPU_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÜÆ³
+o
+java:S3008ı"SRename this field "READABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡©Õ‹ûÿÿÿÿ
+p
+java:S3008ş"TRename this field "RECONNECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôäùíøÿÿÿÿ
+{
+java:S3008ÿ"_Rename this field "REMOTE_PROCESS_COLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦€²ûÿÿÿÿ
+
+java:S3008€"tRename this field "REMOTE_PROCESS_TEXT_FIELD_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓƒÒ”øÿÿÿÿ
+r
+java:S3008"VRename this field "RESTORE_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓ¤Êúÿÿÿÿ
+r
+java:S3008‚"VRename this field "RETURN_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤®Û¶øÿÿÿÿ
+i
+java:S3008ƒ"RRename this field "SEQ_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã„Ø¼
+q
+java:S3008„"URename this field "SIZE_BYTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äª¥»úÿÿÿÿ
+n
+java:S3008…"RRename this field "SIZE_GB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üé˜¹ıÿÿÿÿ
+i
+java:S3008†"RRename this field "SIZE_KB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÀ÷ó
+n
+java:S3008‡"RRename this field "SIZE_MB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´“éşÿÿÿÿ
+h
+java:S3008ˆ"QRename this field "SOURCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş£ş
+r
+java:S3008‰"VRename this field "STACK_TRACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñï—ôúÿÿÿÿ
+…
+java:S3008Š"nRename this field "SUMMARY_TAB_HEADER_DATE_TIME_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğğú®
+
+java:S3008‹"qRename this field "SUMMARY_TAB_PENDING_FINALIZATION_LABEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äûÌÿÿÿÿÿ
+
+java:S3008Œ"qRename this field "SUMMARY_TAB_PENDING_FINALIZATION_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò·×ùÿÿÿÿÿ
+u
+java:S3008"_Rename this field "SUMMARY_TAB_TAB_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ãô$
+}
+java:S3008"aRename this field "SUMMARY_TAB_VM_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í…¼úÿÿÿÿ
+n
+java:S3008"RRename this field "THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¬Ø‘ûÿÿÿÿ
+
+java:S3008"qRename this field "THREAD_TAB_THREAD_INFO_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÑš¦ùÿÿÿÿ
+
+java:S3008‘"tRename this field "THREAD_TAB_THREAD_PLOTTER_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘±ÖŒıÿÿÿÿ
+
+java:S3008’"qRename this field "THREAD_TAB_INITIAL_STACK_TRACE_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¬½şøÿÿÿÿ
+p
+java:S3008“"TRename this field "THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦è¶êøÿÿÿÿ
+k
+java:S3008”"ORename this field "TILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¹“€üÿÿÿÿ
+r
+java:S3008•"[Rename this field "TIME_RANGE_COLON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì„í‹
+k
+java:S3008–"ORename this field "TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸é¸˜øÿÿÿÿ
+q
+java:S3008—"URename this field "TIME_STAMP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥•šúùÿÿÿÿ
+s
+java:S3008˜"WRename this field "TOTAL_LOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¼«Şùÿÿÿÿ
+v
+java:S3008™"_Rename this field "TOTAL_CLASSES_LOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œİìâ
+w
+java:S3008š"aRename this field "TOTAL_CLASSES_UNLOADED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ°õ
+t
+java:S3008›"]Rename this field "TOTAL_COMPILE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ·Â
+|
+java:S3008œ"`Rename this field "TOTAL_PHYSICAL_MEMORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôê™¤úÿÿÿÿ
+|
+java:S3008"`Rename this field "TOTAL_THREADS_STARTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä³ö°ıÿÿÿÿ
+w
+java:S3008"[Rename this field "TOTAL_SWAP_SPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÂ÷Ùûÿÿÿÿ
+k
+java:S3008Ÿ"ORename this field "TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ««Úûÿÿÿÿ
+m
+java:S3008 "VRename this field "UNAVAILABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜ –
+z
+java:S3008¡"^Rename this field "UNKNOWN_CAPITALIZED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŠ©´ùÿÿÿÿ
+s
+java:S3008¢"WRename this field "UNKNOWN_HOST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑÓ‰üÿÿÿÿ
+l
+java:S3008£"URename this field "UNREGISTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÚæ†
+m
+java:S3008¤"QRename this field "UPTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÄüÉÿÿÿÿÿ
+q
+java:S3008¥"ZRename this field "USAGE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş…óæ
+v
+java:S3008¦"ZRename this field "REMOTE_TF_USAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥Ä¹ûÿÿÿÿ
+f
+java:S3008§"ORename this field "USED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ½ÔÈ
+v
+java:S3008¨"ZRename this field "USERNAME_COLON_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÅ‡øÿÿÿÿ
+z
+java:S3008©"cRename this field "USERNAME_ACCESSIBLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Òµ
+p
+java:S3008ª"TRename this field "USER_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û¦Ğüÿÿÿÿ
+q
+java:S3008«"ZRename this field "VIRTUAL_MACHINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù§«·
+s
+java:S3008¬"WRename this field "VM_ARGUMENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‹°Èúÿÿÿÿ
+‰
+java:S3008­"rRename this field "VMINTERNAL_FRAME_ACCESSIBLE_DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‘£õ
+l
+java:S3008®"PRename this field "VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢şÿˆıÿÿÿÿ
+h
+java:S3008¯"QRename this field "VENDOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ü¹Í
+u
+java:S3008°"YRename this field "VERBOSE_OUTPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å°í¦şÿÿÿÿ
+}
+java:S3008±"aRename this field "VERBOSE_OUTPUT_TOOLTIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„À§ìûÿÿÿÿ
+f
+java:S3008²"ORename this field "VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Õ²¨
+m
+java:S3008³"QRename this field "WINDOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÈßÂşÿÿÿÿ
+n
+java:S3008´"RRename this field "WINDOWS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€òùÿÿÿÿ
+j
+java:S3008µ"SRename this field "WRITABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ±ì
+t
+java:S3008¶"]Rename this field "CONNECTION_FAILED1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à—Ç¶
+t
+java:S3008·"]Rename this field "CONNECTION_FAILED2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó–âË
+}
+java:S3008¸"aRename this field "CONNECTION_FAILED_SSL1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ö ²şÿÿÿÿ
+x
+java:S3008¹"aRename this field "CONNECTION_FAILED_SSL2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌüÁ
+w
+java:S3008º"[Rename this field "CONNECTION_LOST1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸŠÿÿÿÿÿ
+p
+java:S3008»"YRename this field "CONNECTING_TO1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰³¹Ê
+p
+java:S3008¼"YRename this field "CONNECTING_TO2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âş¨Ô
+s
+java:S3008½"WRename this field "DEADLOCK_TAB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ö’¨ùÿÿÿÿ
+p
+java:S3008¾"YRename this field "DEADLOCK_TAB_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼íå×
+m
+java:S3008¿"QRename this field "EXPAND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôñƒÊûÿÿÿÿ
+h
+java:S3008À"QRename this field "KBYTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êêå
+k
+java:S3008Á"ORename this field "PLOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÄïøÿÿÿÿ
+p
+java:S3008Â"TRename this field "VISUALIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¼³™ùÿÿÿÿ
+o
+java:S3008Ã"XRename this field "ZZ_USAGE_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(——±ç
+P
+java:S1118 ":Add a private constructor to hide the implicit public one.(»ñ÷å
+[
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(»ñ÷å
+H
+java:S1135&"2Complete the task associated to this TODO comment.(ÓñàÍ

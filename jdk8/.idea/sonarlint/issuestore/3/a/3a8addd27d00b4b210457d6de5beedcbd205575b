@@ -1,0 +1,75 @@
+
+a	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(£ƒ‹öüÿÿÿÿ
+a	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(« ìüıÿÿÿÿ
+a	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(ò¨ÈŠùÿÿÿÿ
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(´İà•üÿÿÿÿ
+K
+java:S1066š"/Merge this if statement with the enclosing one.(Œ§²¹úÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+t	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“°¡÷ûÿÿÿÿ
+o	java:S115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©ôı”
+t	java:S115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†•ˆéÿÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹¡šê
+p	java:S115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºŞŸ®
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İŠÜÄşÿÿÿÿ
+u	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±¾Ò·ÿÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(¸âŠØúÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¼„ä®ıÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‡•¼
+Z
+java:S1854›"CRemove this useless assignment to local variable "cmapTableOffset".(Æİ†ã
+^
+java:S1659”"GDeclare "platformID" and all following declarations on a separate line.(õ²ó¡
+_
+java:S1659–"CDeclare "three1" and all following declarations on a separate line.(Å®ƒşÿÿÿÿ
+K
+java:S1481›"4Remove this unused "cmapTableOffset" local variable.(Æİ†ã
+=	java:S131¦""Add a default case to this switch.(°¢š¿ùÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢š¢Ì
+W	java:S125×"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸îÄÏüÿÿÿÿ
+O
+java:S1854‘"8Remove this useless assignment to local variable "dEnd".(øÊ©±
+Q
+java:S1854":Remove this useless assignment to local variable "dBegin".(ˆÅãí
+R	java:S125"<This block of commented-out lines of code should be removed.(ä¤³¬
+=
+java:S1168¯"&Return an empty array instead of null.(¥¹ï
+R	java:S125é"<This block of commented-out lines of code should be removed.(ºì›ß
+R	java:S125ï"<This block of commented-out lines of code should be removed.(úí½í
+=
+java:S1168ş"&Return an empty array instead of null.(¥¹ï
+R	java:S125¬"<This block of commented-out lines of code should be removed.(©ªĞ€
+L
+java:S1481ä"0Remove this unused "searchRange" local variable.( ³Æıÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(ª¿
+?
+java:S1659¿"#Declare "right" on a separate line.(œèààüÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¸İÌÈûÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(¥ƒöÄ
+=	java:S131ø""Add a default case to this switch.(·ö¨¹üÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(²‚Â
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¨šÜÄûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÿüÿûÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(Ùèùü
+W	java:S125•"<This block of commented-out lines of code should be removed.(Ó„›ûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(×¤«²ûÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(»„×Ú
+R	java:S125¢"<This block of commented-out lines of code should be removed.(ƒçÇÛ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(±„íËıÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(•ô”ò
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(ÿ¿¡Çûÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(êó„ûüÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(¡÷¢Á
+G
+java:S1172Ê"+Remove this unused method parameter "xlat".(äÇ»Éıÿÿÿÿ
+S
+java:S1172ô"7Remove these unused method parameters "offset", "xlat".(¦Ç÷Õûÿÿÿÿ
+B
+java:S1172’"+Remove this unused method parameter "xlat".(ˆ´†Ã
+=	java:S131–""Add a default case to this switch.(·ö¨¹üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

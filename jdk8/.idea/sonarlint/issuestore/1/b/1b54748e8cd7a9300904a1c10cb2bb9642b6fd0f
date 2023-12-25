@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+P
+java:S1118%":Add a private constructor to hide the implicit public one.(æúâÅ
+r
+java:S3008f"WRename this field "ValueObjects" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÄÎïıÿÿÿÿ
+`
+java:S1124i"EReorder the modifiers to comply with the Java Language Specification.(ºÛ¡×şÿÿÿÿ
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(ıˆèÒùÿÿÿÿ

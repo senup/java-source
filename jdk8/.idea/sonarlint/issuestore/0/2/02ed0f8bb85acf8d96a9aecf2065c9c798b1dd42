@@ -1,0 +1,32 @@
+
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ºş‡
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‡„¶şÿÿÿÿ
+u
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¶’Œûÿÿÿÿ
+u
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚàÙÏıÿÿÿÿ
+g
+java:S1301ó"KReplace this "switch" statement by "if" statements to increase readability.(£úˆ“øÿÿÿÿ
+F
+java:S2160!"+Override the "equals" method in this class.(ÒÈ¦Òüÿÿÿÿ
+U
+java:S1161o":Add the "@Override" annotation above this method signature(¶œÙ£ùÿÿÿÿ
+P
+java:S1161}":Add the "@Override" annotation above this method signature(Ó·ºú
+V
+java:S1161„":Add the "@Override" annotation above this method signature(©²Şÿÿÿÿÿ
+[
+java:S2147¶"ECombine this catch with the one at line 308, which has the same body.(Ãç¨F
+[
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¸ø
+M
+java:S1854ú"6Remove this useless assignment to local variable "mi".(©€Á¸
+>
+java:S1481ú"'Remove this unused "mi" local variable.(©€Á¸
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(Á»›ê
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(Ó€¿ıÿÿÿÿ
+=	java:S131ó""Add a default case to this switch.(£úˆ“øÿÿÿÿ

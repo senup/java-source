@@ -1,0 +1,214 @@
+
+F
+java:S3740–"/Provide the parametrized type for this generic.(»•™é
+F
+java:S3740–"/Provide the parametrized type for this generic.(»•™é
+K
+java:S3740Ñ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740 "/Provide the parametrized type for this generic.(¤ª¶Ù
+K
+java:S3740í"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740‡"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+o	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(ŸğÚ¨
+s	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(èÏšÈüÿÿÿÿ
+F
+java:S1066á	"/Merge this if statement with the enclosing one.(æö¦
+g	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( –­×
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïğ­±ùÿÿÿÿ
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604‰"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604í"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+w
+java:S1488‰"`Immediately return this expression instead of assigning it to the temporary variable "services".(š®ÛÈ
+k
+java:S1104®"TMake forcePDL a static final constant or non-public and provide accessors if needed.(©æè¿
+n
+java:S1104¯"WMake forceRaster a static final constant or non-public and provide accessors if needed.(‚ÅÓ«
+p
+java:S1104°"YMake shapeTextProp a static final constant or non-public and provide accessors if needed.(¬«¼Ÿ
+r
+java:S1104®
+"VMake debugPrint a static final constant or non-public and provide accessors if needed.(Õ¦ŠÔøÿÿÿÿ
+E
+java:S1444®".Make this "public static forcePDL" field final(©æè¿
+H
+java:S1444¯"1Make this "public static forceRaster" field final(‚ÅÓ«
+J
+java:S1444°"3Make this "public static shapeTextProp" field final(¬«¼Ÿ
+L
+java:S1444®
+"0Make this "public static debugPrint" field final(Õ¦ŠÔøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+’
+java:S2681§"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(—¯™
+X
+java:S2259ô	"AA "NullPointerException" could be thrown; "mpa" is nullable here.(ì¾ñØ
+c
+java:S2259Õ	"GA "NullPointerException" could be thrown; "orientReq" is nullable here.(¹ğŠ™ùÿÿÿÿ
+A
+java:S1659õ"*Declare "deviceHeight" on a separate line.(İœ€Ÿ
+P
+java:S5993Ç"9Change the visibility of this constructor to "protected".(˜¬Åû
+E
+java:S1905¹")Remove this unnecessary cast to "String".(äùö‘úÿÿÿÿ
+E
+java:S1905Å")Remove this unnecessary cast to "String".(äùö‘úÿÿÿÿ
+a
+java:S1124Ñ"EReorder the modifiers to comply with the Java Language Specification.(ûÁÒëûÿÿÿÿ
+a
+java:S1124×"EReorder the modifiers to comply with the Java Language Specification.(É«‡›üÿÿÿÿ
+a
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(¡ßÌºøÿÿÿÿ
+\
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(ã¡Ö
+\
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(©ÜÌ©
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(Ï”Îı
+\
+java:S1124ú"EReorder the modifiers to comply with the Java Language Specification.(º¥ª
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜ÌŠŒ
+\
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(áÇ¿
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(€äŞ•
+a
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(ë—ªìùÿÿÿÿ
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢ˆ©êúÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(¢ˆ©êúÿÿÿÿ
+D	java:S108Ü")Either remove or fill this block of code.(†ûÈÀùÿÿÿÿ
+D	java:S108æ")Either remove or fill this block of code.(†ûÈÀùÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(ÿè²˜ùÿÿÿÿ
+F
+java:S1905ƒ"/Remove this unnecessary cast to "PrinterState".(»¿»Å
+M
+java:S1905‡"6Remove this unnecessary cast to "PrinterStateReasons".(¹ô–Ï
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(°‰–Éøÿÿÿÿ
+V
+java:S1659Ç"?Declare "iw" and all following declarations on a separate line.(÷®æ™
+F
+java:S1197À"*Move the array designators [] to the type.(ÖÎ ùÿÿÿÿ
+?
+java:S1905ü"(Remove this unnecessary cast to "float".(øú¦¾
+?
+java:S1905ÿ"(Remove this unnecessary cast to "float".(øú¦¾
+>	java:S108‹")Either remove or fill this block of code.(à¼ßa
+N
+java:S3972§"7Move this "if" to a new line or add the missing "else".(—¯™
+>	java:S108«")Either remove or fill this block of code.(à¼ßa
+V
+java:S1161î":Add the "@Override" annotation above this method signature(Ëà¥Îøÿÿÿÿ
+H
+java:S1874›",Remove this use of "show"; it is deprecated.(Ï‹€áûÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(™ğÔš
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(™ğÔš
+D	java:S108Ô")Either remove or fill this block of code.(†ûÈÀùÿÿÿÿ
+n
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Èàƒ½üÿÿÿÿ
+[
+java:S1117Ï"?Rename "attributes" which hides the field declared at line 304.(‘ã²óúÿÿÿÿ
+2
+java:S3626¦"Remove this redundant jump.(ûÁİ…
+i
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(®©éÌ
+C
+java:S1125Í"'Remove the unnecessary boolean literal.(™»µ¥ÿÿÿÿÿ
+^
+java:S3252å	"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(›ÒÔÇ
+c
+java:S3252æ	"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(¯‘¸áıÿÿÿÿ
+i	java:S100¯
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²âËÿÿÿÿÿ
+O	java:S106±
+"9Replace this use of System.out or System.err by a logger.(½‰şœ
+i
+java:S3776µ
+"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(œùİ‹
+Q
+java:S1161µ
+":Add the "@Override" annotation above this method signature(œùİ‹
+F
+java:S1905Ì
+"/Remove this unnecessary cast to "PrinterState".(“§Êº
+R
+java:S1905Ğ
+"6Remove this unnecessary cast to "PrinterStateReasons".(Æ¾ÀÙúÿÿÿÿ
+P
+java:S1905Ù
+"9Remove this unnecessary cast to "PrinterIsAcceptingJobs".(Ë‰œ¦
+L
+java:S2446Ú"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+V	java:S899ë";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+j
+java:S4042ë"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‘æ´½øÿÿÿÿ
+2
+java:S3626Œ"Remove this redundant jump.(ûÁİ…
+;
+java:S1659¿"Declare "h" on a separate line.(§á£Ïşÿÿÿÿ
+^
+java:S3252Ë"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(Şæ ‘
+c
+java:S3252Ì"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(¹«…¿üÿÿÿÿ
+k
+java:S3252×"OUse static access with "java.awt.print.Pageable" for "UNKNOWN_NUMBER_OF_PAGES".(®°ëèşÿÿÿÿ
+_
+java:S1117‰"CRename "pageRangesAttr" which hides the field declared at line 287.(¦À€Öùÿÿÿÿ
+_
+java:S1117–"CRename "pageRangesAttr" which hides the field declared at line 287.(¦À€Öùÿÿÿÿ
+L
+java:S2446Ô"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ƒâÔıÿÿÿÿ
+\
+java:S1854"@Remove this useless assignment to local variable "deviceBottom".( ş¿“úÿÿÿÿ
+B
+java:S1905ö"&Remove this unnecessary cast to "int".(´«šÏşÿÿÿÿ
+M
+java:S1481"1Remove this unused "deviceBottom" local variable.( ş¿“úÿÿÿÿ
+L
+java:S2446ê"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+L
+java:S2446ù"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+|
+java:S1172’"eRemove these unused method parameters "graphics", "printerJob", "painter", "pageFormat", "pageIndex".(‡Á‹
+B
+java:S1128",Remove this unused import 'java.awt.Dialog'.(†Øå
+I
+java:S1128!".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
+P
+java:S1128&":Remove this unused import 'java.awt.KeyboardFocusManager'.(î¾Ô
+J
+java:S1128*"/Remove this unused import 'java.awt.geom.Area'.(ˆ¡Ş¸üÿÿÿÿ
+B
+java:S11286",Remove this unused import 'java.awt.Window'.(’İ®
+H
+java:S1128:"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+c
+java:S1128L"HRemove this unused import 'javax.print.attribute.standard.Chromaticity'.(â·‡Ûşÿÿÿÿ
+o
+java:S1128a"TRemove this unnecessary import: same package classes are always implicitly imported.(ãÜä¶ÿÿÿÿÿ
+j
+java:S1128b"TRemove this unnecessary import: same package classes are always implicitly imported.(Ø÷ê
+j
+java:S1128c"TRemove this unnecessary import: same package classes are always implicitly imported.(¡ëŞ§
+o
+java:S1128d"TRemove this unnecessary import: same package classes are always implicitly imported.(Ÿ¤ÿÚùÿÿÿÿ

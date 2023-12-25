@@ -1,0 +1,21 @@
+
+K
+java:S1191("5Use classes from the Java API instead of Sun classes.(•¢§
+C
+java:S1172A"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S1161E":Add the "@Override" annotation above this method signature(úŸœ¸
+Q
+java:S2696J"6Make the enclosing method "static" or remove this set.(ğìùåøÿÿÿÿ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(…ø¥Íûÿÿÿÿ
+P
+java:S3400—"9Remove this method and declare a constant for this value.(›…Ú
+P
+java:S3400 "9Remove this method and declare a constant for this value.(›…Ú
+V
+java:S1128";Remove this unused import 'java.awt.KeyEventPostProcessor'.(£÷¡–ÿÿÿÿÿ
+P
+java:S1128 ":Remove this unused import 'java.awt.KeyboardFocusManager'.(î¾Ô
+J
+java:S1128""4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ

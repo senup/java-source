@@ -1,0 +1,35 @@
+
+s
+java:S1104)"XMake clientSocket a static final constant or non-public and provide accessors if needed.(õú¤Äşÿÿÿÿ
+s
+java:S1104."XMake clientOutput a static final constant or non-public and provide accessors if needed.(Ä™˜©ÿÿÿÿÿ
+r
+java:S11041"WMake clientInput a static final constant or non-public and provide accessors if needed.(§’Ú°øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+=
+java:S2189D""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+˜
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯¹·
+s
+java:S1450*"]Remove the "serverInstance" field and declare it as a local variable in the relevant methods.(û§ò¥
+`
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ùÆªêüÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(Æ÷ßöıÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(ßŠÌ…ÿÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(šâàúÿÿÿÿ
+C	java:S108Q")Either remove or fill this block of code.(—ãİüÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ôï’®şÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(£Ì¦Œûÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(Û“ë¼øÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(®±âèşÿÿÿÿ
+C	java:S108f")Either remove or fill this block of code.(—ãİüÿÿÿÿ
+[
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(‘ëäÕ
+?
+java:S1197x"*Move the array designators [] to the type.(¦™
+A
+java:S1197"*Move the array designators [] to the type.(ÈšÉ÷
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(øê¥ùÿÿÿÿ
+j
+java:S2975Œ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ

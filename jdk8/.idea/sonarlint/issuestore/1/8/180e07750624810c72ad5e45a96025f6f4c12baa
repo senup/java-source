@@ -1,0 +1,9 @@
+
+P
+java:S1191'"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+@
+java:S11974"*Move the array designators [] to the type.(ïâÏ¥
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ÕÔÒ•
+U
+java:S1161L":Add the "@Override" annotation above this method signature(şÈúÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(æèƒíùÿÿÿÿ

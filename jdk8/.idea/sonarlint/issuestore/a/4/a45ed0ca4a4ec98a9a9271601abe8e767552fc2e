@@ -1,0 +1,22 @@
+
+J
+java:S37402"/Provide the parametrized type for this generic.(êë¿êÿÿÿÿÿ
+J
+java:S37408"/Provide the parametrized type for this generic.(â…ÞÅÿÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÉí„úÿÿÿÿ
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó”›¾
+C
+java:S1604s"(Make this anonymous inner class a lambda(Ö Ãþþÿÿÿÿ
+h
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“–ýþ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(„žÿô
+9
+java:S2129B"Remove this "Long" constructor(’£Øýþÿÿÿÿ
+9
+java:S2129D"Remove this "Long" constructor(«î›Áûÿÿÿÿ
+9
+java:S2129N"Remove this "Long" constructor(’£Øýþÿÿÿÿ
+9
+java:S2129P"Remove this "Long" constructor(«î›Áûÿÿÿÿ

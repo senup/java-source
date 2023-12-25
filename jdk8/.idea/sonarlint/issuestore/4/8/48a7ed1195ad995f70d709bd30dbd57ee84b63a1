@@ -1,0 +1,42 @@
+
+o	java:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(´à™Æ
+t	java:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+F
+java:S1066©"/Merge this if statement with the enclosing one.(Ù¾áµ
+b
+java:S1301„"KReplace this "switch" statement by "if" statements to increase readability.(ÉüÇè
+b
+java:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(ÉüÇè
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+”
+java:S1845+"~Rename field "field" to prevent any misunderstanding/clash with field "FIELD" defined in interface "sun.tools.java.Constants".(ÓÛ€µ
+>
+java:S1172O"(Remove this unused method parameter "c".(†Ù¢‡
+E
+java:S1172p"*Remove this unused method parameter "env".(ûİôüüÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(Ş‹Æ„
+V	java:S125~"<This block of commented-out lines of code should be removed.(Šø ‘ùÿÿÿÿ
+P
+java:S1117ğ"9Rename "field" which hides the field declared at line 43.(ì§èè
+`
+java:S3358"DExtract this nested ternary operation into an independent statement.(£±×ëüÿÿÿÿ
+[
+java:S3358"DExtract this nested ternary operation into an independent statement.(ùÔÃ¸
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(á ­¿øÿÿÿÿ
+O
+java:S1854á"8Remove this useless assignment to local variable "root".(§ÇŸå
+@
+java:S1481Æ")Remove this unused "root" local variable.(¡˜µ¸
+R	java:S125†"<This block of commented-out lines of code should be removed.(Ñ¯Â¹
+_
+java:S4201¨"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¾´A
+8	java:S131º""Add a default case to this switch.(ÉüÇè
+8	java:S131Ğ""Add a default case to this switch.(ÉüÇè
+8	java:S131„""Add a default case to this switch.(ÉüÇè
+8	java:S131”""Add a default case to this switch.(ÉüÇè
+Q
+java:S1161Ú":Add the "@Override" annotation above this method signature(–ÈÖ
+O
+java:S1128"4Remove this unused import 'sun.tools.asm.Assembler'.(ÍÛêšùÿÿÿÿ

@@ -1,0 +1,19 @@
+
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëœµèüÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä­ì¾üÿÿÿÿ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(€íÏ†
+l
+java:S1104S"QMake start a static final constant or non-public and provide accessors if needed.(ĞÔ’ùÿÿÿÿ
+j
+java:S1104Z"OMake end a static final constant or non-public and provide accessors if needed.(ì¾Ôùÿÿÿÿ
+l
+java:S1104`"QMake index a static final constant or non-public and provide accessors if needed.(”§õùÿÿÿÿ
+P
+java:S1117¯"9Rename "start" which hides the field declared at line 83.(“„Õ»
+S
+java:S1117°"7Rename "end" which hides the field declared at line 90.(ÜÜƒîøÿÿÿÿ
+U
+java:S1117±"9Rename "index" which hides the field declared at line 96.(ôàú·üÿÿÿÿ

@@ -1,0 +1,131 @@
+
+`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+`	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+E
+java:S1066Á"/Merge this if statement with the enclosing one.(Ó¬ÿ~
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+†
+java:S11304"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ÔŞÈ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(Ùåøëıÿÿÿÿ
+d
+java:S3551W"IMake this method "synchronized" to match the parent class implementation.(Ùåøëıÿÿÿÿ
+U
+java:S1161a":Add the "@Override" annotation above this method signature(§ñûïÿÿÿÿÿ
+P
+java:S1161i":Add the "@Override" annotation above this method signature(‰´¢ˆ
+U
+java:S1161o":Add the "@Override" annotation above this method signature(µ¦ôÃûÿÿÿÿ
+P
+java:S1161w":Add the "@Override" annotation above this method signature(¦‰½Ÿ
+O
+java:S1161{":Add the "@Override" annotation above this method signature(…‹ÁX
+U
+java:S1161":Add the "@Override" annotation above this method signature(´äë¤øÿÿÿÿ
+P
+java:S1161…":Add the "@Override" annotation above this method signature(¨Äã3
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(¡…—›
+]
+java:S2445"F"p" is a method parameter, and should not be used for synchronization.(Ì—îá
+=
+java:S1481µ"&Remove this unused "n" local variable.(Åİ¤Ÿ
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(åêÇ¦üÿÿÿÿ
+e
+java:S3551Ï"IMake this method "synchronized" to match the parent class implementation.(åêÇ¦üÿÿÿÿ
+]
+java:S2445Ô"F"p" is a method parameter, and should not be used for synchronization.(Ì—îá
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(¦„€×
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(¢±€
+D	java:S108ü")Either remove or fill this block of code.(©Ë»‡ıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Õ ÿÿÿÿÿ
+e
+java:S3551"IMake this method "synchronized" to match the parent class implementation.(Õ ÿÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(÷±‚Ûûÿÿÿÿ
+e
+java:S3551…"IMake this method "synchronized" to match the parent class implementation.(÷±‚Ûûÿÿÿÿ
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(£®æ§ÿÿÿÿÿ
+e
+java:S3551¯"IMake this method "synchronized" to match the parent class implementation.(£®æ§ÿÿÿÿÿ
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(íÉÀ¾
+`
+java:S3551µ"IMake this method "synchronized" to match the parent class implementation.(íÉÀ¾
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(òÑ†õ
+`
+java:S3551¹"IMake this method "synchronized" to match the parent class implementation.(òÑ†õ
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(³³¡¢
+`
+java:S3551¿"IMake this method "synchronized" to match the parent class implementation.(³³¡¢
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(Òƒû¯
+`
+java:S3551Ã"IMake this method "synchronized" to match the parent class implementation.(Òƒû¯
+P
+java:S1161Ç":Add the "@Override" annotation above this method signature(¸ï­]
+_
+java:S3551Ç"IMake this method "synchronized" to match the parent class implementation.(¸ï­]
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(×«¿œüÿÿÿÿ
+e
+java:S3551Ì"IMake this method "synchronized" to match the parent class implementation.(×«¿œüÿÿÿÿ
+Q
+java:S1161Ğ":Add the "@Override" annotation above this method signature(•²Ñ…
+`
+java:S3551Ğ"IMake this method "synchronized" to match the parent class implementation.(•²Ñ…
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(Æ¹³İûÿÿÿÿ
+e
+java:S3551Ô"IMake this method "synchronized" to match the parent class implementation.(Æ¹³İûÿÿÿÿ
+P
+java:S1161Ø":Add the "@Override" annotation above this method signature(»…
+_
+java:S3551Ø"IMake this method "synchronized" to match the parent class implementation.(»…
+V
+java:S1161Ü":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(„™´ùÿÿÿÿ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(Ø±ô¦
+˜
+java:S1186ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùÆî…
+
+java:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«³Ê€úÿÿÿÿ
+
+java:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÚÅ„ıÿÿÿÿ
+
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ÿÀ–øÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’“¦óûÿÿÿÿ
+˜
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏÑ¾
+
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÌîûùÿÿÿÿ
+
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñè‹Ûøÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©©Óö
+—
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Ÿ,
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â˜ñ­üÿÿÿÿ
+—
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š—ª%
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(’“¦óûÿÿÿÿ
+D
+java:S1123"(Add the missing @deprecated Javadoc tag.(’“¦óûÿÿÿÿ
+Q
+java:S1133„"5Do not forget to remove this deprecated code someday.(ºíøõıÿÿÿÿ
+D
+java:S1123„"(Add the missing @deprecated Javadoc tag.(ºíøõıÿÿÿÿ

@@ -1,0 +1,35 @@
+
+J
+java:S3740n"/Provide the parametrized type for this generic.(ŒÄ–÷şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+{
+java:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+D
+java:S1905 "(Remove this unnecessary cast to "Paint".(Åè‰ùÿÿÿÿ
+D
+java:S1905¡"(Remove this unnecessary cast to "Paint".(ÃĞ´øÿÿÿÿ
+;
+java:S2097´"Add a type test to this method.(èŠÈïúÿÿÿÿ
+n
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(—á¸ıÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(—á¸ıÿÿÿÿ
+>
+java:S1125§"'Remove the unnecessary boolean literal.(¬¾º
+D
+java:S1659¬"(Declare "background" on a separate line.(´°ï™úÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(¡±ÎŞ
+9
+java:S1659à""Declare "maxY" on a separate line.(ğÕ°®
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(›ÔÈ‘şÿÿÿÿ
+J
+java:S1128'"4Remove this unused import 'java.awt.RenderingHints'.(Á‘ñ“
+S
+java:S1128+"8Remove this unused import 'java.awt.font.TextAttribute'.(¹¢İÌÿÿÿÿÿ
+J
+java:S11282"5Remove this unused import 'sun.font.AttributeValues'.(ŠÄšW

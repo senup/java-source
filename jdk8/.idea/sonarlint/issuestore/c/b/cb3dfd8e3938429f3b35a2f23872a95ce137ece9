@@ -1,0 +1,18 @@
+
+a	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(¿ı€æşÿÿÿÿ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(€ÑìÈ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İøÎò
+O
+java:S3878¬"8Remove this array creation and simply pass the elements.(€ÑìÈ
+_
+java:S3878±"CDisambiguate this call by either casting as "Object" or "Object[]".(—×¶ùÿÿÿÿ
+=
+java:S2129²"!Remove this "Integer" constructor(şÆÎÌúÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(´òıÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(è•®Ôûÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'sun.misc.Perf'.(¡„ßµ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD

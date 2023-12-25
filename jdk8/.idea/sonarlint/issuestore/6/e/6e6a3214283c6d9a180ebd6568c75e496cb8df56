@@ -1,0 +1,67 @@
+
+›
+java:S1192å%"Define a constant instead of duplicating this literal "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000" 388 times.(š’¡ğşÿÿÿÿ
+u
+java:S1192Æ
+"YDefine a constant instead of duplicating this literal "\uFFFD\uFFFD\uFFFD\uFFFD" 4 times.(õ“ãúÿÿÿÿ
+‹
+java:S1192”"tDefine a constant instead of duplicating this literal "\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD" 1876 times.(í½Ë»
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+N
+java:S2589Ò"7Remove this expression which always evaluates to "true"(ö¦¬ÿ
+p	java:S115Ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–Æ‹Ù
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê†Á½
+u	java:S115Ú"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôƒû¤øÿÿÿÿ
+u	java:S115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™££ùÿÿÿÿ
+p	java:S115Ü"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®ˆÀÈ
+c	java:S116B"NRename this field "SS2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼¥­
+c	java:S116C"NRename this field "SS3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿áÎ¯
+7
+java:S1170B"!Make this final field static too.(¶¼¥­
+7
+java:S1170C"!Make this final field static too.(¿áÎ¯
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ú¶îå
+>
+java:S1659Y"#Declare "byte2" on a separate line.(ÑíÓàûÿÿÿÿ
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(É˜î³
+?
+java:S1659™"#Declare "byte2" on a separate line.(ÑíÓàûÿÿÿÿ
+>
+java:S1125Ò"'Remove the unnecessary boolean literal.(ö¦¬ÿ
+\
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(–Æ‹Ù
+\
+java:S1124Ù"EReorder the modifiers to comply with the Java Language Specification.(Ê†Á½
+a
+java:S1124Ú"EReorder the modifiers to comply with the Java Language Specification.(ôƒû¤øÿÿÿÿ
+a
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.(™££ùÿÿÿÿ
+\
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(®ˆÀÈ
+u	java:S115Ö%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â‚Æüÿÿÿÿ
+u	java:S115×%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÿÏ†üÿÿÿÿ
+u	java:S115Ø%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÑçóıÿÿÿÿ
+p	java:S115Ù%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Ššó
+M
+java:S2387Ò$"6"index1" is the name of a field in "SimpleEUCEncoder".(¬÷®¹
+R
+java:S2387Ö%"6"index2" is the name of a field in "SimpleEUCEncoder".(Â‚Æüÿÿÿÿ
+S
+java:S2387×%"7"index2a" is the name of a field in "SimpleEUCEncoder".(ïÿÏ†üÿÿÿÿ
+S
+java:S2387Ø%"7"index2b" is the name of a field in "SimpleEUCEncoder".(îÑçóıÿÿÿÿ
+N
+java:S2387Ù%"7"index2c" is the name of a field in "SimpleEUCEncoder".(·Ššó
+A
+java:S1197Ò$"*Move the array designators [] to the type.(¬÷®¹
+a
+java:S1124Ö%"EReorder the modifiers to comply with the Java Language Specification.(Â‚Æüÿÿÿÿ
+a
+java:S1124×%"EReorder the modifiers to comply with the Java Language Specification.(ïÿÏ†üÿÿÿÿ
+a
+java:S1124Ø%"EReorder the modifiers to comply with the Java Language Specification.(îÑçóıÿÿÿÿ
+\
+java:S1124Ù%"EReorder the modifiers to comply with the Java Language Specification.(·Ššó

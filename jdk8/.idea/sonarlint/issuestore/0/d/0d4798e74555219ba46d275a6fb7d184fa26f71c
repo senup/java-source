@@ -1,0 +1,28 @@
+
+w
+java:S1192^"\Define a constant instead of duplicating this literal "The client has been closed." 4 times.(¢Éçøşÿÿÿÿ
+h
+java:S1192É"LDefine a constant instead of duplicating this literal "Checker-run" 6 times.(®ÇØÌüÿÿÿÿ
+t	java:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(„ô†úúÿÿÿÿ
+O
+java:S5993%"9Change the visibility of this constructor to "protected".(˜ÄŠŠ
+Y
+java:S3078+">Use an "AtomicLong" for this field; its operations are atomic.(Ì¤Ô™üÿÿÿÿ
+h
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÏÁ–Ä
+2
+java:S3626Š"Remove this redundant jump.(ûÁİ…
+t
+java:S2142g"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“–ış
+u
+java:S2142°"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+a
+java:S1124ñ"EReorder the modifiers to comply with the Java Language Specification.(Üàç¡ùÿÿÿÿ
+\
+java:S1124ò"EReorder the modifiers to comply with the Java Language Specification.(Î³—¬
+\
+java:S1124ó"EReorder the modifiers to comply with the Java Language Specification.(–Íô
+a
+java:S1124ô"EReorder the modifiers to comply with the Java Language Specification.(ô±³ÿÿÿÿÿ

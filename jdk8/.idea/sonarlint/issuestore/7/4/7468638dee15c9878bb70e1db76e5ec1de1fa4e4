@@ -1,0 +1,72 @@
+
+E
+java:S1121".Extract the assignment out of this expression.(öÚ‰è
+3
+java:S1643Ä"Use a StringBuilder instead.(¢ ¶Ù
+3
+java:S1643Ê"Use a StringBuilder instead.(»Ò×ğ
+t	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©ÅÚêøÿÿÿÿ
+|
+java:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­ü…”
+v
+java:S1149Ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(îøÀ¡
+{
+java:S1149ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ğè¿×øÿÿÿÿ
+v
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒÓ¥¢
+{
+java:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(øìáûÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ßÂƒíøÿÿÿÿ
+m
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(æÑüÿÿÿÿ
+U
+java:S1117k":Rename "filter" which hides the field declared at line 47.(¨³ıìüÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(îÃ“ãùÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(–Àè£
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(–Àè£
+T	java:S106"9Replace this use of System.out or System.err by a logger.(È§¶‰úÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(‡Ìßşÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ı˜‚ÿÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(›Ú£ş
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(Åû¢ûÿÿÿÿ
+V
+java:S1117Û":Rename "filter" which hides the field declared at line 47.(àáİñıÿÿÿÿ
+V
+java:S1117ã":Rename "filter" which hides the field declared at line 47.(³Øå˜øÿÿÿÿ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÑŒ¡úûÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(õãÊßüÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(î’±
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(œ›†¼
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(™ÁæÏ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(·Ûİğøÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.( Á
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(Õˆºıÿÿÿÿ
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(À²äÒÿÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ğò›Î
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(¡»ò¾
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(˜ºò
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(ÉŸÿŒúÿÿÿÿ
+N	java:S106è"9Replace this use of System.out or System.err by a logger.(ùäÄG
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(úãæÖşÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(Ùµÿ¤ıÿÿÿÿ
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄÄôé
+w
+java:S1158ş"[Call the static method Character.toString(...) instead of instantiating a temporary object.(‰‹•¾øÿÿÿÿ
+?
+java:S2129ş"#Remove this "Character" constructor(‰‹•¾øÿÿÿÿ
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(‹ğ¾ø
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(­½Êıÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ÛŸÎÁÿÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(±ø±ˆ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Š¤Ûéıÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(µ®“É
+‘
+java:S1130ö"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ªâäĞşÿÿÿÿ
+?
+java:S1659Ë"#Declare "start" on a separate line.(‰õî´ÿÿÿÿÿ
+‹
+java:S1130ò"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(Ÿ×a
+R	java:S125„"<This block of commented-out lines of code should be removed.(Çµí‘

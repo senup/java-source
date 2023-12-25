@@ -1,0 +1,33 @@
+
+o
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ÷öû
+K
+java:S1191'"5Use classes from the Java API instead of Sun classes.(”îóµ
+L
+java:S2387:"1"values" is the name of a field in "AbstractMap".(üë‰‚ûÿÿÿÿ
+@
+java:S21609"+Override the "equals" method in this class.(ÑÉ”5
+P
+java:S1161E":Add the "@Override" annotation above this method signature(§ª–©
+Q
+java:S2696R"6Make the enclosing method "static" or remove this set.(ÇÜÙ¡úÿÿÿÿ
+P
+java:S1161_":Add the "@Override" annotation above this method signature(Á»›ê
+A
+java:S1128)"+Remove this unused import 'java.awt.Paint'.(²ğ©
+Q
+java:S1128*";Remove this unused import 'java.awt.font.GraphicAttribute'.(æ…’›
+N
+java:S1128+"8Remove this unused import 'java.awt.font.NumericShaper'.(¯áµ·
+S
+java:S1128-"=Remove this unused import 'java.awt.font.TransformAttribute'.(Æ÷úš
+U
+java:S1128.":Remove this unused import 'java.awt.geom.AffineTransform'.(˜ÊÊ¡ıÿÿÿÿ
+S
+java:S1128/"=Remove this unused import 'java.awt.im.InputMethodHighlight'.(ÿçú¿
+g
+java:S11280"LRemove this unused import 'java.text.AttributedCharacterIterator.Attribute'.(ÔˆŸüÿÿÿÿ
+K
+java:S11285"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
+J
+java:S11287"5Remove this unused import 'sun.font.AttributeValues'.(ŠÄšW

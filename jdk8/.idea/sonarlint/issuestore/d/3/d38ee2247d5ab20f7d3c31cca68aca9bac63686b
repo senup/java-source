@@ -1,0 +1,11 @@
+
+n
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡û¨4
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+4
+java:S2129;"Remove this "Long" constructor(ùÙý³
+\
+java:S2153d"FRemove the boxing to "Long"; The argument is already of the same type.(«¹Òä
+4
+java:S2129d"Remove this "Long" constructor(«¹Òä

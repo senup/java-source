@@ -1,0 +1,45 @@
+
+F
+java:S3740²"/Provide the parametrized type for this generic.(½Ë¹¶
+n	java:S127¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(€Ãş
+n	java:S127½"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤
+K
+java:S1066à"/Merge this if statement with the enclosing one.(Æ‡Ş´ûÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(–ÄÎäúÿÿÿÿ
+X
+java:S4973ß"<Strings and Boxed types should be compared using "equals()".(ó×„¥üÿÿÿÿ
+F
+java:S19480"+Make "arrowIcon" transient or serializable.(ôØ¢èøÿÿÿÿ
+C
+java:S11723"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+U
+java:S11617":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+U
+java:S1161H":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(ÒÒ’Ëùÿÿÿÿ
+U
+java:S1161i":Add the "@Override" annotation above this method signature(³’¡ıÿÿÿÿ
+U
+java:S1161m":Add the "@Override" annotation above this method signature(Ü÷ä¤ÿÿÿÿÿ
+P
+java:S1161x":Add the "@Override" annotation above this method signature(ÒÖÂ¡
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(ìßİË
+V
+java:S1161…":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(™×¿‚üÿÿÿÿ
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(ô¹¶‹
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(à³‰Ú
+V
+java:S1161ı":Add the "@Override" annotation above this method signature(Ûƒ«¥ùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(âµô«şÿÿÿÿ
+Q
+java:S1161Ó":Add the "@Override" annotation above this method signature(€ëßí
+Q
+java:S1161Ü":Add the "@Override" annotation above this method signature(ÌÕ„ë

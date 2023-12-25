@@ -1,0 +1,76 @@
+
+E
+java:S3740J"/Provide the parametrized type for this generic.(Ùš±¬
+K
+java:S3740Š"/Provide the parametrized type for this generic.(·•Äùÿÿÿÿ
+F
+java:S3740¨"/Provide the parametrized type for this generic.(ÔŒï‹
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üº¯îøÿÿÿÿ
+`
+java:S1192»"JDefine a constant instead of duplicating this literal "sansserif" 3 times.(¶ê»
+>
+java:S1604J"(Make this anonymous inner class a lambda(Ùš±¬
+p
+java:S1104/"UMake isSolaris a static final constant or non-public and provide accessors if needed.(¼Ú–şúÿÿÿÿ
+i
+java:S11041"SMake isLinux a static final constant or non-public and provide accessors if needed.( ®üâ
+j
+java:S11043"TMake isMacOSX a static final constant or non-public and provide accessors if needed.(Ë„Şß
+q
+java:S11045"VMake isSolaris8 a static final constant or non-public and provide accessors if needed.(‘èáğúÿÿÿÿ
+l
+java:S11047"VMake isSolaris9 a static final constant or non-public and provide accessors if needed.(™©˜ª
+t
+java:S11049"YMake isOpenSolaris a static final constant or non-public and provide accessors if needed.(û„½¾úÿÿÿÿ
+m
+java:S1104;"RMake useT2K a static final constant or non-public and provide accessors if needed.(Ù‹Æ¯ûÿÿÿÿ
+p
+java:S1104="UMake isWindows a static final constant or non-public and provide accessors if needed.(™É¡´üÿÿÿÿ
+j
+java:S1104?"UMake isOpenJDK a static final constant or non-public and provide accessors if needed.(«ÙË
+J
+java:S1444/"/Make this "public static isSolaris" field final(¼Ú–şúÿÿÿÿ
+C
+java:S14441"-Make this "public static isLinux" field final( ®üâ
+D
+java:S14443".Make this "public static isMacOSX" field final(Ë„Şß
+K
+java:S14445"0Make this "public static isSolaris8" field final(‘èáğúÿÿÿÿ
+F
+java:S14447"0Make this "public static isSolaris9" field final(™©˜ª
+N
+java:S14449"3Make this "public static isOpenSolaris" field final(û„½¾úÿÿÿÿ
+G
+java:S1444;",Make this "public static useT2K" field final(Ù‹Æ¯ûÿÿÿÿ
+J
+java:S1444="/Make this "public static isWindows" field final(™É¡´üÿÿÿÿ
+D
+java:S1444?"/Make this "public static isOpenJDK" field final(«ÙË
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+b
+java:S2095e"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+j
+java:S2095c"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(·Š˜ñüÿÿÿÿ
+c
+java:S2095b"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üºˆÃ
+j
+java:S3824ª"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(®Šş†ÿÿÿÿÿ
+U
+java:S1118-":Add a private constructor to hide the implicit public one.(îÆÂ ıÿÿÿÿ
+n
+java:S3077ˆ"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(­üŠ¥
+H
+java:S1135Q"2Complete the task associated to this TODO comment.(’“¡ç
+\
+java:S1075_"ARefactor your code to get this URI from a customizable parameter.(˜±ûøÿÿÿÿ
+Y
+java:S4719d">Replace charset name argument with StandardCharsets.ISO_8859_1(ÖÆéıÿÿÿÿ
+2
+java:S3626Ì"Remove this redundant jump.(ÉŠ©ƒ
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©™¹Úüÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(À›£Åùÿÿÿÿ
+`
+java:S4201 "IRemove this unnecessary null check; "instanceof" returns false for nulls.(öáÙÊ

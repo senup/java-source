@@ -1,0 +1,14 @@
+
+t
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(õœ™ûúÿÿÿÿ
+k	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+k	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+P
+java:S1161i":Add the "@Override" annotation above this method signature(èÄíÅ
+P
+java:S1161p":Add the "@Override" annotation above this method signature(©í»¼
+f
+java:S3457t"KFormat specifiers or lambda should be used instead of string concatenation.(ìöÚÈÿÿÿÿÿ

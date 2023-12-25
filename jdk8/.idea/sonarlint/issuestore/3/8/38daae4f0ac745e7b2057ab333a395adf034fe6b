@@ -1,0 +1,17 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(à½î úÿÿÿÿ
+—
+java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÄéğ
+F
+java:S1197‚"*Move the array designators [] to the type.(öÉÿÿÿÿÿ
+A
+java:S1197•"*Move the array designators [] to the type.(”³–œ
+A
+java:S1197·"*Move the array designators [] to the type.(‡Âİ“
+R
+java:S1128!"7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ
+H
+java:S1128$"-Remove this unused import 'sun.awt.SunHints'.(”Š¸Îşÿÿÿÿ

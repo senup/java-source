@@ -1,0 +1,22 @@
+
+E
+java:S1066h"/Merge this if statement with the enclosing one.(ó‚¹
+Z
+java:S2259‡"CA "NullPointerException" could be thrown; "child" is nullable here.(”Ô¹™
+m
+java:S3008A"RRename this field "HEADING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‹†îøÿÿÿÿ
+Q	java:S125="<This block of commented-out lines of code should be removed.(ÿ‰×ş
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÛ·úÿÿÿÿ
+
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ©ˆ÷üÿÿÿÿ
+\
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(Œà·ù
+=
+java:S1948µ"'Make "refTy" transient or serializable.(ÖÜ«J
+=
+java:S10684"'Remove this unused "env" private field.(«ª“ø
+L
+java:S10687"1Remove this unused "sourceManager" private field.(èââ şÿÿÿÿ
+K
+java:S10688"0Remove this unused "classManager" private field.(ŞĞú‹ùÿÿÿÿ

@@ -1,0 +1,17 @@
+
+=
+java:S1604."(Make this anonymous inner class a lambda(ÆÞÖ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+B
+java:S30110",This accessibility update should be removed.(Ÿ–¸Œ
+A
+java:S14525"&Remove usage of generic wildcard type.(ÚŠÔÂÿÿÿÿÿ
+k
+java:S6202j"UReplace this usage of "IOException.class.isInstance()" with "instanceof IOException".(Žû®…
+C
+java:S3011‰",This accessibility bypass should be removed.(¿þúð
+C
+java:S3011‘",This accessibility bypass should be removed.(„±ßÍ
+C
+java:S3011™",This accessibility bypass should be removed.(Ü§ø”

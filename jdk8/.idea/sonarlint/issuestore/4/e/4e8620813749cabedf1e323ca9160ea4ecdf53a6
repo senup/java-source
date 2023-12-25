@@ -1,0 +1,133 @@
+
+r
+java:S1192œ"VDefine a constant instead of duplicating this literal "Invalid code point U+" 6 times.(óÉÔÈøÿÿÿÿ
+o	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(¢ö§Ú
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ²Óñ
+K
+java:S1066™"/Merge this if statement with the enclosing one.(¬§¼½úÿÿÿÿ
+F
+java:S1066ë"/Merge this if statement with the enclosing one.(§Ó†
+K
+java:S1066­"/Merge this if statement with the enclosing one.(ÛòÛÓıÿÿÿÿ
+b
+java:S1301Æ"KReplace this "switch" statement by "if" statements to increase readability.(¤ïÈ†
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+q
+java:S3008Ã"URename this field "INCLUSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÊûÿÿÿÿ
+v
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Šíï
+{
+java:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’¥¹ãÿÿÿÿÿ
+v
+java:S1149º"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢ü¹³
+v
+java:S1149º"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢ü¹³
+{
+java:S1149â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ìÕ‡¾ùÿÿÿÿ
+{
+java:S1149â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ìÕ‡¾ùÿÿÿÿ
+{
+java:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€ªëæûÿÿÿÿ
+{
+java:S1149Ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€ÿ°åúÿÿÿÿ
+{
+java:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…Ò€ãüÿÿÿÿ
+{
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²Î–ÿÿÿÿÿ
+F
+java:S1197Ã"*Move the array designators [] to the type.(ùÊûÿÿÿÿ
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šíï
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¥¹ãÿÿÿÿÿ
+d	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ü¹³
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¢ü¹³
+i	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÕ‡¾ùÿÿÿÿ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ìÕ‡¾ùÿÿÿÿ
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(é»ü ıÿÿÿÿ
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÅé¢üÿÿÿÿ
+d	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ô™æ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹Ô™æ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(£ôÙÃ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(¤‰Ğœ
+O
+java:S1874"3Remove this use of "SymbolTable"; it is deprecated.(Ú²‰ëùÿÿÿÿ
+j
+java:S3776Î"SRefactor this method to reduce its Cognitive Complexity from 176 to the 15 allowed.(‹ŸØ…
+W
+java:S1854œ";Remove this useless assignment to local variable "literal".( ôÔŞûÿÿÿÿ
+S
+java:S1854Á"<Remove this useless assignment to local variable "lastItem".(ÓÉË¢
+J
+java:S1874Î"3Remove this use of "SymbolTable"; it is deprecated.(‹ŸØ…
+=
+java:S1659Ú"!Declare "buf" on a separate line.(…Ò€ãüÿÿÿÿ
+a
+java:S1659á"EDeclare "lastChar" and all following declarations on a separate line.(‘æñ…ùÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(æÒÿŞ
+R	java:S125"<This block of commented-out lines of code should be removed.(Á–Á
+L
+java:S1874©"5Remove this use of "lookupMatcher"; it is deprecated.(à–‚Ü
+=	java:S131Ì""Add a default case to this switch.(åàÑ‹ıÿÿÿÿ
+=	java:S131â""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+Q	java:S125Å	"<This block of commented-out lines of code should be removed.(™Ò™D
+O
+java:S1874Í	"3Remove this use of "SymbolTable"; it is deprecated.(ñºßœşÿÿÿÿ
+N
+java:S1874Í	"2Remove this use of "SYMBOL_REF"; it is deprecated.(ñºßœşÿÿÿÿ
+J
+java:S1874Ù	"3Remove this use of "SymbolTable"; it is deprecated.(½¯åŞ
+I
+java:S1874Ù	"2Remove this use of "SYMBOL_REF"; it is deprecated.(½¯åŞ
+O
+java:S1874ä	"3Remove this use of "SymbolTable"; it is deprecated.(°ŸŠßüÿÿÿÿ
+N
+java:S1874ä	"2Remove this use of "SYMBOL_REF"; it is deprecated.(°ŸŠßüÿÿÿÿ
+=	java:S131ó	""Add a default case to this switch.(»¦„áúÿÿÿÿ
+R	java:S125û	"<This block of commented-out lines of code should be removed.(›—
+Z
+java:S1659Ó
+">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ
+i
+java:S3776ÿ
+"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ÁÄÓ“
+Z
+java:S1659">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ
+R
+java:S1119†";Refactor the code to remove this label and the need for it.(³™Ö¦
+=	java:S131ˆ""Add a default case to this switch.(î­¥‰ùÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(îõı¹ÿÿÿÿÿ
+Z
+java:S1659ã">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ
+R
+java:S1119è";Refactor the code to remove this label and the need for it.(³™Ö¦
+=	java:S131ê""Add a default case to this switch.(î­¥‰ùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ë®Óşÿÿÿÿ
+I
+java:S1135à"2Complete the task associated to this TODO comment.(Û´»²
+O
+java:S1874«"3Remove this use of "SymbolTable"; it is deprecated.(š†îıÿÿÿÿ
+i
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(âŠéÉ
+I
+java:S1135Ò"2Complete the task associated to this TODO comment.(Óâ£Ğ
+J
+java:S1874Ô"3Remove this use of "SymbolTable"; it is deprecated.(âŠéÉ
+>
+java:S1659„"'Declare "valueName" on a separate line.(¬Æ†
+Q	java:S125Ù"<This block of commented-out lines of code should be removed.(Ú°Ä'
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(ÆÑÔµ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(…§º…úÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(…ÏşÓ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(ÁçâŞüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(…üÇ±ùÿÿÿÿ
+I
+java:S1135°"2Complete the task associated to this TODO comment.(Óâ£Ğ
+O
+java:S1874³"3Remove this use of "SymbolTable"; it is deprecated.(²Î–ÿÿÿÿÿ

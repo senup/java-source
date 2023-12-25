@@ -1,0 +1,17 @@
+
+o
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¯“Œ
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÊï–øÿÿÿÿ
+f
+java:S1104P"PMake dflt a static final constant or non-public and provide accessors if needed.(™ÆÄÛ
+k
+java:S1104U"PMake keys a static final constant or non-public and provide accessors if needed.( °ñÚÿÿÿÿÿ
+h
+java:S1104["RMake labels a static final constant or non-public and provide accessors if needed.(öÆ£¹
+<
+java:S2129q"!Remove this "Integer" constructor(žÿ Žýÿÿÿÿ
+T
+java:S1117€"8Rename "keys" which hides the field declared at line 85.(†Ô³Ôùÿÿÿÿ
+Q
+java:S1117„":Rename "labels" which hides the field declared at line 91.(¾àº€

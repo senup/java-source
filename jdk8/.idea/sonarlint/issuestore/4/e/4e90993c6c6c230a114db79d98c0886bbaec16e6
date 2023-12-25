@@ -1,0 +1,11 @@
+
+R
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(è«€¨
+R
+java:S49738"<Strings and Boxed types should be compared using "equals()".(è«€¨
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(åŠéÌ
+U
+java:S1118"":Add a private constructor to hide the implicit public one.(Úªê§şÿÿÿÿ
+j	java:S116º"ORename this field "_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äşœ§üÿÿÿÿ
+k	java:S116»"PRename this field "_hash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ê™Şûÿÿÿÿ

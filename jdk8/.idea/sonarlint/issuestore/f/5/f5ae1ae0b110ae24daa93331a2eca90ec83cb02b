@@ -1,0 +1,208 @@
+
+E
+java:S3740U"/Provide the parametrized type for this generic.(€ñÅ©
+E
+java:S3740["/Provide the parametrized type for this generic.(–ÃáÕ
+J
+java:S3740\"/Provide the parametrized type for this generic.(‰Ù’Ôÿÿÿÿÿ
+J
+java:S3740w"/Provide the parametrized type for this generic.(»¶™úÿÿÿÿ
+K
+java:S3740œ"/Provide the parametrized type for this generic.(ÖáÂœøÿÿÿÿ
+F
+java:S3740ô"/Provide the parametrized type for this generic.(è½˜ö
+K
+java:S3740õ"/Provide the parametrized type for this generic.(û‹Â¢ùÿÿÿÿ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(¯İâùÿÿÿÿ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(´ãË
+F
+java:S3740·"/Provide the parametrized type for this generic.(Â¹ÑŠ
+K
+java:S3740Ä"/Provide the parametrized type for this generic.(ºËî½üÿÿÿÿ
+F
+java:S3740Ñ"/Provide the parametrized type for this generic.(åïŒ†
+K
+java:S3740ë"/Provide the parametrized type for this generic.(äß‘ûÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(íƒÎ×
+K
+java:S3740É"/Provide the parametrized type for this generic.(ÎşïÖÿÿÿÿÿ
+K
+java:S3740¿"/Provide the parametrized type for this generic.(¥üÊôüÿÿÿÿ
+K
+java:S3740¿"/Provide the parametrized type for this generic.(¥üÊôüÿÿÿÿ
+K
+java:S3740´
+"/Provide the parametrized type for this generic.(úÎÑ•ùÿÿÿÿ
+K
+java:S3740³
+"/Provide the parametrized type for this generic.(¸ø¶ñüÿÿÿÿ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ñ‘Æ
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Õ±‰
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ÎÈşÿÿÿÿ
+p
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Å©·
+D
+java:S1604"(Make this anonymous inner class a lambda(¬’•¨ûÿÿÿÿ
+S
+java:S4973¾
+"<Strings and Boxed types should be compared using "equals()".(•ãÅ¼
+S
+java:S4973Á
+"<Strings and Boxed types should be compared using "equals()".(œ¶óá
+K
+java:S1191,"5Use classes from the Java API instead of Sun classes.(ºÃØ
+j
+java:S3008f"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‡”É
+n
+java:S3008g"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”©şúÿÿÿÿ
+m
+java:S3008i"XRename this field "ZERO_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊêF
+n
+java:S3008k"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ñ‡ıÿÿÿÿ
+s
+java:S1450U"]Remove the "filterComboBox" field and declare it as a local variable in the relevant methods.(€ñÅ©
+{
+java:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+P
+java:S1874"9Remove this use of "getSelectedValues"; it is deprecated.(†§ßÙ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(œ²„£
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
+Q
+java:S1161Õ":Add the "@Override" annotation above this method signature(´­õÈ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(ô•†üÿÿÿÿ
+˜
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚŒô
+˜
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¿»ø
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(ÚŒô
+V
+java:S1161é":Add the "@Override" annotation above this method signature(Ÿ•“§ıÿÿÿÿ
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(Ÿ¿»ø
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(ú€İÖ
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(Ô“–Ã
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(ë€“Ûûÿÿÿÿ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(ÛÈ™Æ
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(òÊñé
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(¬«æ
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(«ÎÚ—
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(—¦˜İ
+Q
+java:S1161ï":Add the "@Override" annotation above this method signature(ë‚„ä
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ä Ïúüÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+Q
+java:S1161’":Add the "@Override" annotation above this method signature(€İ§ò
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(¦¿öå
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(™àíŸ
+P
+java:S1874®"9Remove this use of "getSelectedValues"; it is deprecated.(–å
+Q
+java:S2209³"5Change this instance-reference to a static reference.(³§©Áøÿÿÿÿ
+Z
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(æ”½ÿøÿÿÿÿ
+L
+java:S2209Ì"5Change this instance-reference to a static reference.(‘°äâ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(Ú¯ò©
+_
+java:S3252ü"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ü–Ÿúÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(½›Ôßùÿÿÿÿ
+Y
+java:S1117÷"BRename "accessoryPanel" which hides the field declared at line 59.(±¼¶Ö
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(Îš³¼ùÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(¸—®Ëúÿÿÿÿ
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(Ã÷´
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(’ô¯şÿÿÿÿ
+u
+java:S3252â"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(äêİÅşÿÿÿÿ
+u
+java:S3252ø"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(äêİÅşÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(ØŞ›ë
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(µœĞŞ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ÙÉ¼
+A
+java:S1948"%Make "fsv" transient or serializable.(óËçâşÿÿÿÿ
+L
+java:S1948"0Make "fileComparator" transient or serializable.(¬’•¨ûÿÿÿÿ
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(’İáÙşÿÿÿÿ
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(’Æ•Ûûÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(ñÈ˜š
+X
+java:S3252©"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ôÄ¸‡
+\
+java:S3252ª"@Use static access with "java.awt.Component" for "TOP_ALIGNMENT".(¯®‡»øÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(óÅ¹íùÿÿÿÿ
+E
+java:S1172¸")Remove this unused method parameter "fc".(ŞêÛôûÿÿÿÿ
+<
+java:S1948Ã"%Make "fsv" transient or serializable.(¥’„¾
+V
+java:S1161½	":Add the "@Override" annotation above this method signature(¼ Òşüÿÿÿÿ
+V
+java:S1161‰
+":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ
+P
+java:S1161•
+":Add the "@Override" annotation above this method signature(ñºà<
+@
+java:S1948µ
+")Make "filters" transient or serializable.(¸¬ÇË
+C
+java:S1125Û
+"'Remove the unnecessary boolean literal.(­šÕÅûÿÿÿÿ

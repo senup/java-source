@@ -1,0 +1,62 @@
+
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(é¢‰
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(§«®Ìúÿÿÿÿ
+n
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(¤œÚ^
+n
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íñ¡2
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï†Ìüÿÿÿÿ
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í‹Õø
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ›È…
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ı»
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(µôøœşÿÿÿÿ
+p
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àû
+p
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ²»×
+o
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(§²‹g
+o
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(§²‹g
+o
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(§²‹g
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¢í
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãäã‹
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÅ¨ƒ
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÅ¨ƒ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÅ¨ƒ
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¢ Ÿÿÿÿÿÿ
+?
+java:S1604±"(Make this anonymous inner class a lambda(­ãæ¶
+D
+java:S1604Í"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+A
+java:S1172¶"+Remove this unused method parameter "mode".(§ºŒy
+Q	java:S125È"<This block of commented-out lines of code should be removed.(ÄÂÿc
+W	java:S125ş"<This block of commented-out lines of code should be removed.(ñû‚øÿÿÿÿ
+I
+java:S1172Ä"-Remove this unused method parameter "thread".(•Ü¢³ûÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(À è¬
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(ÓÓåó
+z
+java:S2142Å"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+Z
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(Â£Öùÿÿÿÿ
+D	java:S108Å")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+[
+java:S3398Ù"?Move this method into the anonymous class declared at line 697.(ËÏ›ÿÿÿÿÿ
+L
+java:S1144¬"5Remove this unused private "resetInputBuffer" method.(ÈŸÌ

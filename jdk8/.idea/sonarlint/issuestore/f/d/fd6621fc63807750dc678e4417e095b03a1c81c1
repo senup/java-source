@@ -1,0 +1,30 @@
+
+J
+java:S3740A"/Provide the parametrized type for this generic.(©¿İÔüÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(©¿İÔüÿÿÿÿ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö›¹”
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+q
+java:S1149A"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©¿İÔüÿÿÿÿ
+E
+java:S1197+"*Move the array designators [] to the type.(ñ¥˜½ÿÿÿÿÿ
+@
+java:S11970"*Move the array designators [] to the type.(Ëİ±Ş
+m
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ãğƒ³şÿÿÿÿ
+U
+java:S11619":Add the "@Override" annotation above this method signature(Ãğƒ³şÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆ«±Ÿ
+Q
+java:S1161¼":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+Q
+java:S1161ù":Add the "@Override" annotation above this method signature(ÿšŞØ

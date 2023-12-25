@@ -1,0 +1,71 @@
+
+g
+java:S1301Œ"KReplace this "switch" statement by "if" statements to increase readability.(í÷­•ûÿÿÿÿ
+D
+java:S5411¸"(Use a primitive boolean expression here.(›ôÒïúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‚Ê“·ùÿÿÿÿ
+V
+java:S2259§"?A "NullPointerException" could be thrown; "w" is nullable here.(ªË³·
+@
+java:S1905"*Remove this unnecessary cast to "Boolean".(ÒáÔ±
+B
+java:S1905"'Remove this unnecessary cast to "Byte".(‹ÔËøùÿÿÿÿ
+>
+java:S1905 "(Remove this unnecessary cast to "Short".(¬ÌäÊ
+G
+java:S1905!",Remove this unnecessary cast to "Character".(ØŠš£ûÿÿÿÿ
+E
+java:S1905""*Remove this unnecessary cast to "Integer".(’ªÁ­ûÿÿÿÿ
+=
+java:S1905#"'Remove this unnecessary cast to "Long".(€ƒ‰
+>
+java:S1905$"(Remove this unnecessary cast to "Float".(±¥å
+D
+java:S1905%")Remove this unnecessary cast to "Double".(ÙûÇ¼þÿÿÿÿ
+g
+java:S1845e"QRename method "signed" to prevent any misunderstanding/clash with field "SIGNED".(µÚµç
+k
+java:S1845f"URename method "unsigned" to prevent any misunderstanding/clash with field "UNSIGNED".(¹é‘Â
+k
+java:S1845g"URename method "floating" to prevent any misunderstanding/clash with field "FLOATING".(¨œœÖ
+]
+java:S1659I"GDeclare "SIZE_SHIFT" and all following declarations on a separate line.(³ÎË
+[
+java:S1659L"EDeclare "UNSIGNED" and all following declarations on a separate line.(üÁçÿ
+=
+java:S1659P"'Declare "SIZE_MASK" on a separate line.(¤™¬ô
+X
+java:S1659_"BDeclare "SHORT" and all following declarations on a separate line.(õÐÕƒ
+`
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(¯¦Žþÿÿÿÿ
+Z
+java:S3358U"DExtract this nested ternary operation into an independent statement.(÷›Ô›
+Z
+java:S3358V"DExtract this nested ternary operation into an independent statement.(Ú’â®
+=
+java:S1125W"'Remove the unnecessary boolean literal.(ò³ž¾
+_
+java:S3358Y"DExtract this nested ternary operation into an independent statement.(éÕÖôøÿÿÿÿ
+=
+java:S1125Z"'Remove the unnecessary boolean literal.(ò³ž¾
+>
+java:S4274 "(Replace this assert with a proper check.(ñˆà&
+]
+java:S1126š"AReplace this if-then-else statement by a single return statement.(¨ó¦¯ùÿÿÿÿ
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(˜¨®Šûÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ÃŽ•³
+=
+java:S1481¦"&Remove this unused "x" local variable.(¥Ÿ¤Æ
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(ŸˆîÔ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Ô½††üÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(ÞÝãøÿÿÿÿ
+=	java:S131Œ""Add a default case to this switch.(í÷­•ûÿÿÿÿ
+=	java:S131‘""Add a default case to this switch.(í÷­•ûÿÿÿÿ
+F
+java:S1905¥"*Remove this unnecessary cast to "Integer".(ì½¿þûÿÿÿÿ
+=	java:S131¦""Add a default case to this switch.(í÷­•ûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¹ÿ—ûøÿÿÿÿ
+\
+java:S1144Å"@Remove this unused private "newIllegalArgumentException" method.(÷ž²øþÿÿÿÿ

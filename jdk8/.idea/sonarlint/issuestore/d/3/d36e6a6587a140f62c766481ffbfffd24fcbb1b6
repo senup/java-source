@@ -1,0 +1,30 @@
+
+\	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+p
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸İ¤®
+U
+java:S4719«"9Replace charset name argument with StandardCharsets.UTF_8(”š âşÿÿÿÿ
+•
+java:S1130Í"yRemove the declaration of thrown exception 'com.sun.jdi.InvalidTypeException', as it cannot be thrown from method's body.(îûÏúÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Œ¢èêøÿÿÿÿ
+8	java:S131ç""Add a default case to this switch.(¹ŠÒÓ
+7
+java:S1659º" Declare "b2" on a separate line.(ş¦È·
+7
+java:S1659Æ" Declare "b2" on a separate line.(ş¦È·
+[
+java:S1659Ò"?Declare "b2" and all following declarations on a separate line.(ùìÃ»üÿÿÿÿ
+V
+java:S1659à"?Declare "b2" and all following declarations on a separate line.(œ‰ã©
+V
+java:S1659á"?Declare "b6" and all following declarations on a separate line.(¹¶áø
+U
+java:S4719ˆ"9Replace charset name argument with StandardCharsets.UTF_8(’¥‚×úÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+>
+java:S1905–"'Remove this unnecessary cast to "long".(÷ÛÒ
+C
+java:S1905˜"'Remove this unnecessary cast to "long".(ßŸªŒÿÿÿÿÿ
+8	java:S131‚""Add a default case to this switch.(–Áñ–

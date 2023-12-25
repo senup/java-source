@@ -1,0 +1,13 @@
+
+€
+java:S1149b"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÈßÖüÿÿÿÿ
+{
+java:S1149w"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤¬áç
+|
+java:S1149‹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤¬áç
+|
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú ÇÛ
+p
+java:S1201m"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÌƒÃïùÿÿÿÿ
+B
+java:S1125{"'Remove the unnecessary boolean literal.(òñïëÿÿÿÿÿ

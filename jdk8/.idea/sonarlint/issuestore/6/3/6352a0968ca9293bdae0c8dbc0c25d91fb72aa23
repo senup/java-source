@@ -1,0 +1,53 @@
+
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(£»ŞÌùÿÿÿÿ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(å™Æíüÿÿÿÿ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(€„ïøÿÿÿÿ
+F
+java:S1066™"/Merge this if statement with the enclosing one.(Ä­Úè
+K
+java:S1066“"/Merge this if statement with the enclosing one.(·ïç©úÿÿÿÿ
+D
+java:S1604š"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+K
+java:S2387E"0"enabled" is the name of a field in "Component".(Ìº¥êÿÿÿÿÿ
+L
+java:S2387I"6"mouseListener" is the name of a field in "Component".(¯ƒÿì
+
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ˆ¸âüÿÿÿÿ
+<
+java:S1659F"&Declare "boldFont" on a separate line.(¾óÕĞ
+A
+java:S1948>"+Make "listeners" transient or serializable.(¦ö´”
+L
+java:S1948A"1Make "currentListener" transient or serializable.(€›·Íùÿÿÿÿ
+Q
+java:S1948D";Make "notificationListenersList" transient or serializable.(”ÚÒÖ
+F
+java:S1948H"0Make "userDataEditor" transient or serializable.(º‘½Ä
+E
+java:S1948I"/Make "mouseListener" transient or serializable.(¯ƒÿì
+[
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(Ï¤åè
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(ÎÿÚŞ
+M	java:S106ø"9Replace this use of System.out or System.err by a logger.(Ÿ×o
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(¦×½°şÿÿÿÿ
+C
+java:S1172¹",Remove this unused method parameter "mbean".(¤ñ¸ı
+W	java:S125‚"<This block of commented-out lines of code should be removed.(ÉãÄ‰şÿÿÿÿ
+i
+java:S1845æ"MRename method "init" to prevent any misunderstanding/clash with field "init".(¦¡®üÿÿÿÿ
+3
+java:S2225Ñ"Return empty string instead.(¥¹ï
+R
+java:S2388Î"6Prefix this call to "cancelCellEditing" with "super.".(æÅŒ²ùÿÿÿÿ
+H
+java:S1172ä"2Remove this unused method parameter "columnNames".(ŸÃš
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(Şäå§
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ê‡ÊÁûÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(àŒúŒ

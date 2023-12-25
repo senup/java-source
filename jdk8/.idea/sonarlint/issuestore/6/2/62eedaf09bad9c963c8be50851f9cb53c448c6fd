@@ -1,0 +1,172 @@
+
+J
+java:S1121ÿ".Extract the assignment out of this expression.(´âÂÿÿÿÿÿ
+J
+java:S1121¯	".Extract the assignment out of this expression.(´âÂÿÿÿÿÿ
+J
+java:S1121è".Extract the assignment out of this expression.(´âÂÿÿÿÿÿ
+J
+java:S1121ü".Extract the assignment out of this expression.(´âÂÿÿÿÿÿ
+t	java:S135ì	"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+F
+java:S1066À"/Merge this if statement with the enclosing one.(İ€˜ì
+F
+java:S1066Ğ"/Merge this if statement with the enclosing one.(½Ç¨•
+F
+java:S1066Ë"/Merge this if statement with the enclosing one.(–Ö‹†
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÀ´öÿÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÀ´öÿÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŒ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŒ
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÆ˜Á
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÆ˜Á
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂáÆÜ
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÉÅÆ
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ö—­úÿÿÿÿ
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷´óÉ
+l	java:S117ˆ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘§¦şÿÿÿÿ
+l	java:S117‰
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ò‰Áÿÿÿÿÿ
+l	java:S117Š
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÿ×æùÿÿÿÿ
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘§¦şÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ò‰Áÿÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÿ×æùÿÿÿÿ
+g
+java:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(»·Ä²ùÿÿÿÿ
+b
+java:S1301´"KReplace this "switch" statement by "if" statements to increase readability.(„ó·¯
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+_
+java:S2184ˆ"CCast one of the operands of this subtraction operation to a "long".(¿‘ˆÊøÿÿÿÿ
+I
+java:S1199Ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+P
+java:S5164Ñ"4Call "remove()" on "threadLocalBinaryToASCIIBuffer".(‚ÌüÙüÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(¾¦¤ç
+\
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(ğ¦ŠÒ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(†óÜ¨
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(Çéçõ
+<
+java:S1659„" Declare "B5" on a separate line.(ÈÀ´öÿÿÿÿÿ
+7
+java:S1659…" Declare "S5" on a separate line.(ÔŒ
+7
+java:S1659†" Declare "M5" on a separate line.(ÉÆ˜Á
+9
+java:S1659»""Declare "high" on a separate line.(ÖÁ•—
+R	java:S125±"<This block of commented-out lines of code should be removed.(ªâÃš
+W	java:S125æ"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(„Ãé–ÿÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(­¦–½
+@
+java:S1905µ")Remove this unnecessary cast to "double".(“Œş•
+`
+java:S3358¼"DExtract this nested ternary operation into an independent statement.(††ùÿÿÿÿ
+[
+java:S3358¿"DExtract this nested ternary operation into an independent statement.(Æ›âÃ
+R	java:S125À"<This block of commented-out lines of code should be removed.(­×ğÕ
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¯£¹¶ùÿÿÿÿ
+b
+java:S4065Ò"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(í®›æüÿÿÿÿ
+\
+java:S1124î"EReorder the modifiers to comply with the Java Language Specification.(ÙÅÌ»
+\
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(ÎÌÙ©
+A
+java:S1197"*Move the array designators [] to the type.(Á‚ïÇ
+j
+java:S3776¡"SRefactor this method to reduce its Cognitive Complexity from 139 to the 15 allowed.(ú¶à¯
+1
+java:S3626è
+"Remove this redundant jump.(µöõp
+=
+java:S1905§"&Remove this unnecessary cast to "int".(œû¤›
+=
+java:S1905§"&Remove this unnecessary cast to "int".(œû¤›
+B
+java:S1905ª"&Remove this unnecessary cast to "int".(÷ÓÜÎùÿÿÿÿ
+B
+java:S1905ª"&Remove this unnecessary cast to "int".(÷ÓÜÎùÿÿÿÿ
+C
+java:S1905¬"'Remove this unnecessary cast to "long".(¤…¼„ıÿÿÿÿ
+C
+java:S1905®"'Remove this unnecessary cast to "long".(î°àÔùÿÿÿÿ
+B
+java:S1905®"&Remove this unnecessary cast to "int".(î°àÔùÿÿÿÿ
+B
+java:S1905®"&Remove this unnecessary cast to "int".(î°àÔùÿÿÿÿ
+E
+java:S1905°")Remove this unnecessary cast to "double".(É”ï—ÿÿÿÿÿ
+R
+java:S1119ë	";Refactor the code to remove this label and the need for it.(÷„†™
+o
+java:S3776ü
+"SRefactor this method to reduce its Cognitive Complexity from 120 to the 15 allowed.(­”üªøÿÿÿÿ
+1
+java:S3626š"Remove this redundant jump.(µöõp
+=
+java:S1905"&Remove this unnecessary cast to "int".(œû¤›
+=
+java:S1905"&Remove this unnecessary cast to "int".(œû¤›
+B
+java:S1905ƒ"&Remove this unnecessary cast to "int".(÷ÓÜÎùÿÿÿÿ
+B
+java:S1905ƒ"&Remove this unnecessary cast to "int".(÷ÓÜÎùÿÿÿÿ
+D
+java:S1905…"(Remove this unnecessary cast to "float".(×ÈÌüÿÿÿÿ
+C
+java:S1905È"'Remove this unnecessary cast to "long".(¤…¼„ıÿÿÿÿ
+C
+java:S1905Ê"'Remove this unnecessary cast to "long".(î°àÔùÿÿÿÿ
+B
+java:S1905Ê"&Remove this unnecessary cast to "int".(î°àÔùÿÿÿÿ
+B
+java:S1905Ê"&Remove this unnecessary cast to "int".(î°àÔùÿÿÿÿ
+E
+java:S1905Ì")Remove this unnecessary cast to "double".(É”ï—ÿÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(÷„†™
+i
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(Íòˆ·
+Q
+java:S1119¬";Refactor the code to remove this label and the need for it.(…§y
+=	java:S131µ""Add a default case to this switch.(»·Ä²ùÿÿÿÿ
+Q
+java:S1119Ú";Refactor the code to remove this label and the need for it.(äàú-
+W
+java:S1119î";Refactor the code to remove this label and the need for it.(”õ¿Ëúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ŸİÛ¢ıÿÿÿÿ
+8	java:S131´""Add a default case to this switch.(„ó·¯
+R
+java:S1119¼";Refactor the code to remove this label and the need for it.(˜Ùš
+B
+java:S1905Å"&Remove this unnecessary cast to "int".(ï®Â´ùÿÿÿÿ
+B
+java:S1905Å"&Remove this unnecessary cast to "int".(ï®Â´ùÿÿÿÿ
+D	java:S108ú")Either remove or fill this block of code.(‘™İÿÿÿÿÿ
+o
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 115 to the 15 allowed.(Œ¥×‡ùÿÿÿÿ
+P
+java:S1854‰"9Remove this useless assignment to local variable "round".(æòÂ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¬¡ˆ¹şÿÿÿÿ
+`
+java:S3358¬"DExtract this nested ternary operation into an independent statement.(§á—Óúÿÿÿÿ
+`
+java:S3358­"DExtract this nested ternary operation into an independent statement.( ğïĞûÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(¾‡›ã
+R	java:S125¬"<This block of commented-out lines of code should be removed.(±¯€¤
+=
+java:S1110Ì"!Remove these useless parentheses.(´Åì”ıÿÿÿÿ
+>
+java:S1905ô"'Remove this unnecessary cast to "long".(Üúä
+W	java:S125®"<This block of commented-out lines of code should be removed.( Üçøÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(Íüîôûÿÿÿÿ
+T
+java:S1144Å"8Remove this unused private "insignificantDigits" method.(©»‡øÿÿÿÿ

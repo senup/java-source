@@ -1,0 +1,16 @@
+
+o
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ğö‰
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã«¨ğ
+P
+java:S1118'":Add a private constructor to hide the implicit public one.(ƒÛàù
+A
+java:S1168e"&Return an empty array instead of null.(³ëÍ„ıÿÿÿÿ
+<
+java:S1168k"&Return an empty array instead of null.(¥¹ï
+H
+java:S3011Ä",This accessibility update should be removed.(íË©¶úÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(àöŞ–ıÿÿÿÿ
+M
+java:S1128 "2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ

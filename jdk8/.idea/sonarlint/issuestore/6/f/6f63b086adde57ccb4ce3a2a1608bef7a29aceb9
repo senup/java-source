@@ -1,0 +1,24 @@
+
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜öÜıûÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(™Œı‰
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(ëĞÓ
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(ÂÍÛéÿÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÒúôÅşÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(˜š‘ƒûÿÿÿÿ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(Š®ÃÉ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(”Î¡½
+K
+java:S1481À"/Remove this unused "outputSize" local variable.(ş§”£şÿÿÿÿ
+<
+java:S1905Û"&Remove this unnecessary cast to "int".(Â´;
+h
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ºÖÂ
+<
+java:S1905š"&Remove this unnecessary cast to "int".(Â´;

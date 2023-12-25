@@ -1,0 +1,27 @@
+
+o	java:S135¥"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+P
+java:S1191."5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+M
+java:S1135;"2Complete the task associated to this TODO comment.(ÁÛ‹±øÿÿÿÿ
+N
+java:S1874P"3Remove this use of "SymbolTable"; it is deprecated.(“í·üÿÿÿÿ
+O
+java:S1874‡"3Remove this use of "SymbolTable"; it is deprecated.(¿Ğã²ıÿÿÿÿ
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Èì©¶
+Q
+java:S1854¢"5Remove this useless assignment to local variable "c".(Ê—èùÿÿÿÿ
+J
+java:S1874©"3Remove this use of "SymbolTable"; it is deprecated.(€–Ö«
+I
+java:S1874©"2Remove this use of "SYMBOL_REF"; it is deprecated.(€–Ö«
+M
+java:S1874«"6Remove this use of "parseReference"; it is deprecated.(¬Ö€é
+R	java:S125¬"<This block of commented-out lines of code should be removed.(Ü¶ØŒ
+E
+java:S1874²".Remove this use of "lookup"; it is deprecated.(Ñëò
+F
+java:S1197Ä"*Move the array designators [] to the type.(—¸¢¾üÿÿÿÿ
+d	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íû‚‚
+d	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¶›

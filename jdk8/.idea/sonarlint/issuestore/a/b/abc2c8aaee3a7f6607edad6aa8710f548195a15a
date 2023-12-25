@@ -1,0 +1,44 @@
+
+\	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(¥†Ã
+n	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+n	java:S135Z"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+s	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÇ÷øÿÿÿÿ
+n	java:S127ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤Í ‡
+f	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿ÆÛ
+f	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’üêÍ
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²ÿìşÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÕ÷šüÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÕ÷šüÿÿÿÿ
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¼êÅ
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²ÿìşÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€òåÉøÿÿÿÿ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›âóıùÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²ÿìşÿÿÿÿ
+f	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶”p
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜—ŞÓıÿÿÿÿ
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø„š
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜºªÍ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²ÿìşÿÿÿÿ
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öî¹Æ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Îø¨øÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŒ¢şÿÿÿÿ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÔöŞûÿÿÿÿ
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òøÈ€
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ùÄ
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÕ¨ó
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ïğÿÿÿÿÿ
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ïğÿÿÿÿÿ
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ªï
+C
+java:S4274-"(Replace this assert with a proper check.(Ï¿€Ÿûÿÿÿÿ
+C
+java:S42747"(Replace this assert with a proper check.(Ï¿€Ÿûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×Ô©×üÿÿÿÿ
+A
+java:S1197Ï"*Move the array designators [] to the type.(ÚÊÆ
+?
+java:S1659İ"#Declare "BCode" on a separate line.(ß¨ïğÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(É®¼şÿÿÿÿ

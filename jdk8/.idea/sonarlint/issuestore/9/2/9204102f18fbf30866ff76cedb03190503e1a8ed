@@ -1,0 +1,53 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Éä¥ç
+a	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(ÁŸµÄúÿÿÿÿ
+a	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(†õÙ¨ÿÿÿÿÿ
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘åô
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ ÃÖûÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(µèºüÿÿÿÿ
+”
+java:S1192Ç"}Define a constant instead of duplicating this literal "7FFFFFFFFFFFFFFFFFFFFFFF7FFFFFFFFFFF8000000000007FFFFFFFFFFC" 3 times.(¢ÛÓ
+™
+java:S1192Æ"}Define a constant instead of duplicating this literal "7FFFFFFFFFFFFFFFFFFFFFFF7FFFFFFFFFFF8000000000007FFFFFFFFFFF" 3 times.(‚êöÈÿÿÿÿÿ
+‚
+java:S1192†"kDefine a constant instead of duplicating this literal "0800000000000000000000000000000000000000C9" 3 times.(»Ö…÷
+”
+java:S1192µ"}Define a constant instead of duplicating this literal "000000000000000000000000000000000000000000000000000000000001" 3 times.(Æ ¶
+‡
+java:S1192‡"kDefine a constant instead of duplicating this literal "000000000000000000000000000000000000000001" 3 times.(„†Ùûÿÿÿÿ
+ˆ
+java:S1192…"qDefine a constant instead of duplicating this literal "800000000000000000000000000000000000000000000201" 3 times.(É´èø
+
+java:S1192ô"qDefine a constant instead of duplicating this literal "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFF" 3 times.(ó•­Ôûÿÿÿÿ
+
+java:S1192õ"qDefine a constant instead of duplicating this literal "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFC" 3 times.(¦óôÿÿÿÿÿ
+”
+java:S1192 "}Define a constant instead of duplicating this literal "800000000000000000000000000000000000000000000000001000000001" 3 times.(Æª´™
+s	java:S135d"YReduce the total number of break and continue statements in this loop to use at most one.(ÎŠüúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã®Êè
+S	java:S107ƒ"=Method has 11 parameters, which is greater than 7 authorized.(”‹‡ğ
+O
+java:S1118*":Add a private constructor to hide the implicit public one.(à­ù0
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ûä–¶øÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(–›äƒşÿÿÿÿ
+[
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(˜µÃ©
+`
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(Œê°Ôùÿÿÿÿ
+A
+java:S1452<"&Remove usage of generic wildcard type.(¶³õìúÿÿÿÿ
+=
+java:S1125k"'Remove the unnecessary boolean literal.(Šó¦¹
+B
+java:S1125o"'Remove the unnecessary boolean literal.(“Š¸Êûÿÿÿÿ
+B
+java:S1125r"'Remove the unnecessary boolean literal.(…§øÿÿÿÿ
+F
+java:S60359"0Replace this alternation with a character class.(ªóìí
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(¢•Šá

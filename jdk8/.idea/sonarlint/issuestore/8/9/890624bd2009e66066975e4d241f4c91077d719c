@@ -1,0 +1,27 @@
+
+k
+java:S1104'"PMake list a static final constant or non-public and provide accessors if needed.(¹åÅ·ûÿÿÿÿ
+m
+java:S1104+"RMake status a static final constant or non-public and provide accessors if needed.(¼¨Ôøÿÿÿÿ
+h
+java:S1104/"RMake params a static final constant or non-public and provide accessors if needed.(Ö·þä
+v
+java:S11043"[Make contextEngineId a static final constant or non-public and provide accessors if needed.(ÂÈðƒùÿÿÿÿ
+m
+java:S11047"WMake contextName a static final constant or non-public and provide accessors if needed.(±ÿØÍ
+l
+java:S1104;"QMake flags a static final constant or non-public and provide accessors if needed.(ˆƒ®¥üÿÿÿÿ
+8
+java:S1165'"Make this "list" field final.(¹åÅ·ûÿÿÿÿ
+:
+java:S1165+"Make this "status" field final.(¼¨Ôøÿÿÿÿ
+5
+java:S1165/"Make this "params" field final.(Ö·þä
+C
+java:S11653"(Make this "contextEngineId" field final.(ÂÈðƒùÿÿÿÿ
+:
+java:S11657"$Make this "contextName" field final.(±ÿØÍ
+9
+java:S1165;"Make this "flags" field final.(ˆƒ®¥üÿÿÿÿ
+>
+java:S1948/"(Make "params" transient or serializable.(Ö·þä

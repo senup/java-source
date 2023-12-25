@@ -1,0 +1,179 @@
+
+E
+java:S3740Q"/Provide the parametrized type for this generic.(àöÚ
+E
+java:S3740â"/Provide the parametrized type for this generic.(»¼½ 
+F
+java:S3740ã"/Provide the parametrized type for this generic.(¸ÃÓÕ
+K
+java:S3740ä"/Provide the parametrized type for this generic.(À£¯ïúÿÿÿÿ
+F
+java:S3740‹"/Provide the parametrized type for this generic.(§ãÑ
+E
+java:S3740ª"/Provide the parametrized type for this generic.(­²áA
+K
+java:S3740¦	"/Provide the parametrized type for this generic.(ïÆ°­üÿÿÿÿ
+K
+java:S3740 "/Provide the parametrized type for this generic.(€“É¡üÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯şèøÿÿÿÿ
+i
+java:S1192å"RDefine a constant instead of duplicating this literal "No such thumbnail" 3 times.(ôÒ¾¢
+t
+java:S1192•"^Define a constant instead of duplicating this literal "Incompatible color conversion" 6 times.(¹÷H
+F
+java:S1066˜"/Merge this if statement with the enclosing one.(ë“³Ì
+F
+java:S1066±"/Merge this if statement with the enclosing one.(á…Á
+K
+java:S1066ô"/Merge this if statement with the enclosing one.(Â™¿™ıÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑˆÀùÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑˆÀùÿÿÿÿ
+>
+java:S1604Z"(Make this anonymous inner class a lambda(’­Ûü
+K
+java:S1191;"5Use classes from the Java API instead of Sun classes.(ğ¢ì
+g
+java:S2259û"KA "NullPointerException" could be thrown; "getImageType()" can return null.(àŒÖ¢ùÿÿÿÿ
+S	java:S107ö
+"=Method has 17 parameters, which is greater than 7 authorized.(–‹¹Ú
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(­°§é
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(×Ò¹¾
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(’ÖÊ¾ùÿÿÿÿ
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÒŞÏ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¢Å¿„
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(Ü­Ì¼şÿÿÿÿ
+C
+java:S1125ä"'Remove the unnecessary boolean literal.(Ã¥˜®øÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
+5
+java:S2129ò"Remove this "Long" constructor(†Ôÿ–
+:
+java:S2129õ"Remove this "Long" constructor(ïÚˆ†úÿÿÿÿ
+>
+java:S1125“"'Remove the unnecessary boolean literal.(÷¤„š
+R
+java:S1117¢";Rename "buffer" which hides the field declared at line 171.(Õ–ù–
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾µÆ«øÿÿÿÿ
+5
+java:S2129ô"Remove this "Long" constructor(Ê¤±í
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷ç™±ÿÿÿÿÿ
+C
+java:S1125—"'Remove the unnecessary boolean literal.(ÎéÕŸşÿÿÿÿ
+?
+java:S1125œ"(Remove the unnecessary boolean literals.(œËÒ´
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(¥µû­ùÿÿÿÿ
+C
+java:S1125°"'Remove the unnecessary boolean literal.(ÎéÕŸşÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(ûåóˆ
+?
+java:S1125¹"(Remove the unnecessary boolean literals.(œËÒ´
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(äã–
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Í °øÿÿÿÿ
+Q
+java:S1854¶":Remove this useless assignment to local variable "colors".(æÆÊÇ
+B
+java:S1481¶"+Remove this unused "colors" local variable.(æÆÊÇ
+P
+java:S1161ğ":Add the "@Override" annotation above this method signature(êÆ”=
+=	java:S131¦""Add a default case to this switch.(Äµïéÿÿÿÿÿ
+P
+java:S1161È":Add the "@Override" annotation above this method signature(ºÈ
+i
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ô×æ
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+]
+java:S2147“"FCombine this catch with the one at line 1040, which has the same body.(ï­£Ä
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(º‚Ü¾ıÿÿÿÿ
+>
+java:S1125«"'Remove the unnecessary boolean literal.(±Áò®
+O	java:S106µ	"9Replace this use of System.out or System.err by a logger.(ĞÎ‡÷
+O	java:S106¶	"9Replace this use of System.out or System.err by a logger.(ÿŞ¶
+O	java:S106·	"9Replace this use of System.out or System.err by a logger.(µŞ Ô
+T	java:S106¹	"9Replace this use of System.out or System.err by a logger.(¯í„œøÿÿÿÿ
+T	java:S106º	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106»	"9Replace this use of System.out or System.err by a logger.(®äıç
+O	java:S106¾	"9Replace this use of System.out or System.err by a logger.(†»ßô
+T	java:S106À	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106Â	"9Replace this use of System.out or System.err by a logger.(Å²ıÿÿÿÿ
+T	java:S106Ã	"9Replace this use of System.out or System.err by a logger.(ÙÁ‹ğşÿÿÿÿ
+T	java:S106Ä	"9Replace this use of System.out or System.err by a logger.(£—ê´ÿÿÿÿÿ
+T	java:S106Å	"9Replace this use of System.out or System.err by a logger.(±«¸‹şÿÿÿÿ
+O	java:S106Æ	"9Replace this use of System.out or System.err by a logger.(èŞ–ö
+T	java:S106Ç	"9Replace this use of System.out or System.err by a logger.(÷ğÒÜûÿÿÿÿ
+N	java:S106È	"9Replace this use of System.out or System.err by a logger.(¯†à
+i
+java:S3776ò	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÚµÊÆ
+R
+java:S1117€
+";Rename "height" which hides the field declared at line 141.(€Üâ
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(‰¬¼ãÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÿ‘ŞR
+T	java:S106Ÿ
+"9Replace this use of System.out or System.err by a logger.(ƒñ˜Áşÿÿÿÿ
+T	java:S106 
+"9Replace this use of System.out or System.err by a logger.(ÔÑé—ûÿÿÿÿ
+T	java:S106¡
+"9Replace this use of System.out or System.err by a logger.(İ‹ôÛşÿÿÿÿ
+O	java:S106£
+"9Replace this use of System.out or System.err by a logger.(Î¯Â
+T	java:S106¥
+"9Replace this use of System.out or System.err by a logger.(°†”Áÿÿÿÿÿ
+O	java:S106¦
+"9Replace this use of System.out or System.err by a logger.(×•œ²
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(“³
+`
+java:S3551…"IMake this method "synchronized" to match the parent class implementation.(“³
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(Š«äÜ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ïïã şÿÿÿÿ
+]
+java:S2147»"FCombine this catch with the one at line 1464, which has the same body.(ï­£Ä
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(ÿÄó’
+V
+java:S1161È":Add the "@Override" annotation above this method signature(¯Ö•ëúÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(¡àœùÿÿÿÿ
+V
+java:S1161ñ":Add the "@Override" annotation above this method signature(¢Øìïùÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(–Ñ¸ƒşÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(¡ÀØ”
+V
+java:S1161½":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
+u	java:S115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çİæ™øÿÿÿÿ
+u	java:S115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”šË®ùÿÿÿÿ
+n
+java:S2786˜"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(º¿¸˜ıÿÿÿÿ
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+a
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(Ê‘¯şÿÿÿÿ
+H
+java:S3398Ë"1Move this method into "JPEGReaderDisposerRecord".(°ü
+I
+java:S1144µ"2Remove this unused private "readInputData" method.(æ€Ô
+O
+java:S1144Æ"3Remove this unused private "skipInputBytes" method.(ûäÑúÿÿÿÿ
+D
+java:S1144È"-Remove this unused private "pushBack" method.(°œ¶‚
+M
+java:S1144ş"1Remove this unused private "setImageData" method.(ßäòÁúÿÿÿÿ
+H
+java:S1144ò	"1Remove this unused private "acceptPixels" method.(ÚµÊÆ
+G
+java:S1144¼
+"0Remove this unused private "passStarted" method.(§‹î´
+M
+java:S1144Í
+"1Remove this unused private "passComplete" method.(òúüÿÿÿÿ

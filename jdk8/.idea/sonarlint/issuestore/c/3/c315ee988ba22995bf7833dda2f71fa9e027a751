@@ -1,0 +1,52 @@
+
+K
+java:S3740’"/Provide the parametrized type for this generic.(©ÖÂ”ûÿÿÿÿ
+F
+java:S3740É"/Provide the parametrized type for this generic.(ğˆ£„
+n	java:S135T"YReduce the total number of break and continue statements in this loop to use at most one.(ŸËÖ
+o	java:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(ŸËÖ
+t	java:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(Õğ³Ùşÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ïÀÉ’
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+n
+java:S30087"XRename this field "FONTCACHESIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ŠŠó
+s
+java:S30088"XRename this field "FONTCACHEMASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÓƒ·şÿÿÿÿ
+T
+java:S5993;"9Change the visibility of this constructor to "protected".(ÄÍ…úşÿÿÿÿ
+
+java:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ÖÂ”ûÿÿÿÿ
+@
+java:S1197{"*Move the array designators [] to the type.(ëêâ×
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(µŞÖÔ
+M
+java:S1854Î"6Remove this useless assignment to local variable "fd".(‹ß—ù
+A
+java:S1197Œ"*Move the array designators [] to the type.(µŞÖÔ
+=
+java:S1168«"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Ã"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(²‡š‹
+M
+java:S1481ö"1Remove this unused "workingCache" local variable.(ÏĞµ°ıÿÿÿÿ
+=
+java:S1168ˆ"&Return an empty array instead of null.(¥¹ï
+B
+java:S1905‘"&Remove this unnecessary cast to "int".(ø¬Ûıÿÿÿÿ
+Q
+java:S2209‘"5Change this instance-reference to a static reference.(ø¬Ûıÿÿÿÿ
+C
+java:S1905›"'Remove this unnecessary cast to "char".(‹¬™¨øÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(±÷ïûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Ê˜‰ÿÿÿÿÿ
+L
+java:S2209¸"5Change this instance-reference to a static reference.(¯ï§‚
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+=
+java:S1168Ì"&Return an empty array instead of null.(¥¹ï
+Q
+java:S2209§"5Change this instance-reference to a static reference.(«‹éáûÿÿÿÿ

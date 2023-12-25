@@ -1,0 +1,42 @@
+
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•ÒØıÿÿÿÿ
+|
+java:S1192Ÿ"eDefine a constant instead of duplicating this literal "signature.Transform.UnknownTransform" 6 times.(§­ËÃ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹€‚ÿÿÿÿÿ
+ú
+java:S1130‘"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(‘†õ‰ıÿÿÿÿ
+ø
+java:S1130‘"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(‘†õ‰ıÿÿÿÿ
+A
+java:S1197˜"*Move the array designators [] to the type.(üñŞ£
+F
+java:S1197"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+\
+java:S2147¨"ECombine this catch with the one at line 163, which has the same body.(ã€ 
+F
+java:S1197¤"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+F
+java:S1197©"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+Ã
+java:S1130¼"¦Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException', as it cannot be thrown from method's body.(µËşûÿÿÿÿ
+A
+java:S1197À"*Move the array designators [] to the type.(ê˜èÇ
+A
+java:S1197×"*Move the array designators [] to the type.(ê˜èÇ
+@
+java:S1197µ"*Move the array designators [] to the type.(ÄğÈ
+A
+java:S1197¹"*Move the array designators [] to the type.(Œ²î¥
+F
+java:S1197Ğ"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+\
+java:S2147Û"ECombine this catch with the one at line 342, which has the same body.(ã€ 
+F
+java:S1197×"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+F
+java:S1197Ü"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+g
+java:S3457ã"KFormat specifiers or lambda should be used instead of string concatenation.(ÚÖ‚’ÿÿÿÿÿ
+b
+java:S3457å"KFormat specifiers or lambda should be used instead of string concatenation.(‹˜Ã›

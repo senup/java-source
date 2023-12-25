@@ -1,0 +1,7 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÝÃêâøÿÿÿÿ
+t
+java:S3008µ"XRename this field "NULL_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å°¦µþÿÿÿÿ
+M
+java:S2696ª"6Make the enclosing method "static" or remove this set.(¸ø´Ý

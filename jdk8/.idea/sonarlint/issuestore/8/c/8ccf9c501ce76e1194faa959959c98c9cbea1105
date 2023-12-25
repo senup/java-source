@@ -1,0 +1,31 @@
+
+e
+java:S1192ô"IDefine a constant instead of duplicating this literal "&middot;" 3 times.(àã«ıÿÿÿÿ
+_
+java:S1192ø"HDefine a constant instead of duplicating this literal "&para;
+" 3 times.(‚˜õ
+f
+java:S1192Í"JDefine a constant instead of duplicating this literal "&amp;#xD;" 5 times.(‹˜Ïøÿÿÿÿ
+g
+java:S1301‹"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
+t	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ÆÂªşÿÿÿÿ
+t	java:S115a"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Êœ¶úÿÿÿÿ
+t	java:S115c"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´¥Ÿ›ıÿÿÿÿ
+o	java:S115e"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹–Ó€
+t	java:S115g"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œÃ®àşÿÿÿÿ
+t	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„£†©úÿÿÿÿ
+o	java:S115k"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÁû
+h
+java:S14504"RRemove the "doc" field and declare it as a local variable in the relevant methods.(ü–¿Ì
+U
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.(€…Áõ
+F
+java:S2093 "*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Í¬”©ıÿÿÿÿ
+@
+java:S1197§"*Move the array designators [] to the type.(šÁ¥n
+A
+java:S1197®"*Move the array designators [] to the type.(òÖøŞ
+N
+java:S1117"7Rename "doc" which hides the field declared at line 52.(‰õò˜

@@ -1,0 +1,25 @@
+
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸¬ú„üÿÿÿÿ
+l
+java:S1149y"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‹¨îœ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®£–í
+
+java:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜®¶þÿÿÿÿ
+
+java:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±ÉåÎúÿÿÿÿ
+`
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(¸¬ú„üÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(«ôÇ¸üÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Î„žÕ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ÖÌ¢µûÿÿÿÿ
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ð€ü›
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(õÚÉ»þÿÿÿÿ
+Z
+java:S1155ë">Use isEmpty() to check whether the collection is empty or not.(ó¸“Šûÿÿÿÿ
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(ŽÞÕ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‡°×úøÿÿÿÿ
+T
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(ËâÊ/
+N	java:S106«"9Replace this use of System.out or System.err by a logger.( ¼¬6

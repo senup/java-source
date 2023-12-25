@@ -1,0 +1,11 @@
+
+m
+java:S1104&"RMake status a static final constant or non-public and provide accessors if needed.(¿›ããøÿÿÿÿ
+r
+java:S1104."WMake serverCreds a static final constant or non-public and provide accessors if needed.(†­ºùÿÿÿÿ
+€
+java:S1149*"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îØåûÿÿÿÿ
+{
+java:S1149,"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•‹Å‡
+z
+java:S1149-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¸üé,

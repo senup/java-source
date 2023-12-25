@@ -1,0 +1,15 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò›úŒıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(§”œø
+Z
+java:S1659¥"CDeclare "ystart" and all following declarations on a separate line.(¾éê¬
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(üŒØÌûÿÿÿÿ
+F
+java:S1197Û"*Move the array designators [] to the type.(üŒØÌûÿÿÿÿ
+A
+java:S1197®"*Move the array designators [] to the type.(ôáªÄ
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

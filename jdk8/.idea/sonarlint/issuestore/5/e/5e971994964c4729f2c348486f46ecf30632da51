@@ -1,0 +1,126 @@
+
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚çù–
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÉªÓ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(şî©„ıÿÿÿÿ
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™¤•™
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(äºåâ
+u
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿íü°şÿÿÿÿ
+d
+java:S1192r"IDefine a constant instead of duplicating this literal "midi_cc" 20 times.(ç¾§­úÿÿÿÿ
+`
+java:S1192j"JDefine a constant instead of duplicating this literal "keynumber" 3 times.(Çô¹ò
+b
+java:S1192E"GDefine a constant instead of duplicating this literal "mixer" 10 times.(ŞíØ¤ıÿÿÿÿ
+e
+java:S1192¡"NDefine a constant instead of duplicating this literal "poly_pressure" 3 times.(Ô¾Ä
+b
+java:S11921"GDefine a constant instead of duplicating this literal "noteon" 6 times.(ÀÁİ’úÿÿÿÿ
+]
+java:S1192ü"FDefine a constant instead of duplicating this literal "delay" 4 times.(å·„”
+m
+java:S1192Ÿ"QDefine a constant instead of duplicating this literal "channel_pressure" 3 times.(ºòíöøÿÿÿÿ
+\
+java:S1192Y"FDefine a constant instead of duplicating this literal "pitch" 8 times.(¦ò¥µ
+_
+java:S1192]"IDefine a constant instead of duplicating this literal "midi_rpn" 6 times.(İĞå
+c
+java:S1192¦"GDefine a constant instead of duplicating this literal "filter" 3 times.(˜£‰øÿÿÿÿ
+F
+java:S1066ò"/Merge this if statement with the enclosing one.(¬£Ï¼
+K
+java:S1066ª"/Merge this if statement with the enclosing one.(‰îõòÿÿÿÿÿ
+F
+java:S1066ß"/Merge this if statement with the enclosing one.(“™‚¢
+F
+java:S1066è"/Merge this if statement with the enclosing one.(‚îæ¾
+F
+java:S1066ê"/Merge this if statement with the enclosing one.(ÿÍè¨
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äºåâ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ñÉ¢
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›†º
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÃšæ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚£
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‹÷å
+f	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡•‚
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‹÷å
+f	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡•‚
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ä¨í
+C
+java:S1604^"(Make this anonymous inner class a lambda(òÚ™äüÿÿÿÿ
+j
+java:S1104­"SMake keyFrom a static final constant or non-public and provide accessors if needed.(ñ„«¢
+h
+java:S1104®"QMake keyTo a static final constant or non-public and provide accessors if needed.(ã¹ã
+j
+java:S1104¯"SMake velFrom a static final constant or non-public and provide accessors if needed.(ªƒ•
+m
+java:S1104°"QMake velTo a static final constant or non-public and provide accessors if needed.(Í¬¬üÿÿÿÿ
+v
+java:S1104±"ZMake exclusiveClass a static final constant or non-public and provide accessors if needed.(‚â¡®ıÿÿÿÿ
+r
+java:S1104²"\Make selfNonExclusive a static final constant or non-public and provide accessors if needed.(ï‚÷,
+v
+java:S1104³"ZMake forcedVelocity a static final constant or non-public and provide accessors if needed.(Ëé¢ùûÿÿÿÿ
+r
+java:S1104´"[Make forcedKeynumber a static final constant or non-public and provide accessors if needed.(¶ÂÔá
+q
+java:S1104µ"UMake performer a static final constant or non-public and provide accessors if needed.(’’°ªşÿÿÿÿ
+n
+java:S1104¶"WMake connections a static final constant or non-public and provide accessors if needed.(İ¤‚ÿ
+s
+java:S1104·"WMake oscillators a static final constant or non-public and provide accessors if needed.(ÛÊäôıÿÿÿÿ
+w
+java:S1104¸"`Make midi_rpn_connections a static final constant or non-public and provide accessors if needed.(‚çù–
+x
+java:S1104¹"aMake midi_nrpn_connections a static final constant or non-public and provide accessors if needed.(ÄÉªÓ
+w
+java:S1104º"aMake midi_ctrl_connections a static final constant or non-public and provide accessors if needed.(ß¾ıB
+s
+java:S1104»"\Make midi_connections a static final constant or non-public and provide accessors if needed.(–Éãù
+x
+java:S1104¼"\Make ctrl_connections a static final constant or non-public and provide accessors if needed.(‹å¢Åüÿÿÿÿ
+]
+java:S2184c"BCast one of the operands of this addition operation to a "double".(˜ªœ§ûÿÿÿÿ
+P
+java:S3516ù"9Refactor this method to not always return the same value.(æ¨«Ë
+u	java:S116¸"_Rename this field "midi_rpn_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚çù–
+v	java:S116¹"`Rename this field "midi_nrpn_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÉªÓ
+u	java:S116º"`Rename this field "midi_ctrl_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾ıB
+q	java:S116»"[Rename this field "midi_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Éãù
+v	java:S116¼"[Rename this field "ctrl_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹å¢Åüÿÿÿÿ
+{	java:S116½"`Rename this field "ctrl_connections_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şî©„ıÿÿÿÿ
+v
+java:S1149É"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+p
+java:S3012Ï"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºäıä
+2
+java:S3626í"Remove this redundant jump.(ûÁİ…
+2
+java:S3626ï"Remove this redundant jump.(ûÁİ…
+u
+java:S3012ÿ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó»÷úÿÿÿÿ
+u
+java:S3012”"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó»÷úÿÿÿÿ
+u
+java:S3012«"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó»÷úÿÿÿÿ
+u
+java:S3012¼"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó»÷úÿÿÿÿ
+u
+java:S3012Í"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó»÷úÿÿÿÿ
+j
+java:S3776Ó"SRefactor this method to reduce its Cognitive Complexity from 173 to the 15 allowed.(ÑˆÀß
+W	java:S125£"<This block of commented-out lines of code should be removed.(Ë«Ü’şÿÿÿÿ
+u
+java:S3012Ä"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬¢Âğûÿÿÿÿ
+u
+java:S3012Ñ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬¢Âğûÿÿÿÿ
+\
+java:S1117²"@Rename "connections" which hides the field declared at line 310.(¿íü°şÿÿÿÿ
+]
+java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(Ø¤ş¤üÿÿÿÿ

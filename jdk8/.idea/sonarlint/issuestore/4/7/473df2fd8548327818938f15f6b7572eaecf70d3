@@ -1,0 +1,34 @@
+
+E
+java:S3740/"/Provide the parametrized type for this generic.(ª³Ò
+E
+java:S3740/"/Provide the parametrized type for this generic.(ª³Ò
+J
+java:S3740Y"/Provide the parametrized type for this generic.(°ÀœÆÿÿÿÿÿ
+D
+java:S3740Z"/Provide the parametrized type for this generic.(ãç½R
+[
+java:S2259•"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(Å„ªÉ
+h
+java:S2975W"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+O
+java:S1161W":Add the "@Override" annotation above this method signature(­æğ
+P
+java:S1161b":Add the "@Override" annotation above this method signature(ÀÅÎ›
+P
+java:S1161o":Add the "@Override" annotation above this method signature(ÊÉ„ã
+P
+java:S1161s":Add the "@Override" annotation above this method signature(è§©¯
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ç¦Ÿ¸
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+l	java:S116µ"VRename this field "QTABLE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Äª«
+8
+java:S1170µ"!Make this final field static too.(¼Äª«
+i
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+D	java:S108“")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+?
+java:S1905•"(Remove this unnecessary cast to "int[]".(Å„ªÉ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(§õÕ–
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ˆù¥ûøÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(Ùª‰ıÿÿÿÿ

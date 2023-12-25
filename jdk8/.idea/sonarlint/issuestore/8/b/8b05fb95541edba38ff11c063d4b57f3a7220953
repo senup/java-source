@@ -1,0 +1,68 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ëÐøûÿÿÿÿ
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰›òñûÿÿÿÿ
+u
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÑ¾ýÿÿÿÿ
+k
+java:S1192^"UDefine a constant instead of duplicating this literal "Thread not suspended" 5 times.(€Ñ
+p
+java:S1192º"TDefine a constant instead of duplicating this literal "Unknown operation: " 5 times.(ÑºÖìþÿÿÿÿ
+E
+java:S1121ð".Extract the assignment out of this expression.(Å¸™…
+E
+java:S1121ò".Extract the assignment out of this expression.( ã³·
+J
+java:S1121®".Extract the assignment out of this expression.(ðÊÙÈøÿÿÿÿ
+J
+java:S1121±".Extract the assignment out of this expression.(Úðž×úÿÿÿÿ
+o	java:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(¢ÔõÖ
+K
+java:S1066†"/Merge this if statement with the enclosing one.(·ïó¼üÿÿÿÿ
+F
+java:S1066È"/Merge this if statement with the enclosing one.(ºœ²ÿ
+Q
+java:S1141Þ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+8
+java:S1643ƒ"Use a StringBuilder instead.(ûÀóÏüÿÿÿÿ
+Z
+java:S2259Œ"CA "NullPointerException" could be thrown; "value" is nullable here.(žÓƒ÷
+n
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§ö‡×ùÿÿÿÿ
+X
+java:S1126Ã"AReplace this if-then-else statement by a single return statement.(öÚíƒ
+X
+java:S1126Î"AReplace this if-then-else statement by a single return statement.(¸îÈë
+V
+java:S6213©":Rename this variable to not match a restricted identifier.(ª¾½¤üÿÿÿÿ
+Q
+java:S6213«":Rename this variable to not match a restricted identifier.(’ïá¼
+Z
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(‰òÕñùÿÿÿÿ
+Z
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(‰òÕñùÿÿÿÿ
+ 
+java:S1130Ò"ˆRemove the declaration of thrown exception 'com.sun.tools.example.debug.expr.ParseException', as it cannot be thrown from method's body.(±ÈÒº
+R
+java:S2130ß";Use "Float.parseFloat" for this string-to-float conversion.(ÙôÒ³
+U
+java:S2130ã">Use "Double.parseDouble" for this string-to-double conversion.(ûé­Ê
+¥
+java:S1130ý"ˆRemove the declaration of thrown exception 'com.sun.tools.example.debug.expr.ParseException', as it cannot be thrown from method's body.(»íÍíùÿÿÿÿ
+P
+java:S1172ü"4Remove these unused method parameters "vm", "token".(ŒÚ’Îûÿÿÿÿ
+P
+java:S1172"4Remove these unused method parameters "vm", "token".(Þšê±ùÿÿÿÿ
+U
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(Ò¼ÿŸ
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(È‘¼
+Q
+java:S6213Ý":Rename this variable to not match a restricted identifier.(¢Ÿø
+T
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.(ÓÛµw
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ý°à¦ýÿÿÿÿ

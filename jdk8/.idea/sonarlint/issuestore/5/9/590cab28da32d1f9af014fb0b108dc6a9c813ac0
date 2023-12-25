@@ -1,0 +1,15 @@
+
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅ›Ñûÿÿÿÿ
+P
+java:S1191$"5Use classes from the Java API instead of Sun classes.(Ñ´Üéøÿÿÿÿ
+l	java:S116G"RRename this field "DH_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïû•»şÿÿÿÿ
+-
+java:S21760"Rename this class.(š«Ëûÿÿÿÿ
+v
+java:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚±©Ä
+E
+java:S1197G"*Move the array designators [] to the type.(ïû•»şÿÿÿÿ
+•
+java:S1130T"Remove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from constructor's body.(íÁÂÆ
+=
+java:S1168è"&Return an empty array instead of null.(¥¹ï

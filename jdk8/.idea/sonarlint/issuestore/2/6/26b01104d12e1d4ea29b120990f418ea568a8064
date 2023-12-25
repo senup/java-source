@@ -1,0 +1,125 @@
+
+\	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(¾Ş’£
+\	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(¾Ş’£
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(¾Ş’£
+\	java:S112«	"FDefine and throw a dedicated exception instead of using a generic one.(¾Ş’£
+\	java:S112µ	"FDefine and throw a dedicated exception instead of using a generic one.(¾Ş’£
+J
+java:S1121Î".Extract the assignment out of this expression.(¬ÃŸ¢ûÿÿÿÿ
+E
+java:S1121ç	".Extract the assignment out of this expression.(œˆ
+J
+java:S1121è	".Extract the assignment out of this expression.(¸¹’şÿÿÿÿ
+J
+java:S1121é	".Extract the assignment out of this expression.(ÿ³…­şÿÿÿÿ
+J
+java:S1121í	".Extract the assignment out of this expression.(…îûÂıÿÿÿÿ
+J
+java:S1121¬
+".Extract the assignment out of this expression.(şœ…§ûÿÿÿÿ
+J
+java:S1121­
+".Extract the assignment out of this expression.(‘—µ´ıÿÿÿÿ
+n	java:S135‚"YReduce the total number of break and continue statements in this loop to use at most one.(Ôì÷
+t	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(¸éçáşÿÿÿÿ
+t	java:S135é"YReduce the total number of break and continue statements in this loop to use at most one.(¶òˆ¤øÿÿÿÿ
+t	java:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(ÊïëÜûÿÿÿÿ
+o	java:S135ı	"YReduce the total number of break and continue statements in this loop to use at most one.(ÿƒØ¨
+m	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(„£`
+s	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÆçëÛüÿÿÿÿ
+n	java:S127Ğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¼Ş¢
+n	java:S127é"XRefactor the code in order to not assign to this loop counter from within the loop body.(îÜ·­
+n	java:S127¾
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡ŒÁ‰
+K
+java:S1066Ğ"/Merge this if statement with the enclosing one.(½—àŠÿÿÿÿÿ
+F
+java:S1066ï"/Merge this if statement with the enclosing one.(ÉÛäÍ
+g	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄÅ
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•ÉĞ
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°Æâ
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«¿„
+l	java:S117¬
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şœ…§ûÿÿÿÿ
+l	java:S117­
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘—µ´ıÿÿÿÿ
+\
+java:S2184ú"ECast one of the operands of this subtraction operation to a "double".(çÒ
+a
+java:S2184û"ECast one of the operands of this subtraction operation to a "double".(ÎÅ±šşÿÿÿÿ
+\
+java:S2184Æ"ECast one of the operands of this subtraction operation to a "double".(¤Ã€Œ
+a
+java:S2184Ô"ECast one of the operands of this subtraction operation to a "double".(Ö°Äòûÿÿÿÿ
+a
+java:S2184Ü"ECast one of the operands of this subtraction operation to a "double".(¤èÙÀûÿÿÿÿ
+a
+java:S2184Ò"ECast one of the operands of this subtraction operation to a "double".(Ú£À¨ıÿÿÿÿ
+b
+java:S2259«"KA "NullPointerException" could be thrown; "regularChoice" is nullable here.(ù£Ã¨
+s
+java:S4144½"\Update this method so that its implementation is not identical to "computeSize" on line 564.(û¨äŠ
+=
+java:S1659Ã"!Declare "end" on a separate line.(¦Ò¯õşÿÿÿÿ
+=
+java:S1659Å"!Declare "max" on a separate line.(¯ÂÃÂøÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(½·™Şıÿÿÿÿ
+n
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(«¶öÌûÿÿÿÿ
+T
+java:S1854´"=Remove this useless assignment to local variable "byteSize1".(½ÈˆÒ
+E
+java:S1481´".Remove this unused "byteSize1" local variable.(½ÈˆÒ
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Õš¡‰ÿÿÿÿÿ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÔÇµçùÿÿÿÿ
+T
+java:S1854•"8Remove this useless assignment to local variable "mind".(ÚùÙºüÿÿÿÿ
+?
+java:S4274Ë"(Replace this assert with a proper check.(¡È‰œ
+P
+java:S1854Ë"9Remove this useless assignment to local variable "size2".(¡È‰œ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(·³Ó‹
+N	java:S106é"9Replace this use of System.out or System.err by a logger.(®Ñƒ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(ÌÉâİşÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(§ÌÕüÿÿÿÿ
+o
+java:S3776ı"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(†½ßãúÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(éÛ¬„üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ã™Ôi
+R	java:S125¾"<This block of commented-out lines of code should be removed.(ÁÜ‰¥
+P
+java:S3346»"4Move this "assert" side effect to another statement.(ûı‹µûÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‚¶Ñåÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ò¹ñÁşÿÿÿÿ
+=
+java:S1168 "&Return an empty array instead of null.(Ñ‰•
+j
+java:S3776²"SRefactor this method to reduce its Cognitive Complexity from 100 to the 15 allowed.(˜©—½
+R	java:S125É"<This block of commented-out lines of code should be removed.(ûß¡§
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(üùœ™
+N	java:S106‡"9Replace this use of System.out or System.err by a logger.(åâŸ(
+Y
+java:S1659¹"BDeclare "midcm" and all following declarations on a separate line.(†¢Ğ¹
+a
+java:S1124ö"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+V
+java:S1161‰	":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+F
+java:S1197‰	"*Move the array designators [] to the type.(èöò¡şÿÿÿÿ
+S
+java:S1854“	"7Remove this useless assignment to local variable "str".(²‚‘®üÿÿÿÿ
+i
+java:S3776É	"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¨°Ù‘
+>
+java:S1659†
+""Declare "lmax" on a separate line.(…œÁ“şÿÿÿÿ
+n
+java:S3776”
+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÍØ§ıøÿÿÿÿ
+W	java:S125·
+"<This block of commented-out lines of code should be removed.(£Š—øÿÿÿÿ
+R	java:S125ñ
+"<This block of commented-out lines of code should be removed.(›ƒ³•

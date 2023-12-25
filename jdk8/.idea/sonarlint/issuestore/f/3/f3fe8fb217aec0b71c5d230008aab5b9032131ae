@@ -1,0 +1,56 @@
+
+v
+java:S1192Ü"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 5 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+V
+java:S1161£":Add the "@Override" annotation above this method signature(Åïïèüÿÿÿÿ
+?
+java:S1905¤"(Remove this unnecessary cast to "int[]".(é„×Ä
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(šõĞ
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(…¬˜ñ
+P
+java:S1161½":Add the "@Override" annotation above this method signature(øÃû1
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(½è¾
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197Ş"*Move the array designators [] to the type.(ê¨Æûşÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+F
+java:S1197‹"*Move the array designators [] to the type.(ê¨Æûşÿÿÿÿ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(ç×‹“
+A
+java:S1197°"*Move the array designators [] to the type.(Óâ‹ 
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+s
+java:S2177İ"WRename this method; there is a "private" method in the parent class with the same name.(½²¢‘üÿÿÿÿ
+A
+java:S1197é"*Move the array designators [] to the type.(Àõéê
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(Í°—
+A
+java:S1197¨"*Move the array designators [] to the type.(Óâ‹ 
+V
+java:S1161È":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+F
+java:S1197Ë"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(Ç§æ
+F
+java:S1197"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(ÌŸ­
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(Á»›ê
+<
+java:S2129 " Remove this "String" constructor(ÇîÛñüÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(ğÜ¹Û

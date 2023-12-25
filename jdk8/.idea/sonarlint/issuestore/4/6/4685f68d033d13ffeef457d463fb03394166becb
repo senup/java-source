@@ -1,0 +1,16 @@
+
+\	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(ºöØâ
+\	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(ºöØâ
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(ºöØâ
+g
+java:S1192Ğ"PDefine a constant instead of duplicating this literal "Internal error." 3 times.(ºöØâ
+i
+java:S1192m"TDefine a constant instead of duplicating this literal "an object reference" 3 times.(¿†°E
+`
+java:S1871À"IThis case's code block is the same as the block for the case on line 180.(ÖÛÚ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(’îÿØ
+´
+java:S1130Æ"—Remove the declaration of thrown exception 'jdk.internal.org.objectweb.asm.tree.analysis.AnalyzerException', as it cannot be thrown from method's body.(“‚ŞÈûÿÿÿÿ
+N
+java:S1172Å"7Remove this unused method parameter "objectArrayValue".(–ßçÂ

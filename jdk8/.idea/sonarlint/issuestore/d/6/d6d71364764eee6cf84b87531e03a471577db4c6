@@ -1,0 +1,51 @@
+
+o
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÔŞ
+o
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÓÊ‹
+p
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¸ÖÀ
+p
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(š€Ø„
+u
+java:S2293ı	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏŞÓŞûÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕà
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁàÕÓøÿÿÿÿ
+¾
+java:S1130ñ"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException', as it cannot be thrown from method's body.(ÁàÕÓøÿÿÿÿ
+N
+java:S1135ê"2Complete the task associated to this TODO comment.(ßÁí¿ıÿÿÿÿ
+N
+java:S1135À"2Complete the task associated to this TODO comment.(ßÁí¿ıÿÿÿÿ
+=
+java:S3457Ä"!Single quote "'" must be escaped.(ª–•üÿÿÿÿ
+=
+java:S3457Ñ"!Single quote "'" must be escaped.(ä¢ Ÿÿÿÿÿÿ
+i
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ì·Ñ
+b
+java:S3457€"KFormat specifiers or lambda should be used instead of string concatenation.(ßÖíĞ
+=
+java:S3457«"!Single quote "'" must be escaped.(ÇÊäèÿÿÿÿÿ
+8
+java:S3457¹"!Single quote "'" must be escaped.(”¯ñŠ
+g
+java:S3457Ê"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+g
+java:S3457û"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+b
+java:S3457ƒ"KFormat specifiers or lambda should be used instead of string concatenation.(ßÖíĞ
+8
+java:S3457Ÿ"!Single quote "'" must be escaped.(Òó Ì
+7
+java:S3457¬"!Single quote "'" must be escaped.(‡®É
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßæœ‰
+b
+java:S3457İ"KFormat specifiers or lambda should be used instead of string concatenation.(ßÖíĞ
+8
+java:S3457…	"!Single quote "'" must be escaped.(Òó Ì
+=
+java:S3457	"!Single quote "'" must be escaped.(ÁÍÍıüÿÿÿÿ
+b
+java:S3457À	"KFormat specifiers or lambda should be used instead of string concatenation.(ßÖíĞ

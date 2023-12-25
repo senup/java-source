@@ -1,0 +1,94 @@
+
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(¥ˆù’
+J
+java:S37400"/Provide the parametrized type for this generic.(öô…ãùÿÿÿÿ
+J
+java:S37400"/Provide the parametrized type for this generic.(öô…ãùÿÿÿÿ
+J
+java:S37400"/Provide the parametrized type for this generic.(öô…ãùÿÿÿÿ
+E
+java:S37401"/Provide the parametrized type for this generic.(¶ö·€
+E
+java:S37401"/Provide the parametrized type for this generic.(¶ö·€
+E
+java:S37401"/Provide the parametrized type for this generic.(¶ö·€
+J
+java:S37402"/Provide the parametrized type for this generic.(÷×À¦ûÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(÷×À¦ûÿÿÿÿ
+E
+java:S37403"/Provide the parametrized type for this generic.(¹–ÌÎ
+E
+java:S37403"/Provide the parametrized type for this generic.(¹–ÌÎ
+J
+java:S37404"/Provide the parametrized type for this generic.(¬âŸûÿÿÿÿ
+E
+java:S3740L"/Provide the parametrized type for this generic.(½Ğàƒ
+E
+java:S3740L"/Provide the parametrized type for this generic.(½Ğàƒ
+J
+java:S3740U"/Provide the parametrized type for this generic.(éƒ•¨ûÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(éƒ•¨ûÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öô…ãùÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öô…ãùÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öô…ãùÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ö·€
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ö·€
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ö·€
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷×À¦ûÿÿÿÿ
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷×À¦ûÿÿÿÿ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹–ÌÎ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹–ÌÎ
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âŸûÿÿÿÿ
+>
+java:S1604L"(Make this anonymous inner class a lambda(½Ğàƒ
+C
+java:S1604U"(Make this anonymous inner class a lambda(éƒ•¨ûÿÿÿÿ
+i
+java:S1104I"TMake uniqueID a static final constant or non-public and provide accessors if needed.(ş–²N
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+n	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ¡Üo
+W	java:S1070"=Method has 11 parameters, which is greater than 7 authorized.(öô…ãùÿÿÿÿ
+@
+java:S1197,"*Move the array designators [] to the type.(–øÏŠ
+E
+java:S1197-"*Move the array designators [] to the type.(ò‘Û˜şÿÿÿÿ
+_
+java:S3358Q"DExtract this nested ternary operation into an independent statement.(¯œÙõùÿÿÿÿ
+_
+java:S3358Z"DExtract this nested ternary operation into an independent statement.(¯œÙõùÿÿÿÿ
+`
+java:S1124d"EReorder the modifiers to comply with the Java Language Specification.(äÉôÑøÿÿÿÿ
+[
+java:S1124{"EReorder the modifiers to comply with the Java Language Specification.(ÅÖ°ˆ
+[
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(à…œa
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(à…œa
+R	java:S125–"<This block of commented-out lines of code should be removed.(’€Ù¥
+W	java:S125 "<This block of commented-out lines of code should be removed.(«¤ñõüÿÿÿÿ
+[
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(«˜½Z
+8
+java:S1659¹"!Declare "dst" on a separate line.(åÀœ¹
+R	java:S125³"<This block of commented-out lines of code should be removed.(’€Ù¥
+R	java:S125³"<This block of commented-out lines of code should be removed.(’€Ù¥
+Q	java:S125Â"<This block of commented-out lines of code should be removed.(À¥ÜI
+R	java:S125Í"<This block of commented-out lines of code should be removed.(©ñŸõ
+Q	java:S125á"<This block of commented-out lines of code should be removed.(Ñİ§G
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØŞ´ışÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(’˜ÌÒúÿÿÿÿ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(˜“µˆùÿÿÿÿ
+N	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÃÓª-
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ìÍöğÿÿÿÿÿ
+N	java:S106¨"9Replace this use of System.out or System.err by a logger.(ùÕ¨i
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+N	java:S106µ"9Replace this use of System.out or System.err by a logger.(©ØÎ&
+N	java:S106º"9Replace this use of System.out or System.err by a logger.(˜Ìúd
+N	java:S106¼"9Replace this use of System.out or System.err by a logger.(–àÑ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÿ±¾ı
+A
+java:S1197Â"*Move the array designators [] to the type.(ÈšÉ÷

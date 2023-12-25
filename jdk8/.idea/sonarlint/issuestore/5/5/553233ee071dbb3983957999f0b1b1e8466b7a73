@@ -1,0 +1,19 @@
+
+t
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğœ£øÿÿÿÿ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¥êÔúÿÿÿÿ
+=
+java:S1604C"(Make this anonymous inner class a lambda(á‡×x
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+r
+java:S3077="WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ë˜ÏÜÿÿÿÿÿ
+m
+java:S3077>"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‰”úı
+g
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Èø×	
+>	java:S108a")Either remove or fill this block of code.(Æâ­ê
+>	java:S108f")Either remove or fill this block of code.(Ãôş•
+5
+java:S2119"Save and re-use this "Random".(Ë½ı

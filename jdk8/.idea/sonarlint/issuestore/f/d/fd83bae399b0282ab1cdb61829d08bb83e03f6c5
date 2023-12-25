@@ -1,0 +1,15 @@
+
+l
+java:S1104L"VMake binaryMode a static final constant or non-public and provide accessors if needed.(ÕÞ”Ñ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+U
+java:S1161`":Add the "@Override" annotation above this method signature(ú˜³îÿÿÿÿÿ
+d
+java:S3551`"IMake this method "synchronized" to match the parent class implementation.(ú˜³îÿÿÿÿÿ
+P
+java:S1161‚":Add the "@Override" annotation above this method signature(¥°±+
+_
+java:S3551‚"IMake this method "synchronized" to match the parent class implementation.(¥°±+
+@
+java:S1197‚"*Move the array designators [] to the type.(¥°±+

@@ -1,0 +1,26 @@
+
+x
+java:S1488°"aImmediately return this expression instead of assigning it to the temporary variable "encrypted".(ˆ³º
+u
+java:S1488ò"^Immediately return this expression instead of assigning it to the temporary variable "digest".(âäØò
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ıä©Ëùÿÿÿÿ
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İş
+P
+java:S1161h":Add the "@Override" annotation above this method signature(õ…¿´
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(ÎÀ§
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(¤‹ûğøÿÿÿÿ
+B
+java:S1874°"+Remove this use of "rsa"; it is deprecated.(ˆ³º
+C
+java:S1125ë"'Remove the unnecessary boolean literal.(ñš®×ûÿÿÿÿ
+Q
+java:S1133ø"5Do not forget to remove this deprecated code someday.(¬¸îÖûÿÿÿÿ
+D
+java:S1123ø"(Add the missing @deprecated Javadoc tag.(¬¸îÖûÿÿÿÿ
+Q
+java:S1133ÿ"5Do not forget to remove this deprecated code someday.(“Ä„’ÿÿÿÿÿ
+D
+java:S1123ÿ"(Add the missing @deprecated Javadoc tag.(“Ä„’ÿÿÿÿÿ

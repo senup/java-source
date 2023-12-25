@@ -1,0 +1,15 @@
+
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şœÉš
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌàÂ
+t	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬‹•Ôÿÿÿÿÿ
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ßµ•
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²¬ºıÿÿÿÿ
+t	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸§Ï™şÿÿÿÿ
+t	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îêÛÁşÿÿÿÿ
+t	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾İÿ¢üÿÿÿÿ
+\
+java:S1075<"ARefactor your code to get this URI from a customizable parameter.(‚‘èÅşÿÿÿÿ
+E
+java:S1197p"*Move the array designators [] to the type.(¡ª®ûÿÿÿÿ
+N
+java:S1135ã"2Complete the task associated to this TODO comment.(¿ôÄªøÿÿÿÿ

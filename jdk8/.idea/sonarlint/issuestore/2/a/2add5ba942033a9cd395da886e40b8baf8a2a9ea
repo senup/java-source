@@ -1,0 +1,19 @@
+
+D
+java:S1604¡"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(•£ë²
+s
+java:S3077ê"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(†åÀ²şÿÿÿÿ
+n
+java:S3077ì"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ùğßÓ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¾é·µûÿÿÿÿ
+h
+java:S2786h"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(’º’Š
+7	java:S131‰""Add a default case to this switch.(•Ø†e
+a
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(ŠÕÕ¢şÿÿÿÿ
+u	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öõŒûúÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(¢Ò¥Ëşÿÿÿÿ
+Z
+java:S1117â"CRename "effectiveLevel" which hides the field declared at line 437.(ğ–¡¿

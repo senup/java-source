@@ -1,0 +1,19 @@
+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+m
+java:S1192k"WDefine a constant instead of duplicating this literal "PBEWithMD5AndTripleDES" 6 times.(·½º
+P
+java:S11911"5Use classes from the Java API instead of Sun classes.(ãÅ¢úÿÿÿÿ
+[
+java:S1854ˆ"?Remove this useless assignment to local variable "passwdBytes".(ôğ§òüÿÿÿÿ
+;
+java:S1659È"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.security.Security'.(ÊÖô™
+X
+java:S1128&"BRemove this unused import 'java.security.NoSuchProviderException'.(®²»›
+^
+java:S1128."CRemove this unused import 'javax.crypto.IllegalBlockSizeException'.(¸Äûÿÿÿÿ

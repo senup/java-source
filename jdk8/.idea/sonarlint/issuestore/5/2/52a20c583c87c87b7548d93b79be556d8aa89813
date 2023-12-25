@@ -1,0 +1,19 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+F
+java:S5164-"+Call "remove()" on "threadLocalCharBuffer".(õó‘èýÿÿÿÿ
+7
+java:S1116 "Remove this empty statement.(£·ëÑúÿÿÿÿ
+\
+java:S4065."FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ßÅ®ƒ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(£„
+Q	java:S125]"<This block of commented-out lines of code should be removed.(üÓ
+m
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ä”úòÿÿÿÿÿ
+n
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Á¾»ðûÿÿÿÿ
+B
+java:S1659Ý"+Declare "expStartIntex" on a separate line.(¬úÝ‡
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(·†»Úùÿÿÿÿ

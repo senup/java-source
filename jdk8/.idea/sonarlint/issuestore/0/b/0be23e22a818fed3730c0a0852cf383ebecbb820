@@ -1,0 +1,79 @@
+
+K
+java:S1066’"/Merge this if statement with the enclosing one.(­ş¤áùÿÿÿÿ
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³üÇ¦şÿÿÿÿ
+n	java:S116È"XRename this field "denormal_flip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬êä½
+n	java:S116Î"YRename this field "dirty_roomsize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎïÌ
+k	java:S116Ï"URename this field "dirty_damp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬†×
+o	java:S116Ğ"YRename this field "dirty_predelay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞĞÿ
+p	java:S116Ñ"URename this field "dirty_gain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ñÇüÿÿÿÿ
+j
+java:S1450¼"SRemove the "damp" field and declare it as a local variable in the relevant methods.(™´Ö£
+n
+java:S1450»"WRemove the "roomsize" field and declare it as a local variable in the relevant methods.(è“Ì®
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(È‡ƒùÿÿÿÿ
+V
+java:S1117<";Rename "rovepos" which hides the field declared at line 41.(ÛîĞúÿÿÿÿ
+[
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(ÎÊÁ›
+E
+java:S1197Y"*Move the array designators [] to the type.(Ñ÷Çüÿÿÿÿ
+Y
+java:S1117["CRename "delaybuffersize" which hides the field declared at line 76.(«ìÉª
+V
+java:S1117\";Rename "rovepos" which hides the field declared at line 77.(ÛîĞúÿÿÿÿ
+@
+java:S1197h"*Move the array designators [] to the type.(„ ¨²
+@
+java:S1197h"*Move the array designators [] to the type.(„ ¨²
+Y
+java:S1117j"CRename "delaybuffersize" which hides the field declared at line 76.(«ìÉª
+V
+java:S1117k";Rename "rovepos" which hides the field declared at line 77.(ÛîĞúÿÿÿÿ
+`
+java:S1124x"EReorder the modifiers to comply with the Java Language Specification.(‘ê‘Êıÿÿÿÿ
+A
+java:S1197Œ"*Move the array designators [] to the type.(¡éµ„
+A
+java:S1197Œ"*Move the array designators [] to the type.(¡éµ„
+[
+java:S1117"DRename "delaybuffersize" which hides the field declared at line 123.(«ìÉª
+X
+java:S1117"<Rename "rovepos" which hides the field declared at line 124.(ÛîĞúÿÿÿÿ
+V
+java:S1117"?Rename "filtertemp" which hides the field declared at line 126.(®Èú¹
+]
+java:S1117‘"ARename "filtercoeff1" which hides the field declared at line 127.(®»“†ÿÿÿÿÿ
+]
+java:S1117’"ARename "filtercoeff2" which hides the field declared at line 128.(ÍØÓÌşÿÿÿÿ
+A
+java:S1197¡"*Move the array designators [] to the type.(„ ¨²
+A
+java:S1197¡"*Move the array designators [] to the type.(„ ¨²
+[
+java:S1117£"DRename "delaybuffersize" which hides the field declared at line 123.(«ìÉª
+X
+java:S1117¤"<Rename "rovepos" which hides the field declared at line 124.(ÛîĞúÿÿÿÿ
+V
+java:S1117¥"?Rename "filtertemp" which hides the field declared at line 126.(®Èú¹
+]
+java:S1117¦"ARename "filtercoeff1" which hides the field declared at line 127.(®»“†ÿÿÿÿÿ
+]
+java:S1117§"ARename "filtercoeff2" which hides the field declared at line 128.(ÍØÓÌşÿÿÿÿ
+E
+java:S1905Ø")Remove this unnecessary cast to "double".(´«Ì§ıÿÿÿÿ
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(©£œ´
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(²Ö¡‚
+R
+java:S1117¦";Rename "inputA" which hides the field declared at line 202.(Ôâ™–
+U
+java:S1117§"9Rename "left" which hides the field declared at line 203.(ïáª¶úÿÿÿÿ
+Q
+java:S1117¨":Rename "right" which hides the field declared at line 204.(“ÖœÑ
+3
+java:S1116Í"Remove this empty statement.(µü®â
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¨Şşúÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(ËÍÖÁşÿÿÿÿ

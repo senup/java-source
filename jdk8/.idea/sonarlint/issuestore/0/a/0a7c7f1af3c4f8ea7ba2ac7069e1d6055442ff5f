@@ -1,0 +1,23 @@
+
+n	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(üŠÓ‚
+k	java:S116-"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡”¨
+7
+java:S1170-"!Make this final field static too.(¡”¨
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(İµï
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Îëš¢ÿÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÒÕÓûÿÿÿÿ
+M	java:S106l"9Replace this use of System.out or System.err by a logger.(™ú¯B
+D
+java:S1172É"-Remove this unused method parameter "reader".(Æ‚ãü
+C
+java:S1125Ì"'Remove the unnecessary boolean literal.(˜ˆ²µşÿÿÿÿ
+C
+java:S1125Ø"'Remove the unnecessary boolean literal.(ÎéÕŸşÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(ßÏ–Öşÿÿÿÿ
+N	java:S106ñ"9Replace this use of System.out or System.err by a logger.(®ÒŸl
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(İÿ›åúÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(©»Ğí
+=
+java:S1905ø"&Remove this unnecessary cast to "int".(üŠÓ‚
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(ò–Ÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

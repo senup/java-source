@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŽóûŒûÿÿÿÿ
+`
+java:S1659'"JDeclare "editableColor" and all following declarations on a separate line.(‚Çè®
+<
+java:S1659("&Declare "boldFont" on a separate line.(¾óÕÐ
+T
+java:S5993*"9Change the visibility of this constructor to "protected".(çº¤ûýÿÿÿÿ
+7
+java:S1110r"!Remove these useless parentheses.(ÛçŠ›
+K
+java:S1172~"6Remove these unused method parameters "row", "column".(¾ÒÍ

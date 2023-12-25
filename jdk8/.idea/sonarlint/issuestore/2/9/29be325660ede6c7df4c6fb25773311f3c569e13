@@ -1,0 +1,12 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(îº¹À
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îº¹À
+U
+java:S1117·"?Rename "lowerBounds" which hides the field declared at line 45.(»å›}
+[
+java:S1117¾"?Rename "upperBounds" which hides the field declared at line 43.(ù«ãèùÿÿÿÿ
+U
+java:S1117â"?Rename "lowerBounds" which hides the field declared at line 45.(»å›}
+[
+java:S1117ã"?Rename "upperBounds" which hides the field declared at line 43.(ù«ãèùÿÿÿÿ

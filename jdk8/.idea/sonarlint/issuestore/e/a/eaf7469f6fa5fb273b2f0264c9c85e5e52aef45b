@@ -1,0 +1,32 @@
+
+J
+java:S1066\"/Merge this if statement with the enclosing one.(ó«§¨ıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(ß‚ÀÜ
+W
+java:S1126l"AReplace this if-then-else statement by a single return statement.(ö¨ø
+U
+java:S1161t":Add the "@Override" annotation above this method signature(× îìıÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(çúšóûÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(çúšóûÿÿÿÿ
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(ÃºŞüÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+V
+java:S1161©":Add the "@Override" annotation above this method signature(°‡Ÿ©ÿÿÿÿÿ
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(ôú‡¨
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(ª©ˆ›
+I
+java:S1113Î"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

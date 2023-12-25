@@ -1,0 +1,32 @@
+
+J
+java:S3740$"/Provide the parametrized type for this generic.(Ñáàüüÿÿÿÿ
+J
+java:S3740$"/Provide the parametrized type for this generic.(Ñáàüüÿÿÿÿ
+E
+java:S3740%"/Provide the parametrized type for this generic.(Æ‹àˆ
+E
+java:S3740%"/Provide the parametrized type for this generic.(Æ‹àˆ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØšõÅ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+F
+java:S2160#"+Override the "equals" method in this class.(ğ­÷´ùÿÿÿÿ
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(õÄËš
+b
+java:S3252C"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(òÁÎ«şÿÿÿÿ
+=	java:S108D")Either remove or fill this block of code.(à¼ßa
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†ğ­¯øÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "diffy".(Îı¨ıÿÿÿÿ
+O
+java:S1854~"9Remove this useless assignment to local variable "diffx".(Ä¡–ş
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(‚ğ’
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(ÃÖˆ¦
+S
+java:S1144)"=Remove this unused private "CustomMediaSizeName" constructor.(²¬´«

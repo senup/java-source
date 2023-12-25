@@ -1,0 +1,34 @@
+
+J
+java:S37406"/Provide the parametrized type for this generic.(†…£“ùÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(†…£“ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†…£“ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†…£“ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+R	java:S107×"<Method has 8 parameters, which is greater than 7 authorized.(üõ·
+m
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Ù˜°ðþÿÿÿÿ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(ºê¡™
+A
+java:S1197ñ"*Move the array designators [] to the type.(ïšØ¡
+F
+java:S1197ò"*Move the array designators [] to the type.(Õüòøÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(óÕ˜þÿÿÿÿ
+I
+java:S1113¬"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+B
+java:S1174¬"&Make this finalize() method protected.(­§óùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Q
+java:S1128)"6Remove this unused import 'sun.java2d.StateTrackable'.(‹í¯êûÿÿÿÿ
+Q
+java:S1128*"6Remove this unused import 'sun.java2d.StateTrackable'.(—¦«ýÿÿÿÿ
+O
+java:S1128+"4Remove this unused import 'sun.java2d.StateTracker'.(ß¯­ûÿÿÿÿ
+R
+java:S1144¨"6Remove this unused private "ICMColorData" constructor.(ªýà›þÿÿÿÿ

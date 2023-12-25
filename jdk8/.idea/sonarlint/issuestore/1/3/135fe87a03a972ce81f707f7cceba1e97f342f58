@@ -1,0 +1,23 @@
+
+u
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯”ßãøÿÿÿÿ
+`
+java:S2259¼"DA "NullPointerException" could be thrown; "method" is nullable here.(ğ‘¿Ëùÿÿÿÿ
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Æƒ³ö
+v
+java:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Üà¥ö
+{
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º¢ßúÿÿÿÿ
+5
+java:S2129‘"Remove this "Long" constructor(•††‡
+Z
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(‹ó´ÿÿÿÿÿ
+]
+java:S1126€"AReplace this if-then-else statement by a single return statement.(ÑÈì¨øÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ƒ·‰¤øÿÿÿÿ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×¨
+C
+java:S1125ï"'Remove the unnecessary boolean literal.(ìÔ¨¼ıÿÿÿÿ

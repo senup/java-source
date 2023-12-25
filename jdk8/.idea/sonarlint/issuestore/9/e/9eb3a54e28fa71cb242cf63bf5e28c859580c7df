@@ -1,0 +1,394 @@
+
+a	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(Ó³Ø°úÿÿÿÿ
+a	java:S112Ó	"FDefine and throw a dedicated exception instead of using a generic one.(Ä¹È¬úÿÿÿÿ
+F
+java:S3740È"/Provide the parametrized type for this generic.(âñÏ¶
+F
+java:S3740È"/Provide the parametrized type for this generic.(âñÏ¶
+F
+java:S3740Ê"/Provide the parametrized type for this generic.(Öá‘µ
+K
+java:S3740Ï"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740ø"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740€"/Provide the parametrized type for this generic.(©ˆªÿÿÿÿÿ
+F
+java:S3740Ï	"/Provide the parametrized type for this generic.(—š÷©
+F
+java:S3740›
+"/Provide the parametrized type for this generic.(¡¤ôƒ
+F
+java:S3740Â"/Provide the parametrized type for this generic.(Á­‡€
+K
+java:S3740ì"/Provide the parametrized type for this generic.(Íşº‘ùÿÿÿÿ
+K
+java:S3740§"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740À"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740µ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740î"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740õ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740ç"/Provide the parametrized type for this generic.(‰„êç
+F
+java:S3740ç"/Provide the parametrized type for this generic.(‰„êç
+K
+java:S3740Û"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740…"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ŸˆŒúÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷„­æùÿÿÿÿ
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ğùÿÿÿÿ
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßú”úÿÿÿÿ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıøîüÿÿÿÿ
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(èğì›úÿÿÿÿ
+o
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(âø™Z
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¢¦Â
+o
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛüĞ=
+o
+java:S2293¨
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(çŠœG
+p
+java:S2293è
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ú­»
+u
+java:S2293ğ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ë÷²úÿÿÿÿ
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜‰Ÿ‡øÿÿÿÿ
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜‰Ÿ‡øÿÿÿÿ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(–÷¢ñøÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¦Õ¨
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾â Ò
+u
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¾æ…şÿÿÿÿ
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(í†š³üÿÿÿÿ
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹›¥ñ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¬ÿÿÿÿÿ
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş‹Ö·
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğâ÷üÿÿÿÿ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒºÛô
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿í¯éşÿÿÿÿ
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(âˆÙø
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç—ó‹şÿÿÿÿ
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü©ÅÒ
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü©ÅÒ
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü²±½
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(©îéüÿÿÿÿ
+p
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥“è
+p
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á®
+p
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(şâÓ
+p
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷é£Ú
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¡¥ºşÿÿÿÿ
+u
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ˆ§ßıÿÿÿÿ
+u
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡•· ùÿÿÿÿ
+^
+java:S1192î"GDefine a constant instead of duplicating this literal "dialog" 3 times.(ÕŠÂ²
+w
+java:S1192·"[Define a constant instead of duplicating this literal "LucidaBrightDemiItalic.ttf" 7 times.(úÆ–öşÿÿÿÿ
+n
+java:S1192"WDefine a constant instead of duplicating this literal "LucidaSansDemiBold.ttf" 4 times.(¼ˆìÜ
+p
+java:S1192Ã	"TUse already-defined constant 'lucidaFontName' instead of duplicating its value here.(¨öòÙúÿÿÿÿ
+s
+java:S1192¶"WDefine a constant instead of duplicating this literal "LucidaBrightItalic.ttf" 3 times.(šÃßáÿÿÿÿÿ
+c
+java:S1192º"GDefine a constant instead of duplicating this literal " rank=" 3 times.(Á—ÊÂûÿÿÿÿ
+p
+java:S1192¨"YDefine a constant instead of duplicating this literal "LucidaTypewriterBold.ttf" 4 times.(†±…û
+]
+java:S1192Á"FDefine a constant instead of duplicating this literal "serif" 3 times.(Ã±ğ 
+p
+java:S1192µ"YDefine a constant instead of duplicating this literal "LucidaBrightDemiBold.ttf" 4 times.(çã‡Û
+t	java:S135Š"YReduce the total number of break and continue statements in this loop to use at most one.(ÅÒ§Åúÿÿÿÿ
+F
+java:S1066Ä"/Merge this if statement with the enclosing one.(€ƒØ
+K
+java:S1066•"/Merge this if statement with the enclosing one.(“Ñæ†üÿÿÿÿ
+F
+java:S1066ø"/Merge this if statement with the enclosing one.(Å›È¦
+„
+java:S1319â"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ËÄê
+Š
+java:S1319ö"nThe type of "familyNames" should be an interface such as "SortedMap" rather than the implementation "TreeMap".(¶¡’§ÿÿÿÿÿ
+™
+java:S1319Ø"}The type of "altNameCache" should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(–Ô“ùÿÿÿÿ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¡µ®şÿÿÿÿ
+D
+java:S1604Ï"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604ø"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604§"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
+?
+java:S1604›
+"(Make this anonymous inner class a lambda(¡¤ôƒ
+?
+java:S1604Ã"(Make this anonymous inner class a lambda(ÃÂÒ
+>
+java:S1604"(Make this anonymous inner class a lambda(á‡×x
+D
+java:S1604§"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604À"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(— ô†ÿÿÿÿÿ
+D
+java:S1604İ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604µ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604î"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604Û"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604…"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+8
+java:S1643¯"Use a StringBuilder instead.(–ïößüÿÿÿÿ
+}
+java:S1488ó"aImmediately return this expression instead of assigning it to the temporary variable "newHandle".(×²Í’øÿÿÿÿ
+q
+java:S1488í"ZImmediately return this expression instead of assigning it to the temporary variable "ff".(å×²û
+e
+java:S3014ã"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÛÓ¸şÿÿÿÿ
+e
+java:S3014å"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
+p
+java:S1104Ã"YMake jreLibDirName a static final constant or non-public and provide accessors if needed.(ëÂ¿ü
+q
+java:S1104Ä"ZMake jreFontDirName a static final constant or non-public and provide accessors if needed.(ñêèï
+n
+java:S1104å"WMake noType1Font a static final constant or non-public and provide accessors if needed.(ª¬Şø
+m
+java:S1104Ò"VMake familyName a static final constant or non-public and provide accessors if needed.(Æ‰³ñ
+u
+java:S1104Ó"YMake plainFullName a static final constant or non-public and provide accessors if needed.(Ú²À¬ùÿÿÿÿ
+o
+java:S1104Ô"XMake boldFullName a static final constant or non-public and provide accessors if needed.(Ë°ËÙ
+v
+java:S1104Õ"ZMake italicFullName a static final constant or non-public and provide accessors if needed.(ïŒÔşÿÿÿÿ
+z
+java:S1104Ö"^Make boldItalicFullName a static final constant or non-public and provide accessors if needed.(ï¹ç¾ÿÿÿÿÿ
+p
+java:S1104×"YMake plainFileName a static final constant or non-public and provide accessors if needed.(÷‹¬Ğ
+o
+java:S1104Ø"XMake boldFileName a static final constant or non-public and provide accessors if needed.(‘ğ‘±
+v
+java:S1104Ù"ZMake italicFileName a static final constant or non-public and provide accessors if needed.(ˆôà´úÿÿÿÿ
+u
+java:S1104Ú"^Make boldItalicFileName a static final constant or non-public and provide accessors if needed.(ÄÉ‘‚
+J
+java:S1444Ã"3Make this "public static jreLibDirName" field final(ëÂ¿ü
+K
+java:S1444Ä"4Make this "public static jreFontDirName" field final(ñêèï
+H
+java:S1444å"1Make this "public static noType1Font" field final(ª¬Şø
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+c
+java:S2259…"GA "NullPointerException" could be thrown; "fontNames" is nullable here.(ğó…Ñÿÿÿÿÿ
+c
+java:S2095ƒ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+j
+java:S3824ƒ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(²á‰Æÿÿÿÿÿ
+u	java:S115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï¿·¢ÿÿÿÿÿ
+ƒ	java:S116‘"hRename this field "_usingPerAppContextComposites" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ôéåûÿÿÿÿ
+z	java:S116’"dRename this field "_usingAlternateComposites" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°•¶ö
+p
+java:S3008è"TRename this field "STR_ARRAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÍ‹ÿÿÿÿÿ
+r
+java:S1149ü"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‹­·±ûÿÿÿÿ
+r
+java:S1149ı"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ê­´şÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óÒÍŒ
+m
+java:S1149¹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³¾Æà
+r
+java:S1149º"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(è’Çûıÿÿÿÿ
+r
+java:S1149ì"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÏÊÓ‰ùÿÿÿÿ
+m
+java:S1149í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(…İû¦
+r
+java:S1149ª"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÏÊÓ‰ùÿÿÿÿ
+r
+java:S1149Æ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ê­´şÿÿÿÿ
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(Ù¹äóÿÿÿÿÿ
+R	java:S107ı"<Method has 8 parameters, which is greater than 7 authorized.(ÿªæú
+A
+java:S1197“"*Move the array designators [] to the type.(¾ñ×¢
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¿·íşÿÿÿÿ
+U
+java:S1854ã">Remove this useless assignment to local variable "lucidaFile".(Á„¤û
+F
+java:S1481ã"/Remove this unused "lucidaFile" local variable.(Á„¤û
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(Ÿ™í¯
+?	java:S108•")Either remove or fill this block of code.(Æâ­ê
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(à™û‚úÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ëö‹­ûÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(œü‹ßúÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ŞŞï§
+R	java:S125É"<This block of commented-out lines of code should be removed.(ó“å
+W	java:S125Î"<This block of commented-out lines of code should be removed.(½îÉäùÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¨İã²ÿÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(‚‚„Äúÿÿÿÿ
+@
+java:S1905®")Remove this unnecessary cast to "Font2D".(£ø–å
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(¢ÀşÚüÿÿÿÿ
+h
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¤Š§P
+@
+java:S1481ò")Remove this unused "name" local variable.(Ê§…ñ
+b	java:S128‰	"LEnd this switch case with an unconditional break, return or throw statement.(ò§¡Ç
+n
+java:S3776”
+"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(œ½‚Íşÿÿÿÿ
+n
+java:S3776Í
+"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ì‰ãêøÿÿÿÿ
+H
+java:S2692Ó
+"10 is a valid index, but is ignored by this check.(ùò‹Ñ
+A
+java:S6326Ô
+"%Replace spaces with quantifier `{2}`.(×õà©şÿÿÿÿ
+J
+java:S2864”"4Iterate over the "entrySet" instead of the "keySet".(š©Æ>
+U
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(–°°È
+U
+java:S1155¼">Use isEmpty() to check whether the collection is empty or not.(–°°È
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿî¥ûûÿÿÿÿ
+3
+java:S1116ù"Remove this empty statement.(»Ùç
+?	java:S108¿")Either remove or fill this block of code.(”ı¾
+i
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(“²¦™
+a
+java:S1659"EDeclare "boldFile" and all following declarations on a separate line.(©ƒœşÿÿÿÿ
+R
+java:S2696è"6Make the enclosing method "static" or remove this set.(»”—Ğüÿÿÿÿ
+K
+java:S2864¨"4Iterate over the "entrySet" instead of the "keySet".(ë¸Á
+K
+java:S2864«"4Iterate over the "entrySet" instead of the "keySet".(š§–
+P
+java:S2864¯"4Iterate over the "entrySet" instead of the "keySet".(› ‘‰ûÿÿÿÿ
+=
+java:S1168¸"&Return an empty array instead of null.(¥¹ï
+V
+java:S1172ì":Remove this unused method parameter "registeredFontFiles".(Íşº‘ùÿÿÿÿ
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ƒ¶ß
+U
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ÑåÔ™
+G
+java:S1905Ë"+Remove this unnecessary cast to "String[]".(áÏ™Üûÿÿÿÿ
+o
+java:S3776˜"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(îÉĞÑùÿÿÿÿ
+E
+java:S1905¨")Remove this unnecessary cast to "Font2D".(‚¢äüúÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(õÛ¸¥
+P	java:S899¬";Do something with the "boolean" value returned by "delete".(—ø¸&
+d
+java:S4042¬"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(—ø¸&
+?	java:S108Ç")Either remove or fill this block of code.(”ı¾
+V	java:S899Ğ";Do something with the "boolean" value returned by "delete".(é‚áËşÿÿÿÿ
+j
+java:S4042Ğ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‚áËşÿÿÿÿ
+?	java:S108Ñ")Either remove or fill this block of code.(”ı¾
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ÿ¶Ú¨şÿÿÿÿ
+F
+java:S1905È"*Remove this unnecessary cast to "Entry[]".(ºÁ•ışÿÿÿÿ
+h
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(•›œC
+Q	java:S125•"<This block of commented-out lines of code should be removed.(¯¹î|
+8
+java:S2129¸"!Remove this "Boolean" constructor(ó™«Š
+C
+java:S1125ç"'Remove the unnecessary boolean literal.(·ŸÅùÿÿÿÿ
+C
+java:S1125‹"'Remove the unnecessary boolean literal.(‹İò®şÿÿÿÿ
+G
+java:S1905Ÿ"+Remove this unnecessary cast to "String[]".(Ñøïğüÿÿÿÿ
+;
+java:S1168²"$Return an empty map instead of null.(¥¹ï
+=
+java:S1168Î"&Return an empty array instead of null.(¥¹ï
+D	java:S108ì")Either remove or fill this block of code.(‰ÜÏÂüÿÿÿÿ
+i
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿªæú
+2
+java:S3626¹"Remove this redundant jump.(ûÁİ…
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+a
+java:S1172¼"ERemove these unused method parameters "fontFileName", "platformName".(¹Ú¢áùÿÿÿÿ
+=
+java:S1168¾"&Return an empty array instead of null.(¥¹ï
+2
+java:S3626ˆ"Remove this redundant jump.(ûÁİ…
+E
+java:S1172‡"/Remove this unused method parameter "pathName".(ÈØÔ=
+D	java:S108—")Either remove or fill this block of code.(‰ÜÏÂüÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(îÕòùÿÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(Òå¦´
+R
+java:S2696³"6Make the enclosing method "static" or remove this set.(°ˆ§ßıÿÿÿÿ
+[
+java:S1117Ü"?Rename "fontConfig" which hides the field declared at line 211.( °—¼ıÿÿÿÿ
+i
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(†¿°
+@
+java:S1905Ì")Remove this unnecessary cast to "String".(‚šâª
+P
+java:S1144†"9Remove this unused private "fontSupportsEncoding" method.(´ÓõŒ

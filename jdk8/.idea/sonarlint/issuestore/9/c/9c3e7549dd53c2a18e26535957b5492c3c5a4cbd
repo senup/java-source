@@ -1,0 +1,42 @@
+
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ã¿úÿÿÿÿ
+t
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ã¿úÿÿÿÿ
+o
+java:S1192‹"SDefine a constant instead of duplicating this literal "temp.file.template" 3 times.(ß„ÇŸıÿÿÿÿ
+u
+java:S1192ñ"YDefine a constant instead of duplicating this literal "content-types.properties" 3 times.(Â·÷×øÿÿÿÿ
+>
+java:S16040"(Make this anonymous inner class a lambda(’­Ûü
+C
+java:S1604R"(Make this anonymous inner class a lambda(»Î£ùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+m
+java:S2095ı"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Ÿòş‰ÿÿÿÿÿ
+n	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÈ¾e
+o	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ×¸±
+l
+java:S1149$"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(û –Œ
+l
+java:S1149("VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ºìø¦
+[
+java:S3252U"EUse static access with "java.net.URLConnection" for "setFileNameMap".(Ãê¬
+D
+java:S1905i".Remove this unnecessary cast to "FileNameMap".(éóÍÿ
+@
+java:S1197|"*Move the array designators [] to the type.(şäº€
+W
+java:S1117â";Rename "entries" which hides the field declared at line 36.(Ÿç³šùÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(İ¥³õûÿÿÿÿ
+`
+java:S1117‹"DRename "tempFileTemplate" which hides the field declared at line 44.(ß„ÇŸıÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(¹ƒäÕ
+?	java:S108¬")Either remove or fill this block of code.(ıåÆœ
+F
+java:S2093˜"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(®êäşûÿÿÿÿ
+C
+java:S1068G"-Remove this unused "fileMagic" private field.( ×¸±

@@ -1,0 +1,35 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ê£’ë
+_
+java:S2095İ"HUse try-with-resources or close this "URLJarFile" in a "finally" clause.(öÍ¢Â
+n
+java:S30089"SRename this field "BUF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íø¡ıÿÿÿÿ
+C
+java:S1113r"-Do not override the Object.finalize() method.(ÏæÉå
+P
+java:S1161r":Add the "@Override" annotation above this method signature(ÏæÉå
+i
+java:S1114r"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(ÏæÉå
+U
+java:S1161":Add the "@Override" annotation above this method signature(˜›¹áıÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(ı…°Óüÿÿÿÿ
+K
+java:S2864™"4Iterate over the "entrySet" instead of the "keySet".(ü…’ğ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(–óÔ”
+;
+java:S1168"$Return an empty map instead of null.(¥¹ï
+Q
+java:S1161":Add the "@Override" annotation above this method signature(òßÈï
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ØÂ
+V
+java:S1128(";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+G
+java:S10689",Remove this unused "BUF_SIZE" private field.(íø¡ıÿÿÿÿ
+D
+java:S1144½"-Remove this unused private "retrieve" method.(ÕÄÜÄ

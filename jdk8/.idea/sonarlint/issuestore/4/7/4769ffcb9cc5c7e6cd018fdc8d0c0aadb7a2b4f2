@@ -1,0 +1,31 @@
+
+Q
+java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[
+java:S2583­"DChange this condition so that it does not always evaluate to "false"(Îˆ™Å
+@
+java:S1197D"*Move the array designators [] to the type.(âÉ¢Í
+[
+java:S1124["EReorder the modifiers to comply with the Java Language Specification.(²÷Å™
+[
+java:S1124]"EReorder the modifiers to comply with the Java Language Specification.(¹şÈ
+V	java:S125\"<This block of commented-out lines of code should be removed.(È™Óæşÿÿÿÿ
+C
+java:S1481v"(Remove this unused "mff" local variable.(—÷ÇÇşÿÿÿÿ
+i
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(Ÿ‘ÑÉ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(êÀŠÉüÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(½Â½ƒıÿÿÿÿ
+I
+java:S1113–"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+¡
+java:S1130©"ŠRemove the declaration of thrown exception 'javax.sound.sampled.UnsupportedAudioFileException', as it cannot be thrown from method's body.(Ë²Ó4
+A
+java:S1197ä"*Move the array designators [] to the type.(üÙİ
+i
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(„ƒŠ
+J
+java:S1068?"/Remove this unused "BUFFER_SIZE" private field.(¡†¦Òıÿÿÿÿ

@@ -1,0 +1,48 @@
+
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(¦ŸŞı
+o
+java:S30082"YRename this field "CONTENT_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õôˆ
+r
+java:S30083"WRename this field "CONTENT_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïáä²ùÿÿÿÿ
+p
+java:S30084"URename this field "TEXT_PLAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŒ¨êüÿÿÿÿ
+s
+java:S30085"XRename this field "LAST_MODIFIED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïœ¸ûÿÿÿÿ
+{
+java:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+m
+java:S2737d"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+>	java:S108p")Either remove or fill this block of code.(ï­£Ä
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(°ÁÂáùÿÿÿÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(€¼ Ëÿÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(ÿú±»
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(Ü’×üÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(ùÿ­´
+V
+java:S1161¬":Add the "@Override" annotation above this method signature( ¶›¶ùÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(‹Ÿ¢¥şÿÿÿÿ
+N
+java:S1854À"7Remove this useless assignment to local variable "map".(œ¸®ü
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(»‹­Ÿ
+F
+java:S1481¹"/Remove this unused "iconHeight" local variable.(øÜù–
+J
+java:S1481º".Remove this unused "iconWidth" local variable.(şşÎ ùÿÿÿÿ
+?
+java:S1481À"(Remove this unused "map" local variable.(œ¸®ü
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(Ñ¬¾Õøÿÿÿÿ
+]
+java:S1128,"BRemove this unused import 'sun.security.action.GetPropertyAction'.(°¿”Œúÿÿÿÿ
+W
+java:S1128-"ARemove this unused import 'sun.security.action.GetIntegerAction'.(‹èı…
+W
+java:S1128."ARemove this unused import 'sun.security.action.GetBooleanAction'.(Û«ê

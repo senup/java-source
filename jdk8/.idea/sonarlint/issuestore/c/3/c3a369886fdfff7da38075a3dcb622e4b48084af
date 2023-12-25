@@ -1,0 +1,28 @@
+
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(ˆ´ õøÿÿÿÿ
+
+java:S4165î"cRemove this useless assignment; "state" already holds the assigned value along all execution paths.(Ãî‡àüÿÿÿÿ
+y	java:S116?"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+C
+java:S1172F"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S1161U":Add the "@Override" annotation above this method signature(óı¶Œ
+P
+java:S1161h":Add the "@Override" annotation above this method signature(¬ôŒµ
+P
+java:S1161x":Add the "@Override" annotation above this method signature(¢øéÄ
+P
+java:S1161|":Add the "@Override" annotation above this method signature(ıÿ‰ñ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(¨©”¨ÿÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+n
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Æ‚ŒÆşÿÿÿÿ
+e
+java:S1128$"JRemove this unused import 'com.sun.java.swing.plaf.windows.TMSchema.Part'.(Çô¤–ûÿÿÿÿ
+C
+java:S1068¡",Remove this unused "viewRect" private field.(ÁØ‹†

@@ -1,0 +1,14 @@
+
+K
+java:S1066Å"/Merge this if statement with the enclosing one.(êŠâÁùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+r
+java:S3077/"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜¬ñæûÿÿÿÿ
+m
+java:S30770"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ëú¬˜
+l
+java:S30779"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼ÂŸr
+<
+java:S1452["&Remove usage of generic wildcard type.(Ô¾®Ï
+?	java:S108ö")Either remove or fill this block of code.(é¢¦é

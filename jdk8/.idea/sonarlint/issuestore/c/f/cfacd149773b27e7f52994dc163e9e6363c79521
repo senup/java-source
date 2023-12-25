@@ -1,0 +1,7 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+U
+java:S1118$":Add a private constructor to hide the implicit public one.(§Æ“Èûÿÿÿÿ
+F
+java:S1874)"+Remove this use of "Ref"; it is deprecated.(•ÏšŒøÿÿÿÿ

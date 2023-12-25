@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+l	java:S116$"WRename this field "node_created" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÙœ‹
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ì—°úÿÿÿÿ
+f
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¤“‘©
+>
+java:S1172^"(Remove this unused method parameter "n".(…˜îÐ
+7
+java:S2129g"!Remove this "Integer" constructor(¥Š§´

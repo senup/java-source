@@ -1,0 +1,39 @@
+
+o
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(œðÖ
+
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êë½å
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Å­¯
+8
+java:S1643ˆ"Use a StringBuilder instead.(Õìêéúÿÿÿÿ
+8
+java:S1643Š"Use a StringBuilder instead.(Ã³Åìøÿÿÿÿ
+8
+java:S1643¾"Use a StringBuilder instead.(šàô¡øÿÿÿÿ
+3
+java:S1643À"Use a StringBuilder instead.(­Î¤×
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Öê’¹
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(”§¨Ýÿÿÿÿÿ
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÛÎ¤œùÿÿÿÿ
+W
+java:S1119²";Refactor the code to remove this label and the need for it.(Â“óØúÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(Ä¤Ñ¨
+[
+java:S2147Í"ECombine this catch with the one at line 459, which has the same body.(ÿÒ„p
+A
+java:S1197¾"*Move the array designators [] to the type.(Ó„¸Ù
+F
+java:S1197Ç"*Move the array designators [] to the type.(×Ð¾ôùÿÿÿÿ
+j
+java:S2975ð"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(È£€¾
+[
+java:S2147¦"ECombine this catch with the one at line 676, which has the same body.(ÿÒ„p
+F
+java:S1197 "*Move the array designators [] to the type.(×Ð¾ôùÿÿÿÿ
+V
+java:S1128.";Remove this unused import 'sun.rmi.rmic.newrmic.Constants'.(ôØ¿Üúÿÿÿÿ

@@ -1,0 +1,11 @@
+
+Y
+java:S4719d">Replace charset name argument with StandardCharsets.ISO_8859_1(¾Ñëƒÿÿÿÿÿ
+>	java:S108e")Either remove or fill this block of code.(Î¢û“
+P
+java:S1161n":Add the "@Override" annotation above this method signature(ÀÅÎ›
+P
+java:S1161{":Add the "@Override" annotation above this method signature(ÊÉ„ã
+Q
+java:S1161":Add the "@Override" annotation above this method signature(è§©¯
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(âàÜ¢úÿÿÿÿ

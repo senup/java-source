@@ -1,0 +1,56 @@
+
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³•Éÿÿÿÿÿ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÅÒ¤ıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+Q
+java:S1133‹"5Do not forget to remove this deprecated code someday.(ıŞ™ùÿÿÿÿ
+Q
+java:S1133”"5Do not forget to remove this deprecated code someday.(ğºùÄúÿÿÿÿ
+L
+java:S1133ª"5Do not forget to remove this deprecated code someday.(ŒÑÉõ
+L
+java:S1133¿"5Do not forget to remove this deprecated code someday.(Œ´Œ
+Q
+java:S1133Ğ"5Do not forget to remove this deprecated code someday.(€ûÌÍùÿÿÿÿ
+Q
+java:S1133ß"5Do not forget to remove this deprecated code someday.(Å«ò úÿÿÿÿ
+O
+java:S1874Ö"3Remove this use of "getExponent"; it is deprecated.(œ¹ùşÿÿÿÿ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(å¤Ã¸
+J
+java:S1874œ"3Remove this use of "getExponent"; it is deprecated.(Óøšô
+R	java:S125¹"<This block of commented-out lines of code should be removed.(å¤Ã¸
+Q
+java:S1133•"5Do not forget to remove this deprecated code someday.(³•Éÿÿÿÿÿ
+Q	java:S125á"<This block of commented-out lines of code should be removed.(ıœğ
+Q
+java:S1133»"5Do not forget to remove this deprecated code someday.(ÇÅÒ¤ıÿÿÿÿ
+L
+java:S1133é"5Do not forget to remove this deprecated code someday.(í´¬‹
+Q
+java:S1133—"5Do not forget to remove this deprecated code someday.(Œà¤¼ûÿÿÿÿ
+Q
+java:S1133¶"5Do not forget to remove this deprecated code someday.(Öúªûÿÿÿÿ
+Q
+java:S1133Õ"5Do not forget to remove this deprecated code someday.(âØõŸıÿÿÿÿ
+L
+java:S1133ô"5Do not forget to remove this deprecated code someday.(şÎÕ²
+Q
+java:S1133“"5Do not forget to remove this deprecated code someday.(’ÈÑ¨ıÿÿÿÿ
+Q
+java:S1133¦"5Do not forget to remove this deprecated code someday.(·«Õ·şÿÿÿÿ
+L
+java:S1133¸"5Do not forget to remove this deprecated code someday.(¨ìÍ¨
+Q
+java:S1133Õ"5Do not forget to remove this deprecated code someday.(”ù óıÿÿÿÿ
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(Ö”È±øÿÿÿÿ
+Q
+java:S1133‰"5Do not forget to remove this deprecated code someday.(ÆŞãùÿÿÿÿ
+Q
+java:S1133 "5Do not forget to remove this deprecated code someday.(®û¡ºıÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Œé¡¬úÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÚŸÈš

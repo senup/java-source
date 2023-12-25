@@ -1,0 +1,15 @@
+
+o
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÆ‹²
+J
+java:S2755ü"3Disable access to external entities in XML parsing.(½­¶“
+J
+java:S6374‚"3Disable loading of external schemas in XML parsing.(ˆ¥à¸
+E
+java:S1197x"*Move the array designators [] to the type.(Ü¸öùÿÿÿÿ
+F
+java:S1197š"*Move the array designators [] to the type.(­ç•üÿÿÿÿ
+
+java:S1130«"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(£»ŞÄ
+F
+java:S1197°"*Move the array designators [] to the type.(­ç•üÿÿÿÿ

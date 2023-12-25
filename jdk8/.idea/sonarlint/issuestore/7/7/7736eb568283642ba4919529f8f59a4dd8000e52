@@ -1,0 +1,36 @@
+
+J
+java:S3740."/Provide the parametrized type for this generic.(ñ¦ğøÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(ñ¦ğøÿÿÿÿ
+J
+java:S3740`"/Provide the parametrized type for this generic.(°ÀœÆÿÿÿÿÿ
+D
+java:S3740a"/Provide the parametrized type for this generic.(ãç½R
+`
+java:S2259Ù"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(şÕå«úÿÿÿÿ
+`
+java:S2259Ö"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(Â®ªÔÿÿÿÿÿ
+h
+java:S2975^"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+O
+java:S1161^":Add the "@Override" annotation above this method signature(­æğ
+P
+java:S1161i":Add the "@Override" annotation above this method signature(ÀÅÎ›
+P
+java:S1161v":Add the "@Override" annotation above this method signature(ÊÉ„ã
+P
+java:S1161z":Add the "@Override" annotation above this method signature(è§©¯
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ç¦Ÿ¸
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+i
+java:S2975Ğ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+D	java:S108Ô")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+F
+java:S1905Ö"*Remove this unnecessary cast to "short[]".(Â®ªÔÿÿÿÿÿ
+F
+java:S1905Ù"*Remove this unnecessary cast to "short[]".(şÕå«úÿÿÿÿ
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(šİÜá
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(üó¼ùÿÿÿÿ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(ÑŠÃåÿÿÿÿÿ
+Q	java:S125ñ"<This block of commented-out lines of code should be removed.(³ÏöR

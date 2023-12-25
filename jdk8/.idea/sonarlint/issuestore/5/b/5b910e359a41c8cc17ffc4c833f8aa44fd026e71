@@ -1,0 +1,22 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ´ õøÿÿÿÿ
+y	java:S1165"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+C
+java:S1172<"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+O
+java:S1161J":Add the "@Override" annotation above this method signature(„¨ér
+P
+java:S1161Q":Add the "@Override" annotation above this method signature(À…âÈ
+P
+java:S1161Z":Add the "@Override" annotation above this method signature(¬ôŒµ
+U
+java:S1161j":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+P
+java:S1161p":Add the "@Override" annotation above this method signature(»½¼ú
+P
+java:S1161":Add the "@Override" annotation above this method signature(ıÿ‰ñ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(¨©”¨ÿÿÿÿÿ
+F
+java:S1128""+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

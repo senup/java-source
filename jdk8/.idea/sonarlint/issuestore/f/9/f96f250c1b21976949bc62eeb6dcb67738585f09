@@ -1,0 +1,20 @@
+
+o
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ïûŞ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+<
+java:S1659("&Declare "maxValue" on a separate line.(µ¾ªŒ
+q
+java:S1149*"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íÎ¤™üÿÿÿÿ
+l
+java:S1149,"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(İü¨¿
+r	java:S116w"XRename this field "current_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‚ÔÇøÿÿÿÿ
+F
+java:S1150u"+Implement Iterator rather than Enumeration.(¦´ˆùÿÿÿÿ
+l
+java:S1149~"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¸¶ßş
+@
+java:S1197v"*Move the array designators [] to the type.(Øè‘Œ
+F
+java:S1128"+Remove this unused import 'sun.tools.java'.(ö‰“şÿÿÿÿÿ

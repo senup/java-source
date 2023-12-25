@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ıä©Ëùÿÿÿÿ
+F
+java:S21600"+Override the "equals" method in this class.(ÃşÃ“ûÿÿÿÿ
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(ÑÍÕ­ùÿÿÿÿ
+P
+java:S1161j":Add the "@Override" annotation above this method signature(‰„Ä
+K
+java:S1117w"5Rename "e" which hides the field declared at line 53.(ï­£Ä
+P
+java:S1161}":Add the "@Override" annotation above this method signature(Á»›ê

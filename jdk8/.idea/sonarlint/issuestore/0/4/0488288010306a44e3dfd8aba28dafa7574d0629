@@ -1,0 +1,41 @@
+
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(Şµÿûÿÿÿÿ
+o	java:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(¦¢™÷
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ú³â
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ú³â
+n	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(”Ê˜ä
+s	java:S127¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(îşÃ“üÿÿÿÿ
+s	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(ûÙÁæşÿÿÿÿ
+n	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰ÕüÎ
+F
+java:S1066º"/Merge this if statement with the enclosing one.(á¥Ù²
+b
+java:S1301û"KReplace this "switch" statement by "if" statements to increase readability.(¹ŠÒÓ
+N
+java:S2589¦"7Remove this expression which always evaluates to "true"(¶ÜÒˆ
+1
+java:S1116="Remove this empty statement.(»¾ËY
+Œ
+java:S1130?"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(·ğ£ûÿÿÿÿ
+P
+java:S1161D":Add the "@Override" annotation above this method signature(§ìî·
+@
+java:S1197D"*Move the array designators [] to the type.(§ìî·
+P
+java:S1161I":Add the "@Override" annotation above this method signature(Ä…©
+U
+java:S1161N":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(îçÍ­ÿÿÿÿÿ
+i
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„Ö¿‰
+R	java:S125æ"<This block of commented-out lines of code should be removed.(”ï¨ì
+R	java:S125î"<This block of commented-out lines of code should be removed.(„ÿØŒ
+l
+java:S1206ˆ"PThis class overrides "equals()" and should therefore also override "hashCode()".(¹©ÚÁÿÿÿÿÿ
+S
+java:S1117ù"7Rename "cls" which hides the field declared at line 55.(«©óúÿÿÿÿ
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(Èı¥¶úÿÿÿÿ
+n
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(é•­ÿÿÿÿÿ
+=	java:S131È""Add a default case to this switch.(Ï—íàıÿÿÿÿ

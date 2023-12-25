@@ -1,0 +1,25 @@
+
+P
+java:S1191)"5Use classes from the Java API instead of Sun classes.(ÝÃêâøÿÿÿÿ
+_
+java:S2259î"CA "NullPointerException" could be thrown; "value" is nullable here.(†¼Ô´ùÿÿÿÿ
+E
+java:S1905‡")Remove this unnecessary cast to "Object".(¯¿÷Úÿÿÿÿÿ
+@
+java:S1905™")Remove this unnecessary cast to "Object".(ÐÂÏ³
+E
+java:S1905Ã")Remove this unnecessary cast to "Object".(çÐÞœýÿÿÿÿ
+E
+java:S1905‰")Remove this unnecessary cast to "Object".(²æ´áûÿÿÿÿ
+@
+java:S1905š")Remove this unnecessary cast to "Object".(ý¿èà
+K
+java:S2864®"4Iterate over the "entrySet" instead of the "keySet".(®ñš²
+E
+java:S1905È")Remove this unnecessary cast to "Object".(²æ´áûÿÿÿÿ
+E
+java:S1905Û")Remove this unnecessary cast to "Object".(²æ´áûÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÓÛ²¨ýÿÿÿÿ
+@
+java:S1905º")Remove this unnecessary cast to "Object".(¦–æ–

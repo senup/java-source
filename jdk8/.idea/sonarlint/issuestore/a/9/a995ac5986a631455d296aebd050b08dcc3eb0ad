@@ -1,0 +1,12 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ð×ÏÀ
+S
+java:S4929*"=Provide an override of "read(byte[],int,int)" for this class.(¡·‰±
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÅŸòô
+B
+java:S1125?"'Remove the unnecessary boolean literal.(–• Ñøÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(êÑ«›
+V	java:S125r"<This block of commented-out lines of code should be removed.(™Œí‹ÿÿÿÿÿ
+=
+java:S1905ˆ"&Remove this unnecessary cast to "int".(Òœ×†

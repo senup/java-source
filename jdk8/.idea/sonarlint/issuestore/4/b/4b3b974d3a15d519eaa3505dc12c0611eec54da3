@@ -1,0 +1,17 @@
+
+t	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+J
+java:S4517Q"/Convert this signed byte into an unsigned byte.(Ùø¼œøÿÿÿÿ
+P
+java:S1161W":Add the "@Override" annotation above this method signature(É¥¼Ö
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ş¨É¨
+8
+java:S1659Ÿ"!Declare "pos" on a separate line.(ÉÛñ£
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(ƒÊ™á
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(…ç‰§
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+B
+java:S1905Ö"&Remove this unnecessary cast to "int".(¼ûàıÿÿÿÿ

@@ -1,0 +1,158 @@
+
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¨œ”
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×éüÿÿÿÿ
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(òìÂª
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó«£áıÿÿÿÿ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷”ñ©øÿÿÿÿ
+_
+java:S1192ô"HDefine a constant instead of duplicating this literal "midi_cc" 3 times.(”³¨±
+e
+java:S1192"NDefine a constant instead of duplicating this literal "poly_pressure" 4 times.(ãÁ‚æ
+m
+java:S1192Œ"QDefine a constant instead of duplicating this literal "channel_pressure" 3 times.(€œ£øÿÿÿÿ
+K
+java:S1066ù"/Merge this if statement with the enclosing one.(«Ö“óÿÿÿÿÿ
+F
+java:S1066†"/Merge this if statement with the enclosing one.(—ĞÂ×
+K
+java:S1066–"/Merge this if statement with the enclosing one.(İû¼ÿÿÿÿÿ
+K
+java:S1066°"/Merge this if statement with the enclosing one.(»õ»­ıÿÿÿÿ
+F
+java:S1066±"/Merge this if statement with the enclosing one.(ƒÛ­Ş
+K
+java:S1066„"/Merge this if statement with the enclosing one.(…Ûè¶ùÿÿÿÿ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆáşÚüÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¹áãÿÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¹áãÿÿÿÿÿ
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ê½ï
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶ÇÇøÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªŒúÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ›ßøÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‹Ğıÿÿÿÿ
+l	java:S117Â
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÖ¯ùÿÿÿÿ
+l	java:S117Ã
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éè—Êûÿÿÿÿ
+l	java:S117ç
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±’‹«ûÿÿÿÿ
+g	java:S117è
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŸÙˆ
+_
+java:S2184À"HCast one of the operands of this multiplication operation to a "double".(ƒ»ß
+j
+java:S3824¬"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(òÈûÆûÿÿÿÿ
+e
+java:S3824¼"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(äŠ¯£
+e
+java:S3824è
+"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÑŸÙˆ
+j
+java:S3824ç
+"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(±’‹«ûÿÿÿÿ
+k	java:S116["VRename this field "rpn_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¬÷
+l	java:S116\"WRename this field "nrpn_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾é‹
+t	java:S116]"ZRename this field "portamento_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•İ‚ÿÿÿÿÿ
+x	java:S116^"^Rename this field "portamento_lastnote" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜®Ÿçÿÿÿÿÿ
+{	java:S116_"aRename this field "portamento_lastnote_ix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öó™™úÿÿÿÿ
+r	java:S116e"XRename this field "control_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÿëÏıÿÿÿÿ
+r	java:S116p"XRename this field "co_midi_pitch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ãßşşÿÿÿÿ
+}	java:S116q"cRename this field "co_midi_channel_pressure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™âğ—ıÿÿÿÿ
+p	java:S116s"VRename this field "tuning_bank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»¼ªûÿÿÿÿ
+s	java:S116t"YRename this field "tuning_program" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³•Üäıÿÿÿÿ
+w	java:S116u"]Rename this field "current_instrument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û–÷¶ùÿÿÿÿ
+r	java:S116v"XRename this field "current_mixer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ°Õ©üÿÿÿÿ
+u	java:S116w"[Rename this field "current_director" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æË²ıÿÿÿÿ
+w	java:S116z"]Rename this field "cds_control_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¸¾¿ûÿÿÿÿ
+|	java:S116{"bRename this field "cds_control_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İäÈÊıÿÿÿÿ
+„	java:S116|"jRename this field "cds_channelpressure_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸·˜…üÿÿÿÿ
+	java:S116}"gRename this field "cds_polypressure_connections" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡öÁ¶øÿÿÿÿ
+~	java:S116"dRename this field "keybasedcontroller_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğğ•úÿÿÿÿ
+y	java:S116€"cRename this field "keybasedcontroller_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‡½ï
+g	java:S116”"RRename this field "co_midi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¡×
+
+s	java:S116›"XRename this field "co_midi_cc_cc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨€æùÿÿÿÿ
+p	java:S116œ"URename this field "co_midi_cc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïôûùúÿÿÿÿ
+r	java:S116¤"\Rename this field "co_midi_rpn_rpn_i" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¨œ”
+u	java:S116¥"ZRename this field "co_midi_rpn_rpn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ×éüÿÿÿÿ
+l	java:S116¦"VRename this field "co_midi_rpn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ì¡°
+t	java:S116´"^Rename this field "co_midi_nrpn_nrpn_i" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òìÂª
+w	java:S116µ"\Rename this field "co_midi_nrpn_nrpn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó«£áıÿÿÿÿ
+l	java:S116¶"WRename this field "co_midi_nrpn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”£×@
+u	java:S116ï"ZRename this field "play_noteNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úè¼…şÿÿÿÿ
+n	java:S116ğ"XRename this field "play_velocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÃ˜à
+p	java:S116ñ"URename this field "play_delay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ƒĞÔüÿÿÿÿ
+v	java:S116ò"`Rename this field "play_releasetriggered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÇñÍ
+R	java:S107Ó"<Method has 9 parameters, which is greater than 7 authorized.(¶‡¹Š
+q	java:S116„"[Rename this field "channel_pressure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Å˜È
+s	java:S116…"XRename this field "poly_pressure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğâ¢ñÿÿÿÿÿ
+=
+java:S1168‰"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+u
+java:S1171•"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+=
+java:S1168 "&Return an empty array instead of null.(¥¹ï
+=
+java:S1168ª"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168º"&Return an empty array instead of null.(¥¹ï
+o
+java:S3776Ü"SRefactor this method to reduce its Cognitive Complexity from 106 to the 15 allowed.(øŒÛûûÿÿÿÿ
+S
+java:S1117€"<Rename "voiceNo" which hides the field declared at line 622.(•Œ®ô
+S
+java:S1117­"<Rename "voiceNo" which hides the field declared at line 622.(•Œ®ô
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶‡¹Š
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªï§¶úÿÿÿÿ
+n
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ªï§¶úÿÿÿÿ
+>
+java:S1125Ç"'Remove the unnecessary boolean literal.(èÎĞ“
+>
+java:S1125Ù"'Remove the unnecessary boolean literal.(èÎĞ“
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ºÜê†ÿÿÿÿÿ
+c	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Õˆ@
+h
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‘Õˆ@
+>
+java:S1125¼"'Remove the unnecessary boolean literal.(èÎĞ“
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÌÂ¬Øşÿÿÿÿ
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(Ôğ’‹ÿÿÿÿÿ
+u
+java:S3012õ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ñ¹å×úÿÿÿÿ
+p
+java:S3012Œ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºÀÊÁ
+p
+java:S3012£"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€ÑË
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷ğÇúÿÿÿÿ
+i
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ğº®Š
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(ôÑÑ
+W	java:S125«"<This block of commented-out lines of code should be removed.(ÚßÜáûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(·â¨–øÿÿÿÿ
+Q	java:S125û"<This block of commented-out lines of code should be removed.(êŒÍ
+n
+java:S3776š
+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ƒ³¯Äüÿÿÿÿ
+W	java:S125¡
+"<This block of commented-out lines of code should be removed.(öá‹öÿÿÿÿÿ
+W	java:S125Ü
+"<This block of commented-out lines of code should be removed.(öá‹öÿÿÿÿÿ
+[
+java:S1117¥"?Rename "controller" which hides the field declared at line 110.(¬§ÿÅşÿÿÿÿ
+[
+java:S1117ª"?Rename "controller" which hides the field declared at line 110.(ßĞ¤ÿÿÿÿÿ
+>
+java:S1125À"'Remove the unnecessary boolean literal.(èÎĞ“

@@ -1,0 +1,44 @@
+
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘èõ´
+p
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘èõ´
+\
+java:S1192ˆ"EDefine a constant instead of duplicating this literal ");
+
+" 4 times.(ıÜ
+g
+java:S1192³"QDefine a constant instead of duplicating this literal ", new Object[] {" 3 times.(£§Ê[
+j
+java:S1192Å"NDefine a constant instead of duplicating this literal ".visitEnd();
+" 3 times.(¹À›»øÿÿÿÿ
+^
+java:S1192ö"GDefine a constant instead of duplicating this literal "av0 = " 5 times.(£ÁêÍ
+d
+java:S3824
+"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(«½¸
+u
+java:S4144‡"^Update this method so that its implementation is not identical to "visitFieldEnd" on line 479.(Åãêù
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¸Òï³
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(Ò¿½Ÿùÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(•îÖˆûÿÿÿÿ
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(€åôŸ
+8	java:S131©""Add a default case to this switch.(ÜŸ•
+Q
+java:S6213é":Rename this variable to not match a restricted identifier.(ÈÛ³§
+Q
+java:S1133‹"5Do not forget to remove this deprecated code someday.(Ê…™ ùÿÿÿÿ
+D
+java:S1123‹"(Add the missing @deprecated Javadoc tag.(Ê…™ ùÿÿÿÿ
+V
+java:S6213ã":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(²ÈØŸ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(¸Òï³
+8	java:S131æ	""Add a default case to this switch.(§«à±
+N
+java:S1117
+"8Rename "name" which hides the field declared at line 84.(«½¸

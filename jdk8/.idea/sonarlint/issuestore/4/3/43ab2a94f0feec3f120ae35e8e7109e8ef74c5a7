@@ -1,0 +1,19 @@
+
+y
+java:S1319“"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(ã—ï·
+\
+java:S2259Ù"@A "NullPointerException" could be thrown; "ne" is nullable here.(Ñø£Ãşÿÿÿÿ
+
+java:S1149à"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°ß©şÿÿÿÿ
+|
+java:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•‡ûÀ
+|
+java:S1149ı"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìã­Œ
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(Ä­„
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¢òÕûøÿÿÿÿ
+E
+java:S1905_"*Remove this unnecessary cast to "LdapCtx".(ƒ˜µêùÿÿÿÿ
+D
+java:S1481Ï"(Remove this unused "ctx" local variable.(ÊŞêıúÿÿÿÿ

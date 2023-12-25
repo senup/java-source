@@ -1,0 +1,22 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+?
+java:S19058")Remove this unnecessary cast to "String".(İ­½¿
+?
+java:S1905<")Remove this unnecessary cast to "String".(Ì˜³¬
+@
+java:S1197>"*Move the array designators [] to the type.(Ğ²£
+?
+java:S1905G")Remove this unnecessary cast to "String".(Ì˜³¬
+E
+java:S1197I"*Move the array designators [] to the type.(ßã™Æùÿÿÿÿ
+?
+java:S1905V")Remove this unnecessary cast to "String".(Ì˜³¬
+@
+java:S1197X"*Move the array designators [] to the type.(ôß›î
+E
+java:S1197h"*Move the array designators [] to the type.(¯©ø·şÿÿÿÿ
+?
+java:S1905i")Remove this unnecessary cast to "String".(Ì˜³¬

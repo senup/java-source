@@ -1,0 +1,15 @@
+
+g	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÙ«Íúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(žƒÁÿþÿÿÿÿ
+U
+java:S1118#":Add a private constructor to hide the implicit public one.(ÊÙ«Íúÿÿÿÿ
+m
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(º‚¶ùýÿÿÿÿ
+U
+java:S1161o":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŸžÇ¢ùÿÿÿÿ
+R	java:S125®"<This block of commented-out lines of code should be removed.(Îóµù
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ

@@ -1,0 +1,9 @@
+
+l
+java:S1128!"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+o
+java:S3012W"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬à¬Š
+p
+java:S3012‚"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬à¬Š
+D
+java:S1172¾"(Remove this unused method parameter "l".(ïÇ€ûÿÿÿÿ

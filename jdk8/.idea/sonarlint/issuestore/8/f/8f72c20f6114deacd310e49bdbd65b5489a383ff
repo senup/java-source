@@ -1,0 +1,49 @@
+
+t
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(§üÈïşÿÿÿÿ
+K
+java:S1066ï"/Merge this if statement with the enclosing one.(¼ì­Öûÿÿÿÿ
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ…©â
+f	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ç©
+r	java:S116P"XRename this field "control_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÿëÏıÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(ç†ƒùÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(ùüÙùÿÿÿÿ
+`
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(ƒÕÿçúÿÿÿÿ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ºÎ–Éøÿÿÿÿ
+`
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(¶ì³Ùüÿÿÿÿ
+`
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(íƒûøÿÿÿÿ
+`
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(…ö½’üÿÿÿÿ
+[
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(œÂ¸¡
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(ƒÂÁû
+`
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(ã´ı‡ùÿÿÿÿ
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(«ù´¶
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ÿóè
+S
+java:S1117_"=Rename "openLines" which hides the field declared at line 84.(¨ÉÓÎ
+m
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®µ«§úÿÿÿÿ
+l	java:S116°"VRename this field "bbuffer_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿±ÀÇ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(¹ï†Ÿşÿÿÿÿ
+X
+java:S1117¾"<Rename "bbuffer" which hides the field declared at line 172.(ùşÎ¯şÿÿÿÿ
+V
+java:S1117Ã"@Rename "bbuffer_pos" which hides the field declared at line 176.(•ç©
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(âËÎ¡ıÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ
+T
+java:S1117ı"=Rename "openLines" which hides the field declared at line 84.(‹â™˜

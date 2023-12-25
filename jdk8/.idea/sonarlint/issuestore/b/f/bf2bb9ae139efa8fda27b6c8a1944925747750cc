@@ -1,0 +1,14 @@
+
+f
+java:S11047"PMake type a static final constant or non-public and provide accessors if needed.(ëâ¯ó
+h
+java:S1104>"SMake version a static final constant or non-public and provide accessors if needed.(“™•*
+r
+java:S1104D"WMake varBindList a static final constant or non-public and provide accessors if needed.(ö×’™øÿÿÿÿ
+p
+java:S1104L"UMake requestId a static final constant or non-public and provide accessors if needed.(‚ç‘Øüÿÿÿÿ
+n
+java:S1104T"SMake address a static final constant or non-public and provide accessors if needed.(Â›¤‚úÿÿÿÿ
+f
+java:S1104\"PMake port a static final constant or non-public and provide accessors if needed.(ô‚‚ð
+<	java:S131f""Add a default case to this switch.(Ï—íàýÿÿÿÿ

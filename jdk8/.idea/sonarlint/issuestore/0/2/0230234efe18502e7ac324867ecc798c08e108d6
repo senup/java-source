@@ -1,0 +1,115 @@
+
+J
+java:S1121À".Extract the assignment out of this expression.(îëÇ×øÿÿÿÿ
+J
+java:S1121À".Extract the assignment out of this expression.(îëÇ×øÿÿÿÿ
+n	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+K
+java:S1066Ã"/Merge this if statement with the enclosing one.( ´õûÿÿÿÿ
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«±”ÿÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÂÚ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÂÚ
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼î³ï
+g	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óºí
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢–úÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àæ˜Öûÿÿÿÿ
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Î«àøÿÿÿÿ
+o	java:S115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°”¸
+t	java:S115Q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùí¿Æûÿÿÿÿ
+b
+java:S1845ê"KRename method "add" to prevent any misunderstanding/clash with field "ADD".(¢ßÜû
+m
+java:S1845›"QRename method "delete" to prevent any misunderstanding/clash with field "DELETE".(›¢–úÿÿÿÿ
+l
+java:S1149T"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(–£·Ø
+r
+java:S1149–"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ë’ûşÿÿÿÿ
+r
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(…ƒ’¶üÿÿÿÿ
+m
+java:S1149Ö"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ş‡¸Ğ
+r
+java:S1149ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ëï±Áøÿÿÿÿ
+|
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ÂÚ
+m
+java:S1149É"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¢ˆÓü
+m
+java:S1149õ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¶Ñ«
+|
+java:S1149Š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ÂÚ
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Æòûàüÿÿÿÿ
+
+java:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸûÄ¸ûÿÿÿÿ
+|
+java:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Êıø…
+m
+java:S1149À"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‡¯ß…
+X	java:S107"=Method has 13 parameters, which is greater than 7 authorized.(øüÈıÿÿÿÿ
+S	java:S107½"=Method has 14 parameters, which is greater than 7 authorized.(Äâì
+`
+java:S1124y"EReorder the modifiers to comply with the Java Language Specification.(¶¦…ìşÿÿÿÿ
+`
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(ıÑşìşÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ùè¥¼
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Ç¿•“
+a
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(€ã„Äÿÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(Áá‰ƒ
+U
+java:S4719¢"9Replace charset name argument with StandardCharsets.UTF_8(¬©À“ûÿÿÿÿ
+U
+java:S4719¤">Replace charset name argument with StandardCharsets.ISO_8859_1(Šßù
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(²Øæùÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(Ûüºôûÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.( ó´÷
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(‚ÿ“Ü
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ñâæûÿÿÿÿ
+I
+java:S1113İ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ÈÛ™‹ÿÿÿÿÿ
+a
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(•‰±òıÿÿÿÿ
+Z
+java:S1155ò">Use isEmpty() to check whether the collection is empty or not.(İˆ¶ùÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(öş²´
+i
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(å¬äÕ
+N
+java:S1854Ò"7Remove this useless assignment to local variable "seq".(˜×—Æ
+S
+java:S1854Í"7Remove this useless assignment to local variable "seq".(¼¶ß¸şÿÿÿÿ
+@
+java:S1197Ì"*Move the array designators [] to the type.(å—Ÿ>
+D
+java:S1481Í"(Remove this unused "seq" local variable.(¼¶ß¸şÿÿÿÿ
+@
+java:S1197é"*Move the array designators [] to the type.(å—Ÿ>
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Æòûàüÿÿÿÿ
+B
+java:S1168¿"+Return an empty collection instead of null.(¥¹ï
+R	java:S125"<This block of commented-out lines of code should be removed.(Ô±Ê€
+F
+java:S1197›"*Move the array designators [] to the type.(×Å«üÿÿÿÿ
+F
+java:S1197›"*Move the array designators [] to the type.(×Å«üÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(¡Óí
+O
+java:S4719…	"9Replace charset name argument with StandardCharsets.UTF_8(Ê‚ş 
+T
+java:S4719…	">Replace charset name argument with StandardCharsets.ISO_8859_1(Ê‚ş 
+6
+java:S2437¬	" Remove this silly bit operation.(ê°î>
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ä¶¯üÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(‘šëüÿÿÿÿ
+Z
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(ô½Î¦üÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(ŞË÷æşÿÿÿÿ
+Z
+java:S1155ÿ">Use isEmpty() to check whether the collection is empty or not.(İˆ¶ùÿÿÿÿ
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(ÛŒ•Øûÿÿÿÿ

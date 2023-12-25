@@ -1,0 +1,11 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+@
+java:S2157/"%Add a "clone()" method to this class.(úÒ”äúÿÿÿÿ
+C
+java:S19488"-Make "currentVals" transient or serializable.(®£ç¢
+C
+java:S1125’"'Remove the unnecessary boolean literal.(‘ÖÈéşÿÿÿÿ
+C
+java:S1125Ã"'Remove the unnecessary boolean literal.(‘ÖÈéşÿÿÿÿ

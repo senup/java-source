@@ -1,0 +1,38 @@
+
+]
+java:S1192c"GDefine a constant instead of duplicating this literal "empty" 11 times.(ö˜
+€
+java:S1192„"dDefine a constant instead of duplicating this literal "algorithms.WrongKeyForThisOperation" 3 times.(İëµ­úÿÿÿÿ
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¡ï¤
+Œ
+java:S4165•"pRemove this useless assignment; "signatureAlgorithm" already holds the assigned value along all execution paths.(²··©şÿÿÿÿ
+f
+java:S3457G"KFormat specifiers or lambda should be used instead of string concatenation.(¡âíÃøÿÿÿÿ
+_
+java:S2147U"DCombine this catch with the one at line 82, which has the same body.(µ²ú—ıÿÿÿÿ
+[
+java:S2147v"ECombine this catch with the one at line 116, which has the same body.(Ãôş•
+a
+java:S3457n"KFormat specifiers or lambda should be used instead of string concatenation.(ç‚É„
+A
+java:S1197‚"*Move the array designators [] to the type.(œŸú•
+b
+java:S3457“"KFormat specifiers or lambda should be used instead of string concatenation.(üùÖË
+\
+java:S2147¥"ECombine this catch with the one at line 163, which has the same body.(° µÿ
+A
+java:S1197 "*Move the array designators [] to the type.(şı¾õ
+A
+java:S1197²"*Move the array designators [] to the type.(œŸú•
+A
+java:S1197Å"*Move the array designators [] to the type.(œŸú•
+A
+java:S1197ê"*Move the array designators [] to the type.(ø¦Ù×
+F
+java:S1197"*Move the array designators [] to the type.(Û¤°úÿÿÿÿ
+F
+java:S1197¢"*Move the array designators [] to the type.(¯áö¾ùÿÿÿÿ
+@
+java:S1197·"*Move the array designators [] to the type.(Ö°Ô:
+F
+java:S1197Ñ"*Move the array designators [] to the type.(ÖªŒùøÿÿÿÿ

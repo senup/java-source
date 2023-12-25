@@ -1,0 +1,18 @@
+
+y
+java:S1488o"^Immediately return this expression instead of assigning it to the temporary variable "newRef".(˜Êë§øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+K
+java:S20652"0Remove the "transient" modifier from this field.(€Ø¸ïùÿÿÿÿ
+i
+java:S2975m"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+ˆ
+java:S1130–"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(ËˆĞ¼
+`
+java:S4201µ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(²µ 
+`
+java:S4201À"IRemove this unnecessary null check; "instanceof" returns false for nulls.(²µ 
+W	java:S125ü"<This block of commented-out lines of code should be removed.(û¨óşÿÿÿÿ
+T
+java:S3878¸"8Remove this array creation and simply pass the elements.(Ë¯Äîÿÿÿÿÿ

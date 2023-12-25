@@ -1,0 +1,18 @@
+
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÓøÀþÿÿÿÿ
+>
+java:S1604m"(Make this anonymous inner class a lambda(ïÑ¬ 
+=
+java:S1604v"(Make this anonymous inner class a lambda(ÆÞÖ
+>
+java:S1604ù"(Make this anonymous inner class a lambda(ÆÞÖ
+>
+java:S1604Æ"(Make this anonymous inner class a lambda(ÆÞÖ
+D
+java:S1604Ã"(Make this anonymous inner class a lambda(¥ÎÚìýÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØƒË„
+=
+java:S1452È"&Remove usage of generic wildcard type.(ÚþœÇ

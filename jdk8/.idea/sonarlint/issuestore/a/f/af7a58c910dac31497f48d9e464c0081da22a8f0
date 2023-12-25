@@ -1,0 +1,24 @@
+
+[	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(£çæö
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(èÝÎÑþÿÿÿÿ
+y
+java:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "result".(¹ÑÎŸøÿÿÿÿ
+y
+java:S1488`"^Immediately return this expression instead of assigning it to the temporary variable "result".(¹ÑÎŸøÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŽóûŒûÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(¤úîž
+?
+java:S1197^"*Move the array designators [] to the type.(îáñ-
+?
+java:S1197^"*Move the array designators [] to the type.(îáñ-
+›
+java:S1130t"„Remove the declaration of thrown exception 'javax.management.AttributeNotFoundException', as it cannot be thrown from method's body.(þˆ¹Í
+Ž
+java:S1130u"xRemove the declaration of thrown exception 'javax.management.MBeanException', as it cannot be thrown from method's body.(äÒåš
+@
+java:S1197s"*Move the array designators [] to the type.(ò„ž—
+E
+java:S1197z"*Move the array designators [] to the type.(‘ÿ÷±þÿÿÿÿ
+@
+java:S1197}"*Move the array designators [] to the type.(óÞÂË

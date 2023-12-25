@@ -1,0 +1,10 @@
+
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çûøıÿÿÿÿ
+@
+java:S2157)"%Add a "clone()" method to this class.(Òíä…ûÿÿÿÿ
+=
+java:S1125g"'Remove the unnecessary boolean literal.(‹ºåá
+C
+java:S1125ˆ"'Remove the unnecessary boolean literal.(œÿÙÄùÿÿÿÿ

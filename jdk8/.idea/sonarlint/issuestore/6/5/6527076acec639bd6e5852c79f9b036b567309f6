@@ -1,0 +1,12 @@
+
+K
+java:S3740’"/Provide the parametrized type for this generic.(é€èùşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+F
+java:S2160$"+Override the "equals" method in this class.(‰îñÖøÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(áÊò†ÿÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(€ãúòıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÎÊ™ûÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Ÿ–¿Â

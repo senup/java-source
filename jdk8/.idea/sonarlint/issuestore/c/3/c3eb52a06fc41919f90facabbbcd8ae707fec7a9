@@ -1,0 +1,47 @@
+
+F
+java:S3740­"/Provide the parametrized type for this generic.(Úïòä
+K
+java:S3740°"/Provide the parametrized type for this generic.(ºå®¶ıÿÿÿÿ
+u
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼—¿úÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+m
+java:S3008"VRename this field "DEFAULT_FRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘µ¹Õ
+E
+java:S2387y"/"font" is the name of a field in "FontMetrics".(íÆÅ‰
+o
+java:S1450Œ"XRemove the "devmatrix" field and declare it as a local variable in the relevant methods.(Ğ²ô¸
+J
+java:S2387°"."queue" is the name of a field in "Reference".(ºå®¶ıÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(Ó´ö³
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(¹ÿ›ùøÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(¿½Ó¨üÿÿÿÿ
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(“¿
+V
+java:S1161é":Add the "@Override" annotation above this method signature(úˆŠàûÿÿÿÿ
+F
+java:S1197é"*Move the array designators [] to the type.(úˆŠàûÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ÒœÛˆ
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(ÚüßÖ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(¯œ¥Úÿÿÿÿÿ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(÷®¬üÿÿÿÿ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(«ıĞ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(ÖòŒÆ
+`
+java:S1128#"JRemove this unused import 'java.awt.geom.NoninvertibleTransformException'.(š¯Ò¼
+@
+java:S1068~"*Remove this unused "matrix" private field.(¢««
+W
+java:S1144Í";Remove this unused private "FontDesignMetrics" constructor.(è©³ıÿÿÿÿ

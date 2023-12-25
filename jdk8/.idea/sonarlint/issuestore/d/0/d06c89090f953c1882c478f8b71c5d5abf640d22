@@ -1,0 +1,8 @@
+
+{
+java:S1149?"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
+
+java:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùåú×ûÿÿÿÿ
+{
+java:S1149õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒÄÛ%
+W	java:S107="BConstructor has 10 parameters, which is greater than 7 authorized.(òñÒ

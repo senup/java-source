@@ -1,0 +1,14 @@
+
+J
+java:S1121½".Extract the assignment out of this expression.(ŞÁ’çÿÿÿÿÿ
+t	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+€
+java:S11491"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘õ®òúÿÿÿÿ
+|
+java:S1149œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³¯îƒ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾•Ç£
+2
+java:S3626Ô"Remove this redundant jump.(ÉŠ©ƒ
+I
+java:S1113"-Do not override the Object.finalize() method.(ÙôĞÚıÿÿÿÿ

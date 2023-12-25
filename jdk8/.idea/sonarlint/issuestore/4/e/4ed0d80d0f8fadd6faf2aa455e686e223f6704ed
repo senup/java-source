@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+m
+java:S3008."XRename this field "PLOTTER_COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‚Œ
+O
+java:S59932"9Change the visibility of this constructor to "protected".(íÒğÊ
+T
+java:S59936"9Change the visibility of this constructor to "protected".(ÇŒœüÿÿÿÿ
+m
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ı¥ÜÉûÿÿÿÿ
+`
+java:S3252i"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ãÎ˜ÿÿÿÿÿ

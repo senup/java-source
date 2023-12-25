@@ -1,0 +1,25 @@
+
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÀÆŠûÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÀÆŠûÿÿÿÿ
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÀÆŠûÿÿÿÿ
+t
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÀÆŠûÿÿÿÿ
+A
+java:S2160*"+Override the "equals" method in this class.(ùèòÙ
+U
+java:S1161C":Add the "@Override" annotation above this method signature(Ô¢­Ûùÿÿÿÿ
+O
+java:S1161M":Add the "@Override" annotation above this method signature(úôð
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+E
+java:S1128 "/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+N
+java:S1128!"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊþÿÿÿÿ
+I
+java:S1128"".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+M
+java:S1128$"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ

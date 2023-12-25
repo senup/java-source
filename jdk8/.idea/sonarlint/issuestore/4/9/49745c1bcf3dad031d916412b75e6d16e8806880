@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+V
+java:S1128";Remove this unused import 'java.awt.GraphicsConfiguration'.(ßª›Åüÿÿÿÿ
+N
+java:S1128"9Remove this unused import 'java.awt.GraphicsEnvironment'.(Í»‘"
+M
+java:S1128"7Remove this unused import 'java.awt.ImageCapabilities'.(ÿ¾›
+Q
+java:S1128!";Remove this unused import 'sun.java2d.loops.CompositeType'.(œéÔ

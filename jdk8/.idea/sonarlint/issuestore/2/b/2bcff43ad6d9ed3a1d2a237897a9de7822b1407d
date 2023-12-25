@@ -1,0 +1,19 @@
+
+C
+java:S1604T"(Make this anonymous inner class a lambda(úªçºÿÿÿÿÿ
+X
+java:S4973¢"<Strings and Boxed types should be compared using "equals()".(ÛŠ°ªùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+m
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(šÆâóüÿÿÿÿ
+^
+java:S3252;"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(„¾Å˜þÿÿÿÿ
+X
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ë¼ï
+X
+java:S3252‚"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ì–˜ 
+Z
+java:S3252ƒ"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(µ´ÎÀ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(Ú„ÎÕþÿÿÿÿ

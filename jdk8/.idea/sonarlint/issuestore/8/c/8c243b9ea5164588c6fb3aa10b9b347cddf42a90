@@ -1,0 +1,67 @@
+
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬éÓ‰ıÿÿÿÿ
+d
+java:S1192®"HDefine a constant instead of duplicating this literal "Maximum" 3 times.(ß›ØÙúÿÿÿÿ
+d
+java:S1192®"HDefine a constant instead of duplicating this literal "Minimum" 3 times.(ß›ØÙúÿÿÿÿ
+o	java:S135İ"YReduce the total number of break and continue statements in this loop to use at most one.(æğ‘ó
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¨Ôêşÿÿÿÿ
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßºâã
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùòİˆ
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚²ÿüÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€ß
+]
+java:S2184"ACast one of the operands of this addition operation to a "float".(ŠÎÍùÿÿÿÿ
+m	java:S116Œ"WRename this field "gain_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶¡ø
+r	java:S116"WRename this field "mute_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¦âÚøÿÿÿÿ
+o	java:S116"ZRename this field "balance_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÓ….
+q	java:S116’"VRename this field "pan_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š£ÓÃıÿÿÿÿ
+s	java:S116”"]Rename this field "reverbsend_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¥¡‚
+x	java:S116–"]Rename this field "chorussend_control" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ßšàıÿÿÿÿ
+m	java:S116˜"WRename this field "apply_reverb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÎÉ¦
+s	java:S116¦"XRename this field "control_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓòÔÊÿÿÿÿÿ
+m	java:S116F"XRename this field "ibuffer_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÀÏƒ
+p	java:S116H"VRename this field "ibuffer_len" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÊ³şÿÿÿÿ
+j	java:S116N"URename this field "buffer_len" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²æ“ã
+k	java:S116X"WRename this field "mark_ibuffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢–u
+r	java:S116Z"]Rename this field "mark_ibuffer_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ»èÿ
+u	java:S116\"[Rename this field "mark_ibuffer_len" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ù‡şûÿÿÿÿ
+7
+java:S1170N"!Make this final field static too.(²æ“ã
+m
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²“—»ÿÿÿÿÿ
+_
+java:S4201h"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¬Üğ£
+Q	java:S125{"<This block of commented-out lines of code should be removed.(²ÁàÁ
+W	java:S125’"<This block of commented-out lines of code should be removed.(È£•±øÿÿÿÿ
+p
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¯«öå
+R
+java:S1117±"6Rename "ix" which hides the field declared at line 84.(µø’ıÿÿÿÿ
+R
+java:S1117Ê"6Rename "ix" which hides the field declared at line 84.(ûêÈûÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Æõ¬¼
+R
+java:S1117ù"6Rename "ix" which hides the field declared at line 84.(óŸ•µüÿÿÿÿ
+p
+java:S3012Œ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¯«öå
+V
+java:S1161±":Add the "@Override" annotation above this method signature(¡ÀºÙûÿÿÿÿ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(İ‡º
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(İ‡º
+V
+java:S1161×":Add the "@Override" annotation above this method signature(¡ÀºÙûÿÿÿÿ
+V
+java:S1161å":Add the "@Override" annotation above this method signature(¡ÀºÙûÿÿÿÿ
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(„®Ùæúÿÿÿÿ
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(¡ÀºÙûÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(¡ÀºÙûÿÿÿÿ
+Z
+java:S1155Ö">Use isEmpty() to check whether the collection is empty or not.(ÿÊ‡Ìÿÿÿÿÿ

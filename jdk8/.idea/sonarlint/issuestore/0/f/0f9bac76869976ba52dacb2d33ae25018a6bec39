@@ -1,0 +1,23 @@
+
+8
+java:S16591""Declare "pad2" on a separate line.(éÊñş
+B
+java:S1125p"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+F
+java:S1197ƒ"*Move the array designators [] to the type.(×ş©ÿøÿÿÿÿ
+C
+java:S1125„"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+C
+java:S1125¡"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+C
+java:S1125À"'Remove the unnecessary boolean literal.(ÓˆÃûÿÿÿÿ
+F
+java:S1197Ö"*Move the array designators [] to the type.(ğ¥¿¯üÿÿÿÿ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(¡ ˆŒ
+F
+java:S1197÷"*Move the array designators [] to the type.(ğ¥¿¯üÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(¡ ˆŒ

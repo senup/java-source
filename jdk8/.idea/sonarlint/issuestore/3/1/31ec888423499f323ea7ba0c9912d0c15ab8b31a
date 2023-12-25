@@ -1,0 +1,13 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã®Êè
+F
+java:S2160>"+Override the "equals" method in this class.(ÇŒ¶™ùÿÿÿÿ
+C
+java:S1948C"(Make "params" transient or serializable.(Ûçğ±ùÿÿÿÿ
+U
+java:S1161f":Add the "@Override" annotation above this method signature(ÑÍÕ­ùÿÿÿÿ
+P
+java:S1161w":Add the "@Override" annotation above this method signature(‰„Ä
+a
+java:S2147—"ECombine this catch with the one at line 149, which has the same body.(’ç·”ıÿÿÿÿ

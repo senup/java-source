@@ -1,0 +1,33 @@
+
+u
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÜ›çýÿÿÿÿ
+D
+java:S1604ƒ"(Make this anonymous inner class a lambda(ˆÃéñûÿÿÿÿ
+_
+java:S3014}"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(È¢„€
+e
+java:S3014…"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".( ÖàŠýÿÿÿÿ
+e
+java:S3014†"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+7
+java:S1116?"Remove this empty statement.(¼Ù¥äøÿÿÿÿ
+P
+java:S1161X":Add the "@Override" annotation above this method signature(“–ýþ
+1
+java:S3626w"Remove this redundant jump.(ÉŠ©ƒ
+j
+java:S1215m"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+y
+java:S2142v"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÔÍÏÚýÿÿÿÿ
+G
+java:S2446¢"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+y
+java:S2273¢"bMove this call to "notify()" into a synchronized block to be sure the monitor on "Object" is held.(ŒâÌ†
+p
+java:S1210ô"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ƒòÞ
+`
+java:S3358÷"DExtract this nested ternary operation into an independent statement.(·±â’ùÿÿÿÿ
+>
+java:S3398™"'Move this method into "LatencyRequest".(Þóý»

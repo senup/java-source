@@ -1,0 +1,59 @@
+
+E
+java:S3740="/Provide the parametrized type for this generic.(ää€
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(´·ÁÏøÿÿÿÿ
+u
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+u
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(´·ÁÏøÿÿÿÿ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+p
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡úîß
+o
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ñ¢e
+h
+java:S1192¥"QDefine a constant instead of duplicating this literal "NotifFetcher-run" 5 times.(ŞÃÒí
+r
+java:S1192Š"[Define a constant instead of duplicating this literal "NotifFetcher.fetchOneNotif" 6 times.(Í”¨ú
+r
+java:S1192Ä"[Define a constant instead of duplicating this literal "removeNotificationListener" 3 times.(Ì å³
+D
+java:S1604¢"(Make this anonymous inner class a lambda(†ÜÀüøÿÿÿÿ
+O
+java:S5993="9Change the visibility of this constructor to "protected".(ää€
+O
+java:S5993z"9Change the visibility of this constructor to "protected".(ó×©õ
+a
+java:S1124‘"EReorder the modifiers to comply with the Java Language Specification.(ç³¥ïøÿÿÿÿ
+a
+java:S1124–"EReorder the modifiers to comply with the Java Language Specification.(„šË†úÿÿÿÿ
+a
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(ˆ¶ÛÄıÿÿÿÿ
+\
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(–´ùİ
+›
+java:S1130©"ƒRemove the declaration of thrown exception 'javax.management.InstanceNotFoundException', as it cannot be thrown from method's body.(—¯¸¢
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯Ğ›í
+u
+java:S2142¾"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+u
+java:S2142ç"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+n
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Õ§Ö”úÿÿÿÿ
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(”ú¬ûÿÿÿÿ
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ôª‡€ÿÿÿÿÿ
+>
+java:S1125ó"'Remove the unnecessary boolean literal.(œÜÜì
+u
+java:S2142û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(œÜÜì
+u
+java:S2142Ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä³Á€

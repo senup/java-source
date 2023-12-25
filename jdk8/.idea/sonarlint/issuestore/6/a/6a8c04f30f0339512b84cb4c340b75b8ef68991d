@@ -1,0 +1,42 @@
+
+K
+java:S3740•"/Provide the parametrized type for this generic.(ı”øÿÿÿÿ
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(º³®
+E
+java:S3740á"/Provide the parametrized type for this generic.(ªáÅv
+K
+java:S3740æ"/Provide the parametrized type for this generic.(óßêÀùÿÿÿÿ
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ†÷ğ
+o
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ†÷ğ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ
+
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ
+˜
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+H
+java:S1948-"-Make "columnModel" transient or serializable.(¢Ùßˆÿÿÿÿÿ
+G
+java:S1948/"1Make "evtListenerList" transient or serializable.(ÀŸ×
+{
+java:S1149/"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÀŸ×
+
+java:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ı”øÿÿÿÿ
+|
+java:S1149Ü"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(º³®
+{
+java:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ªáÅv
+
+java:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óßêÀùÿÿÿÿ
+N	java:S106‹"9Replace this use of System.out or System.err by a logger.(æ®¡^
+n
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Æ×‹Ëûÿÿÿÿ
+I
+java:S1172å"-Remove this unused method parameter "column".(È©ú¼ùÿÿÿÿ

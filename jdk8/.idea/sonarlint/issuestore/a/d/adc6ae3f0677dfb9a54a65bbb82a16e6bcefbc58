@@ -1,0 +1,22 @@
+
+n	java:S135t"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+{
+java:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñíü
+{
+java:S1149C"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰úë…
+€
+java:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ß»âïüÿÿÿÿ
+€
+java:S1149Z"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤ŒüËşÿÿÿÿ
+U
+java:S11186":Add a private constructor to hide the implicit public one.(ÿñÎ¢ÿÿÿÿÿ
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ñíü
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(‰úë…
+`
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(ß»âïüÿÿÿÿ
+m
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¤ŒüËşÿÿÿÿ
+`
+java:S1124Z"EReorder the modifiers to comply with the Java Language Specification.(¤ŒüËşÿÿÿÿ

@@ -1,0 +1,6 @@
+
+g	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦¶ˆàùÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(žƒÁÿþÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸýÿÿÿÿ

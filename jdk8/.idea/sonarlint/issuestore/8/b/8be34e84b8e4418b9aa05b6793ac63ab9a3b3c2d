@@ -1,0 +1,34 @@
+
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎŸÑÌÿÿÿÿÿ
+o
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¤œ
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(§’Èå
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(üü°
+s
+java:S1192ˆ"WDefine a constant instead of duplicating this literal "readAuthorizedListFile" 6 times.(ˆÜŠèüÿÿÿÿ
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Õ£Üüÿÿÿÿ
+k	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+|
+java:S1149‹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üü°
+{
+java:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚“¤©ûÿÿÿÿ
+
+java:S1149Ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£ÖµŞùÿÿÿÿ
+
+java:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£ÖµŞùÿÿÿÿ
+r
+java:S1149ß"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£°³¥şÿÿÿÿ
+r
+java:S1149ã"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãåŠŞúÿÿÿÿ
+a
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(ğ›ø©üÿÿÿÿ
+[
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(ÖÁ´8
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(µÑËùşÿÿÿÿ
+=
+java:S1181¥"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ

@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(×ïéŸüÿÿÿÿ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­€ŽÍ
+V	java:S125]"<This block of commented-out lines of code should be removed.(Ç’ø¸ÿÿÿÿÿ
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ƒ´ß
+P
+java:S1128!":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+@
+java:S3398r"*Move this method into "GetInstanceAction".(˜‘û–

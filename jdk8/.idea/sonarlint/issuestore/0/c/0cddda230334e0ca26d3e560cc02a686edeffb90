@@ -1,0 +1,10 @@
+
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê‘‘˜ùÿÿÿÿ
+o	java:S135ð"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+v
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Œ
+java:S1130V"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(éÔóôúÿÿÿÿ

@@ -1,0 +1,18 @@
+
+I
+java:S11219".Extract the assignment out of this expression.(¯‚€ıÿÿÿÿ
+I
+java:S1121O".Extract the assignment out of this expression.(Š‹î‰ûÿÿÿÿ
+K
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(ªÜğÑûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+`
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(â¸üüÿÿÿÿ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ßŞ´Ãøÿÿÿÿ
+`
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(Œ¢“´øÿÿÿÿ
+X
+java:S1126U"BReplace this if-then-else statement by a single method invocation.(Ë¼‡Î
+R	java:S125„"<This block of commented-out lines of code should be removed.(”êé¹

@@ -1,0 +1,13 @@
+
+t
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¤ûÿÿÿÿÿ
+j
+java:S1104P"OMake min a static final constant or non-public and provide accessors if needed.(Ü—ùßÿÿÿÿÿ
+e
+java:S1104U"OMake max a static final constant or non-public and provide accessors if needed.(¢€ê×
+f
+java:S1104Z"PMake dflt a static final constant or non-public and provide accessors if needed.(™ÆÄÛ
+h
+java:S1104`"RMake labels a static final constant or non-public and provide accessors if needed.(öÆ£¹
+Q
+java:S1117‚":Rename "labels" which hides the field declared at line 96.(¾àº€

@@ -1,0 +1,11 @@
+
+/
+java:S1700+"Rename field "cache"(Œ’Ìøÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒÁÿşÿÿÿÿ
+P
+java:S1118$":Add a private constructor to hide the implicit public one.(Šƒ½
+6
+java:S5164+"Call "remove()" on "cache".(Œ’Ìøÿÿÿÿ
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(•äùùøÿÿÿÿ

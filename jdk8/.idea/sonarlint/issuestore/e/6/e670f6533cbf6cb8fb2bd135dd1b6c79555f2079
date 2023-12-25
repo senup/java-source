@@ -1,0 +1,66 @@
+
+n	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èº¯u
+t	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í¥Ùœøÿÿÿÿ
+t	java:S115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô‚¬Íıÿÿÿÿ
+t	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å¯Öºÿÿÿÿÿ
+t	java:S115l"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼Æ²àüÿÿÿÿ
+o	java:S115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ş×ò
+p	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÚ£Á
+m
+java:S1149’"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°˜ñã
+r
+java:S1149–"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(•‡ğ¶şÿÿÿÿ
+r
+java:S1149œ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(˜É ãıÿÿÿÿ
+m
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÔÂÌë
+Z
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(Èº¯u
+`
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(Í¥Ùœøÿÿÿÿ
+`
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(Ô‚¬Íıÿÿÿÿ
+`
+java:S1124_"EReorder the modifiers to comply with the Java Language Specification.(å¯Öºÿÿÿÿÿ
+`
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(¼Æ²àüÿÿÿÿ
+[
+java:S1124x"EReorder the modifiers to comply with the Java Language Specification.(…ş×ò
+\
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(ÎÚ£Á
+a
+java:S1124ş"EReorder the modifiers to comply with the Java Language Specification.(ÇŒüÎûÿÿÿÿ
+]
+java:S1126€"AReplace this if-then-else statement by a single return statement.(ù¨À°úÿÿÿÿ
+a
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(˜É ãıÿÿÿÿ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÂÌë
+=
+java:S2129Ÿ"!Remove this "Integer" constructor(©€ÌÙşÿÿÿÿ
+8
+java:S2129 "!Remove this "Integer" constructor(Ï°Ö¹
+8
+java:S2129¡"!Remove this "Integer" constructor(à³
+8
+java:S2129¢"!Remove this "Integer" constructor(åÄ˜‚
+8
+java:S2129£"!Remove this "Integer" constructor(øİ¡î
+7
+java:S2129¤"!Remove this "Integer" constructor(æ¹«D
+8
+java:S2129¥"!Remove this "Integer" constructor(Œ³¥ë
+=
+java:S2129¦"!Remove this "Integer" constructor(ø§ë·ıÿÿÿÿ
+=
+java:S2129§"!Remove this "Integer" constructor(ŠİÖŠÿÿÿÿÿ
+=
+java:S2129¨"!Remove this "Integer" constructor(¸ÛÅøÿÿÿÿ
+8
+java:S2129©"!Remove this "Integer" constructor(ÇÅŒ¤
+8
+java:S2129ª"!Remove this "Integer" constructor(Á´˜
+8
+java:S2129«"!Remove this "Integer" constructor(ˆ¨±ë
+8
+java:S2129¬"!Remove this "Integer" constructor(Å¯Œ£

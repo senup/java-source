@@ -1,0 +1,22 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(´ªâşüÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(©‘ €
+‰
+java:S11306"sRemove the declaration of thrown exception 'java.rmi.RemoteException' which is a subclass of 'java.lang.Exception'.(µ…ÜÀ
+
+java:S11306"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.lang.Exception'.(µ…ÜÀ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÜÜ“
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(©çûÓ
+h
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘
+T
+java:S1854"8Remove this useless assignment to local variable "stub".(Ç’­ÿÿÿÿÿ
+U
+java:S1874z":Remove this use of "RMISecurityManager"; it is deprecated.(éŸÉÖşÿÿÿÿ
+E
+java:S1481")Remove this unused "stub" local variable.(Ç’­ÿÿÿÿÿ
+N	java:S106’"9Replace this use of System.out or System.err by a logger.(¾›£
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(­áàúÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ãÊ¶ºúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Âîÿÿÿÿÿ

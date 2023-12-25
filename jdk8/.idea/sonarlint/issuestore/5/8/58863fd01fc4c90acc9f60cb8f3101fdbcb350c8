@@ -1,0 +1,11 @@
+
+?
+java:S1604"(Make this anonymous inner class a lambda(ïµÉö
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+U
+java:S2259À"?A "NullPointerException" could be thrown; "v" is nullable here.(ğÚ›q
+U
+java:S2259™"?A "NullPointerException" could be thrown; "v" is nullable here.(ğÚ›q
+U
+java:S4719ï"9Replace charset name argument with StandardCharsets.UTF_8(®ŒíÈùÿÿÿÿ

@@ -1,0 +1,38 @@
+
+\	java:S112ô"FDefine and throw a dedicated exception instead of using a generic one.(¶§Û
+>
+java:S1604İ"(Make this anonymous inner class a lambda(¥±½%
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+e
+java:S3824Ú"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(£ˆ¾®
+o	java:S115W"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡Ó‰ö
+t	java:S115]"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š¹âöıÿÿÿÿ
+o	java:S115c"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì¶™Ÿ
+o	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ğ
+t	java:S115l"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÉĞüÿÿÿÿ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(õş§×øÿÿÿÿ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ış
+u
+java:S2142™"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S108™")Either remove or fill this block of code.(ä ¹€
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬ï™á
+D
+java:S4274Û"(Replace this assert with a proper check.(†ÜíÊıÿÿÿÿ
+?
+java:S4274í"(Replace this assert with a proper check.(ş”öá
+U
+java:S1155ú">Use isEmpty() to check whether the collection is empty or not.(ş¦„¢
+Q
+java:S1128%"6Remove this unused import 'java.rmi.ConnectException'.(×ˆÁ”ûÿÿÿÿ
+B
+java:S3398"&Move this method into "EndpointEntry".(œ¥™Úıÿÿÿÿ
+B
+java:S3398”"&Move this method into "EndpointEntry".(¿­ÿ³ıÿÿÿÿ
+@
+java:S3398Ò")Move this method into "RenewCleanThread".(¬ï™á
+@
+java:S3398“")Move this method into "RenewCleanThread".(¡ŠĞñ

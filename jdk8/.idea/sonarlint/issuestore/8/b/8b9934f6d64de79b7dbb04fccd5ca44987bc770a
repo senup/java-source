@@ -1,0 +1,13 @@
+
+k
+java:S1104&"PMake sval a static final constant or non-public and provide accessors if needed.(õ‹Ğûÿÿÿÿ
+k
+java:S1104'"PMake nval a static final constant or non-public and provide accessors if needed.(½òİ¥úÿÿÿÿ
+l
+java:S1104("QMake ttype a static final constant or non-public and provide accessors if needed.(ºÁÄØüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+<
+java:S1905G"&Remove this unnecessary cast to "int".(Ê³öÏ
+<
+java:S1905f"&Remove this unnecessary cast to "int".(Ê³öÏ

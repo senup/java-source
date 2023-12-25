@@ -1,0 +1,22 @@
+
+s	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(È¥‰êÿÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(Ëˆ±ş
+P
+java:S1141R"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+N
+java:S1143™"7Remove this continue statement from this finally block.(ÉŠ©ƒ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ŒËé
+c
+java:S2259—"GA "NullPointerException" could be thrown; "lastError" is nullable here.(²†Î±øÿÿÿÿ
+h
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Çµí‘
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(÷´·™ûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(÷´·™ûÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(ÂÎ­±

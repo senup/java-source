@@ -1,0 +1,118 @@
+
+p
+java:S2293ê
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÿ˜Ó
+g
+java:S1192®"KDefine a constant instead of duplicating this literal "ISO-8859-1" 7 times.(¸İÏÏøÿÿÿÿ
+m
+java:S1192Î
+"QDefine a constant instead of duplicating this literal "imageIndex != 0!" 5 times.(üêµ¡üÿÿÿÿ
+o	java:S135Ë"YReduce the total number of break and continue statements in this loop to use at most one.(«…¨×
+Q
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤àøÿÿÿÿ
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÏÕ”
+l	java:S117Â	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛšŞæÿÿÿÿÿ
+g	java:S117Ã	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ƒ
+g	java:S117Ä	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…Á×
+l	java:S117Å	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ù¯ìùÿÿÿÿ
+P
+java:S1191="5Use classes from the Java API instead of Sun classes.(Óîµ¶şÿÿÿÿ
+^
+java:S2259ù"GA "NullPointerException" could be thrown; "shortData" is nullable here.(›ûæ“
+F
+java:S1150?"+Implement Iterator rather than Enumeration.(Ü†¹şÿÿÿÿÿ
+?
+java:S1481I")Remove this unused "type" local variable.(É÷½
+M
+java:S1854\"7Remove this useless assignment to local variable "crc".(©ù•™
+>
+java:S1481\"(Remove this unused "crc" local variable.(©ù•™
+\
+java:S1126_"AReplace this if-then-else statement by a single return statement.(À”Şˆùÿÿÿÿ
+o	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿŒï 
+o	java:S115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§óŞ
+t	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éÔ€’ùÿÿÿÿ
+o	java:S115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á’”
+o	java:S115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îšµ®
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›æâ´şÿÿÿÿ
+p	java:S115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íò…å
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Åª‘úÿÿÿÿ
+u	java:S115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çó¿»ÿÿÿÿÿ
+u	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É¶¥„ûÿÿÿÿ
+u	java:S115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä¼¾úÿÿÿÿ
+u	java:S115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çœ§‚üÿÿÿÿ
+p	java:S115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íìŠŒ
+u	java:S115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“¡‚Âıÿÿÿÿ
+u	java:S115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ€„Šûÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(­°§é
+n
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´”©çùÿÿÿÿ
+i	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ†ıÿÿÿÿ
+i	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñß‰‘øÿÿÿÿ
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ú€âûÿÿÿÿ
+i	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ï½¿ıÿÿÿÿ
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿Ïšûÿÿÿÿ
+Œ
+java:S1130›"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(²Œå
+i	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÆ‚Ãÿÿÿÿÿ
+d	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹ºª
+U
+java:S4719Ö"9Replace charset name argument with StandardCharsets.UTF_8(Áá¤Šüÿÿÿÿ
+U
+java:S4719Ø"9Replace charset name argument with StandardCharsets.UTF_8(ÍÀù€øÿÿÿÿ
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘äöùÿÿÿÿ
+c	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â££l
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅïúÿÿÿÿ
+Œ
+java:S1130ü"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+i	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘şİüÿÿÿÿ
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®÷‘ûÿÿÿÿ
+U
+java:S4719­">Replace charset name argument with StandardCharsets.ISO_8859_1(æ™ÍÚ
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’Ÿ‹úÿÿÿÿ
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸüóÍúÿÿÿÿ
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‹ï¶ÿÿÿÿÿ
+7
+java:S2129‚"!Remove this "Integer" constructor(ÚğÌ<
+Z
+java:S4719†">Replace charset name argument with StandardCharsets.ISO_8859_1(…ş›‰øÿÿÿÿ
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¶“®úÿÿÿÿ
+R
+java:S1119°";Refactor the code to remove this label and the need for it.(ÂúœÎ
+8
+java:S1116¸"Remove this empty statement.(ôŸìúÿÿÿÿ
+c
+java:S1659¶"GDeclare "priorPixel" and all following declarations on a separate line.(Î¿ú×úÿÿÿÿ
+^
+java:S1659Ú"GDeclare "priorPixel" and all following declarations on a separate line.(Ë³¦ğ
+Œ
+java:S1130š"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(ïôää
+n
+java:S2737Ú"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(Óâ¥ó
+N
+java:S1135Ù"2Complete the task associated to this TODO comment.(»½éøÿÿÿÿ
+Œ
+java:S1130µ	"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+W	java:S125Œ
+"<This block of commented-out lines of code should be removed.(ı„èÇøÿÿÿÿ
+F
+java:S2093ı	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776à
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”¸íäøÿÿÿÿ
+W
+java:S1117î
+"@Rename "bandOffsets" which hides the field declared at line 879.(Øú©õ
+P
+java:S1161¤":Add the "@Override" annotation above this method signature(êÆ”=
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(¡ÀØ”
+E
+java:S1068¥")Remove this unused "debug" private field.(ˆ€„Šûÿÿÿÿ

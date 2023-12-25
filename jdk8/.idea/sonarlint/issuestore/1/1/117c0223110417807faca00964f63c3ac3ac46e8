@@ -1,0 +1,18 @@
+
+a	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(é­ËŸøÿÿÿÿ
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(·­¤˜üÿÿÿÿ
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âõ’‚
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÈ£˜
+K
+java:S11916"5Use classes from the Java API instead of Sun classes.(¹ïÉà
+j
+java:S3824¨"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(öóİèşÿÿÿÿ
+=
+java:S1168½"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168Á"&Return an empty array instead of null.(¥¹ï
+Y
+java:S1128+"DRemove this unused import 'javax.management.IntrospectionException'.(çö¼

@@ -1,0 +1,24 @@
+
+t	java:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+P
+java:S1191)"5Use classes from the Java API instead of Sun classes.(ÝÃêâøÿÿÿÿ
+A
+java:S2160J"+Override the "equals" method in this class.(¹†±À
+g
+java:S1149ï"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ýœµû
+g
+java:S1149ð"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ß©‹Ý
+l
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¿ÊÄÜùÿÿÿÿ
+g
+java:S1149¦"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŸíÄè
+>
+java:S1125‚"(Remove the unnecessary boolean literals.(¥ÿ›
+i
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(º—­ž
+U
+java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(Ã˜ÖÁ
+=
+java:S2129Ð"!Remove this "Integer" constructor(¹¸°ëýÿÿÿÿ
+=
+java:S2129Ó"!Remove this "Integer" constructor(¹¸°ëýÿÿÿÿ

@@ -1,0 +1,10 @@
+
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(α¨ΓΆ
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(α¨ΓΆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Σ²νωÿÿÿÿ
+F
+java:S19483"+Make "ownerList" transient or serializable.(Αµ§ωÿÿÿÿ
+€
+java:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Αµ§ωÿÿÿÿ

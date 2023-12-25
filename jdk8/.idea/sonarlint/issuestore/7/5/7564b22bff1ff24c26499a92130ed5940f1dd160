@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(’¡£îûÿÿÿÿ
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(‹Äåøÿÿÿÿ
+D
+java:S4274„"(Replace this assert with a proper check.(’Ú½ëúÿÿÿÿ
+D
+java:S4274¥"(Replace this assert with a proper check.(„±»«şÿÿÿÿ
+D
+java:S4274Á"(Replace this assert with a proper check.(ÊÄı¬úÿÿÿÿ

@@ -1,0 +1,23 @@
+
+A
+java:S2390I"+Remove this reference to "VersionHelper12".(âå‰ï
+|
+java:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÖÃ©É
+Z
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(îŸÏ
+Z
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(ãÍë/
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(ğüÈ‚
+`
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(î‹üÿÿÿÿ
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(ÿ×¡ïÿÿÿÿÿ
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(¦õ‰¸
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(É«ìó
+`
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(â‚¹èûÿÿÿÿ
+[
+java:S1124ˆ"EReorder the modifiers to comply with the Java Language Specification.(Ôâ×

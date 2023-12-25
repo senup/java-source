@@ -1,0 +1,26 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(½ò…Ëýÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.(´×Æ”ùÿÿÿÿ
+J
+java:S1172‡".Remove this unused method parameter "srcData".(² ™Ôÿÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(§Ô“é
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(§––Áûÿÿÿÿ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(—û þÿÿÿÿ
+W	java:S125Ý"<This block of commented-out lines of code should be removed.(»ó­äúÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(»ó­äúÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(»ó­äúÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(»ó­äúÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(Øþ«¼ýÿÿÿÿ
+R
+java:S2696õ"6Make the enclosing method "static" or remove this set.(À¬’´úÿÿÿÿ
+W
+java:S1126ˆ"AReplace this if-then-else statement by a single return statement.(Í¦Ù
+d
+java:S1172“"MRemove these unused method parameters "sg2d", "x", "y", "w", "h", "dx", "dy".(¦Íñ¨
+P
+java:S3400¬"9Remove this method and declare a constant for this value.(È¸å
+L
+java:S11283"6Remove this unused import 'sun.java2d.loops.FontInfo'.(ôªó

@@ -1,0 +1,13 @@
+
+K
+java:S1066¯"/Merge this if statement with the enclosing one.(Ô“ÉÏüÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éýÿÿÿÿ
+@
+java:S1197:"*Move the array designators [] to the type.(Ç¸à¦
+o
+java:S3012P"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‚–‡¤
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Îûõ²ûÿÿÿÿ
+i
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(å™–³

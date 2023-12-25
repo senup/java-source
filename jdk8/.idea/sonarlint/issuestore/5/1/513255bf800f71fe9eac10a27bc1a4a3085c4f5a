@@ -1,0 +1,27 @@
+
+^
+java:S1192b"HDefine a constant instead of duplicating this literal "I can't" 3 times.(Şõåë
+j
+java:S1192W"ODefine a constant instead of duplicating this literal "Can I resolve " 3 times.(—Ò‚Íşÿÿÿÿ
+P
+java:S1161F":Add the "@Override" annotation above this method signature(££Ûì
+U
+java:S1161S":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+f
+java:S3457W"KFormat specifiers or lambda should be used instead of string concatenation.(—Ò‚Íşÿÿÿÿ
+7
+java:S3457b"!Single quote "'" must be escaped.(Şõåë
+P
+java:S1161n":Add the "@Override" annotation above this method signature(èÄíÅ
+P
+java:S1161~":Add the "@Override" annotation above this method signature(éÑØ 
+g
+java:S3457‚"KFormat specifiers or lambda should be used instead of string concatenation.(—Ò‚Íşÿÿÿÿ
+8
+java:S3457"!Single quote "'" must be escaped.(Şõåë
+P
+java:S1161š":Add the "@Override" annotation above this method signature(¾ô°T
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(—Ò‚Íşÿÿÿÿ
+8
+java:S3457©"!Single quote "'" must be escaped.(Şõåë

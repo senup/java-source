@@ -1,0 +1,15 @@
+
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(²Àœ©øÿÿÿÿ
+K
+java:S3740ÿ"/Provide the parametrized type for this generic.(§²ıûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+
+java:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²Àœ©øÿÿÿÿ
+
+java:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§²ıûÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ù£
+A
+java:S1197"*Move the array designators [] to the type.(±Ûá 
+d	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã•¡ï

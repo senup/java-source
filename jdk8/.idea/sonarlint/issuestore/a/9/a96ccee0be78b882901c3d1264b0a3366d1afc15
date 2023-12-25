@@ -1,0 +1,65 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+Z
+java:S25837"DChange this condition so that it does not always evaluate to "false"(¯âµº
+u
+java:S1149="_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(·‘é€
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(Ùòå“ÿÿÿÿÿ
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(ĞûÇ–ıÿÿÿÿ
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(Ú…õ÷
+=
+java:S11257"'Remove the unnecessary boolean literal.(¯âµº
+9
+java:S1659M"#Declare "gotLF" on a separate line.(ÍïĞÖ
+m
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Í‰ä”ùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¼ÁÒüùÿÿÿÿ
+W
+java:S1119”";Refactor the code to remove this label and the need for it.(¶µúƒıÿÿÿÿ
+=	java:S131–""Add a default case to this switch.(îÇËúÿÿÿÿ
+A
+java:S1197±"*Move the array designators [] to the type.(ÿè¥Ü
+<
+java:S2129È" Remove this "String" constructor(ÅÃµïıÿÿÿÿ
+8
+java:S1659à"!Declare "eof" on a separate line.(Ò½íñ
+a
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(…ÀÊ†øÿÿÿÿ
+‡
+java:S1130é"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(»ø,
+Q
+java:S1161ò":Add the "@Override" annotation above this method signature(ÉáúÊ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(•¶ Íúÿÿÿÿ
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(•¶ Íúÿÿÿÿ
+D
+java:S1659"(Declare "willreturn" on a separate line.(ÖŒšêÿÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(ª©ˆ›
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(°‡Ÿ©ÿÿÿÿÿ
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+V
+java:S1161Ë":Add the "@Override" annotation above this method signature(Èı……øÿÿÿÿ
+Q
+java:S1161Ô":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
+?
+java:S4274ê"(Replace this assert with a proper check.(€úÍ
+
+java:S1130ç"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ÃËáùıÿÿÿÿ
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(ß›‘‰
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(ØŠÏÿÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(¦Àù¢
+C
+java:S1068*"(Remove this unused "chan" private field.(ÇˆÙßıÿÿÿÿ

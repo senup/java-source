@@ -1,0 +1,50 @@
+
+E
+java:S3740>"/Provide the parametrized type for this generic.(ºª´
+J
+java:S3740@"/Provide the parametrized type for this generic.(ïğğÀşÿÿÿÿ
+E
+java:S3740U"/Provide the parametrized type for this generic.(œş¶”
+E
+java:S3740V"/Provide the parametrized type for this generic.(·ªÿš
+F
+java:S3740ú"/Provide the parametrized type for this generic.(œş¶”
+F
+java:S3740û"/Provide the parametrized type for this generic.(·ªÿš
+Q
+java:S1141Ş"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141é"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ğ×ÏÀ
+j	java:S116;"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©€ÁŞûÿÿÿÿ
+l
+java:S1149>"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ºª´
+€
+java:S1149@"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïğğÀşÿÿÿÿ
+¦
+java:S1130["ŠRemove the declaration of thrown exception 'javax.sound.sampled.UnsupportedAudioFileException', as it cannot be thrown from method's body.(Ú×¦ üÿÿÿÿ
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Á‡öˆıÿÿÿÿ
+S
+java:S1854ê"7Remove this useless assignment to local variable "mff".(ä†ıüÿÿÿÿ
+N	java:S106œ"9Replace this use of System.out or System.err by a logger.(èÉƒY
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¯™ç‘
+D
+java:S1481ê"(Remove this unused "mff" local variable.(ä†ıüÿÿÿÿ
+\
+java:S2147"ECombine this catch with the one at line 255, which has the same body.(„¶è
+L
+java:S2446’"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ù¯Šıÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¡¡ºÜ
+L
+java:S2446¶"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÿìÇê
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(œ±ÉÌ
+E
+java:S1068>"/Remove this unused "clipStreams" private field.(ºª´
+F
+java:S1068C"+Remove this unused "playing" private field.(èƒËÔşÿÿÿÿ
+D
+java:S1068F")Remove this unused "mixer" private field.(å àùüÿÿÿÿ

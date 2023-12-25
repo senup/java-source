@@ -1,0 +1,43 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+p	java:S115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢×¤Ş
+s	java:S116¤"]Rename this field "m_dataInputStream_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·»öŠ
+w	java:S116©"\Rename this field "m_propertyOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬®Æ¾üÿÿÿÿ
+x	java:S116ª"]Rename this field "m_exceptionOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£œ¶«ûÿÿÿÿ
+n	java:S116«"XRename this field "m_caseOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µˆ“ó
+t	java:S116¬"^Rename this field "m_additionalOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İïå
+€	java:S116­"eRename this field "m_additionalVectorsOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê§ßùÿÿÿÿ
+	java:S116®"dRename this field "m_additionalColumnsCount_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¸õÊúÿÿÿÿ
+w	java:S116¯"\Rename this field "m_reservedOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÓ½€úÿÿÿÿ
+w	java:S116°"\Rename this field "m_unicodeVersion_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ«Ş®şÿÿÿÿ
+„
+java:S1450®"hRemove the "m_additionalColumnsCount_" field and declare it as a local variable in the relevant methods.(§¸õÊúÿÿÿÿ
+y
+java:S1450¬"bRemove the "m_additionalOffset_" field and declare it as a local variable in the relevant methods.(İïå
+…
+java:S1450­"iRemove the "m_additionalVectorsOffset_" field and declare it as a local variable in the relevant methods.(Ê§ßùÿÿÿÿ
+s
+java:S1450«"\Remove the "m_caseOffset_" field and declare it as a local variable in the relevant methods.(µˆ“ó
+}
+java:S1450ª"aRemove the "m_exceptionOffset_" field and declare it as a local variable in the relevant methods.(£œ¶«ûÿÿÿÿ
+|
+java:S1450©"`Remove the "m_propertyOffset_" field and declare it as a local variable in the relevant methods.(¬®Æ¾üÿÿÿÿ
+|
+java:S1450¯"`Remove the "m_reservedOffset_" field and declare it as a local variable in the relevant methods.(ÜÓ½€úÿÿÿÿ
+E
+java:S1197?"*Move the array designators [] to the type.(´×¯ûÿÿÿÿ
+B
+java:S1905–"&Remove this unnecessary cast to "int".(¬å…½ıÿÿÿÿ
+B
+java:S1905–"&Remove this unnecessary cast to "int".(¬å…½ıÿÿÿÿ
+<
+java:S1905—"&Remove this unnecessary cast to "int".(ÿ‹”i
+<
+java:S1905—"&Remove this unnecessary cast to "int".(ÿ‹”i
+F
+java:S1197°"*Move the array designators [] to the type.(İ«Ş®şÿÿÿÿ
+A
+java:S1197µ"*Move the array designators [] to the type.(é†˜«
+F
+java:S1197»"*Move the array designators [] to the type.(¢ÄìŞüÿÿÿÿ

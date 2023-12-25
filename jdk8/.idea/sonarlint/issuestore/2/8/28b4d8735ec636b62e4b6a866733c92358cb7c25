@@ -1,0 +1,45 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚Ç äşÿÿÿÿ
+a	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(µŠı úÿÿÿÿ
+n
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÕI
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö·øÿÿÿÿÿ
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(£“±ùÿÿÿÿ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÊêşøÿÿÿÿ
+p
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿éıÛ
+s	java:S135["YReduce the total number of break and continue statements in this loop to use at most one.(şÛ­Şùÿÿÿÿ
+n	java:S135x"YReduce the total number of break and continue statements in this loop to use at most one.(ÿÁá
+d
+java:S3014/"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(İåİ¶ùÿÿÿÿ
+_
+java:S3014L"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ªœ¤®
+_
+java:S3014M"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(’İÏ
+e
+java:S3014„"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ûøûÿÿÿÿ
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†­ê“ÿÿÿÿÿ
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏàÈÒ
+h
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ãíú©
+Y
+java:S1117Y">Rename "connectors" which hides the field declared at line 44.(½³…çıÿÿÿÿ
+<
+java:S1181e"!Catch Exception instead of Error.(ìéÏ¶úÿÿÿÿ
+_
+java:S2147e"DCombine this catch with the one at line 98, which has the same body.(ìéÏ¶úÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(©ÏÖİ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(©ÏÖİ
+=
+java:S1181‚"!Catch Exception instead of Error.(ìéÏ¶úÿÿÿÿ
+a
+java:S2147‚"ECombine this catch with the one at line 127, which has the same body.(ìéÏ¶úÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(©ÏÖİ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(©ÏÖİ
+U
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(¿øü®
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(…Ú„™ÿÿÿÿÿ

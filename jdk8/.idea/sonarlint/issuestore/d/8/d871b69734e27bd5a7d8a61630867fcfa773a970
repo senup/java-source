@@ -1,0 +1,9 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+i
+java:S3824x"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(žÍã×ýÿÿÿÿ
+p	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ”»£
+k	java:S116˜"URename this field "m_version_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ß§
+@
+java:S1197C"*Move the array designators [] to the type.(»»â±

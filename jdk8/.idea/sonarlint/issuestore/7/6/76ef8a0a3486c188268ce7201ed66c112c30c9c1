@@ -1,0 +1,138 @@
+
+c
+java:S1192Ÿ"LDefine a constant instead of duplicating this literal "' at begin=" 3 times.(êúØ¡
+b
+java:S11927"LDefine a constant instead of duplicating this literal "objectclass" 4 times.(Œ£
+j
+java:S1192"SDefine a constant instead of duplicating this literal "have a numeric OID" 4 times.(¸ÚÀÙ
+w
+java:S1192?"\Use already-defined constant 'SYNTAX_DEFINITION_NAME' instead of duplicating its value here.(—’òëşÿÿÿÿ
+^
+java:S1192Ÿ"GDefine a constant instead of duplicating this literal " end =" 3 times.(êúØ¡
+n
+java:S1192ş"WDefine a constant instead of duplicating this literal "Attribute type doesn't" 4 times.(„©ÂÜ
+w
+java:S11927"aUse already-defined constant 'OBJECTCLASS_DEFINITION_NAME' instead of duplicating its value here.(Œ£
+u
+java:S1192;"_Use already-defined constant 'ATTRIBUTE_DEFINITION_NAME' instead of duplicating its value here.(ÍÂ¸¿
+u
+java:S1192C"_Use already-defined constant 'MATCHRULE_DEFINITION_NAME' instead of duplicating its value here.(¿à×¢
+b
+java:S1301¥	"KReplace this "switch" statement by "if" statements to increase readability.(‘ş³ì
+a
+java:S1301Æ	"KReplace this "switch" statement by "if" statements to increase readability.(º»½
+t	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+
+java:S1149Š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢—ßµøÿÿÿÿ
+
+java:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢—ßµøÿÿÿÿ
+{
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•È­¥ûÿÿÿÿ
+{
+java:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²šÿªúÿÿÿÿ
+{
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢™†ğıÿÿÿÿ
+{
+java:S1149¯"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™ƒ¿óşÿÿÿÿ
+{
+java:S1149¯	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±£ùÿÿÿÿ
+u
+java:S1149Ô	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­Êš
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èäÊøÿÿÿÿ
+`
+java:S1124o"EReorder the modifiers to comply with the Java Language Specification.(èäÊøÿÿÿÿ
+\
+java:S1124‹"EReorder the modifiers to comply with the Java Language Specification.(¬›¼ì
+\
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(úİ•¶
+a
+java:S1124Ë"EReorder the modifiers to comply with the Java Language Specification.(½Ë‘Òÿÿÿÿÿ
+\
+java:S1124ì"EReorder the modifiers to comply with the Java Language Specification.(ğ ºÌ
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«˜¾¢
+R	java:S125"<This block of commented-out lines of code should be removed.( ı’‹
+a
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(ÎÆğ¨ùÿÿÿÿ
+[
+java:S1124º"EReorder the modifiers to comply with the Java Language Specification.(ÁªÒ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(Œñàºıÿÿÿÿ
+a
+java:S1124Æ"EReorder the modifiers to comply with the Java Language Specification.(ÆµÊÑıÿÿÿÿ
+8
+java:S1659Í"!Declare "end" on a separate line.(ÙÕ¥”
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(¹¿´ıÿÿÿÿ
+\
+java:S1124á"EReorder the modifiers to comply with the Java Language Specification.(Ë®Ï
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(àÖ„€şÿÿÿÿ
+p
+java:S3981û"TThe length of "values" is always ">=0", so update this test to either "==0" or ">0".(¯öÀØøÿÿÿÿ
+a
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(«³ãÈúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Î€ÙÈüÿÿÿÿ
+a
+java:S1124¼"EReorder the modifiers to comply with the Java Language Specification.(†‚›õùÿÿÿÿ
+8
+java:S1659¿"!Declare "end" on a separate line.(ÙÕ¥”
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(©ûÉÚÿÿÿÿÿ
+\
+java:S1124à"EReorder the modifiers to comply with the Java Language Specification.(ˆ©
+a
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(éÒÎğùÿÿÿÿ
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(š‹Üì
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(˜¦Ùÿÿÿÿÿ
+8
+java:S1659‰"!Declare "end" on a separate line.(ÙÕ¥”
+O	java:S106"9Replace this use of System.out or System.err by a logger.(œşÿ®
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÁå®
+\
+java:S1124°"EReorder the modifiers to comply with the Java Language Specification.(×ÜßÂ
+8
+java:S1659¾"!Declare "end" on a separate line.(ÙÕ¥”
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(®ú„šûÿÿÿÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(‰›ı«
+\
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(ÀÌ¢ù
+W
+java:S1659æ"@Declare "cur" and all following declarations on a separate line.(ÓõÖ†
+N	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ğ¤„2
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(Ò…â”ÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÄÂìÿÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ó—¼Ÿøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÄÂìÿÿÿÿÿ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰‡Ãúÿÿÿÿ
+2
+java:S3626Ş"Remove this redundant jump.(ÉŠ©ƒ
+a
+java:S1124ÿ"EReorder the modifiers to comply with the Java Language Specification.(‰‡Ãúÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(è™Í«
+n
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Í½·Óùÿÿÿÿ
+2
+java:S3626ã"Remove this redundant jump.(ÉŠ©ƒ
+a
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(Í½·Óùÿÿÿÿ
+2
+java:S3626›"Remove this redundant jump.(ÉŠ©ƒ
+a
+java:S1124ô"EReorder the modifiers to comply with the Java Language Specification.(„¤€‚úÿÿÿÿ
+2
+java:S3626ë"Remove this redundant jump.(ÉŠ©ƒ
+\
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(á¬‡Ë
+a
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(–¥Ìƒùÿÿÿÿ
+a
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ãÂÔÓÿÿÿÿÿ
+\
+java:S1124‰	"EReorder the modifiers to comply with the Java Language Specification.(†Îô
+8	java:S131¥	""Add a default case to this switch.(‘ş³ì
+a
+java:S1124Ã	"EReorder the modifiers to comply with the Java Language Specification.(ôˆëıÿÿÿÿ
+7	java:S131Æ	""Add a default case to this switch.(º»½
+Œ
+java:S1130ë	"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(è™Í«
+I
+java:S1068R".Remove this unused "PRIVATE_ID" private field.(ş‰‚¤ÿÿÿÿÿ

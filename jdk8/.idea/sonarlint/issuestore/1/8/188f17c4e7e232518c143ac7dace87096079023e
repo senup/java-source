@@ -1,0 +1,40 @@
+
+C
+java:S1604E"(Make this anonymous inner class a lambda(ô”°Ãÿÿÿÿÿ
+C
+java:S1604R"(Make this anonymous inner class a lambda(ô”°Ãÿÿÿÿÿ
+H
+java:S1153·"1Directly append the argument of String.valueOf().(˜Ö¢ü
+[
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(œÞ­Ÿ
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(™¡¼¦ýÿÿÿÿ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(ªÎ³ýÿÿÿÿ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(à½ùª
+[
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¹Ü Æ
+`
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(¸‡Ü±üÿÿÿÿ
+Z
+java:S2147L"DCombine this catch with the one at line 75, which has the same body.(Ò©ïÿ
+_
+java:S2147M"DCombine this catch with the one at line 75, which has the same body.(“£ÖÀþÿÿÿÿ
+_
+java:S2147N"DCombine this catch with the one at line 75, which has the same body.(„ï×Ÿýÿÿÿÿ
+>	java:S108K")Either remove or fill this block of code.(äžºì
+>	java:S108L")Either remove or fill this block of code.(Ò©ïÿ
+C	java:S108M")Either remove or fill this block of code.(“£ÖÀþÿÿÿÿ
+C	java:S108N")Either remove or fill this block of code.(„ï×Ÿýÿÿÿÿ
+7
+java:S1116O"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿ïÑêüÿÿÿÿ
+5
+java:S2119²"Save and re-use this "Random".(Ì´’×
+R	java:S125Þ"<This block of commented-out lines of code should be removed.(·¤œè
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‰‰•Ù
+I
+java:S1128!".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

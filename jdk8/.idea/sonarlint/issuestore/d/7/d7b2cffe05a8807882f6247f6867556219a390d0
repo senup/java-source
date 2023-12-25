@@ -1,0 +1,96 @@
+
+\	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(˜şŠ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÁìÓ»ûÿÿÿÿ
+[	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(åè˜(
+`
+java:S1192|"JDefine a constant instead of duplicating this literal "--verbose" 3 times.(Ñ—ÆÉ
+]
+java:S1192å"FDefine a constant instead of duplicating this literal ".pack" 3 times.(äôÜö
+o	java:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(®£´£
+o	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(À²î…
+o	java:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(ä¡Ø 
+o	java:S135¥"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(ĞÊ’§
+n	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿı¯
+f
+java:S1301L"KReplace this "switch" statement by "if" statements to increase readability.(¯Ë•Âøÿÿÿÿ
+H
+java:S1199I"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+]
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(™°Âh
+d
+java:S2095Ø"MUse try-with-resources or close this "GZIPInputStream" in a "finally" clause.(¾ Æ§
+i
+java:S3776?"SRefactor this method to reduce its Cognitive Complexity from 129 to the 15 allowed.(é”ËÄ
+<	java:S131L""Add a default case to this switch.(¯Ë•Âøÿÿÿÿ
+Q
+java:S1119l";Refactor the code to remove this label and the need for it.(ÛÚëœ
+/
+java:S1065l"Remove this unused label.(ÛÚëœ
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(§®¨ÿ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(Í­©±şÿÿÿÿ
+N	java:S106¨"9Replace this use of System.out or System.err by a logger.(‰åúz
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(ş…¼¥üÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(×¹·Ìùÿÿÿÿ
+P
+java:S2864·"4Iterate over the "entrySet" instead of the "keySet".(Ôí½şÿÿÿÿ
+O	java:S106Ì"9Replace this use of System.out or System.err by a logger.(İ¹èÓ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(½ŠÙáøÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(€³—‘şÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(×¹·Ìùÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(×¹·Ìùÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(¾¬ƒ‚
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(×«µ™øÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(Å­ú¯ıÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(’àÑ“
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(ì™Ï
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(×¹·Ìùÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(ù±Åäıÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(×¹·Ìùÿÿÿÿ
+V	java:S899Ä";Do something with the "boolean" value returned by "delete".(Ğ¾Í£ùÿÿÿÿ
+j
+java:S4042Ä"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ğ¾Í£ùÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(í®ÈÊ
+Q	java:S899ê";Do something with the "boolean" value returned by "delete".(ºÉ‘À
+e
+java:S4042ê"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºÉ‘À
+V	java:S899ò";Do something with the "boolean" value returned by "delete".(¨Æì¿ùÿÿÿÿ
+j
+java:S4042ò"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¨Æì¿ùÿÿÿÿ
+X	java:S899ó"=Do something with the "boolean" value returned by "renameTo".(âş°×ıÿÿÿÿ
+Q	java:S899÷";Do something with the "boolean" value returned by "delete".(·É¼Ø
+e
+java:S4042÷"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(·É¼Ø
+F
+java:S2093›"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+a
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+a
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+a
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+a
+java:S2674¢"JCheck the return value of the "skip" call to see how many bytes were read.(›ÿª˜
+a
+java:S2674£"JCheck the return value of the "read" call to see how many bytes were read.(À§…Ä
+U
+java:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(”‹‰Óøÿÿÿÿ
+o
+java:S3776ˆ"SRefactor this method to reduce its Cognitive Complexity from 137 to the 15 allowed.(‹ªçéùÿÿÿÿ
+S
+java:S1854Á"7Remove this useless assignment to local variable "opt".(¿†øıÿÿÿÿ
+P
+java:S1854¨"9Remove this useless assignment to local variable "delim".(¼”„©
+R	java:S125‹"<This block of commented-out lines of code should be removed.(úÍ’
+W
+java:S1119‘";Refactor the code to remove this label and the need for it.(«œ¦Óøÿÿÿÿ
+R
+java:S1119¤";Refactor the code to remove this label and the need for it.(“²Ë¶
+W
+java:S1119²";Refactor the code to remove this label and the need for it.(›‚Ó©øÿÿÿÿ
+W
+java:S1119·";Refactor the code to remove this label and the need for it.(é­¥˜ıÿÿÿÿ
+W
+java:S1119Ñ";Refactor the code to remove this label and the need for it.(øÒœüÿÿÿÿ
+Q	java:S125Õ"<This block of commented-out lines of code should be removed.(¨ßÛe

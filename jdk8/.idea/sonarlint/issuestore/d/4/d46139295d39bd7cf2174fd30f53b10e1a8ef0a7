@@ -1,0 +1,204 @@
+
+K
+java:S3740¸"/Provide the parametrized type for this generic.(‹Õ¡úÿÿÿÿ
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÈÖ©
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë‹Ãúüÿÿÿÿ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÓ¤ì
+p
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(íµ·“
+u
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(âàÌúÿÿÿÿ
+u
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôåôäûÿÿÿÿ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¯÷
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ å¢
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¯÷
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¯÷
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¢ï–
+p
+java:S2293¥
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëè›ø
+u
+java:S2293²
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙŞÛÄşÿÿÿÿ
+^
+java:S1192Ë"HDefine a constant instead of duplicating this literal "lanczos" 3 times.(´ùü?
+c
+java:S1192à"GDefine a constant instead of duplicating this literal "linear" 5 times.(ÀÓõ¬øÿÿÿÿ
+]
+java:S1192²"FDefine a constant instead of duplicating this literal "point" 3 times.(é¥©¿
+u
+java:S1192º"YDefine a constant instead of duplicating this literal "Unsupported instrument: " 6 times.(¥˜‹şøÿÿÿÿ
+]
+java:S1192Æ"FDefine a constant instead of duplicating this literal "cubic" 3 times.(¦Ì´˜
+_
+java:S1192Á"HDefine a constant instead of duplicating this literal "linear2" 3 times.(Öù‡
+_
+java:S1192¼"HDefine a constant instead of duplicating this literal "linear1" 3 times.(¥€’û
+E
+java:S1066v"/Merge this if statement with the enclosing one.(ä”İº
+K
+java:S1066ú"/Merge this if statement with the enclosing one.(ß‰ªÆıÿÿÿÿ
+F
+java:S1066ˆ"/Merge this if statement with the enclosing one.(¨óı­
+Q
+java:S1141¿"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÍè‚
+f	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÍè‚
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ì«Şúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ï‰^
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¢ı¿
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¢ı¿
+f	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ï‰^
+l	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«§üÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ–ª“
+g	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñš’¼
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ÿúÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûßÕßÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ñòËúÿÿÿÿ
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŞøÏşÿÿÿÿ
+g	java:S117ª	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¹»•
+g	java:S117Ë	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İİ­æ
+g	java:S117Ì	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄ–£
+?
+java:S1604ù"(Make this anonymous inner class a lambda(˜š«Ö
+?
+java:S1604œ"(Make this anonymous inner class a lambda(˜š«Ö
+?
+java:S1604­"(Make this anonymous inner class a lambda(˜š«Ö
+D
+java:S1604ß"(Make this anonymous inner class a lambda(õ£©ùÿÿÿÿ
+?
+java:S1604Ñ"(Make this anonymous inner class a lambda(²ôÙê
+h
+java:S1104K"RMake pusher a static final constant or non-public and provide accessors if needed.(ıôÙš
+t
+java:S1104L"YMake jitter_stream a static final constant or non-public and provide accessors if needed.(ª¯½ïøÿÿÿÿ
+u
+java:S1104M"ZMake sourceDataLine a static final constant or non-public and provide accessors if needed.(é¤Ææøÿÿÿÿ
+p
+java:S1104N"ZMake silent_samples a static final constant or non-public and provide accessors if needed.(‘Ùı
+b
+java:S3973u"GUse indentation to denote the code conditionally executed by this "if".(‚íäãûÿÿÿÿ
+e
+java:S3824ß"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(µ©Åò
+s	java:S116º"XRename this field "control_mutex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¶üÒşÿÿÿÿ
+v	java:S116À"`Rename this field "voice_allocation_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œª„¦
+|	java:S116Â"aRename this field "load_default_soundbank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•åóıÿÿÿÿ
+m	java:S116Ã"WRename this field "reverb_light" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ëÉ˜
+o	java:S116Ä"TRename this field "reverb_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼àÍÍÿÿÿÿÿ
+j	java:S116Å"TRename this field "chorus_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰êşŸ
+l	java:S116Æ"QRename this field "agc_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ùåœùÿÿÿÿ
+r	java:S116É"\Rename this field "external_channels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯í«Á
+n	java:S116Ù"XRename this field "pusher_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú˜™ê
+x	java:S116ã"bRename this field "number_of_midi_channels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂØ½·
+q	java:S116æ"\Rename this field "jitter_correction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šäò:
+r	java:S116L"XRename this field "jitter_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¯½ïøÿÿÿÿ
+n	java:S116N"YRename this field "silent_samples" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ùı
+u	java:S116P"[Rename this field "weak_stream_link" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óˆ¸¤ùÿÿÿÿ
+m
+java:S3077J"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¾Üò¾
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+h
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÂãíÕ
+P
+java:S1161h":Add the "@Override" annotation above this method signature(ÂãíÕ
+Y
+java:S3078s">Use an "AtomicLong" for this field; its operations are atomic.( Ú¸˜øÿÿÿÿ
+B
+java:S1905s"'Remove this unnecessary cast to "long".( Ú¸˜øÿÿÿÿ
+<
+java:S1110s"!Remove these useless parentheses.( Ú¸˜øÿÿÿÿ
+l	java:S116z"RRename this field "_pusher" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«½‹®ıÿÿÿÿ
+s	java:S116{"YRename this field "_jitter_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Èù¶ùÿÿÿÿ
+t	java:S116|"ZRename this field "_sourceDataLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨Ò¸üÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(à°ø‘ıÿÿÿÿ
+a
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(€¥¯“úÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì¿âÎ
+V
+java:S4838¢":Change "Instrument" to the type handled by the Collection.(¾ì›»ÿÿÿÿÿ
+^
+java:S1117±"BRename "resamplerType" which hides the field declared at line 224.(†ô ³üÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(›–¬
+R	java:S125ü"<This block of commented-out lines of code should be removed.(›„”ª
+p
+java:S3012Š"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(«š¿ç
+e
+java:S4201¹"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¦áŒ×üÿÿÿÿ
+e
+java:S4201Ã"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¦áŒ×üÿÿÿÿ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(³ÂÃÔ
+?	java:S108”")Either remove or fill this block of code.(ï­£Ä
+?	java:S108¥")Either remove or fill this block of code.(ï­£Ä
+?	java:S108¹")Either remove or fill this block of code.(ï­£Ä
+F
+java:S2093Å"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+?	java:S108Î")Either remove or fill this block of code.(”ı¾
+?	java:S108×")Either remove or fill this block of code.(”ı¾
+a
+java:S2147î"ECombine this catch with the one at line 749, which has the same body.(ÿëÛßúÿÿÿÿ
+?	java:S108í")Either remove or fill this block of code.(ï­£Ä
+D	java:S108î")Either remove or fill this block of code.(ÿëÛßúÿÿÿÿ
+?	java:S108÷")Either remove or fill this block of code.(ï­£Ä
+`
+java:S4201˜"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ô¼Œ×
+`
+java:S4201³"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ô¼Œ×
+]
+java:S1075Ô"ARefactor your code to get this URI from a customizable parameter.(°Œ†úÿÿÿÿ
+a
+java:S2147á"ECombine this catch with the one at line 864, which has the same body.(ÿëÛßúÿÿÿÿ
+D	java:S108à")Either remove or fill this block of code.(Ğò€Şüÿÿÿÿ
+D	java:S108á")Either remove or fill this block of code.(ÿëÛßúÿÿÿÿ
+j
+java:S3776è"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(í¬ò‘
+C
+java:S1125"'Remove the unnecessary boolean literal.(½Êûÿÿÿÿ
+C
+java:S1125“"'Remove the unnecessary boolean literal.(–¸¿ˆşÿÿÿÿ
+C
+java:S1125—"'Remove the unnecessary boolean literal.(ŠÊşÆùÿÿÿÿ
+C
+java:S1125›"'Remove the unnecessary boolean literal.(ñ•£ıÿÿÿÿ
+=
+java:S1125£"'Remove the unnecessary boolean literal.(úÒ°
+
+C
+java:S1125§"'Remove the unnecessary boolean literal.(óƒšäşÿÿÿÿ
+>
+java:S1125«"'Remove the unnecessary boolean literal.(ú€Ÿš
+T
+java:S1117Ã"=Rename "channels" which hides the field declared at line 200.(î«Ëê
+D	java:S108İ")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+D	java:S108î")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ï‚ŸÈûÿÿÿÿ
+b
+java:S2147â"FCombine this catch with the one at line 1120, which has the same body.(¥¨›ıÿÿÿÿ
+b
+java:S2147ä"FCombine this catch with the one at line 1120, which has the same body.(ÿëÛßúÿÿÿÿ
+S
+java:S1117®"<Rename "latency" which hides the field declared at line 229.(öãóê
+?	java:S108Á")Either remove or fill this block of code.(ï­£Ä
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(ÛÊµı
+n
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Í‘¦èûÿÿÿÿ
+p
+java:S3012­	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÂÄ–Á
+R	java:S125ß	"<This block of commented-out lines of code should be removed.(†€éˆ
+U
+java:S1155ú	">Use isEmpty() to check whether the collection is empty or not.(¡„ƒ

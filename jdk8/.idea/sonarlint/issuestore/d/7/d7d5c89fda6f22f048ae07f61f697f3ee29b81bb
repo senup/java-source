@@ -1,0 +1,58 @@
+
+g	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùì¿œ
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¸ˆğ
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒù®
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+W	java:S107Í"AConstructor has 8 parameters, which is greater than 7 authorized.(”¸ˆğ
+\
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(×Ü–·
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(‚íÖõÿÿÿÿÿ
+u
+java:S2177ë"^Rename this method or correct the type of the argument(s) to override the parent class method.(çƒÍ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(âêè»ùÿÿÿÿ
+`
+java:S1134†"DTake the required action to fix the issue indicated by this comment.(×ãÕÿûÿÿÿÿ
+>
+java:S1125€"'Remove the unnecessary boolean literal.(À££ï
+U
+java:S3252…"9Use static access with "java.util.Calendar" for "SUNDAY".(ø×¶Äûÿÿÿÿ
+Q
+java:S3252†";Use static access with "java.util.Calendar" for "SATURDAY".(¡ ä=
+C
+java:S1905"'Remove this unnecessary cast to "long".(Šç÷íüÿÿÿÿ
+c
+java:S2886­"GSynchronize this method to match the synchronization on "setRawOffset".(šÀóûúÿÿÿÿ
+X
+java:S1117²"<Rename "offsets" which hides the field declared at line 148.(¨ä†Éÿÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Êë¨øÿÿÿÿ
+Q	java:S125”"<This block of commented-out lines of code should be removed.(¦˜¸h
+j
+java:S2975†"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(²ÈŞ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(Ä‡­øÿÿÿÿ
+]
+java:S1126Á"AReplace this if-then-else statement by a single return statement.(şÍÉ°úÿÿÿÿ
+>
+java:S1125Â"'Remove the unnecessary boolean literal.(æ£ì
+>
+java:S1125Ã"'Remove the unnecessary boolean literal.(ûœƒä
+V
+java:S1128";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+F
+java:S1128 "0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+H
+java:S1128!"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128#"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+H
+java:S1128$"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+E
+java:S1128&"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+C
+java:S1068P"-Remove this unused "ABBR_MASK" private field.(ÜóéÁ

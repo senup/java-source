@@ -1,0 +1,66 @@
+
+o
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïé›²
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶æ£
+s	java:S127á"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘«Ãÿùÿÿÿÿ
+g
+java:S1301Ù"KReplace this "switch" statement by "if" statements to increase readability.(³ÒÂŒÿÿÿÿÿ
+3
+java:S1643»"Use a StringBuilder instead.(ÁâÌÈ
+X
+java:S4973Ö"<Strings and Boxed types should be compared using "equals()".(­Ä´Šşÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+B
+java:S1948j"'Make "times" transient or serializable.(óæ «üÿÿÿÿ
+<
+java:S1948k"&Make "seqs" transient or serializable.(ïé›²
+>
+java:S1948v"(Make "border" transient or serializable.(¨È¼á
+m
+java:S27863"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(úÆ¯úÿÿÿÿ
+`
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(‚‚âáøÿÿÿÿ
+[
+java:S1124_"EReorder the modifiers to comply with the Java Language Specification.(Œáéä
+[
+java:S1124`"EReorder the modifiers to comply with the Java Language Specification.(ÙØµø
+Z
+java:S1124a"EReorder the modifiers to comply with the Java Language Specification.(Üó´
+`
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(à–ÿ˜ÿÿÿÿÿ
+`
+java:S1124d"EReorder the modifiers to comply with the Java Language Specification.(ÖÿäÚûÿÿÿÿ
+`
+java:S1124f"EReorder the modifiers to comply with the Java Language Specification.(¼–˜¤üÿÿÿÿ
+?
+java:S4274Ç"(Replace this assert with a proper check.(š–
+U
+java:S1155±">Use isEmpty() to check whether the collection is empty or not.(şğÎ¨
+j
+java:S3776Ñ"SRefactor this method to reduce its Cognitive Complexity from 187 to the 15 allowed.(³ıŸê
+I
+java:S1135¦"2Complete the task associated to this TODO comment.(’Œä”
+R	java:S125ª"<This block of commented-out lines of code should be removed.(ÎäÀÏ
+I
+java:S1135š"2Complete the task associated to this TODO comment.(ØşØê
+@
+java:S1905‡")Remove this unnecessary cast to "double".(ÈÆ¿ß
+@
+java:S1905")Remove this unnecessary cast to "double".(ÈÆ¿ß
+E
+java:S2140„")Use "java.util.Random.nextInt()" instead.(…¯ŞËıÿÿÿÿ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(íÇ¿Å
+P
+java:S3400Å"9Remove this method and declare a constant for this value.(”·³›
+t	java:S131Ù"YComplete cases by adding the missing enum constants or add a default case to this switch.(³ÒÂŒÿÿÿÿÿ
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(˜‹ş÷ûÿÿÿÿ
+_
+java:S4201ò"IRemove this unnecessary null check; "instanceof" returns false for nulls.(åŞ·
+i
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(»¢½
+U
+java:S1155¬">Use isEmpty() to check whether the collection is empty or not.(şğÎ¨

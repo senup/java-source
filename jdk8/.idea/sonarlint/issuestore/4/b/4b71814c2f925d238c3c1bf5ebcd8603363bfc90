@@ -1,0 +1,43 @@
+
+K
+java:S3740ù"/Provide the parametrized type for this generic.(ô×Ñìûÿÿÿÿ
+K
+java:S3740ù"/Provide the parametrized type for this generic.(ô×Ñìûÿÿÿÿ
+F
+java:S3740ú"/Provide the parametrized type for this generic.(Öÿ¦¹
+K
+java:S3740û"/Provide the parametrized type for this generic.(ößÎ•ûÿÿÿÿ
+F
+java:S3740‚"/Provide the parametrized type for this generic.(ßÕâ€
+K
+java:S3740"/Provide the parametrized type for this generic.(ößÎ•ûÿÿÿÿ
+F
+java:S3740–"/Provide the parametrized type for this generic.(ßÕâ€
+K
+java:S3740§"/Provide the parametrized type for this generic.(ê½˜ÿÿÿÿÿ
+K
+java:S3740¿"/Provide the parametrized type for this generic.(¼Æ†ïıÿÿÿÿ
+K
+java:S3740Ç"/Provide the parametrized type for this generic.(±ë­æøÿÿÿÿ
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(›£Œò
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠóıÈ
+u
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¡öùÿÿÿÿ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áü»
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(‡ÅÁ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹±äîûÿÿÿÿ
+V
+java:S1161Ó":Add the "@Override" annotation above this method signature(Î¿—àüÿÿÿÿ
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(“–ış
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ãÒ£úÿÿÿÿ
+9
+java:S1128""$Remove this unused import 'java.io'.(¬›ãD
+I
+java:S1128$".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+A
+java:S3398ù"%Move this method into "NotifierTask".(ô×Ñìûÿÿÿÿ

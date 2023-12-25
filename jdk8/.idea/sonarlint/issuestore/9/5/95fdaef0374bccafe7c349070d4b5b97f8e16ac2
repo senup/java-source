@@ -1,0 +1,58 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¸ÉÊ¥øÿÿÿÿ
+p	java:S115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ½Êı
+M
+java:S1128"2Remove this unused import 'java.awt.AWTException'.(¾À«Ìşÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'java.awt.CheckboxMenuItem'.(Ó•İıøÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.awt.Dialog'.(†Øå
+F
+java:S1128 "0Remove this unused import 'java.awt.EventQueue'.(ùÅØæ
+@
+java:S1128!"+Remove this unused import 'java.awt.Frame'.(Â Q
+J
+java:S1128""/Remove this unused import 'java.awt.PopupMenu'.(„ÙÑ¢øÿÿÿÿ
+E
+java:S1128#"*Remove this unused import 'java.awt.Menu'.(æ»Éêşÿÿÿÿ
+D
+java:S1128$".Remove this unused import 'java.awt.MenuItem'.(«ä›õ
+H
+java:S1128%"-Remove this unused import 'java.awt.Toolkit'.(Õºşÿÿÿÿ
+J
+java:S1128&"/Remove this unused import 'sun.awt.AppContext'.(ˆ´ õøÿÿÿÿ
+M
+java:S1128'"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+P
+java:S1128(":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+V
+java:S1128)";Remove this unused import 'java.awt.event.InvocationEvent'.(ìÑçÍúÿÿÿÿ
+X
+java:S1128*"BRemove this unused import 'java.awt.im.spi.InputMethodDescriptor'.(ŞÅË·
+V
+java:S1128,";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+V
+java:S1128-";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+Z
+java:S1128."DRemove this unused import 'java.security.PrivilegedActionException'.(å¢¥’
+Z
+java:S1128/"DRemove this unused import 'java.security.PrivilegedExceptionAction'.(´©ºØ
+K
+java:S11280"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+E
+java:S11281"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+O
+java:S11283"4Remove this unused import 'java.util.ServiceLoader'.(Ù¨æüÿÿÿÿ
+H
+java:S11284"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+E
+java:S11285"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+]
+java:S11286"BRemove this unused import 'java.util.prefs.BackingStoreException'.(¡·œÀıÿÿÿÿ
+N
+java:S11287"8Remove this unused import 'java.util.prefs.Preferences'.(àñì
+R
+java:S11288"7Remove this unused import 'sun.awt.InputMethodSupport'.(œ¤Ğ­üÿÿÿÿ
+J
+java:S11289"/Remove this unused import 'sun.awt.SunToolkit'.(öé®”ÿÿÿÿÿ

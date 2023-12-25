@@ -1,0 +1,56 @@
+
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+a	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+p
+java:S1192"TDefine a constant instead of duplicating this literal "crsreader.paramtype" 3 times.(£Šì³ûÿÿÿÿ
+o	java:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(íôô
+Q
+java:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141­"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141å"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S2095©"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¤µúÿÿÿÿ
+e
+java:S2095Í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(şóÚ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÏÃÍ—şÿÿÿÿ
+s
+java:S2737ğ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ
+8
+java:S1116¦"Remove this empty statement.(Åñ­õşÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(ŞÙÊ¥şÿÿÿÿ
+8
+java:S1116è"Remove this empty statement.(Åñ­õşÿÿÿÿ
+=
+java:S1125ë"'Remove the unnecessary boolean literal.(’é•	
+>
+java:S1125ô"'Remove the unnecessary boolean literal.(ûÓ¹À
+n
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(õêİüúÿÿÿÿ
+2
+java:S3626Ÿ"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Ï"Remove this redundant jump.(ÉŠ©ƒ
+E
+java:S1481ø".Remove this unused "arraySize" local variable.(ğ‡­È
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(•Äûµøÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ê«˜Öúÿÿÿÿ
+l
+java:S3252¬"PUse static access with "javax.sql.rowset.BaseRowSet" for "UNICODE_STREAM_PARAM".(¨£ÍÊşÿÿÿÿ
+f
+java:S3252±"OUse static access with "javax.sql.rowset.BaseRowSet" for "BINARY_STREAM_PARAM".(õÚ‚Ä
+j
+java:S3252¶"NUse static access with "javax.sql.rowset.BaseRowSet" for "ASCII_STREAM_PARAM".(Üš¸Íûÿÿÿÿ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(»à¸
+]
+java:S1126à"AReplace this if-then-else statement by a single return statement.(ŸÍáÆşÿÿÿÿ
+C
+java:S1125à"'Remove the unnecessary boolean literal.(ŸÍáÆşÿÿÿÿ
+G
+java:S1128$"1Remove this unused import 'javax.sql.rowset.spi'.(ƒåÔ¾

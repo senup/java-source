@@ -1,0 +1,33 @@
+
+D
+java:S3740`"/Provide the parametrized type for this generic.(šø
+D
+java:S3740`"/Provide the parametrized type for this generic.(šø
+=
+java:S1604`"(Make this anonymous inner class a lambda(šø
+_
+java:S3014M"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÈÜ£é
+d
+java:S3014P"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(à¡Õ‚ıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ğ×ÏÀ
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(ğ ‹íşÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(şØÇâûÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(¿Ø¶©
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(¯ìÄ›şÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(±Äªûüÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¯–û
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(™˜¨Ğıÿÿÿÿ
+L
+java:S2446†"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ËİÊ¾
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(´­ Ş
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(œòîÿÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(“–ış
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(­¸µôùÿÿÿÿ
+u
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+W	java:S125±"<This block of commented-out lines of code should be removed.(©®ˆ¿ûÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(óüÀ×

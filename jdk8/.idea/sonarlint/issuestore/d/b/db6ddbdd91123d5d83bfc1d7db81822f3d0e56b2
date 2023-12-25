@@ -1,0 +1,10 @@
+
+`	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ò¢åÅ
+O
+java:S2755®"3Disable access to external entities in XML parsing.(ƒ¶ŠÊûÿÿÿÿ
+œ
+java:S1130J"…Remove the declaration of thrown exception 'java.util.InvalidPropertiesFormatException' which is a subclass of 'java.io.IOException'.(ÎÌĞÁ
+f
+java:S2445œ"J"props" is a method parameter, and should not be used for synchronization.(ÎÇˆ¥øÿÿÿÿ

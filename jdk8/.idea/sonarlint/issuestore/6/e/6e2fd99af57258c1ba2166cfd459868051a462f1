@@ -1,0 +1,19 @@
+
+}
+java:S1192›"aDefine a constant instead of duplicating this literal "Should have found primitive type" 3 times.(Ô·ÜØùÿÿÿÿ
+F
+java:S1066Ú"/Merge this if statement with the enclosing one.(ÔÌ¢ï
+F
+java:S1066‰"/Merge this if statement with the enclosing one.(Íóš–
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç¯íÊýÿÿÿÿ
+}	java:S116a"cRename this field "NUM_COMMON_CPOOL_ENTRIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×µ±¾úÿÿÿÿ
+x	java:S116b"cRename this field "NUM_BOXING_CPOOL_ENTRIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ´Ýì
+<
+java:S1170a"!Make this final field static too.(×µ±¾úÿÿÿÿ
+7
+java:S1170b"!Make this final field static too.(Œ´Ýì
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’šáÝ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ìÕàÖýÿÿÿÿ

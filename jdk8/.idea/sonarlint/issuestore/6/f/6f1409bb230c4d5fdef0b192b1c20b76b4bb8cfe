@@ -1,0 +1,10 @@
+
+e
+java:S1192L"JDefine a constant instead of duplicating this literal "I/O error" 5 times.(ÅÊËÓûÿÿÿÿ
+g	java:S116,"RRename this field "_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¯‡
+h	java:S1163"SRename this field "_encoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì§……
+V	java:S125J"<This block of commented-out lines of code should be removed.(ÿŠî°ÿÿÿÿÿ
+
+java:S1130"Remove the declaration of thrown exception 'jdk.internal.util.xml.XMLStreamException', as it cannot be thrown from method's body.(À¬ªÈøÿÿÿÿ
+=
+java:S1144}"'Remove this unused private "nl" method.(¹à­ê

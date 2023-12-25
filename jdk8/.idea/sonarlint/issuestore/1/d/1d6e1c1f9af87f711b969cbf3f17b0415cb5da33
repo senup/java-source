@@ -1,0 +1,21 @@
+
+m
+java:S1192Ş"QDefine a constant instead of duplicating this literal "doFinalHandshake" 4 times.(ıûËÿÿÿÿÿ
+@
+java:S1172_"*Remove this unused method parameter "cbh".( Œğì
+d
+java:S4201r"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÂÚò“ıÿÿÿÿ
+P
+java:S4719š"9Replace charset name argument with StandardCharsets.UTF_8(öÓÖÿ
+i
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨¥öı
+4
+java:S2129ô"Remove this "Byte" constructor(ÖØÛ
+8
+java:S2129–"!Remove this "Integer" constructor(Ñªè
+=
+java:S2129—"!Remove this "Integer" constructor(ÚÒÅåıÿÿÿÿ
+=
+java:S2129˜"!Remove this "Integer" constructor(˜¼Â´ùÿÿÿÿ
+:
+java:S2129¨"Remove this "Byte" constructor(ØØÉİùÿÿÿÿ

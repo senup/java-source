@@ -1,0 +1,61 @@
+
+E
+java:S3740l"/Provide the parametrized type for this generic.(°ûº
+F
+java:S3740–"/Provide the parametrized type for this generic.(•Üß†
+s
+java:S1192;"]Define a constant instead of duplicating this literal "choice.class.item.restricted" 3 times.(²„æ
+e
+java:S1192O"ODefine a constant instead of duplicating this literal "http.proxyHost" 3 times.(Ûè¦Ú
+r
+java:S1192T"\Define a constant instead of duplicating this literal "package.restrict.access.sun" 3 times.(ÓÊ¿›
+D
+java:S11214".Extract the assignment out of this expression.(âÿÇ—
+I
+java:S11217".Extract the assignment out of this expression.(ô†Üòşÿÿÿÿ
+D
+java:S1121:".Extract the assignment out of this expression.(Ù„—µ
+>
+java:S1604l"(Make this anonymous inner class a lambda(°ûº
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+j
+java:S2095™"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿Å¡Òıÿÿÿÿ
+G
+java:S1874D",Remove this use of "move"; it is deprecated.(Ã‚¶ƒıÿÿÿÿ
+?
+java:S1905N")Remove this unnecessary cast to "String".(†ñ¡Û
+D
+java:S1905P")Remove this unnecessary cast to "String".(ö“Çúÿÿÿÿ
+E
+java:S1905S"*Remove this unnecessary cast to "Boolean".(œ®¹øÿÿÿÿ
+C	java:S108z")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
+H
+java:S1874‚",Remove this use of "show"; it is deprecated.(Áá¨­úÿÿÿÿ
+C
+java:S1874¤",Remove this use of "hide"; it is deprecated.(ß—Ôº
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(ù“é
+f
+java:S1874®"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ì¤ËŞşÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(Ì¤ËŞşÿÿÿÿ
+C
+java:S1874¹",Remove this use of "hide"; it is deprecated.(ß—Ôº
+H
+java:S1874Ğ",Remove this use of "size"; it is deprecated.(Ïûìªûÿÿÿÿ
+E
+java:S1874Ñ".Remove this use of "bounds"; it is deprecated.(ëîµ›
+H
+java:S1874Ò",Remove this use of "move"; it is deprecated.(¬ÖŞõıÿÿÿÿ
+f
+java:S1874Ö"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Áîªûÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(Áîªûÿÿÿÿ
+C
+java:S1874×",Remove this use of "hide"; it is deprecated.(ß—Ôº
+S
+java:S1128"8Remove this unused import 'sun.net.www.http.HttpClient'.(Æ¡³ ÿÿÿÿÿ
+H
+java:S1128 "2Remove this unused import 'sun.net.ftp.FtpClient'.(¥ØÂü
+Z
+java:S1128$"DRemove this unused import 'java.security.PrivilegedActionException'.(å¢¥’

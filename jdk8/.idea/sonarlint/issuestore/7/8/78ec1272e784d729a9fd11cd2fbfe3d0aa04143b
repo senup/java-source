@@ -1,0 +1,27 @@
+
+c
+java:S1192î"GDefine a constant instead of duplicating this literal "login" 10 times.(ÛŠ€Ñüÿÿÿÿ
+P
+java:S11912"5Use classes from the Java API instead of Sun classes.(‰ÎƒËşÿÿÿÿ
+N
+java:S2589ÿ"7Remove this expression which always evaluates to "true"(±ªœ¦
+_
+java:S3824É"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ƒ®‡
+m
+java:S1450—"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
+n
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ß™“øÿÿÿÿ
+C
+java:S1125Ï"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+C
+java:S1125ı"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+>
+java:S1125ÿ"'Remove the unnecessary boolean literal.(±ªœ¦
+>
+java:S1125ÿ"'Remove the unnecessary boolean literal.(±ªœ¦
+F
+java:S2093ê"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+K
+java:S1128&"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+B
+java:S1068—"+Remove this unused "options" private field.(ØÌŸ¼

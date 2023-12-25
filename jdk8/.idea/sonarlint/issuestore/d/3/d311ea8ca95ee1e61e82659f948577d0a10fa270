@@ -1,0 +1,141 @@
+
+[	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(žÂæ‚
+p
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁŒ–±
+E
+java:S1121Ó".Extract the assignment out of this expression.(í‹ã­
+D
+java:S1121”".Extract the assignment out of this expression.(àÚÑ5
+t	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(±îµ´üÿÿÿÿ
+o	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(¾€ëþ
+n	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(¬Æ…/
+o	java:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(áû†
+K
+java:S1066¦"/Merge this if statement with the enclosing one.(“íƒšúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¬óŒþÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¬óŒþÿÿÿÿ
+f	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒïS
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒáÕ»ÿÿÿÿÿ
+f	java:S117þ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒïS
+l	java:S117ÿ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Æ´ÿÿÿÿÿ
+l	java:S117€
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉÓªÿÿÿÿÿ
+l	java:S117¡
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÊÂ÷øÿÿÿÿ
+g	java:S117Î
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¤Ö…
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿºŸð
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©àÊ
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æµ¨Åûÿÿÿÿ
+l	java:S117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( «÷ðúÿÿÿÿ
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ñ™ùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ‰Öþÿÿÿÿ
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(¯¯ÊÊúÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(»Œ®¨ûÿÿÿÿ
+g
+java:S1301è"KReplace this "switch" statement by "if" statements to increase readability.(øö¾˜úÿÿÿÿ
+3
+java:S1643¾"Use a StringBuilder instead.(›âÝÈ
+X
+java:S2259ö"AA "NullPointerException" could be thrown; "ref" is nullable here.(–²ä«
+e
+java:S3824Ñ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(½¯’
+K
+java:S1854_"6Remove this useless assignment to local variable "ok".(ŸÚÁw
+B
+java:S1481>"'Remove this unused "ok" local variable.(‰ÝýÂøÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¡ñßÅþÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¸ÏýÌ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(èæøÛýÿÿÿÿ
+P
+java:S6213æ":Rename this variable to not match a restricted identifier.(®Çî~
+W	java:S125ì"<This block of commented-out lines of code should be removed.(­á¹ìüÿÿÿÿ
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(—œ¹þ
+ƒ
+java:S1130Á"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‚ìÀî
+8	java:S131Ä""Add a default case to this switch.(¹ŠÒÓ
+i
+java:S3776ý"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(³žÓò
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÍÛÕ‹øÿÿÿÿ
+ˆ
+java:S1130„"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÍÛÕ‹øÿÿÿÿ
+ˆ
+java:S1130ƒ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(£ë·ÿÿÿÿÿ
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ˆ¬óŒþÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "tag".(ˆ¬óŒþÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(£¬ãûÿÿÿÿ
+n
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(í³š¯üÿÿÿÿ
+n
+java:S3776Ý"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¯Ó¶Áýÿÿÿÿ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(œÄòÛ
+ƒ
+java:S1130£"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œÄòÛ
+X
+java:S1854ß"<Remove this useless assignment to local variable "allICMap".(Ø¹Ìíÿÿÿÿÿ
+ˆ
+java:S1130ï"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ý†Õ‚úÿÿÿÿ
+ˆ
+java:S1130ƒ	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ž–äÃûÿÿÿÿ
+ˆ
+java:S1130é	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(€ö»Íýÿÿÿÿ
+7
+java:S1659ê	"!Declare "del" on a separate line.(‰Œì_
+n
+java:S3776û	"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ñ´´ÿùÿÿÿÿ
+2
+java:S3626©
+"Remove this redundant jump.(ÉŠ©ƒ
+R	java:S125£
+"<This block of commented-out lines of code should be removed.(ƒÒÕÛ
+V
+java:S1161»
+":Add the "@Override" annotation above this method signature(ÝØæˆýÿÿÿÿ
+Q
+java:S1161¾
+":Add the "@Override" annotation above this method signature(ÝÚ¾
+Q
+java:S1161Á
+":Add the "@Override" annotation above this method signature(Æ«´¤
+D
+java:S4274Æ
+"(Replace this assert with a proper check.(ëå×—þÿÿÿÿ
+V
+java:S1161Å
+":Add the "@Override" annotation above this method signature(®ßäøüÿÿÿÿ
+C
+java:S1125ò
+"'Remove the unnecessary boolean literal.(Ü’éñúÿÿÿÿ
+j
+java:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 138 to the 15 allowed.(³Çæß
+W
+java:S1854Ô";Remove this useless assignment to local variable "isSuper".(‹øûÿÿÿÿ
+W
+java:S1854Ó";Remove this useless assignment to local variable "isField".(¿ÎÞˆúÿÿÿÿ
+N
+java:S1854ï"7Remove this useless assignment to local variable "npc".(›“˜ë
+S
+java:S1854î"7Remove this useless assignment to local variable "apc".(Å´ƒÊüÿÿÿÿ
+H
+java:S1481Ó",Remove this unused "isField" local variable.(¿ÎÞˆúÿÿÿÿ
+H
+java:S1481Ô",Remove this unused "isSuper" local variable.(‹øûÿÿÿÿ
+=	java:S131è""Add a default case to this switch.(øö¾˜úÿÿÿÿ
+D
+java:S1481î"(Remove this unused "apc" local variable.(Å´ƒÊüÿÿÿÿ
+?
+java:S1481ï"(Remove this unused "npc" local variable.(›“˜ë
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(àÁÛð
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(¯›šòýÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(êé’ÿÿÿÿÿ

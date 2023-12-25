@@ -1,0 +1,142 @@
+
+E
+java:S37401"/Provide the parametrized type for this generic.(…ËÍï
+J
+java:S3740M"/Provide the parametrized type for this generic.(’ªÙ’üÿÿÿÿ
+J
+java:S3740Y"/Provide the parametrized type for this generic.(Îˆ©øÿÿÿÿ
+J
+java:S3740\"/Provide the parametrized type for this generic.(İ¢ã®üÿÿÿÿ
+J
+java:S3740c"/Provide the parametrized type for this generic.(æ§æƒûÿÿÿÿ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ú£’Å
+F
+java:S3740"/Provide the parametrized type for this generic.(ŸÀ»Ù
+K
+java:S3740¨"/Provide the parametrized type for this generic.(‰©Öşÿÿÿÿ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(‰©Öşÿÿÿÿ
+F
+java:S3740±"/Provide the parametrized type for this generic.(Ô¿¶º
+E
+java:S3740á"/Provide the parametrized type for this generic.(¬ğ†
+E
+java:S3740á"/Provide the parametrized type for this generic.(¬ğ†
+F
+java:S3740ÿ"/Provide the parametrized type for this generic.(Ô¿¶º
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(ŸÀ»Ù
+F
+java:S3740¯"/Provide the parametrized type for this generic.(ŸÀ»Ù
+h
+java:S1192‘"LDefine a constant instead of duplicating this literal ", status = " 3 times.(êşÔøÿÿÿÿ
+K
+java:S1066ï"/Merge this if statement with the enclosing one.(‚ôùéøÿÿÿÿ
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃÎê
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£Ô¢şÿÿÿÿ
+g
+java:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(²‹›Øüÿÿÿÿ
+k
+java:S1104Â"TMake resolved a static final constant or non-public and provide accessors if needed.(ÆˆÚ×
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(®®ƒa
+J
+java:S1133-"5Do not forget to remove this deprecated code someday.(È˜ë*
+=
+java:S1123-"(Add the missing @deprecated Javadoc tag.(È˜ë*
+{
+java:S11491"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…ËÍï
+€
+java:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’ªÙ’üÿÿÿÿ
+€
+java:S1149Y"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Îˆ©øÿÿÿÿ
+|
+java:S1149ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú£’Å
+r
+java:S1149¨"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‰©Öşÿÿÿÿ
+l
+java:S1149á"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬ğ†
+V	java:S107K"AConstructor has 9 parameters, which is greater than 7 authorized.(½ßİ¿
+P
+java:S1161C":Add the "@Override" annotation above this method signature(óííÎ
+E
+java:S1197N"*Move the array designators [] to the type.(êÕˆûÿÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.( ì£‘øÿÿÿÿ
+m
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Îˆ©øÿÿÿÿ
+E
+java:S1197d"*Move the array designators [] to the type.(çÕÑíùÿÿÿÿ
+F
+java:S1197¿"*Move the array designators [] to the type.(ÀÛ«¡øÿÿÿÿ
+A
+java:S1197Â"*Move the array designators [] to the type.(˜Üó
+F
+java:S1197ï"*Move the array designators [] to the type.(ÀÛ«¡øÿÿÿÿ
+@
+java:S1197ò"*Move the array designators [] to the type.(Õáàc
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(¾ñıÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§Æ¹
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(§Æ¹
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(Êşÿò
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(ˆ¦˜£ûÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(¤ñšşÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ºÈ«®úÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ºÈ«®úÿÿÿÿ
+o
+java:S3776±"SRefactor this method to reduce its Cognitive Complexity from 148 to the 15 allowed.(›¶ñ¤ùÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(›¶ñ¤ùÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(˜—àŒúÿÿÿÿ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Ñö’ùÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+A
+java:S1197Ô"*Move the array designators [] to the type.(Ø¨Î‹
+R
+java:S1119ö";Refactor the code to remove this label and the need for it.(äŸÙ†
+A
+java:S1197¦"*Move the array designators [] to the type.(Ø¨Î‹
+W	java:S125¥"<This block of commented-out lines of code should be removed.(æıúïşÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ñö’ùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Z
+java:S3358¤"DExtract this nested ternary operation into an independent statement.(”¼¿_
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¥¬êû
+=	java:S131µ""Add a default case to this switch.(²‹›Øüÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(À»‚—ÿÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(áÑï¼úÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(Ñö’ùÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(°å„Ö
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(ö¿¢
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(· ‡ªøÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Ãµæ¬
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îø¼‰øÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(Îø¼‰øÿÿÿÿ
+=	java:S131š""Add a default case to this switch.(²‹›Øüÿÿÿÿ
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(¡ºéé
+W	java:S125²"<This block of commented-out lines of code should be removed.(ŠÃ¬øÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ı»™
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(óœ¦ãùÿÿÿÿ
+=	java:S131Ö""Add a default case to this switch.(²‹›Øüÿÿÿÿ
+O	java:S106ä"9Replace this use of System.out or System.err by a logger.(¾Ìì°
+W	java:S125ï"<This block of commented-out lines of code should be removed.(ÊÑ‚Àøÿÿÿÿ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(†ÙÖ
+=
+java:S2129ø"!Remove this "Integer" constructor(”«÷›úÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

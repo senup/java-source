@@ -1,0 +1,19 @@
+
+r
+java:S1488Ï"[Immediately return this expression instead of assigning it to the temporary variable "key".(üÕÈ©
+A
+java:S21602"+Override the "equals" method in this class.(Ø…î„
+J
+java:S2675¹"3Remove the "synchronized" keyword from this method.(ï‘áé
+[
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(…æõ‡
+L
+java:S1128!"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+J
+java:S1128$"4Remove this unused import 'java.security.Signature'.(ªñ»
+H
+java:S1128("-Remove this unused import 'java.util.BitSet'.(‹¸ÚÁıÿÿÿÿ
+H
+java:S1128)"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+H
+java:S1128*"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ

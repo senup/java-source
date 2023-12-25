@@ -1,0 +1,31 @@
+
+o	java:S135ƒ"YReduce the total number of break and continue statements in this loop to use at most one.(À‹åï
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’§Æùÿÿÿÿ
+V
+java:S2259Ä"@A "NullPointerException" could be thrown; "is" is nullable here.(±»é
+U
+java:S1161?":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+U
+java:S1161E":Add the "@Override" annotation above this method signature(Èı……øÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(†€éˆ
+P
+java:S1161N":Add the "@Override" annotation above this method signature(ª©ˆ›
+P
+java:S1161R":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+P
+java:S1161b":Add the "@Override" annotation above this method signature(§ìî·
+@
+java:S1197b"*Move the array designators [] to the type.(§ìî·
+P
+java:S1161n":Add the "@Override" annotation above this method signature(š€ñµ
+L
+java:S1117o"7Rename "len" which hides the field declared at line 48.(Ù±Ò 
+V
+java:S1161…":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(†€éˆ
+i
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿÚá
+F
+java:S2093‚"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,15 @@
+
+D
+java:S1604•"(Make this anonymous inner class a lambda(Ñ¿£şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã«¨ğ
+D
+java:S1948-".Make "memberValues" transient or serializable.(±¢êÍ
+{
+java:S1149„"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôñ‘çúÿÿÿÿ
+=
+java:S3077Ÿ"&Use an "AtomicReferenceArray" instead.(½Ÿ‹´
+N
+java:S1117X"8Rename "type" which hides the field declared at line 44.(«ÿÂ“
+H
+java:S3011˜",This accessibility update should be removed.(ë‡¶”üÿÿÿÿ

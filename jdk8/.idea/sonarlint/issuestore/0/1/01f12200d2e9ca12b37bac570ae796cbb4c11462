@@ -1,0 +1,68 @@
+
+E
+java:S3740K"/Provide the parametrized type for this generic.(´…Ì
+E
+java:S3740K"/Provide the parametrized type for this generic.(´…Ì
+K
+java:S3740ï"/Provide the parametrized type for this generic.(Ÿ½«üÿÿÿÿ
+K
+java:S3740ï"/Provide the parametrized type for this generic.(Ÿ½«üÿÿÿÿ
+E
+java:S3740Ş"/Provide the parametrized type for this generic.(ÌÓ½)
+F
+java:S3740ı"/Provide the parametrized type for this generic.(ç˜­¼
+F
+java:S3740ÿ"/Provide the parametrized type for this generic.(şî›Ö
+K
+java:S3740€"/Provide the parametrized type for this generic.(Ë¤½Øùÿÿÿÿ
+E
+java:S3740ç"/Provide the parametrized type for this generic.(­²áA
+K
+java:S3740Š"/Provide the parametrized type for this generic.(¼Ÿªßıÿÿÿÿ
+k
+java:S1192—"ODefine a constant instead of duplicating this literal "Input not set!" 4 times.(–¼¨·üÿÿÿÿ
+:
+java:S1659k"$Declare "height" on a separate line.(‘Æ¬•
+;
+java:S1659n"%Declare "streamY" on a separate line.(éŸ´õ
+u
+java:S1149ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ÊÉ
+Q
+java:S1161ƒ":Add the "@Override" annotation above this method signature(­°§é
+V
+java:S1161£":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(•úÕ»
+Q
+java:S1117™":Rename "width" which hides the field declared at line 107.(ƒ¦µ´
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ü‚˜ö
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(…ÂÅ´øÿÿÿÿ
+P
+java:S1854¿"9Remove this useless assignment to local variable "label".(ÉÔØ³
+A
+java:S1481¿"*Remove this unused "label" local variable.(ÉÔØ³
+5
+java:S2129ê"Remove this "Long" constructor(ë…ª
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¶“®úÿÿÿÿ
+S
+java:S1854¹"=Remove this useless assignment to local variable "gceLength".(Œô”$
+U
+java:S1854Æ">Remove this useless assignment to local variable "terminator".(‹Öøú
+Q
+java:S1854È":Remove this useless assignment to local variable "length".(ø¹™
+D
+java:S1481¹".Remove this unused "gceLength" local variable.(Œô”$
+F
+java:S1481Æ"/Remove this unused "terminator" local variable.(‹Öøú
+B
+java:S1481È"+Remove this unused "length" local variable.(ø¹™
+G
+java:S1172¦"+Remove this unused method parameter "pass".(“ıÑƒıÿÿÿÿ
+n
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨É×úÿÿÿÿ
+<
+java:S1659¨"%Declare "oldCode" on a separate line.(¦¶… 
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(¡ÀØ”

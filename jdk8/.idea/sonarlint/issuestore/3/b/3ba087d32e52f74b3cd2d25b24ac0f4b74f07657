@@ -1,0 +1,11 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+X
+java:S2184n"BCast one of the operands of this addition operation to a "double".(‘¯òì
+X
+java:S2184n"BCast one of the operands of this addition operation to a "double".(‘¯òì
+h
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷Öí›
+b
+java:S3252a"GUse static access with "sun.java2d.pipe.hw.AccelSurface" for "TEXTURE".(şíùÿÿÿÿ

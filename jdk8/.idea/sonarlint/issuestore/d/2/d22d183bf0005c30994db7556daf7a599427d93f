@@ -1,0 +1,102 @@
+
+b
+java:S1192Œ"KDefine a constant instead of duplicating this literal "SourceFile" 3 times.(‹ù…Ç
+o	java:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(â×Ä
+o	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+E
+java:S1066¸"/Merge this if statement with the enclosing one.(Î’¦L
+K
+java:S1066‰	"/Merge this if statement with the enclosing one.(Û ±÷ıÿÿÿÿ
+l	java:S117À
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÛ¾üÿÿÿÿ
+D
+java:S1604½	"(Make this anonymous inner class a lambda(Œ—÷ıúÿÿÿÿ
+{
+java:S1488¹"dImmediately return this expression instead of assigning it to the temporary variable "lpredictable".(³Ë¬¹
+{
+java:S1488¾"_Immediately return this expression instead of assigning it to the temporary variable "obvious".(õÕ‘¯ÿÿÿÿÿ
+t
+java:S1488Î
+"]Immediately return this expression instead of assigning it to the temporary variable "bytes".(ş÷®Ù
+S
+java:S4973¹"<Strings and Boxed types should be compared using "equals()".(³Ë¬¹
+S
+java:S4973¹"<Strings and Boxed types should be compared using "equals()".(³Ë¬¹
+I
+java:S1199Ù"-Extract this nested code block into a method.(ÀÖôŒÿÿÿÿÿ
+^
+java:S2259Æ"BA "NullPointerException" could be thrown; "name" is nullable here.(§ÏÉŒşÿÿÿÿ
+t	java:S116I"ZRename this field "default_modtime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄàÏúÿÿÿÿ
+o	java:S116J"ZRename this field "default_options" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û˜ä‘
+<
+java:S1170G"!Make this final field static too.(îĞúøûÿÿÿÿ
+t
+java:S1171A"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Q
+java:S2696y"6Make the enclosing method "static" or remove this set.(§Ã¯óüÿÿÿÿ
+u
+java:S1210è"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Òôôƒüÿÿÿÿ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´ŸØà
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature( ²Éô
+?
+java:S4274œ"(Replace this assert with a proper check.(èîĞö
+D
+java:S4274µ"(Replace this assert with a proper check.(ùÛî¹şÿÿÿÿ
+Q
+java:S1161¼":Add the "@Override" annotation above this method signature(Ïç­Ä
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(”¡üÈùÿÿÿÿ
+Q
+java:S1161Õ":Add the "@Override" annotation above this method signature( ²Éô
+Q
+java:S1161à":Add the "@Override" annotation above this method signature(Ïç­Ä
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(”¡üÈùÿÿÿÿ
+Q
+java:S1161ü":Add the "@Override" annotation above this method signature( ²Éô
+D
+java:S4274¥"(Replace this assert with a proper check.(êİ“«ûÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(õ©ˆÉ
+B
+java:S1172à"+Remove this unused method parameter "mode".( ²Éô
+?
+java:S4274†"(Replace this assert with a proper check.(ª½ı•
+?
+java:S4274•"(Replace this assert with a proper check.(ù°¹½
+W	java:S125±"<This block of commented-out lines of code should be removed.(ÿãÀ¼şÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(Ò‘­¥
+W	java:S125º"<This block of commented-out lines of code should be removed.(¾‰üĞùÿÿÿÿ
+a
+java:S1124á"EReorder the modifiers to comply with the Java Language Specification.(Ø¹¡àüÿÿÿÿ
+Z
+java:S1155é">Use isEmpty() to check whether the collection is empty or not.(ë¾õÇûÿÿÿÿ
+Y
+java:S1659ó"CDeclare "number" and all following declarations on a separate line.(å¸†
+A
+java:S1659ô"%Declare "dollar2" on a separate line.(Æßï—úÿÿÿÿ
+R	java:S125ò"<This block of commented-out lines of code should be removed.(šêÜ¬
+R	java:S125ò"<This block of commented-out lines of code should be removed.(šêÜ¬
+R	java:S125ò"<This block of commented-out lines of code should be removed.(šêÜ¬
+B
+java:S1168ù"&Return an empty array instead of null.(ëÕÓ…şÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÙÛç±ÿÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ğ±‡Øúÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(Â×©Ô
+8	java:S131×""Add a default case to this switch.(±ŸğÅ
+W	java:S125â"<This block of commented-out lines of code should be removed.(ÀÊÄàüÿÿÿÿ
+_
+java:S3878•
+"CDisambiguate this call by either casting as "Object" or "Object[]".(Ø•ÛÏøÿÿÿÿ
+7
+java:S3878–
+"Remove this array creation.(‘İüúÿÿÿÿ
+2
+java:S3878—
+"Remove this array creation.(“ô”š
+7
+java:S3878˜
+"Remove this array creation.(Ëñ¥éÿÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.jar.Pack200'.(ÉùÿĞ

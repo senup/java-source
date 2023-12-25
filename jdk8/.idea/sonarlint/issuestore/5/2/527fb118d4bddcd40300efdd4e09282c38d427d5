@@ -1,0 +1,48 @@
+
+c
+java:S1192d"MDefine a constant instead of duplicating this literal "\u4e03\u6708" 4 times.(“÷•Â
+c
+java:S1192a"MDefine a constant instead of duplicating this literal "\u56db\u6708" 4 times.(¯ú¸ó
+j
+java:S1192Ä"SDefine a constant instead of duplicating this literal "\u661f\u671f\u65e5" 3 times.(¬Ë¼Ù
+j
+java:S1192Ê"SDefine a constant instead of duplicating this literal "\u661f\u671f\u516d" 3 times.(…·•Ï
+c
+java:S1192^"MDefine a constant instead of duplicating this literal "\u4e00\u6708" 4 times.(é†êŠ
+h
+java:S1192b"MDefine a constant instead of duplicating this literal "\u4e94\u6708" 4 times.(¸€‰àıÿÿÿÿ
+c
+java:S1192_"MDefine a constant instead of duplicating this literal "\u4e8c\u6708" 4 times.( ÒŞş
+h
+java:S1192g"MDefine a constant instead of duplicating this literal "\u5341\u6708" 4 times.(Ô¨üòıÿÿÿÿ
+h
+java:S1192c"MDefine a constant instead of duplicating this literal "\u516d\u6708" 4 times.(îº‹İùÿÿÿÿ
+c
+java:S1192`"MDefine a constant instead of duplicating this literal "\u4e09\u6708" 4 times.(¦Åóü
+c
+java:S1192f"MDefine a constant instead of duplicating this literal "\u4e5d\u6708" 4 times.(™õÜ›
+n
+java:S1192h"SDefine a constant instead of duplicating this literal "\u5341\u4e00\u6708" 4 times.(”‘ÕÔùÿÿÿÿ
+v
+java:S1192·"ZDefine a constant instead of duplicating this literal "GGGGy\u5e74M\u6708d\u65e5" 3 times.(Ë–Üáşÿÿÿÿ
+o
+java:S1192È"SDefine a constant instead of duplicating this literal "\u661f\u671f\u56db" 3 times.(›‹§øùÿÿÿÿ
+c
+java:S1192e"MDefine a constant instead of duplicating this literal "\u516b\u6708" 4 times.(Ú±œ÷
+o
+java:S1192Ç"SDefine a constant instead of duplicating this literal "\u661f\u671f\u4e09" 3 times.(ô’ÏÓúÿÿÿÿ
+o
+java:S1192Å"SDefine a constant instead of duplicating this literal "\u661f\u671f\u4e00" 3 times.(…ÔŒıÿÿÿÿ
+n
+java:S1192i"SDefine a constant instead of duplicating this literal "\u5341\u4e8c\u6708" 4 times.(şõíßøÿÿÿÿ
+j
+java:S1192Æ"SDefine a constant instead of duplicating this literal "\u661f\u671f\u4e8c" 3 times.(èß†Å
+j
+java:S1192É"SDefine a constant instead of duplicating this literal "\u661f\u671f\u4e94" 3 times.(©ê˜Ö
+g	java:S101Q"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çøÚéÿÿÿÿÿ
+K
+java:S1191M"5Use classes from the Java API instead of Sun classes.(÷Ìà“
+V
+java:S1854W";Remove this useless assignment to local variable "rocEras".(÷„£çüÿÿÿÿ
+G
+java:S1481W",Remove this unused "rocEras" local variable.(÷„£çüÿÿÿÿ

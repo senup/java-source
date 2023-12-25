@@ -1,0 +1,73 @@
+
+J
+java:S3740_"/Provide the parametrized type for this generic.(ßüİ¯ıÿÿÿÿ
+F
+java:S3740ü"/Provide the parametrized type for this generic.(›Ø¤û
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¢şÿÿÿÿ
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã‘½ßùÿÿÿÿ
+s	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼ÅËÒüÿÿÿÿ
+f	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”­€W
+p
+java:S1104Ó"TMake key_font a static final constant or non-public and provide accessors if needed.(¾’¦†şÿÿÿÿ
+j
+java:S1104Ô"SMake key_frc a static final constant or non-public and provide accessors if needed.(ôÃ¢
+f
+java:S1104Ö"OMake dtx a static final constant or non-public and provide accessors if needed.(–¤Àí
+n
+java:S1104×"RMake invdtx a static final constant or non-public and provide accessors if needed.(¾¶—åıÿÿÿÿ
+k
+java:S1104Ø"OMake gtx a static final constant or non-public and provide accessors if needed.(Ô¨’¸ÿÿÿÿÿ
+h
+java:S1104Ù"QMake delta a static final constant or non-public and provide accessors if needed.(œ€ªÄ
+e
+java:S1104Ú"NMake sd a static final constant or non-public and provide accessors if needed.(Ù†”¡
+i
+java:S1104˜"RMake _count a static final constant or non-public and provide accessors if needed.(ëÛó
+i
+java:S1104™"RMake _flags a static final constant or non-public and provide accessors if needed.(Äˆ¦£
+o
+java:S1104š"SMake _glyphs a static final constant or non-public and provide accessors if needed.(®’ã•øÿÿÿÿ
+r
+java:S1104›"VMake _positions a static final constant or non-public and provide accessors if needed.(ü”×Âúÿÿÿÿ
+p
+java:S1104œ"TMake _indices a static final constant or non-public and provide accessors if needed.(ïğÃúøÿÿÿÿ
+K
+java:S1191E"5Use classes from the Java API instead of Sun classes.(”îóµ
+]
+java:S2259¥"AA "NullPointerException" could be thrown; "rhs" is nullable here.(úÏŞüÿÿÿÿ
+g	java:S116U"RRename this field "_gvdata" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½ş
+d	java:S116Z"ORename this field "_lef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èõ¡Â
+k	java:S116["VRename this field "_textRecord" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãßİƒ
+p	java:S116\"VRename this field "_scriptRuns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«÷­èşÿÿÿÿ
+i	java:S116]"TRename this field "_fontRuns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©”
+h	java:S116^"SRename this field "_ercount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š„æŸ
+n	java:S116_"TRename this field "_erecords" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßüİ¯ıÿÿÿÿ
+h	java:S116`"NRename this field "_pt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–êÔ½ÿÿÿÿÿ
+h	java:S116a"NRename this field "_sd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂüÂ¶üÿÿÿÿ
+i	java:S116b"ORename this field "_mat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¾¦™ùÿÿÿÿ
+p	java:S116c"VRename this field "_typo_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è® èøÿÿÿÿ
+l	java:S116d"RRename this field "_offset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êõÀÿÿÿÿÿ
+r
+java:S3077X"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÃºÒøÿÿÿÿ
+;
+java:S2097ˆ"Add a type test to this method.(èŠÈïúÿÿÿÿ
+R	java:S107¯"<Method has 8 parameters, which is greater than 7 authorized.(Í†¶ö
+n	java:S116Ó"SRename this field "key_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾’¦†şÿÿÿÿ
+h	java:S116Ô"RRename this field "key_frc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÃ¢
+;
+java:S2097¡"Add a type test to this method.(İ¢êÍıÿÿÿÿ
+?	java:S108©")Either remove or fill this block of code.(íƒè¨
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(â¯›Šøÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(óÙ¤ªûÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(¬’³»ÿÿÿÿÿ
+Q	java:S125ï"<This block of commented-out lines of code should be removed.(¤Ùé%
+g	java:S116˜"QRename this field "_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÛó
+g	java:S116™"QRename this field "_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äˆ¦£
+m	java:S116š"RRename this field "_glyphs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®’ã•øÿÿÿÿ
+p	java:S116›"URename this field "_positions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü”×Âúÿÿÿÿ
+n	java:S116œ"SRename this field "_indices" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïğÃúøÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ã†Ş½ÿÿÿÿÿ

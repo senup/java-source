@@ -1,0 +1,46 @@
+
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ƒ·
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İøÎò
+O
+java:S5993]"9Change the visibility of this constructor to "protected".(¹ ª‘
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ÆÀ–Ê
+[
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(ŠúÃ
+[
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(Šûü
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(™ğ·¢şÿÿÿÿ
+`
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(Öµñ…üÿÿÿÿ
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(Ş°ğ¶ÿÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(­œÇ³
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(Â´òë
+`
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(»”´şÿÿÿÿ
+[
+java:S1124I"EReorder the modifiers to comply with the Java Language Specification.(ö‘Ğ°
+[
+java:S1124K"EReorder the modifiers to comply with the Java Language Specification.(ıäôì
+`
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(éÈóÀøÿÿÿÿ
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(™ôß¶ûÿÿÿÿ
+`
+java:S1124P"EReorder the modifiers to comply with the Java Language Specification.(¯ÄÀùÿÿÿÿ
+`
+java:S1124S"EReorder the modifiers to comply with the Java Language Specification.(Èõ¿Ôùÿÿÿÿ
+[
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(¨èã
+=
+java:S1905˜"&Remove this unnecessary cast to "int".(˜×ş
+=
+java:S1905£"&Remove this unnecessary cast to "int".(˜×ş
+B
+java:S1905€"&Remove this unnecessary cast to "int".(¹˜êØıÿÿÿÿ
+B
+java:S1905’"&Remove this unnecessary cast to "int".(éÏ€îûÿÿÿÿ

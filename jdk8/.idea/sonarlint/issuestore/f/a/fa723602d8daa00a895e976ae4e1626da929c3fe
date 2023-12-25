@@ -1,0 +1,353 @@
+
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(äÓñ
+\	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(©î­¶
+\	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(©î­¶
+E
+java:S3740Œ"/Provide the parametrized type for this generic.(¼°èx
+K
+java:S3740Ğ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+K
+java:S3740’"/Provide the parametrized type for this generic.(ĞÛ£“ÿÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+F
+java:S3740Å"/Provide the parametrized type for this generic.(Ã„·Ä
+F
+java:S3740Ú"/Provide the parametrized type for this generic.(‘úÈ
+E
+java:S3740›"/Provide the parametrized type for this generic.(¼°èx
+F
+java:S3740á"/Provide the parametrized type for this generic.(ëÕ¿
+K
+java:S3740Õ	"/Provide the parametrized type for this generic.(†üÁÛøÿÿÿÿ
+K
+java:S3740Ö	"/Provide the parametrized type for this generic.(•ùÛÅøÿÿÿÿ
+K
+java:S3740×	"/Provide the parametrized type for this generic.(§èÁ°ıÿÿÿÿ
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(ìî®
+K
+java:S3740°"/Provide the parametrized type for this generic.(ğİ¾Íüÿÿÿÿ
+K
+java:S3740‚"/Provide the parametrized type for this generic.(ğİ¾Íüÿÿÿÿ
+F
+java:S3740°"/Provide the parametrized type for this generic.(ìî®
+K
+java:S3740×"/Provide the parametrized type for this generic.(ñ˜Šéøÿÿÿÿ
+K
+java:S3740×"/Provide the parametrized type for this generic.(ñ˜Šéøÿÿÿÿ
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(¤Àá
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(¤Àá
+F
+java:S3740Ù"/Provide the parametrized type for this generic.(Ü¿‹É
+F
+java:S3740Ù"/Provide the parametrized type for this generic.(Ü¿‹É
+F
+java:S3740å"/Provide the parametrized type for this generic.(Ú‘¶§
+K
+java:S3740æ"/Provide the parametrized type for this generic.(Š÷‰Çıÿÿÿÿ
+F
+java:S3740Ç"/Provide the parametrized type for this generic.(›ÇÕº
+F
+java:S3740È"/Provide the parametrized type for this generic.(¤ª¶Ù
+F
+java:S3740‚"/Provide the parametrized type for this generic.(ìî®
+F
+java:S3740²"/Provide the parametrized type for this generic.(Ñ ©
+F
+java:S3740"/Provide the parametrized type for this generic.(æ½“û
+K
+java:S3740ü"/Provide the parametrized type for this generic.(ÁŞÁÿÿÿÿÿ
+K
+java:S3740™"/Provide the parametrized type for this generic.(àÁ…êıÿÿÿÿ
+K
+java:S3740š"/Provide the parametrized type for this generic.(Èã‹ÿÿÿÿÿ
+E
+java:S3740›"/Provide the parametrized type for this generic.(¯ß
+K
+java:S3740œ"/Provide the parametrized type for this generic.(£™Ö¤ùÿÿÿÿ
+K
+java:S3740õ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+e
+java:S1192à"NDefine a constant instead of duplicating this literal "label.jobname" 3 times.(£è€‚
+k
+java:S1192­"ODefine a constant instead of duplicating this literal "dialog.owtitle" 3 times.(ãê‹²ÿÿÿÿÿ
+l
+java:S1192ˆ"PDefine a constant instead of duplicating this literal "label.topmargin" 3 times.(öíÇùûÿÿÿÿ
+o
+java:S1192"SDefine a constant instead of duplicating this literal "label.bottommargin" 3 times.(øõ©ˆüÿÿÿÿ
+f
+java:S1192õ"ODefine a constant instead of duplicating this literal "dialog.pstitle" 3 times.(Áêÿ
+h
+java:S1192ş
+"QDefine a constant instead of duplicating this literal "label.leftmargin" 3 times.(ÖÂ›Ñ
+k
+java:S1192ğ"ODefine a constant instead of duplicating this literal "label.username" 3 times.(äò”òùÿÿÿÿ
+i
+java:S1192Œ"RDefine a constant instead of duplicating this literal "dialog.printtitle" 3 times.(—×ıË
+k
+java:S1192Ë"ODefine a constant instead of duplicating this literal "label.priority" 3 times.(œùœôşÿÿÿÿ
+l
+java:S1192©	"PDefine a constant instead of duplicating this literal "label.numcopies" 3 times.(ğ½›æûÿÿÿÿ
+n
+java:S1192ƒ"RDefine a constant instead of duplicating this literal "label.rightmargin" 3 times.(”ì±äúÿÿÿÿ
+F
+java:S1066›"/Merge this if statement with the enclosing one.(šÕå
+K
+java:S1066Ç"/Merge this if statement with the enclosing one.(Í¢œ‚üÿÿÿÿ
+K
+java:S1066ï"/Merge this if statement with the enclosing one.(şøÒºıÿÿÿÿ
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(²şª²ûÿÿÿÿ
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+t
+java:S1488 "]Immediately return this expression instead of assigning it to the temporary variable "value".(®¤Ë·
+r
+java:S1488®"[Immediately return this expression instead of assigning it to the temporary variable "url".(üû×
+x
+java:S1488÷"\Immediately return this expression instead of assigning it to the temporary variable "icon".(èåÜÁüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+T
+java:S2589—"8Remove this expression which always evaluates to "false"(úàşêúÿÿÿÿ
+t	java:S115e"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëë²ßùÿÿÿÿ
+u
+java:S3008’"YRename this field "_keyEventClazz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛ£“ÿÿÿÿÿ
+>
+java:S1659k"(Declare "btnApprove" on a separate line.(ï¡ª
+k
+java:S1450j"URemove the "tpTabs" field and declare it as a local variable in the relevant methods.(Ä¾¸Â
+?
+java:S1948l"*Make "services" transient or serializable.(¿¾ı&
+G
+java:S1948n",Make "asOriginal" transient or serializable.(Š†ëşÿÿÿÿ
+F
+java:S1948p"+Make "psCurrent" transient or serializable.(‚Š÷§şÿÿÿÿ
+|
+java:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤Àá
+|
+java:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ü¿‹É
+\	java:S107„"AConstructor has 8 parameters, which is greater than 7 authorized.(µ¨…±ıÿÿÿÿ
+\	java:S107—"AConstructor has 8 parameters, which is greater than 7 authorized.(µ¨…±ıÿÿÿÿ
+`
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(Á°íáùÿÿÿÿ
+[
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(Í¯Û
+[
+java:S1124c"EReorder the modifiers to comply with the Java Language Specification.(ğ¾Ã„
+V
+java:S1161à":Add the "@Override" annotation above this method signature(û«§Òøÿÿÿÿ
+V
+java:S1161§":Add the "@Override" annotation above this method signature(û«§Òøÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦¯Ÿşÿÿÿÿÿ
+?	java:S108š")Either remove or fill this block of code.(óûìœ
+O
+java:S1117¬"8Rename "jfc" which hides the field declared at line 116.(£Œá
+?	java:S108¢")Either remove or fill this block of code.(”ı¾
+
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ÓáÌıÿÿÿÿ
+b
+java:S1659Æ"FDeclare "lblStatus" and all following declarations on a separate line.(—ÀîÇúÿÿÿÿ
+B
+java:S1948Ç"+Make "uiFactory" transient or serializable.(Õ‹Ûï
+_
+java:S3252ã"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ªÚ·¨øÿÿÿÿ
+_
+java:S3252÷"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ğŞâ€úÿÿÿÿ
+_
+java:S3252"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(¬Ñ¯îùÿÿÿÿ
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¼ Òşüÿÿÿÿ
+C
+java:S1874¡",Remove this use of "show"; it is deprecated.(ï›²«
+D	java:S108©")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ĞÇ‹àÿÿÿÿÿ
+D	java:S108à")Either remove or fill this block of code.(Õ‰ÿıÿÿÿÿ
+C
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(®û‡Èûÿÿÿÿ
+W
+java:S1117²";Rename "status" which hides the field declared at line 114.(Í¦óïÿÿÿÿÿ
+
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹¨‹ºûÿÿÿÿ
+`
+java:S1659Ä"DDeclare "rbPages" and all following declarations on a separate line.(æâòşÿÿÿÿÿ
+>
+java:S1659Å"'Declare "tfRangeTo" on a separate line.(¼Ë²”
+W	java:S125à"<This block of commented-out lines of code should be removed.(‹ˆşóşÿÿÿÿ
+=
+java:S2129÷"!Remove this "Integer" constructor(º”äùÿÿÿÿ
+=
+java:S2129ø"!Remove this "Integer" constructor(ï£Ó­úÿÿÿÿ
+=
+java:S2129Ô"!Remove this "Integer" constructor(èÂµ¸ùÿÿÿÿ
+=
+java:S2129Ù"!Remove this "Integer" constructor(½èÏıÿÿÿÿ
+R	java:S125‡	"<This block of commented-out lines of code should be removed.(©Ù±•
+8
+java:S2129‹	"!Remove this "Integer" constructor(°–×ß
+=
+java:S2129Œ	"!Remove this "Integer" constructor(ƒÇ‚‡üÿÿÿÿ
+_
+java:S3252©	"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(ğ½›æûÿÿÿÿ
+Z
+java:S1854Ö	">Remove this useless assignment to local variable "csCategory".(•ùÛÅøÿÿÿÿ
+=
+java:S1659ğ	"!Declare "max" on a separate line.(£ŠÖ¼ıÿÿÿÿ
+K
+java:S1481Ö	"/Remove this unused "csCategory" local variable.(•ùÛÅøÿÿÿÿ
+8
+java:S2129ø	"!Remove this "Integer" constructor(×èşä
+=
+java:S2129ù	"!Remove this "Integer" constructor(›ïœùÿÿÿÿ
+8
+java:S2129ÿ	"!Remove this "Integer" constructor(è’ä„
+
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹¨‹ºûÿÿÿÿ
+_
+java:S1659Å
+"HDeclare "rightMargin" and all following declarations on a separate line.(í¸²
+\
+java:S1659Ç
+"EDeclare "lblRight" and all following declarations on a separate line.(ÊÉ„
+Y
+java:S1659Ê
+"BDeclare "rmVal" and all following declarations on a separate line.(ğ…ò
+^
+java:S1659Ì
+"BDeclare "rmObj" and all following declarations on a separate line.(¯¿ÅÖùÿÿÿÿ
+;
+java:S2129õ
+"Remove this "Float" constructor(í ğ¿ÿÿÿÿÿ
+;
+java:S2129ö
+"Remove this "Float" constructor(ê°Êüÿÿÿÿ
+^
+java:S3252’"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ƒİÑôûÿÿÿÿ
+^
+java:S3252™"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ƒİÑôûÿÿÿÿ
+^
+java:S3252©"BUse static access with "javax.swing.SwingConstants" for "LEADING".(ƒİÑôûÿÿÿÿ
+^
+java:S3252°"BUse static access with "javax.swing.SwingConstants" for "LEADING".(¾Ÿ‡“øÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Û·ÂÃıÿÿÿÿ
+2
+java:S3626˜"Remove this redundant jump.(ûÁİ…
+g
+java:S1764—"KCorrect one of the identical sub-expressions on both sides of operator "||"(úàşêúÿÿÿÿ
+D
+java:S1481±"(Remove this unused "mpa" local variable.(Šıƒµüÿÿÿÿ
+e
+java:S4201¶"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö–¯Œúÿÿÿÿ
+e
+java:S4201¹"IRemove this unnecessary null check; "instanceof" returns false for nulls.(è¯êÌÿÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(úÀÇÄ
+>
+java:S1659¹""Declare "yMgn" on a separate line.(ğÚËøüÿÿÿÿ
+e
+java:S4201‰"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö–¯Œúÿÿÿÿ
+e
+java:S4201Œ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(è¯êÌÿÿÿÿÿ
+6
+java:S2129§"Remove this "Float" constructor(ğ§›
+6
+java:S2129¨"Remove this "Float" constructor(êïÄÎ
+6
+java:S2129©"Remove this "Float" constructor(º›Ã˜
+;
+java:S2129ª"Remove this "Float" constructor(†ıÊ÷ùÿÿÿÿ
+>
+java:S1659Ö"'Declare "lblSource" on a separate line.(©ßğ¹
+B
+java:S1659×"&Declare "cbSource" on a separate line.(ñ˜Šéøÿÿÿÿ
+|
+java:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤Àá
+|
+java:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ü¿‹É
+Z
+java:S3252í"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(½¸ç
+_
+java:S3252÷"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(‚âèçüÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ĞÇ‹àÿÿÿÿÿ
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(úÀÇÄ
+Z
+java:S1155í">Use isEmpty() to check whether the collection is empty or not.(ú±À³ÿÿÿÿÿ
+U
+java:S1155ÿ">Use isEmpty() to check whether the collection is empty or not.(æÎå“
+Z
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(²şª²ûÿÿÿÿ
+U
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(×¦Ó
+d
+java:S1659Á"HDeclare "rbLandscape" and all following declarations on a separate line.(ÜÂªôıÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(úÀÇÄ
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(¸¥ï¿
+<
+java:S1659"%Declare "rbColor" on a separate line.(µîÊ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(úÀÇÄ
+Q	java:S125İ"<This block of commented-out lines of code should be removed.(ŞÅÌ
+a
+java:S1659ç"EDeclare "rbNormal" and all following declarations on a separate line.(¨ïÂŒüÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(úÀÇÄ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(Ğ‚³²úÿÿÿÿ
+a
+java:S1659Ì"EDeclare "rbTumble" and all following declarations on a separate line.(Ğá¡Óúÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(úÀÇÄ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Åê©ıÿÿÿÿ
+
+java:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹¨‹ºûÿÿÿÿ
+c
+java:S1659³"GDeclare "lblJobName" and all following declarations on a separate line.(å¶üöÿÿÿÿÿ
+D
+java:S1659·"(Declare "tfUserName" on a separate line.(ş¾Šıûÿÿÿÿ
+_
+java:S3252Ë"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(œùœôşÿÿÿÿ
+_
+java:S3252á"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Õ‚Şûÿÿÿÿ
+_
+java:S3252ñ"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(šù Êşÿÿÿÿ
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(úÀÇÄ
+8
+java:S2129¿"!Remove this "Integer" constructor(è’ä„
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(íıŒ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(˜‹ş÷ûÿÿÿÿ
+V	java:S899¶";Do something with the "boolean" value returned by "delete".(ƒá„³ÿÿÿÿÿ
+j
+java:S4042¶"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ƒá„³ÿÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+F
+java:S1128&"0Remove this unused import 'java.awt.GridLayout'.(ÀÚñæ
+H
+java:S1128("-Remove this unused import 'java.awt.Toolkit'.(Õºşÿÿÿÿ
+L
+java:S1128?"6Remove this unused import 'javax.swing.border.Border'.(şŒ©ƒ
+W
+java:S1128A"<Remove this unused import 'javax.swing.border.TitledBorder'.(Ê€Ä“ÿÿÿÿÿ
+W
+java:S1128D"<Remove this unused import 'javax.swing.event.DocumentEvent'.(Î‚øòüÿÿÿÿ
+Z
+java:S1128E"?Remove this unused import 'javax.swing.event.DocumentListener'.(‹ëÊ•ÿÿÿÿÿ
+o
+java:S1128I"TRemove this unnecessary import: same package classes are always implicitly imported.(Ÿ¤ÿÚùÿÿÿÿ
+B
+java:S1068t"'Remove this unused "jfc" private field.(¯ÊÈ§øÿÿÿÿ

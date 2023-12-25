@@ -1,0 +1,4 @@
+
+g	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø­Üÿûÿÿÿÿ
+l
+java:S11498"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ô¨Á

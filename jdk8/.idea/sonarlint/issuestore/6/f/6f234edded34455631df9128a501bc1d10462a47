@@ -1,0 +1,32 @@
+
+p
+java:S2293³	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ôË
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+\	java:S107g"BConstructor has 11 parameters, which is greater than 7 authorized.(Ô£ö–ûÿÿÿÿ
+R	java:S107o"=Method has 11 parameters, which is greater than 7 authorized.(öÍÀç
+D
+java:S1125ƒ"(Remove the unnecessary boolean literals.(™¤ğüÿÿÿÿ
+R
+java:S1117³";Rename "accText" which hides the field declared at line 69.(ù°–ğ
+T
+java:S1117É"8Rename "icon" which hides the field declared at line 65.(—ìÂ¸şÿÿÿÿ
+\
+java:S1117ß"ERename "afterCheckIconGap" which hides the field declared at line 83.(Ø–Ûá
+e
+java:S4201ü"IRemove this unnecessary null check; "instanceof" returns false for nulls.(—¶äèşÿÿÿÿ
+?
+java:S4274„"(Replace this assert with a proper check.(ê–„á
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¾³şÍıÿÿÿÿ
+Z
+java:S3252ğ">Use static access with "javax.swing.SwingConstants" for "TOP".(ú°ùÿÿÿÿ
+]
+java:S3252÷"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ì øûÿÿÿÿ
+]
+java:S3252ÿ"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(‰ûÇûøÿÿÿÿ
+Z
+java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(ú°ùÿÿÿÿ
+]
+java:S3252’"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ì øûÿÿÿÿ
+X
+java:S3252–"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(¢ß¢ô

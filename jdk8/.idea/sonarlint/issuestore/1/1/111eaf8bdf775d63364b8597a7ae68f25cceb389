@@ -1,0 +1,50 @@
+
+\	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(éÊ‰
+\	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(¿øŠá
+K
+java:S1066Õ"/Merge this if statement with the enclosing one.(Êˆ’ııÿÿÿÿ
+F
+java:S1066Ö"/Merge this if statement with the enclosing one.(¥İ¯ş
+K
+java:S1066×"/Merge this if statement with the enclosing one.(¹Ç„½üÿÿÿÿ
+P
+java:S1191+"5Use classes from the Java API instead of Sun classes.(Ô¯›øıÿÿÿÿ
+t
+java:S1450?"^Remove the "targetImplTitle" field and declare it as a local variable in the relevant methods.(Í…×Ä
+v
+java:S1450B"[Remove the "targetsealed" field and declare it as a local variable in the relevant methods.( ‰òÃşÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(²úŒo
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ê‰Ì
+Q
+java:S1854Ó":Remove this useless assignment to local variable "sealed".(–šÄ
+P
+java:S1854Î":Remove this useless assignment to local variable "vendor".( Ú·4
+A
+java:S1481Î"+Remove this unused "vendor" local variable.( Ú·4
+B
+java:S1481Ó"+Remove this unused "sealed" local variable.(–šÄ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›Ü§ûûÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(õ¿ˆ‹ÿÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(õ¿ˆ‹ÿÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(àÃ½úÿÿÿÿ
+=
+java:S1168ƒ"&Return an empty array instead of null.(¥¹ï
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+I
+java:S1128#"3Remove this unused import 'java.util.jar.JarEntry'.(äÛá“
+P
+java:S1128("5Remove this unused import 'java.security.Permission'.(Œ•Ğ¶úÿÿÿÿ
+@
+java:S1128)"*Remove this unused import 'java.util.jar'.(ŒÜÜÄ
+D
+java:S10688")Remove this unused "DEBUG" private field.(ÀâŞøÿÿÿÿ
+I
+java:S1068?"3Remove this unused "targetImplTitle" private field.(Í…×Ä
+K
+java:S1068B"0Remove this unused "targetsealed" private field.( ‰òÃşÿÿÿÿ

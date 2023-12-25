@@ -1,0 +1,12 @@
+
+o
+java:S3012j"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µš†ü
+V	java:S125s"<This block of commented-out lines of code should be removed.(ÜÉž¿ùÿÿÿÿ
+7
+java:S1659½" Declare "b2" on a separate line.(“»¹‘
+R	java:S125ö"<This block of commented-out lines of code should be removed.(¥õÔå
+?	java:S108Ã")Either remove or fill this block of code.(ë¥Éº
+D
+java:S4274Ú"(Replace this assert with a proper check.(š“Âåúÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(û¡”±
+W	java:S125ï"<This block of commented-out lines of code should be removed.(®‡Ìäùÿÿÿÿ

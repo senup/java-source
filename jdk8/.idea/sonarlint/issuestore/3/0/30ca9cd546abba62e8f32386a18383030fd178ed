@@ -1,0 +1,9 @@
+
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(åŒçžýÿÿÿÿ
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(å•—¤ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S11619":Add the "@Override" annotation above this method signature(ÃÅñÛüÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(¥–•¨
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ð¬œµøÿÿÿÿ

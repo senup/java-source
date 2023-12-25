@@ -1,0 +1,19 @@
+
+D
+java:S1121k".Extract the assignment out of this expression.(ÒñÇ½
+l
+java:S1104O"VMake binaryMode a static final constant or non-public and provide accessors if needed.(ÕŞ”Ñ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+K
+java:S1854k"5Remove this useless assignment to local variable "c".(ÒñÇ½
+P
+java:S1161Z":Add the "@Override" annotation above this method signature(Ä…©
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(’ì¸
+A
+java:S1197€"*Move the array designators [] to the type.(’ì¸
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(·’¬Îüÿÿÿÿ
+F
+java:S1197ˆ"*Move the array designators [] to the type.(·’¬Îüÿÿÿÿ

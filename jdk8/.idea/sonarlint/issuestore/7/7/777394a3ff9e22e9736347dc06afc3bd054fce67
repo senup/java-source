@@ -1,0 +1,13 @@
+
+K
+java:S3740’"/Provide the parametrized type for this generic.(ñ€í…şÿÿÿÿ
+E
+java:S1066b"/Merge this if statement with the enclosing one.(ó‚¹
+m
+java:S3008>"RRename this field "HEADING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åêòëøÿÿÿÿ
+A
+java:S1948:"&Make "root" transient or serializable.(ÚÌÀıÿÿÿÿ
+A
+java:S10685"+Remove this unused "runtime" private field.(ëù×½
+K
+java:S10687"0Remove this unused "classManager" private field.(ŞĞú‹ùÿÿÿÿ

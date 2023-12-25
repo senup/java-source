@@ -1,0 +1,28 @@
+
+E
+java:S1121´".Extract the assignment out of this expression.(ÓõÀ
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.(ÅüÊ
+N
+java:S2589á"7Remove this expression which always evaluates to "true"(›Ö¹€
+`
+java:S2583ò"DChange this condition so that it does not always evaluate to "false"(·ËşÍıÿÿÿÿ
+t	java:S115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+–
+java:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹®²p
+`
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(Øıê—úÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ø¡Á²ùÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(‡‚ñÜÿÿÿÿÿ
+N	java:S106‰"9Replace this use of System.out or System.err by a logger.(¹ùß
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(¦¤Òùÿÿÿÿÿ
+ƒ
+java:S1130®"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¯åûÄ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Íå”ã
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ã–„
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(Åå½ûÿÿÿÿ
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(¢„ºÿÿÿÿÿ
+F
+java:S1068F"0Remove this unused "DNSNAME_TYPE" private field.(É°‰ş

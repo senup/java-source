@@ -1,0 +1,204 @@
+
+a	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(ŸÛÈÆüÿÿÿÿ
+E
+java:S1121œ".Extract the assignment out of this expression.(øÅ—î
+E
+java:S1121œ".Extract the assignment out of this expression.(øÅ—î
+E
+java:S1121é".Extract the assignment out of this expression.(øÅ—î
+E
+java:S1121é".Extract the assignment out of this expression.(øÅ—î
+E
+java:S1121º".Extract the assignment out of this expression.(øÅ—î
+E
+java:S1121º".Extract the assignment out of this expression.(øÅ—î
+J
+java:S1121‰".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121Ì".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121‚".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121£".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121Ç".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121ä".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+J
+java:S1121÷".Extract the assignment out of this expression.(Éšª½ûÿÿÿÿ
+E
+java:S1121„".Extract the assignment out of this expression.(¶êÍ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎÎ™
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøŒŞ
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‡”Ùùÿÿÿÿ
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àˆº´
+g
+java:S1301ì"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301ÿ"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(ÇŠª·ÿÿÿÿÿ
+l	java:S116Õ"WRename this field "input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Üª
+9
+java:S2386³"Make this member "protected".(éŸì¯ÿÿÿÿÿ
+9
+java:S2386É"Make this member "protected".(¼Íîüÿÿÿÿ
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÙŞÆ
+h
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(®ÙŞÆ
+d	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß·Ê½
+c	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ä
+d	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢õ§
+^
+java:S1479Å"BReduce the number of non-empty switch cases from 41 to at most 30.(¶ËßÜüÿÿÿÿ
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŒúşÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ãŒúşÿÿÿÿ
+‚
+java:S2234Å"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(‚ø¨ÿ
+‡
+java:S2234ç"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Ï×…œüÿÿÿÿ
+‚
+java:S2234é"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(¨‹ÕÑ
+‡
+java:S2234ë"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ÊçÆüüÿÿÿÿ
+‚
+java:S2234í"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(¯ß
+‚
+java:S2234ô"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ßÆ…„
+‡
+java:S2234ö"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(¯éüÿÿÿÿ
+
+java:S2234ø"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ô¬ÿS
+‚
+java:S2234ú"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ƒúÄ
+‚
+java:S2234ü"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(°Ìø
+
+java:S2234ƒ"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Êğî&
+‚
+java:S2234…"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ü¦­Î
+‚
+java:S2234‡"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(áó…É
+‚
+java:S2234‰"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(çµé¾
+‚
+java:S2234‹"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(¤ÏÎö
+‚
+java:S2234"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ñ¿ƒÊ
+‡
+java:S2234"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Šäªïıÿÿÿÿ
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àá¶ñ
+i
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Àá¶ñ
+‡
+java:S2234³"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Ã¸«üúÿÿÿÿ
+‚
+java:S2234µ"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(áÖÓ¯
+‡
+java:S2234·"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ö­ÀÌıÿÿÿÿ
+‚
+java:S2234¹"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Å¾ìÌ
+‡
+java:S2234»"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ïÿÙÃıÿÿÿÿ
+‚
+java:S2234½"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(£¾ê
+‡
+java:S2234¿"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(•Áæ¸şÿÿÿÿ
+
+java:S2234Á"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Ãû”,
+‡
+java:S2234Ã"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ÅÉóÈÿÿÿÿÿ
+‡
+java:S2234Å"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ªİöÆşÿÿÿÿ
+‡
+java:S2234Ç"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(úƒÛëøÿÿÿÿ
+‚
+java:S2234Ì"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ğã½±
+‚
+java:S2234Î"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ı±Ë
+‚
+java:S2234Õ"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(åãİŸ
+‚
+java:S2234×"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Ú½Õ‚
+d	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®º—ä
+i
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(®º—ä
+‡
+java:S2234ù"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(€œÉìıÿÿÿÿ
+‚
+java:S2234û"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(„Åü
+‚
+java:S2234ı"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(½¦”Ù
+‡
+java:S2234"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(³ôÉïûÿÿÿÿ
+‚
+java:S2234”"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(“ê…
+‚
+java:S2234–"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ÀÆ§Æ
+‚
+java:S2234›"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(¦ã€‰
+‚
+java:S2234"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(¼Ÿ·°
+‡
+java:S2234¢"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ğÛÜÊüÿÿÿÿ
+‡
+java:S2234§"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(®ı©¹øÿÿÿÿ
+‡
+java:S2234¬"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(°÷ÔÑúÿÿÿÿ
+‡
+java:S2234®"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(Ñ‚Ï®ùÿÿÿÿ
+‚
+java:S2234°"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ç¸’õ
+‡
+java:S2234²"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(‰øÊûÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Öİ§şÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(„Öİ§şÿÿÿÿ
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¼Öàúÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´¼Öàúÿÿÿÿ
+=
+java:S1110‰"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+i	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦‚úÿÿÿÿ
+=
+java:S1110Ì"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÀ««ûÿÿÿÿ
+=
+java:S1110‚"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+d	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ĞÉ€
+=
+java:S1110£"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+i	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ìö÷üÿÿÿÿ
+=
+java:S1110Ç"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+i	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¦€Åşÿÿÿÿ
+=
+java:S1110ä"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+d	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùé„¶
+=
+java:S1110÷"!Remove these useless parentheses.(Éšª½ûÿÿÿÿ
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄà®şÿÿÿÿ
+o
+java:S3776Á"SRefactor this method to reduce its Cognitive Complexity from 557 to the 15 allowed.(ôÄà®şÿÿÿÿ
+^
+java:S1479Ó"BReduce the number of non-empty switch cases from 59 to at most 30.(±Ø¹Ìúÿÿÿÿ
+B
+java:S1905À"&Remove this unnecessary cast to "int".(ı¡´øÿÿÿÿ
+i	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒ©üÿÿÿÿ
+]
+java:S1126˜"AReplace this if-then-else statement by a single return statement.(öÊŸŞúÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü´ÏÉ
+]
+java:S1126­"AReplace this if-then-else statement by a single return statement.(íòÈèùÿÿÿÿ
+i	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½´ŠŸûÿÿÿÿ
+d	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ºà
+i	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ø±‘ıÿÿÿÿ
+d	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µøú†
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Ù¿©Œúÿÿÿÿ
+R
+java:S1119œ";Refactor the code to remove this label and the need for it.(œÈ‹ã
+R
+java:S1144¤"6Remove this unused private "jjCheckNAddStates" method.(ÜÇ˜µÿÿÿÿÿ

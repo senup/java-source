@@ -1,0 +1,108 @@
+
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(ëÍØ‰üÿÿÿÿ
+F
+java:S3740›"/Provide the parametrized type for this generic.(äãÃá
+F
+java:S3740¬"/Provide the parametrized type for this generic.(‡ìîµ
+F
+java:S3740®"/Provide the parametrized type for this generic.(©¬Ú 
+K
+java:S3740¯"/Provide the parametrized type for this generic.(éÂÚÿúÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(­˜ßÃùÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ…î‰
+p
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(å†Åû
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(¡¦Îšûÿÿÿÿ
+D
+java:S1604û	"(Make this anonymous inner class a lambda(Áí‹Ìùÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(Ç°›Äøÿÿÿÿ
+>
+java:S1604±"(Make this anonymous inner class a lambda(…ö
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+\
+java:S2259¨"@A "NullPointerException" could be thrown; "fm" is nullable here.(ÛùÜïşÿÿÿÿ
+[
+java:S2583ò"DChange this condition so that it does not always evaluate to "false"(ÒÔÏ²
+p	java:S115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó„éÿ
+
+java:S3008À"tRename this field "inputEvent_CanAccessSystemClipboard_Field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÍçÄùÿÿÿÿ
+z
+java:S1149R"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¿ÂÒãıÿÿÿÿ
+t
+java:S1149o"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(â´Œ$
+{
+java:S1149¹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ß…Èáùÿÿÿÿ
+{
+java:S1149ù
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(©‰°ìúÿÿÿÿ
+A
+java:S1905c"&Remove this unnecessary cast to "int".(çÚê¼øÿÿÿÿ
+A
+java:S1905d"&Remove this unnecessary cast to "int".(Ú£‚îøÿÿÿÿ
+=
+java:S1905£"&Remove this unnecessary cast to "int".(»…¿
+@
+java:S1481¥")Remove this unused "lsbs" local variable.(³‡Ç“
+?
+java:S1172ê"(Remove this unused method parameter "g".(Öòüš
+M
+java:S1874ò"6Remove this use of "getFontMetrics"; it is deprecated.(çŞö’
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¦ıÀ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(†èÁİøÿÿÿÿ
+>
+java:S4274Ô"(Replace this assert with a proper check.(ùƒ¿Y
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(úÚÊ¬úÿÿÿÿ
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ô÷ıùÿÿÿÿ
+D
+java:S4274ñ"(Replace this assert with a proper check.(ñùûûÿÿÿÿ
+R
+java:S2696	"6Make the enclosing method "static" or remove this set.(õÎŠµøÿÿÿÿ
+D	java:S108Õ	")Either remove or fill this block of code.(ÿëÛßúÿÿÿÿ
+d	java:S100÷	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜™¾õ
+b
+java:S2147ƒ
+"FCombine this catch with the one at line 1282, which has the same body.(µØ¯®øÿÿÿÿ
+C
+java:S3011€
+",This accessibility update should be removed.(˜ÂÓ˜
+D	java:S108‚
+")Either remove or fill this block of code.(ÿëÛßúÿÿÿÿ
+D	java:S108ƒ
+")Either remove or fill this block of code.(µØ¯®øÿÿÿÿ
+?	java:S108
+")Either remove or fill this block of code.(Å¡ß
+8	java:S131¢
+""Add a default case to this switch.(ìß¤è
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(åûˆùÿÿÿÿ
+=
+java:S1168Í"&Return an empty array instead of null.(¥¹ï
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(õœŸÈùÿÿÿÿ
+=
+java:S1168ß"&Return an empty array instead of null.(¥¹ï
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(õÏÄ
+D	java:S108Ä")Either remove or fill this block of code.(§ëÙ»ùÿÿÿÿ
+Q
+java:S1874ï":Remove this use of "isFocusTraversable"; it is deprecated.(°¹…‰
+R
+java:S1874ó";Remove this use of "requestDefaultFocus"; it is deprecated.(³¶²‡
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”€şúÿÿÿÿ
+@
+java:S1128""*Remove this unused import 'java.awt.geom'.(âŞ»³
+j
+java:S11283"TRemove this unnecessary import: same package classes are always implicitly imported.(ë¤ôÁ
+j
+java:S11284"TRemove this unnecessary import: same package classes are always implicitly imported.(¾‡òŸ
+]
+java:S11287"BRemove this unused import 'sun.security.action.GetPropertyAction'.(°¿”Œúÿÿÿÿ

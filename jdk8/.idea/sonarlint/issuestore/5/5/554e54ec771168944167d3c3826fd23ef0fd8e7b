@@ -1,0 +1,20 @@
+
+s	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ü™şÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(’› ‘
+;
+java:S16598" Declare "sy" on a separate line.(†¹º×ÿÿÿÿÿ
+;
+java:S16599" Declare "y0" on a separate line.(Óö÷êúÿÿÿÿ
+M
+java:S1117M"7Rename "idx" which hides the field declared at line 52.(Ç§ıé
+7	java:S131p""Add a default case to this switch.(ÜŸ•
+d	java:S116¨"NRename this field "ERR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…äŠ§
+8
+java:S1116"Remove this empty statement.(¤ëôûÿÿÿÿ
+;
+java:S1659£"Declare "y" on a separate line.(ÒúÜíûÿÿÿÿ
+<
+java:S1659" Declare "y0" on a separate line.(½îÚğøÿÿÿÿ
+6
+java:S1659ƒ" Declare "y1" on a separate line.(â×Ä

@@ -1,0 +1,218 @@
+
+[	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(‚«à8
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚáÜÿÿÿÿÿ
+j
+java:S1192„"SDefine a constant instead of duplicating this literal "Proxy-Authenticate" 8 times.(‡‚Ø½
+_
+java:S1192"HDefine a constant instead of duplicating this literal "Cookie2" 9 times.(äÿÛ
+b
+java:S1192¹"KDefine a constant instead of duplicating this literal "Connection" 3 times.(†ÆÑ
+f
+java:S1192Ÿ"JDefine a constant instead of duplicating this literal "Negotiate" 7 times.(ÓÄ·ùÿÿÿÿ
+s
+java:S1192È"WDefine a constant instead of duplicating this literal "Authentication failure" 4 times.(ïø–ûÿÿÿÿ
+f
+java:S1192º"ODefine a constant instead of duplicating this literal "Content-Length" 5 times.(÷ÿ»ü
+n
+java:S1192¸"RDefine a constant instead of duplicating this literal "Already connected" 3 times.(ë¯Õªıÿÿÿÿ
+g
+java:S1192ƒ"QDefine a constant instead of duplicating this literal "WWW-Authenticate" 3 times.(É›ß%
+p
+java:S1192†"TDefine a constant instead of duplicating this literal "Proxy-Authorization" 5 times.(ãü†ëÿÿÿÿÿ
+`
+java:S1192 "IDefine a constant instead of duplicating this literal "Kerberos" 7 times.(†øîÖ
+g
+java:S1192Á"KDefine a constant instead of duplicating this literal "keep-alive" 3 times.(Œ’ÆÛşÿÿÿÿ
+e
+java:S1192‡"NDefine a constant instead of duplicating this literal "Authorization" 4 times.(ÔÏ€Ë
+c
+java:S1192"GDefine a constant instead of duplicating this literal "Cookie" 9 times.(÷Ü¡¢ùÿÿÿÿ
+n
+java:S1192Æ"RDefine a constant instead of duplicating this literal "Transfer-Encoding" 5 times.(Ğ«Æ¾ÿÿÿÿÿ
+J
+java:S1121ç".Extract the assignment out of this expression.(¸è¯Éùÿÿÿÿ
+t	java:S135Ë"YReduce the total number of break and continue statements in this loop to use at most one.(Éø³ùÿÿÿÿ
+t	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+t	java:S135Ä"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+m	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÎÅ«t
+F
+java:S1066€"/Merge this if statement with the enclosing one.(Õ¨ğ
+F
+java:S1066Ø"/Merge this if statement with the enclosing one.(ÌªŞÉ
+K
+java:S1066†"/Merge this if statement with the enclosing one.(ã¨ç÷ıÿÿÿÿ
+F
+java:S1066Š"/Merge this if statement with the enclosing one.(·÷Œ»
+K
+java:S1066×"/Merge this if statement with the enclosing one.(ã¨ç÷ıÿÿÿÿ
+K
+java:S1066ı"/Merge this if statement with the enclosing one.(·¥ìùşÿÿÿÿ
+K
+java:S1066š"/Merge this if statement with the enclosing one.(·¥ìùşÿÿÿÿ
+Q
+java:S1141Í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§Ù¬ûÿÿÿÿ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŒÑ’ıÿÿÿÿ
+f	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ö§E
+?
+java:S1604"(Make this anonymous inner class a lambda(úÅ½ 
+?
+java:S1604²"(Make this anonymous inner class a lambda(¬ë”é
+?
+java:S1604¹"(Make this anonymous inner class a lambda(Ø×·Ù
+?
+java:S1604"(Make this anonymous inner class a lambda(’­Ûü
+>
+java:S1604¿"(Make this anonymous inner class a lambda(Õîİ&
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+H
+java:S1153­"1Directly append the argument of String.valueOf().(èåìˆ
+H
+java:S1153È"1Directly append the argument of String.valueOf().(èåìˆ
+H
+java:S1153è"1Directly append the argument of String.valueOf().(èåìˆ
+o	java:S115^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹‰íş
+o	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ¬Ì©
+t	java:S115b"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓÓ†úÿÿÿÿ
+t	java:S115c"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ»İïşÿÿÿÿ
+o	java:S115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ïöàº
+t	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸäôÍûÿÿÿÿ
+p	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ó†ª
+u	java:S115ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â© Êÿÿÿÿÿ
+p	java:S115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸•´—
+r
+java:S3008\"WRename this field "HTTP_CONNECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¦¸¤ıÿÿÿÿ
+-
+java:S2176Z"Rename this class.(¦Ìßªøÿÿÿÿ
+@
+java:S1659Û"*Declare "proxyAuthKey" on a separate line.(åÒ»]
+R	java:S107”"<Method has 8 parameters, which is greater than 7 authorized.(Ú§·‡
+[
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(Ãºó­
+`
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(Á¡İƒüÿÿÿÿ
+`
+java:S1124p"EReorder the modifiers to comply with the Java Language Specification.(Ô£­·şÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(Üô‘²ùÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(»Ò½‚ûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ÿ¼¤Àûÿÿÿÿ
+Q
+java:S1133¯"5Do not forget to remove this deprecated code someday.(‘â±ıûÿÿÿÿ
+D
+java:S1123¯"(Add the missing @deprecated Javadoc tag.(‘â±ıûÿÿÿÿ
+]
+java:S1126º"AReplace this if-then-else statement by a single return statement.(¤–ô†øÿÿÿÿ
+]
+java:S1126Ë"AReplace this if-then-else statement by a single return statement.(Ïó¬ûÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(Õ™äıÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(±Ğåûÿÿÿÿ
+ˆ
+java:S1130“"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¹£ş
+L
+java:S1133Ä"5Do not forget to remove this deprecated code someday.(Ïìòè
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡‘à°úÿÿÿÿ
+h
+java:S3252á"LUse static access with "java.net.HttpURLConnection" for "HTTP_NOT_MODIFIED".(­­‡©üÿÿÿÿ
+A
+java:S1197‹"*Move the array designators [] to the type.(«¯ã©
+D	java:S108”")Either remove or fill this block of code.(­‘™•üÿÿÿÿ
+D	java:S108Â")Either remove or fill this block of code.(¨¤Ì¨ûÿÿÿÿ
+d	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¨äĞ
+ƒ
+java:S1130ï"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(î¨äĞ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(¿ ùä
+2
+java:S3626é"Remove this redundant jump.(ÉŠ©ƒ
+n
+java:S2737†	"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+W	java:S125³"<This block of commented-out lines of code should be removed.(àö­üÿÿÿÿÿ
+n
+java:S3776™	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œÖÛÍüÿÿÿÿ
+?	java:S108¼	")Either remove or fill this block of code.(üï™
+i
+java:S3776ì	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ò†Ã
+]
+java:S2147²
+"FCombine this catch with the one at line 1320, which has the same body.(ï­£Ä
+i
+java:S3776Á
+"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ØğØ
+j
+java:S3776¤"SRefactor this method to reduce its Cognitive Complexity from 203 to the 15 allowed.(±†å
+D	java:S108Ì")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(²‘ğ®
+?	java:S108ø")Either remove or fill this block of code.(‘Ñîš
+3
+java:S1116ø"Remove this empty statement.(‘Ñîš
+F
+java:S2093ä"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S1905İ".Remove this unnecessary cast to "IOException".(±ÅÒ±
+T
+java:S3878ß"8Remove this array creation and simply pass the elements.(ƒé¬Åøÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(§ßü‹üÿÿÿÿ
+h
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(¯æá
+O
+java:S1874ğ"3Remove this use of "defaultAuth"; it is deprecated.(Î’„ƒıÿÿÿÿ
+O
+java:S1874ñ"3Remove this use of "defaultAuth"; it is deprecated.(Ï³š¢ÿÿÿÿÿ
+O
+java:S1874ô"3Remove this use of "defaultAuth"; it is deprecated.(ÑÇİûÿÿÿÿ
+?	java:S108ù")Either remove or fill this block of code.(×’
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(¢ ’’ûÿÿÿÿ
+O
+java:S1874"3Remove this use of "defaultAuth"; it is deprecated.(Î’„ƒıÿÿÿÿ
+O
+java:S1874‘"3Remove this use of "defaultAuth"; it is deprecated.(Ï³š¢ÿÿÿÿÿ
+J
+java:S1874’"3Remove this use of "defaultAuth"; it is deprecated.(šãá§
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(İ ºŒ
+h
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¥•‚w
+?	java:S108…")Either remove or fill this block of code.(Í€ª¨
+>	java:S108¦")Either remove or fill this block of code.(Éò§+
+D	java:S108û")Either remove or fill this block of code.(“Ùô†ÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ìˆ¹Ğ
+\
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(¬“ú
+a
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(§ˆÄÖúÿÿÿÿ
+h
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Ğ²G
+;
+java:S1659Ô"$Declare "tmpMap" on a separate line.(ççß©
+F
+java:S1659İ"*Declare "filteredVals" on a separate line.(øìŒñşÿÿÿÿ
+>	java:S108ò")Either remove or fill this block of code.(Éò§+
+>	java:S108‰")Either remove or fill this block of code.(Éò§+
+>	java:S108–")Either remove or fill this block of code.(Éò§+
+>	java:S108§")Either remove or fill this block of code.(Éò§+
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¦… úÿÿÿÿ
+W
+java:S1659Ú"ADeclare "time" and all following declarations on a separate line.(œ³X
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ë‰²ÿÿÿÿÿ
+Y
+java:S4929À"=Provide an override of "read(byte[],int,int)" for this class.(²•ÿøÿÿÿÿ
+:
+java:S11287"%Remove this unused import 'java.net'.(Ğ‡

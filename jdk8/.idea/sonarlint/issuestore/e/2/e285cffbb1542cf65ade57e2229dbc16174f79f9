@@ -1,0 +1,33 @@
+
+o
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô‡¼º
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(€üüá
+|
+java:S1192¿"eDefine a constant instead of duplicating this literal "c14n.Canonicalizer.RelativeNamespace" 3 times.(™êŞ€
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‚î±
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‚î±
+T
+java:S5993O"9Change the visibility of this constructor to "protected".(ó‰Ãùÿÿÿÿ
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(ÓõÃ›ùÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
+Q
+java:S1117œ":Rename "result" which hides the field declared at line 72.(İäî–
+A
+java:S1197½"*Move the array designators [] to the type.(Ë‡÷É
+i
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ö˜¼
+Q
+java:S1117à":Rename "result" which hides the field declared at line 72.(İäî–
+A
+java:S1197"*Move the array designators [] to the type.(Ë‡÷É
+A
+java:S1197˜"*Move the array designators [] to the type.(Ë‡÷É
+b
+java:S1764Á"KCorrect one of the identical sub-expressions on both sides of operator "||"(„ÿµ

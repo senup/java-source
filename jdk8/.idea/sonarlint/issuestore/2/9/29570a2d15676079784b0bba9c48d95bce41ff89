@@ -1,0 +1,143 @@
+
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ƒ‚ÿÿÿÿÿ
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÒ§ğ
+p
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÆª
+q
+java:S1192«"ZDefine a constant instead of duplicating this literal "Expected a Color instance" 4 times.(¬Ñ¼õ
+F
+java:S1066—	"/Merge this if statement with the enclosing one.(ĞÖÖÙ
+l	java:S117 	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ãÿ›ÿÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+S
+java:S2589–	"7Remove this expression which always evaluates to "true"(Ò¾ªÔøÿÿÿÿ
+R	java:S107Ò
+"<Method has 8 parameters, which is greater than 7 authorized.(¨òìç
+V
+java:S1161":Add the "@Override" annotation above this method signature(…¸²üøÿÿÿÿ
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(ÿ§øÙ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(Áá±Š
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(»Äšš
+V
+java:S1161":Add the "@Override" annotation above this method signature(ŸûÍ²úÿÿÿÿ
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(µ•Õ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ï¤ïÂùÿÿÿÿ
+Q
+java:S1161à":Add the "@Override" annotation above this method signature(ô§¶ö
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(ÆÓÛ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(²¯”×
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(®”‘¡
+A
+java:S1197Ê"*Move the array designators [] to the type.(®”‘¡
+A
+java:S1197Ê"*Move the array designators [] to the type.(®”‘¡
+V
+java:S1161ó":Add the "@Override" annotation above this method signature(šµşªÿÿÿÿÿ
+F
+java:S1197ó"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+F
+java:S1197ó"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(®Æ®úÿÿÿÿ
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(£À¨¤
+A
+java:S1197˜"*Move the array designators [] to the type.(£À¨¤
+A
+java:S1197˜"*Move the array designators [] to the type.(£À¨¤
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(ÿë”Íıÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(¹‚
+V
+java:S1161½":Add the "@Override" annotation above this method signature(–º«³úÿÿÿÿ
+?
+java:S1172Ç"(Remove this unused method parameter "w".(Ûİû
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(Şó‘©
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(Şó‘©
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(´ÀÀÂùÿÿÿÿ
+P
+java:S3400—"9Remove this method and declare a constant for this value.(”·³›
+P
+java:S1172–"4Remove these unused method parameters "font", "str".(ú¸¾öıÿÿÿÿ
+Q
+java:S1172Ÿ"5Remove these unused method parameters "gv", "x", "y".(Íø³Òıÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 81 to the 15 allowed.(±ì¾Ùÿÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(†×Öîùÿÿÿÿ
+e
+java:S4201„"IRemove this unnecessary null check; "instanceof" returns false for nulls.(©ïæÇúÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(èÇÔ—ÿÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(²›×Ğÿÿÿÿÿ
+i
+java:S3776ˆ	"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(œ”äÈ
+=
+java:S1125‹	"'Remove the unnecessary boolean literal.(¦ıú7
+S
+java:S3252Œ	"<Use static access with "java.awt.Transparency" for "OPAQUE".(Ä‘Ôº
+>
+java:S1125´	"'Remove the unnecessary boolean literal.(¿ıïù
+Y
+java:S3252Á	"=Use static access with "java.awt.Transparency" for "BITMASK".(ş øùÿÿÿÿ
+i
+java:S3776È	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÌÒ„à
+S
+java:S1854
+"7Remove this useless assignment to local variable "hgt".(€Ë†ÿÿÿÿÿ
+S
+java:S1854‘
+"7Remove this useless assignment to local variable "hgt".(Åæöİúÿÿÿÿ
+_
+java:S1659„
+"CDeclare "bottom" and all following declarations on a separate line.(Èáñôúÿÿÿÿ
+T
+java:S3252Ø	"=Use static access with "java.awt.Transparency" for "BITMASK".(µ•âÜ
+D
+java:S1481„
+"(Remove this unused "hgt" local variable.(Èáñôúÿÿÿÿ
+V
+java:S1161ñ
+":Add the "@Override" annotation above this method signature(¥íé™ÿÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(¥íé™ÿÿÿÿÿ
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(¥íé™ÿÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(›§¦ışÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(¥íé™ÿÿÿÿÿ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(å™Çòşÿÿÿÿ
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(å™Çòşÿÿÿÿ
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(å™Çòşÿÿÿÿ
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(Û‚ç‹øÿÿÿÿ
+2
+java:S3626°"Remove this redundant jump.(ûÁİ…
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(‚Œ´‹üÿÿÿÿ
+L
+java:S1128""1Remove this unused import 'sun.font.FontManager'.(ã€´æûÿÿÿÿ
+S
+java:S1128#"8Remove this unused import 'sun.font.FontManagerFactory'.(ãé¢µùÿÿÿÿ
+T
+java:S1128J">Remove this unused import 'sun.awt.image.ByteComponentRaster'.(­ÆŞ—
+Q
+java:S1128Q";Remove this unused import 'java.awt.print.PrinterGraphics'.(²Õ½¿

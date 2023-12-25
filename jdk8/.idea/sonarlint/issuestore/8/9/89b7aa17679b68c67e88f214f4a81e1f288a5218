@@ -1,0 +1,33 @@
+
+k
+java:S1104/"PMake font a static final constant or non-public and provide accessors if needed.(™ÈœÊüÿÿÿÿ
+h
+java:S11040"RMake font2D a static final constant or non-public and provide accessors if needed.(ÂÒéÏ
+k
+java:S11041"VMake fontStrike a static final constant or non-public and provide accessors if needed.(”Ş”W
+l
+java:S11042"QMake devTx a static final constant or non-public and provide accessors if needed.(“¼âøûÿÿÿÿ
+n
+java:S11043"SMake glyphTx a static final constant or non-public and provide accessors if needed.(ÂìÊØúÿÿÿÿ
+m
+java:S11044"WMake pixelHeight a static final constant or non-public and provide accessors if needed.(›¼’È
+n
+java:S11045"SMake originX a static final constant or non-public and provide accessors if needed.(ËĞŒùÿÿÿÿ
+h
+java:S11046"SMake originY a static final constant or non-public and provide accessors if needed.(‘È¤r
+h
+java:S11047"RMake aaHint a static final constant or non-public and provide accessors if needed.(ª»•˜
+r
+java:S11048"WMake lcdRGBOrder a static final constant or non-public and provide accessors if needed.(¿„Ç÷ûÿÿÿÿ
+n
+java:S1104:"XMake lcdSubPixPos a static final constant or non-public and provide accessors if needed.(ƒÁê
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+i
+java:S2975E"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+/
+java:S2225I"Return a non null object.(¥¹ï
+U
+java:S1128":Remove this unused import 'java.awt.geom.AffineTransform'.(˜ÊÊ¡ıÿÿÿÿ
+J
+java:S1128!"4Remove this unused import 'sun.font.FontStrikeDesc'.(Ùì¤Ğ

@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Òÿïàúÿÿÿÿ
+m
+java:S30771"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(û×áÕ
+l
+java:S30772"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ø¥Ä
+G
+java:S2160Â"+Override the "equals" method in this class.(ë¾²·þÿÿÿÿ
+C
+java:S1125Ð"'Remove the unnecessary boolean literal.(Õ³¨Ñþÿÿÿÿ

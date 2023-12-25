@@ -1,0 +1,29 @@
+
+F
+java:S3740Ú"/Provide the parametrized type for this generic.(»É
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÁá†
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÀğÿÿÿÿÿ
+u
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡å«úÿÿÿÿ
+v
+java:S1488Ò"_Immediately return this expression instead of assigning it to the temporary variable "idEqual".(šœİı
+n
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(›š÷Œşÿÿÿÿ
+b
+java:S3457˜"KFormat specifiers or lambda should be used instead of string concatenation.(»ªñ‡
+=
+java:S3457"!Single quote "'" must be escaped.(«½ëùÿÿÿÿ
+g
+java:S3457½"KFormat specifiers or lambda should be used instead of string concatenation.(·¦¾Ãúÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğİ¼º
+S
+java:S1117‡"7Rename "ksr" which hides the field declared at line 82.(§ËËæûÿÿÿÿ
+i
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(™µ´Ô
+M
+java:S1117Ó"6Rename "id" which hides the field declared at line 72.(™¼àò
+J
+java:S1172".Remove this unused method parameter "context".(²ğºÆúÿÿÿÿ

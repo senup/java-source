@@ -1,0 +1,27 @@
+
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ­ÖÔøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(§Ëê
+h
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(Çµí‘
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(‰ş›×ÿÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¾´ì„úÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÂÎ­±
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(¤»ÀÚıÿÿÿÿ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(†ï™
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(Åºùéÿÿÿÿÿ
+–
+java:S1130Š"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(‚íä
+F
+java:S1197"*Move the array designators [] to the type.(õ‘Ÿ®úÿÿÿÿ
+A
+java:S1197—"*Move the array designators [] to the type.(ºïÌ
+P
+java:S4719œ"9Replace charset name argument with StandardCharsets.UTF_8(¤ôÎÂ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‚‰
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(º¹¸á
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(‰¦ßı
+_
+java:S1128&"DRemove this unused import 'com.sun.tools.attach.AgentLoadException'.(Â¥Œ˜üÿÿÿÿ

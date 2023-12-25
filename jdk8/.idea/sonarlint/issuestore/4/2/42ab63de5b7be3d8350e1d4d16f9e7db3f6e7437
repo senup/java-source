@@ -1,0 +1,203 @@
+
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åýÿÿÿÿ
+J
+java:S1121ö".Extract the assignment out of this expression.(ðÕ™—úÿÿÿÿ
+E
+java:S1121¤".Extract the assignment out of this expression.(ø¾ì»
+J
+java:S1121Ä".Extract the assignment out of this expression.(ùÕÜŸþÿÿÿÿ
+J
+java:S1121Î".Extract the assignment out of this expression.(‘íÇ‹ýÿÿÿÿ
+D
+java:S1121‘".Extract the assignment out of this expression.(„ò¼
+J
+java:S1121˜	".Extract the assignment out of this expression.(Ýø¸øÿÿÿÿ
+E
+java:S1121½".Extract the assignment out of this expression.(ù¦ËÔ
+D
+java:S1121ö".Extract the assignment out of this expression.(„ò¼
+J
+java:S1121‹".Extract the assignment out of this expression.(­§ùíúÿÿÿÿ
+E
+java:S1121‹".Extract the assignment out of this expression.(Ñ‚ðÅ
+o	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135³
+"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+b
+java:S1301Ö"KReplace this "switch" statement by "if" statements to increase readability.(Ñš˜š
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+I
+java:S1199¶"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+z
+java:S3008Î"^Rename this field "isFormatVersion_2_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„–Œüÿÿÿÿ
+z
+java:S3008Ï"^Rename this field "isFormatVersion_2_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÃº„ÿÿÿÿÿ
+v
+java:S1149”"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Û·‹†
+R	java:S107¤"<Method has 8 parameters, which is greater than 7 authorized.(½áÙå
+Q	java:S107Ÿ"<Method has 9 parameters, which is greater than 7 authorized.(´¿ä
+X	java:S107Œ"=Method has 10 parameters, which is greater than 7 authorized.(òŽ„œÿÿÿÿÿ
+W	java:S107Ô"<Method has 8 parameters, which is greater than 7 authorized.(Êßï…þÿÿÿÿ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(€œü¯
+P	java:S125h"<This block of commented-out lines of code should be removed.(¶†¢s
+@
+java:S3010ˆ"$Remove this assignment of "indexes".(½·¼Êûÿÿÿÿ
+B
+java:S3010"+Remove this assignment of "combiningTable".(Žš’©
+=
+java:S3010"&Remove this assignment of "extraData".(ßõ‘Ö
+?
+java:S3010•"(Remove this assignment of "fcdTrieImpl".(³‹ÖŠ
+@
+java:S3010–")Remove this assignment of "normTrieImpl".(¯Þÿ
+?
+java:S3010—"(Remove this assignment of "auxTrieImpl".(ëìÓñ
+@
+java:S3010¢")Remove this assignment of "isDataLoaded".(±ÅÂ”
+G
+java:S3010§"0Remove this assignment of "isFormatVersion_2_1".(µ¡±ô
+G
+java:S3010«"0Remove this assignment of "isFormatVersion_2_2".(Ä£Œ¿
+B
+java:S3010¯"+Remove this assignment of "unicodeVersion".(¨Ÿ«¡
+R
+java:S1854”";Remove this useless assignment to local variable "preBack".( §Ú‰
+O
+java:S1854”"8Remove this useless assignment to local variable "back".( §Ú‰
+;
+java:S1659Ž"%Declare "preBack" on a separate line.(žšç
+;
+java:S1659"%Declare "trailCC" on a separate line.(ŸØú_
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(‰ƒ†¦
+<
+java:S1659â"%Declare "trailCC" on a separate line.(¥Å‚æ
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(½áÙå
+<
+java:S1659¯" Declare "c2" on a separate line.(€æí¨øÿÿÿÿ
+@
+java:S1659°"$Declare "prevCC" on a separate line.(Éõôùýÿÿÿÿ
+h
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(´¿ä
+@
+java:S1659§"$Declare "qcMask" on a separate line.(ô¾æÄúÿÿÿÿ
+@
+java:S1659¨"$Declare "length" on a separate line.(È’Ÿøÿÿÿÿ
+V
+java:S1659©"?Declare "c2" and all following declarations on a separate line.(»Ì­ô
+_
+java:S1659ª"CDeclare "prevCC" and all following declarations on a separate line.(¥îÖ´ùÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(Ï­¿ûÿÿÿÿ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(öðáâ
+n
+java:S3776þ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Òí¤’øÿÿÿÿ
+@
+java:S1659Ù	"$Declare "value2" on a separate line.(…ø®œÿÿÿÿÿ
+o
+java:S3776Ÿ
+"SRefactor this method to reduce its Cognitive Complexity from 144 to the 15 allowed.(œøé–üÿÿÿÿ
+W	java:S125š
+"<This block of commented-out lines of code should be removed.(ª–ê¸ûÿÿÿÿ
+U
+java:S1659 
+">Declare "q" and all following declarations on a separate line.(¨Ý¶¢
+J
+java:S1659¢
+".Declare "combineBackIndex" on a separate line.(ÞÐŽÄþÿÿÿÿ
+^
+java:S1659£
+"BDeclare "value" and all following declarations on a separate line.(ñÜ ïûÿÿÿÿ
+E
+java:S1940 ")Use the opposite operator ("==") instead.(ôºÿ‘ýÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(íÔ™½
+W	java:S125ï"<This block of commented-out lines of code should be removed.(“œâˆùÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(æùÆÉ
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(åÖú÷
+<
+java:S1659¦" Declare "c2" on a separate line.(€æí¨øÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(òŽ„œÿÿÿÿÿ
+P
+java:S1854¹"9Remove this useless assignment to local variable "start".(©ßÂ±
+;
+java:S1659ž"Declare "t" on a separate line.(ÌÛóýÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(Êßï…þÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¥ÌÚ¿ÿÿÿÿÿ
+@
+java:S1659Ø")Declare "prevStarter" on a separate line.(×Í›å
+@
+java:S1659Ú"$Declare "qcMask" on a separate line.(ô¾æÄúÿÿÿÿ
+@
+java:S1659Û"$Declare "length" on a separate line.(È’Ÿøÿÿÿÿ
+V
+java:S1659Ü"?Declare "c2" and all following declarations on a separate line.(»Ì­ô
+@
+java:S1659Ý"$Declare "prevCC" on a separate line.(¼ðÁ–ûÿÿÿÿ
+N
+java:S1135„"2Complete the task associated to this TODO comment.(›€­ýÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(‹ÎÄÃúÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(à£ê
+W	java:S125›"<This block of commented-out lines of code should be removed.(„â–Ïøÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Üä«”üÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(’ÚâÜýÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ùå¿ï
+R	java:S125½"<This block of commented-out lines of code should be removed.(þ§èÐ
+F
+java:S1197Õ"*Move the array designators [] to the type.(ïµÀýÿÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(ŸÍÏ¹
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œ„Íæøÿÿÿÿ
+_
+java:S1659è"CDeclare "start2" and all following declarations on a separate line.(’ËÚþÿÿÿÿ
+<
+java:S1659ê" Declare "c2" on a separate line.(ë‹íýÿÿÿÿ
+A
+java:S1659ð"%Declare "length2" on a separate line.(¡Ì‚µûÿÿÿÿ
+<
+java:S1905¼"&Remove this unnecessary cast to "int".(Ì…°/
+<
+java:S1905¼"&Remove this unnecessary cast to "int".(Ì…°/
+W	java:S125ë"<This block of commented-out lines of code should be removed.(³«ùÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(ö¡âÔ
+C
+java:S1659¬"'Declare "hasDecomp" on a separate line.(·ï¡èýÿÿÿÿ
+=
+java:S1659µ"!Declare "end" on a separate line.(ÍôÁÑýÿÿÿÿ
+n
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œ•ƒ…ûÿÿÿÿ
+d	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ˆÕè
+c	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ˆêM
+A
+java:S1197¢"*Move the array designators [] to the type.(ŸïÜÕ
+A
+java:S1197¢"*Move the array designators [] to the type.(ŸïÜÕ
+B
+java:S1481¤"+Remove this unused "length" local variable.(è’Œ
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ÿè‡‹
+M
+java:S1854æ"6Remove this useless assignment to local variable "cc".(ªÞÎò
+R
+java:S1854æ";Remove this useless assignment to local variable "trailCC".(ªÞÎò
+Q
+java:S1854ä":Remove this useless assignment to local variable "pStart".(é×ËŒ
+Q
+java:S1854Ñ":Remove this useless assignment to local variable "buffer".(“ø÷Ú
+@
+java:S1659Ö"$Declare "length" on a separate line.(È’Ÿøÿÿÿÿ
+<
+java:S1659×" Declare "c2" on a separate line.(€æí¨øÿÿÿÿ
+Z
+java:S1659Ù"CDeclare "prevCC" and all following declarations on a separate line.(¬«‰
+B
+java:S1481Ñ"+Remove this unused "buffer" local variable.(“ø÷Ú
+R
+java:S1854“"6Remove this useless assignment to local variable "ch".(£…÷Íûÿÿÿÿ
+9
+java:S1128*"Remove this duplicated import.(Š—€åûÿÿÿÿ

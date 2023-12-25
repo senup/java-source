@@ -1,0 +1,31 @@
+
+J
+java:S1066n"/Merge this if statement with the enclosing one.(íÃÊ°ýÿÿÿÿ
+a
+java:S2259e"FA "NullPointerException" could be thrown; "selevent" is nullable here.(¦ï¼©ÿÿÿÿÿ
+d
+java:S2095H"NUse try-with-resources or close this "AudioInputStream" in a "finally" clause.(€ù®ê
+c
+java:S2095D"MUse try-with-resources or close this "SoftSynthesizer" in a "finally" clause.(èÄ‹·
+¦
+java:S1130;"ŠRemove the declaration of thrown exception 'javax.sound.sampled.UnsupportedAudioFileException', as it cannot be thrown from method's body.(¿å¤âúÿÿÿÿ
+‡
+java:S1130;"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¿å¤âúÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(âµœšÿÿÿÿÿ
+¦
+java:S1130C"ŠRemove the declaration of thrown exception 'javax.sound.sampled.UnsupportedAudioFileException', as it cannot be thrown from method's body.(¿å¤âúÿÿÿÿ
+I
+java:S1905D"3Remove this unnecessary cast to "AudioSynthesizer".(èÄ‹·
+\
+java:S2147‰"ECombine this catch with the one at line 134, which has the same body.(ï­£Ä
+\
+java:S2147—"ECombine this catch with the one at line 149, which has the same body.(ï­£Ä
+\
+java:S2147¤"ECombine this catch with the one at line 162, which has the same body.(ï­£Ä
+\
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(ï­£Ä
+\
+java:S2147À"ECombine this catch with the one at line 190, which has the same body.(ï­£Ä
+\
+java:S2147Ð"ECombine this catch with the one at line 205, which has the same body.(ï­£Ä

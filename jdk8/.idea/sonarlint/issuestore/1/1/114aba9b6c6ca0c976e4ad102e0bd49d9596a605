@@ -1,0 +1,49 @@
+
+l
+java:S1192‘"UDefine a constant instead of duplicating this literal "\t\t[NTLoginModule] " 3 times.(–Õ¢Á
+N
+java:S2589¼"7Remove this expression which always evaluates to "true"(±ªœ¦
+[
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Ò‡¨Ô
+t
+java:S1450C"^Remove the "callbackHandler" field and declare it as a local variable in the relevant methods.(”¢ö¸
+l
+java:S1450E"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
+p
+java:S1450D"ZRemove the "sharedState" field and declare it as a local variable in the relevant methods.(”ÃýÂ
+@
+java:S1197T"*Move the array designators [] to the type.(µ¶ƒÕ
+=
+java:S1125x"'Remove the unnecessary boolean literal.(Ãéê¡
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ß™Ž“øÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(–Õ¢Á
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(–Õ¢Á
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(Ñ¤ìü
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(ÃÈ—
+T	java:S106°"9Replace this use of System.out or System.err by a logger.( ï±‰þÿÿÿÿ
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(ý™‹
+N	java:S106À"9Replace this use of System.out or System.err by a logger.(¡áÝc
+F
+java:S1197Ç"*Move the array designators [] to the type.(ç•àÒýÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(Ú½˜ùÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(¸‰Â×úÿÿÿÿ
+i
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(›¶§þ
+C
+java:S1125ô"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(È¿¾—
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(È¿¾—
+C
+java:S1125º"'Remove the unnecessary boolean literal.(ç§åÏûÿÿÿÿ
+>
+java:S1125¼"'Remove the unnecessary boolean literal.(±ªœ¦
+>
+java:S1125¼"'Remove the unnecessary boolean literal.(±ªœ¦
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(–Õ¢Á
+I
+java:S1068C"3Remove this unused "callbackHandler" private field.(”¢ö¸
+E
+java:S1068D"/Remove this unused "sharedState" private field.(”ÃýÂ
+A
+java:S1068E"+Remove this unused "options" private field.(ØÌŸ¼

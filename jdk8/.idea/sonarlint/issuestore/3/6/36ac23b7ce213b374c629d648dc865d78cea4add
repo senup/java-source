@@ -1,0 +1,30 @@
+
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(Íò¦”ùÿÿÿÿ
+u
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(É±½Ÿüÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(É±½Ÿüÿÿÿÿ
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(É±½Ÿüÿÿÿÿ
+K
+java:S1066æ"/Merge this if statement with the enclosing one.(Ê«š«şÿÿÿÿ
+{
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡Ÿƒ½ûÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(Ùïˆ°
+Z
+java:S1659‘"CDeclare "value2" and all following declarations on a separate line.(¦ÍŞÍ
+Q
+java:S1117’":Rename "values" which hides the field declared at line 95.(‹½£¢
+V
+java:S6213“":Rename this variable to not match a restricted identifier.(¤‘àûÿÿÿÿ
+_
+java:S1871ô"IThis case's code block is the same as the block for the case on line 582.(›Ò1
+`
+java:S1871µ"IThis case's code block is the same as the block for the case on line 308.(Á¤ËÒ
+`
+java:S1871"IThis case's code block is the same as the block for the case on line 308.(ş€É
+`
+java:S1871ò"IThis case's code block is the same as the block for the case on line 308.(©­û‘
+Y
+java:S1479•"BReduce the number of non-empty switch cases from 43 to at most 30.(¦²“ˆ

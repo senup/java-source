@@ -1,0 +1,23 @@
+
+k	java:S1161"QRename this field "k_ipad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨˜ôıÿÿÿÿ
+f	java:S1162"QRename this field "k_opad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¤ªû
+Q
+java:S1854":Remove this useless assignment to local variable "secret".(‘‰ÚÚ
+C
+java:S1125Œ"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ğ¥¿¯üÿÿÿÿ
+C
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(¡ ˆŒ
+C
+java:S1125°"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+C
+java:S1125À"'Remove the unnecessary boolean literal.(ÖÒš¢ûÿÿÿÿ
+C
+java:S1125İ"'Remove the unnecessary boolean literal.(ÓˆÃûÿÿÿÿ
+j
+java:S2975æ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(¯áÑë

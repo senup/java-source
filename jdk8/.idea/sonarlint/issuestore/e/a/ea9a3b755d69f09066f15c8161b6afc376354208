@@ -1,0 +1,33 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÁâşÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆóÄûÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»……
+
+java:S1186ó	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­§óùÿÿÿÿ
+A
+java:S1197™"*Move the array designators [] to the type.(®”‘¡
+A
+java:S1197™"*Move the array designators [] to the type.(®”‘¡
+F
+java:S1197²"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+F
+java:S1197²"*Move the array designators [] to the type.(šµşªÿÿÿÿÿ
+A
+java:S1197Ì"*Move the array designators [] to the type.(£À¨¤
+A
+java:S1197Ì"*Move the array designators [] to the type.(£À¨¤
+F
+java:S1172İ"*Remove this unused method parameter "img".(“Ïâ›üÿÿÿÿ
+K
+java:S1481ß"/Remove this unused "needToCopy" local variable.(ä³é±şÿÿÿÿ
+I
+java:S1113ó	"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+B
+java:S1174ó	"&Make this finalize() method protected.(­§óùÿÿÿÿ
+V
+java:S1161ó	":Add the "@Override" annotation above this method signature(­§óùÿÿÿÿ
+o
+java:S1114ó	"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(­§óùÿÿÿÿ
+Q
+java:S11282"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ

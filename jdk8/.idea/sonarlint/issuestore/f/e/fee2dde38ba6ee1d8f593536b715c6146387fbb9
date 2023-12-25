@@ -1,0 +1,16 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş•àö
+:
+java:S1659F"$Declare "height" on a separate line.(’¼ÊÒ
+@
+java:S11970"*Move the array designators [] to the type.(Çá¶Ã
+U
+java:S1161e":Add the "@Override" annotation above this method signature(Íõéàøÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.awt.AWTException'.(¾À«Ìşÿÿÿÿ
+M
+java:S1128!"7Remove this unused import 'java.awt.ImageCapabilities'.(ÿ¾›
+T
+java:S1128)"9Remove this unused import 'java.awt.image.VolatileImage'.(¡”„Çøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+u
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÏ†Äúÿÿÿÿ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍøĞıùÿÿÿÿ
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëÙƒı
+o	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çÚ¢š
+>	java:S108Z")Either remove or fill this block of code.(”ı¾
+M
+java:S1068."2Remove this unused "statusResolved" private field.(ÍøĞıùÿÿÿÿ
+J
+java:S1068/"4Remove this unused "statusUnresolved" private field.(ëÙƒı
+E
+java:S10680"/Remove this unused "statusError" private field.(çÚ¢š

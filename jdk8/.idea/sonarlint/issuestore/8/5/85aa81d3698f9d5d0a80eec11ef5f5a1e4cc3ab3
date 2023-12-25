@@ -1,0 +1,71 @@
+
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úİø¡ùÿÿÿÿ
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(°öó¼ûÿÿÿÿ
+s	java:S127¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïš©Ôúÿÿÿÿ
+n	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(›¨Á¤
+K
+java:S1066°"/Merge this if statement with the enclosing one.(÷ó˜ïûÿÿÿÿ
+g
+java:S1301Ù"KReplace this "switch" statement by "if" statements to increase readability.(”ŠÖ‡øÿÿÿÿ
+k
+java:S3824ş"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(‹­ƒÿüÿÿÿÿ
+C
+java:S1172="(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+P
+java:S1161A":Add the "@Override" annotation above this method signature(ïÆ•ø
+U
+java:S1161I":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(¿ĞÎşÿÿÿÿ
+P
+java:S1161[":Add the "@Override" annotation above this method signature(îÜÚ’
+U
+java:S1161c":Add the "@Override" annotation above this method signature(Õšå‰üÿÿÿÿ
+P
+java:S1161u":Add the "@Override" annotation above this method signature(€İ§ò
+O
+java:S1161y":Add the "@Override" annotation above this method signature(îÓ…
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(Ï“Ö‘
+S
+java:S3252‡"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Ûó»‰
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÌåÙò
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(ÌåÙò
+S
+java:S3252£"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Ûó»‰
+Q
+java:S1161Ì":Add the "@Override" annotation above this method signature(å‘×æ
+U
+java:S1659Ó">Declare "y" and all following declarations on a separate line.(ÏÛ²Â
+R
+java:S3252Õ"<Use static access with "java.awt.Adjustable" for "VERTICAL".(áÕË
+
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(ù¸öè
+U
+java:S1659í">Declare "y" and all following declarations on a separate line.(ÏÛ²Â
+R
+java:S3252ï"<Use static access with "java.awt.Adjustable" for "VERTICAL".(áÕË
+
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¶øÂÁ
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(¶øÂÁ
+=	java:S131¬""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131³""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131º""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131Á""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131È""Add a default case to this switch.(Æóõµıÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+=	java:S131Ù""Add a default case to this switch.(”ŠÖ‡øÿÿÿÿ
+X
+java:S3252Ú"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Äİ¸Ûûÿÿÿÿ
+U
+java:S3252İ">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ÇûÒ™
+F
+java:S1197ˆ"*Move the array designators [] to the type.(½¶’£úÿÿÿÿ

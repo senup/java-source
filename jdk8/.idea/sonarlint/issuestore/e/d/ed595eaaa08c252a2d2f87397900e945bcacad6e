@@ -1,0 +1,8 @@
+
+{
+java:S1149,"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹¸›¨
+F
+java:S1172-"0Remove this unused method parameter "matchedDN".(¹ïß¡
+Y
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(‡»æøÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(±®ê€

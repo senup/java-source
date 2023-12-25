@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(×’ñú
+t	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÎéåüÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÉÎç¦
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí

@@ -1,0 +1,42 @@
+
+^
+java:S1192Û"GDefine a constant instead of duplicating this literal "empty" 11 times.(ö˜
+€
+java:S1192ø"dDefine a constant instead of duplicating this literal "algorithms.WrongKeyForThisOperation" 3 times.(İëµ­úÿÿÿÿ
+~
+java:S1192L"hDefine a constant instead of duplicating this literal "Invalid ASN.1 format of ECDSA signature" 3 times.(šùÄÅ
+g	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àæ»è
+Œ
+java:S4165‰"pRemove this useless assignment; "signatureAlgorithm" already holds the assigned value along all execution paths.(²··©şÿÿÿÿ
+P
+java:S5993¼"9Change the visibility of this constructor to "protected".( °ìæ
+E
+java:S1197I"*Move the array designators [] to the type.(›­âàúÿÿÿÿ
+@
+java:S1197j"*Move the array designators [] to the type.(×ïğ†
+F
+java:S1197€"*Move the array designators [] to the type.(Ö±ïÚúÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(Øõàòıÿÿÿÿ
+b
+java:S3457Á"KFormat specifiers or lambda should be used instead of string concatenation.(¹Ñ¼È
+a
+java:S2147Î"ECombine this catch with the one at line 202, which has the same body.(íƒŸÈşÿÿÿÿ
+\
+java:S2147ë"ECombine this catch with the one at line 233, which has the same body.(Ãôş•
+g
+java:S3457å"KFormat specifiers or lambda should be used instead of string concatenation.(Ëæ÷„øÿÿÿÿ
+A
+java:S1197ö"*Move the array designators [] to the type.(œŸú•
+b
+java:S3457‡"KFormat specifiers or lambda should be used instead of string concatenation.(üùÖË
+\
+java:S2147—"ECombine this catch with the one at line 277, which has the same body.(Ãôş•
+A
+java:S1197’"*Move the array designators [] to the type.(şı¾õ
+A
+java:S1197¢"*Move the array designators [] to the type.(œŸú•
+A
+java:S1197³"*Move the array designators [] to the type.(œŸú•
+A
+java:S1197Ò"*Move the array designators [] to the type.(ø¦Ù×

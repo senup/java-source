@@ -1,0 +1,15 @@
+
+U
+java:S11616":Add the "@Override" annotation above this method signature(²¯ò™şÿÿÿÿ
+G
+java:S1905?",Remove this unnecessary cast to "JavaClass".(à®•ÿùÿÿÿÿ
+^
+java:S4201D"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Â†B
+U
+java:S1161h":Add the "@Override" annotation above this method signature(¸ìºÂúÿÿÿÿ
+U
+java:S1161s":Add the "@Override" annotation above this method signature(‹½Ç¥şÿÿÿÿ
+_
+java:S4201w"IRemove this unnecessary null check; "instanceof" returns false for nulls.(˜‡Å¢
+V
+java:S1161":Add the "@Override" annotation above this method signature(‡¼ıÆıÿÿÿÿ

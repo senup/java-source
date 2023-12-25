@@ -1,0 +1,26 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+g
+java:S1223M"LRename this method to prevent any misunderstanding or make it a constructor.(ÂşŞÛùÿÿÿÿ
+o	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çêâ²
+o	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äö©ã
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(çêâ²
+O
+java:S1858/"9there's no need to call "toString()" on a string literal.(çêâ²
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(Äö©ã
+h	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂşŞÛùÿÿÿÿ
+P
+java:S1161g":Add the "@Override" annotation above this method signature(ù» 
+P
+java:S1161k":Add the "@Override" annotation above this method signature(ÈÓä‘
+j
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê
+F
+java:S1128!"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Q
+java:S1128""6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍşÿÿÿÿ
+M
+java:S1128#"2Remove this unused import 'java.awt.image.Raster'.(õ˜åÙüÿÿÿÿ

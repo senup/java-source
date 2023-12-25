@@ -1,0 +1,36 @@
+
+C
+java:S1121t".Extract the assignment out of this expression.(¼ûİ]
+t	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜„Ú’ÿÿÿÿÿ
+v
+java:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
+`
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(æ¼»õüÿÿÿÿ
+[
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(óì†”
+`
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ğÎ¹Áüÿÿÿÿ
+[
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(ıÖòı
+[
+java:S1124="EReorder the modifiers to comply with the Java Language Specification.(§õ¬
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(óØĞÃ
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(ˆÿÂ„
+`
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(û¿Úûÿÿÿÿ
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(¨‰‹Éùÿÿÿÿ
+`
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(˜„Ú’ÿÿÿÿÿ
+N
+java:S3878["8Remove this array creation and simply pass the elements.(†ÉÂ¬
+6
+java:S3878]"Remove this array creation.(ÊÍ‡Úÿÿÿÿÿ
+X
+java:S3878_"CDisambiguate this call by either casting as "Object" or "Object[]".(Ş¯
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ñèç•úÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ñèç•úÿÿÿÿ
+X
+java:S1126Ë"AReplace this if-then-else statement by a single return statement.(ûÖ¼¿

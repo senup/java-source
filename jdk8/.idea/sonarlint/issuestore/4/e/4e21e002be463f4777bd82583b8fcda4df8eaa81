@@ -1,0 +1,62 @@
+
+o
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀñÂ,
+p
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¯¾–
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(•áö¥úÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥·Œ«
+o
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â¯êp
+g
+java:S1192Á"KDefine a constant instead of duplicating this literal "-classpath" 3 times.(®Ãå‚ùÿÿÿÿ
+p
+java:S1192¨"YDefine a constant instead of duplicating this literal "rmic.option.already.seen" 4 times.(‡›Ï
+`
+java:S1192˜"IDefine a constant instead of duplicating this literal "-verbose" 3 times.(‚’ªÎ
+u
+java:S1192£"^Define a constant instead of duplicating this literal "rmic.option.requires.argument" 4 times.(½ïœã
+q
+java:S1192ò"ZDefine a constant instead of duplicating this literal "rmic.option.unimplemented" 3 times.(İ§«
+o
+java:S1192ò"XDefine a constant instead of duplicating this literal "rmic.option.unsupported" 4 times.(ñ—ñ•
+k
+java:S1192¡"ODefine a constant instead of duplicating this literal "-bootclasspath" 3 times.(¢¿İ†øÿÿÿÿ
+`
+java:S1192¸"IDefine a constant instead of duplicating this literal "-batchID" 3 times.(úĞáë
+`
+java:S1192±"IDefine a constant instead of duplicating this literal "-extdirs" 3 times.(È¥ßÀ
+n	java:S127­"XRefactor the code in order to not assign to this loop counter from within the loop body.(•£œ®
+s	java:S127½"XRefactor the code in order to not assign to this loop counter from within the loop body.(€øµéÿÿÿÿÿ
+s	java:S127Í"XRefactor the code in order to not assign to this loop counter from within the loop body.(êìˆçÿÿÿÿÿ
+s	java:S127İ"XRefactor the code in order to not assign to this loop counter from within the loop body.(âñ“ãıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ş²ºÄúÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(¯€àÖ
+n
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ùô©’üÿÿÿÿ
+2
+java:S3626ê"Remove this redundant jump.(ÉŠ©ƒ
+d
+java:S1871"MThis branch's code block is the same as the block for the branch on line 369.(ùÕ±ç
+d
+java:S1871‡"MThis branch's code block is the same as the block for the branch on line 369.(¬Û¡
+d
+java:S1871û"MThis branch's code block is the same as the block for the branch on line 246.(ó©¸É
+i
+java:S1871€"MThis branch's code block is the same as the block for the branch on line 246.(Ÿğ¿şÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(¥úâê
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÿ ­–ıÿÿÿÿ
+\
+java:S2147Î"ECombine this catch with the one at line 460, which has the same body.(Å¡ß
+\
+java:S2147Ğ"ECombine this catch with the one at line 460, which has the same body.(¯áè
+\
+java:S2147Ò"ECombine this catch with the one at line 460, which has the same body.(åşáÿ
+T
+java:S3878Ê"8Remove this array creation and simply pass the elements.(ßÍ¹¿úÿÿÿÿ
+V	java:S899ˆ";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+j
+java:S4042ˆ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ

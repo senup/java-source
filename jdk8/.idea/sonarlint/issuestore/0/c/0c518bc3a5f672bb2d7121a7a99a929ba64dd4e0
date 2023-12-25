@@ -1,0 +1,21 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+U
+java:S1161;":Add the "@Override" annotation above this method signature(Ãğƒ³şÿÿÿÿ
+U
+java:S1161K":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+U
+java:S1161b":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+P
+java:S1161q":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+K
+java:S2209{"5Change this instance-reference to a static reference.(Ã «°
+8
+java:S2129€"!Remove this "Integer" constructor(æµÍ
+8
+java:S2129"!Remove this "Integer" constructor(ÉÄ¹Ï
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(ÿšŞØ

@@ -1,0 +1,100 @@
+
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ŒÖÃ
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¿§à
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìü‡ üÿÿÿÿ
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šâáä
+p
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šâáä
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÖà‹ıÿÿÿÿ
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šâáä
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šâáä
+o
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÛÆ%
+K
+java:S1066é"/Merge this if statement with the enclosing one.(úî·Õúÿÿÿÿ
+F
+java:S1066Â"/Merge this if statement with the enclosing one.(îá±
+K
+java:S1066é"/Merge this if statement with the enclosing one.(úî·Õúÿÿÿÿ
+K
+java:S1066ù"/Merge this if statement with the enclosing one.(úî·Õúÿÿÿÿ
+K
+java:S1066Ö"/Merge this if statement with the enclosing one.(úî·Õúÿÿÿÿ
+K
+java:S1066æ"/Merge this if statement with the enclosing one.(úî·Õúÿÿÿÿ
+F
+java:S1066ó"/Merge this if statement with the enclosing one.(àŒóŠ
+K
+java:S1066ß"/Merge this if statement with the enclosing one.(Ê¸îÅùÿÿÿÿ
+K
+java:S1066Ü"/Merge this if statement with the enclosing one.(¿Åæ¶úÿÿÿÿ
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸ’´
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êæìøÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏÎ³ıÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öé‚Ô
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ó»Úøÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À´à
+g	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À´à
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£å÷Åÿÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃÎ
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õô¢×
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£å÷Åÿÿÿÿÿ
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃÎ
+l	java:S117Ã	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à°®Úùÿÿÿÿ
+t	java:S116É"YRename this field "temp_rgnassign" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÖà‹ıÿÿÿÿ
+l
+java:S1149¯"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ìü‡ üÿÿÿÿ
+\	java:S107H"BConstructor has 11 parameters, which is greater than 7 authorized.(ÎÊ¥•ÿÿÿÿÿ
+[
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(œ¿¹­
+F
+java:S2093É"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+i
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Òì¹
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(– éì
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Óæ¢Ş
+L
+java:S1854ü"5Remove this useless assignment to local variable "y".(¿ÖªÒ
+e
+java:S1871Ü"IThis case's code block is the same as the block for the case on line 313.(À”øÿÿÿÿ
+`
+java:S1871×"IThis case's code block is the same as the block for the case on line 308.(½Œ¡
+h
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùÊ€|
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 97 to the 15 allowed.(îÖŠğüÿÿÿÿ
+=
+java:S1905–"&Remove this unnecessary cast to "int".(ô©Öº
+W	java:S125™"<This block of commented-out lines of code should be removed.(¥ØÛäÿÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(òìÎş
+i
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(çÆú¥
+n
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(Ö­œÖúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÚŒŸ¤ıÿÿÿÿ
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¸‰ÚÚ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(”ûòğ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Î‹Œñûÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ÿ¡«€
+K
+java:S1481÷"/Remove this unused "art1_count" local variable.(£å÷Åÿÿÿÿÿ
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì’„ç
+X
+java:S4719ÿ"<Replace charset name argument with StandardCharsets.US_ASCII(€æÀ¸şÿÿÿÿ
+L
+java:S1905ë	"0Remove this unnecessary cast to "DLSInstrument".(óúÍ©ûÿÿÿÿ
+H
+java:S1905í	",Remove this unnecessary cast to "DLSSample".(€Ééêûÿÿÿÿ

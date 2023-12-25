@@ -1,0 +1,21 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ãø¨ğ
+b
+java:S1223M"LRename this method to prevent any misunderstanding or make it a constructor.(ìáÊç
+t	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏŒá¾ûÿÿÿÿ
+o	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äö©ã
+Q	java:S107M"<Method has 8 parameters, which is greater than 7 authorized.(ìáÊç
+`
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ÏŒá¾ûÿÿÿÿ
+O
+java:S1858,"9there's no need to call "toString()" on a string literal.(²Ç­„
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(Äö©ã
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìáÊç
+P
+java:S1161i":Add the "@Override" annotation above this method signature(ù» 
+P
+java:S1161m":Add the "@Override" annotation above this method signature(›ï›½
+j
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(Ç¿×Ê

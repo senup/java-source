@@ -1,0 +1,156 @@
+
+\	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(©ß«
+\	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ì‰î¸
+\	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(¤½ùÄ
+\	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(¤½ùÄ
+E
+java:S1121è	".Extract the assignment out of this expression.(ÄÀ¦«
+o	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(‚á³â
+s	java:S127š"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+n	java:S127´"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğºö
+8
+java:S1643¸	"Use a StringBuilder instead.(Úé¬úÿÿÿÿ
+y
+java:S1488œ"]Immediately return this expression instead of assigning it to the temporary variable "parts".(‚áÂ‘ùÿÿÿÿ
+_
+java:S2259Å"CA "NullPointerException" could be thrown; "parts" is nullable here.(Áí½¡ûÿÿÿÿ
+i
+java:S3824p"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ú­æúÿÿÿÿ
+j
+java:S3824‚"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ñ£÷Âùÿÿÿÿ
+e
+java:S3824­"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(è‚¦ø
+e
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¦û›á
+e
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(²×ÒŠ
+j
+java:S3824º"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´Šõûøÿÿÿÿ
+i
+java:S3824_"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(€‹ôøÿÿÿÿ
+v
+java:S1149…"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(› ß®
+>
+java:S4274E"(Replace this assert with a proper check.(è¬²
+C
+java:S4274b"(Replace this assert with a proper check.(æú¨€şÿÿÿÿ
+\
+java:S1124Å"EReorder the modifiers to comply with the Java Language Specification.(Ö¦óÄ
+?
+java:S1172Ö"(Remove this unused method parameter "i".(†™šÈ
+?
+java:S4274Û"(Replace this assert with a proper check.(úßƒã
+t
+java:S3038ê"X"compareTo" is defined in the "Comparable" interface and can be removed from this class.(Ô€ÁÕüÿÿÿÿ
+l
+java:S1206®"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+8	java:S131À""Add a default case to this switch.(¹ŠÒÓ
+\
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(Ö¦óÄ
+B
+java:S1452Û"&Remove usage of generic wildcard type.(ÿƒ±üÿÿÿÿ
+l
+java:S1206ê"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+l
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ÆÏÀç
+l
+java:S1206°"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(ÆÏÀç
+l
+java:S1206Ö"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(†™šÈ
+l
+java:S1206œ"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161‹":Add the "@Override" annotation above this method signature(†™šÈ
+l
+java:S1206ê"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(†™šÈ
+=	java:S131«""Add a default case to this switch.(—»ªÀÿÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(±¤†©ùÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(Ş’èª
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(ıî¸ 
+a
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(ì§ßÓşÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢ø†Ê
+R	java:S125¥"<This block of commented-out lines of code should be removed.(î¼¡é
+B
+java:S1659­"&Declare "nextangl" on a separate line.(Ø·ôğıÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(îôê
+l
+java:S1206İ"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+P
+java:S1161Ï":Add the "@Override" annotation above this method signature(ÿ±¨Z
+l
+java:S1206‹"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(Ì½ÉÊ
+l
+java:S1206´"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(†™šÈ
+l
+java:S1206é"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+v
+java:S1149…"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(› ß®
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(†™šÈ
+G
+java:S1481‰"+Remove this unused "didOne" local variable.(İ¼æõÿÿÿÿÿ
+G
+java:S2160¤"+Override the "equals" method in this class.(¨–Ãèúÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(ÈÁíŞıÿÿÿÿ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(ºÉÃíıÿÿÿÿ
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(¿’Äúÿÿÿÿ
+T	java:S106“	"9Replace this use of System.out or System.err by a logger.(û™çÓùÿÿÿÿ
+V
+java:S1161«	":Add the "@Override" annotation above this method signature(„Ï×Šüÿÿÿÿ
+j
+java:S2975®	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+_
+java:S1182®	"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+Q
+java:S1161±	":Add the "@Override" annotation above this method signature(Á»›ê
+N	java:S106Ò	"9Replace this use of System.out or System.err by a logger.(‹Ïõ
+
+D
+java:S4274ß	"(Replace this assert with a proper check.(‰š°şÿÿÿÿ
+n
+java:S3776•
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‡„åëÿÿÿÿÿ
+D
+java:S4274Ñ
+"(Replace this assert with a proper check.(ˆ®§ªüÿÿÿÿ
+?
+java:S4274Õ
+"(Replace this assert with a proper check.(®µ½–
+8	java:S131ö
+""Add a default case to this switch.(¹ŠÒÓ
+B
+java:S1168ÿ
+"+Return an empty collection instead of null.(¥¹ï
+D
+java:S4274´"(Replace this assert with a proper check.(½×ìßüÿÿÿÿ
+Z
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(ÉØãŸüÿÿÿÿ
+Z
+java:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(ÉØãŸüÿÿÿÿ
+i
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(êô¹Ï
+8	java:S131„""Add a default case to this switch.(¹ŠÒÓ
+8	java:S131¡""Add a default case to this switch.(äŒ€
+A
+java:S1197°"*Move the array designators [] to the type.(³ãÑ
+@
+java:S1197Ä"*Move the array designators [] to the type.(µ´u
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(‚××«şÿÿÿÿ
+F
+java:S1068‘
+"/Remove this unused "totalSizeQQ" private field.(ãÂ¶™

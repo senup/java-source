@@ -1,0 +1,37 @@
+
+P
+java:S1161D":Add the "@Override" annotation above this method signature(ðžŒË
+P
+java:S1161J":Add the "@Override" annotation above this method signature(ç¨Î§
+U
+java:S1161O":Add the "@Override" annotation above this method signature(Ö„˜þúÿÿÿÿ
+U
+java:S1161T":Add the "@Override" annotation above this method signature(•ßçùÿÿÿÿ
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+P
+java:S1161^":Add the "@Override" annotation above this method signature(ãÆÐÂ
+U
+java:S1161|":Add the "@Override" annotation above this method signature(¢­øÿÿÿÿ
+X
+java:S3252"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(©™Åa
+Q
+java:S1161’":Add the "@Override" annotation above this method signature(éø–±
+V
+java:S1161š":Add the "@Override" annotation above this method signature(äí–¬úÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(Ú¬éŸ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(Ÿ£ÕŒ
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(³Š…´
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(ó‚Õµøÿÿÿÿ
+M
+java:S1854Ú"6Remove this useless assignment to local variable "xp".(…ÉòÑ
+>
+java:S1481Ú"'Remove this unused "xp" local variable.(…ÉòÑ
+Y
+java:S3252Ü"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(©™Åa
+`
+java:S3358å"DExtract this nested ternary operation into an independent statement.(³‡’áýÿÿÿÿ

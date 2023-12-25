@@ -1,0 +1,45 @@
+
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(²ª¦ºşÿÿÿÿ
+p
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ¶ÒÄ
+p
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(çßƒß
+K
+java:S11915"5Use classes from the Java API instead of Sun classes.(Øÿ¸†
+K
+java:S1172§"/Remove this unused method parameter "fallback".(Ş¯“Éüÿÿÿÿ
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ù¨¹²
+N
+java:S1135‰"2Complete the task associated to this TODO comment.(áı€Ñùÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(ƒ¹—”
+=
+java:S1948ì"&Make "skin" transient or serializable.(İ¹œÎ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(û¦ØÉøÿÿÿÿ
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(ã®¸Â
+F
+java:S1481ˆ"/Remove this unused "accEnabled" local variable.(ÑçÍÍ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(Æöó¾ùÿÿÿÿ
+
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÎ”ßûÿÿÿÿ
+=
+java:S1948¦"&Make "skin" transient or serializable.(æÇùË
+f
+java:S1874²"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+Q
+java:S1161Â":Add the "@Override" annotation above this method signature(³ıŸê
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(ŠÎ”ßûÿÿÿÿ

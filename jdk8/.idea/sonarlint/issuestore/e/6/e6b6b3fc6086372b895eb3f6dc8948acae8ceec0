@@ -1,0 +1,66 @@
+
+E
+java:S3740F"/Provide the parametrized type for this generic.(¿Ÿ¸°
+E
+java:S3740F"/Provide the parametrized type for this generic.(¿Ÿ¸°
+E
+java:S3740M"/Provide the parametrized type for this generic.(·Õôƒ
+E
+java:S3740M"/Provide the parametrized type for this generic.(·Õôƒ
+E
+java:S3740S"/Provide the parametrized type for this generic.(Ëéÿ™
+E
+java:S3740S"/Provide the parametrized type for this generic.(Ëéÿ™
+K
+java:S3740‰"/Provide the parametrized type for this generic.(Öı¤şÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(Öı¤şÿÿÿÿ
+K
+java:S3740Š"/Provide the parametrized type for this generic.(î½˜¦ÿÿÿÿÿ
+F
+java:S3740²"/Provide the parametrized type for this generic.(®÷°ˆ
+F
+java:S3740²"/Provide the parametrized type for this generic.(ÒˆÀ÷
+K
+java:S3740Ó"/Provide the parametrized type for this generic.(îàúçûÿÿÿÿ
+K
+java:S3740Û"/Provide the parametrized type for this generic.( ê½üÿÿÿÿ
+]
+java:S1192¦"GDefine a constant instead of duplicating this literal "import" 4 times.(ÄÏÂb
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+l
+java:S1149F"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¿Ÿ¸°
+{
+java:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Õôƒ
+{
+java:S1149S"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ëéÿ™
+
+java:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Öı¤şÿÿÿÿ
+@
+java:S1172]"*Remove this unused method parameter "env".(£â€
+m
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(œÚñéÿÿÿÿÿ
+N
+java:S1854¶"7Remove this useless assignment to local variable "pkg".(Æ¾Ÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(‹×ƒ‰ùÿÿÿÿ
+?
+java:S1481¶"(Remove this unused "pkg" local variable.(Æ¾Ÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(¢‡ö…
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ñÿ™
+\
+java:S1124Ø"EReorder the modifiers to comply with the Java Language Specification.(¯ÇËç
+W	java:S125á"<This block of commented-out lines of code should be removed.(Î€ÅËúÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "env".(°ü´öşÿÿÿÿ
+’
+java:S1130—"vRemove the declaration of thrown exception 'sun.tools.java.AmbiguousClass', as it cannot be thrown from method's body.(íÉ«ÿÿÿÿÿ
+c
+java:S2886Ë"LSynchronize this method to match the synchronization on "setCurrentPackage".(¸çï‰
+c
+java:S2886Ë"LSynchronize this method to match the synchronization on "setCurrentPackage".(¸çï‰
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(é»ƒ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(¤‚Ôü

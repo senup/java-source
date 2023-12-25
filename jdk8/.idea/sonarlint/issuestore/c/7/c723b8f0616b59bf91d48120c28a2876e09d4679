@@ -1,0 +1,45 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ˆ•Ç¾
+L
+java:S1133ê"5Do not forget to remove this deprecated code someday.(ı„Á¼
+Q
+java:S1133ó"5Do not forget to remove this deprecated code someday.(´àûŠüÿÿÿÿ
+L
+java:S1133ü"5Do not forget to remove this deprecated code someday.(éñÜ©
+Q
+java:S1133…"5Do not forget to remove this deprecated code someday.(ƒ ú¥ıÿÿÿÿ
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(¬Ü•Şıÿÿÿÿ
+Q
+java:S1133—"5Do not forget to remove this deprecated code someday.(ö¸ªœûÿÿÿÿ
+Q
+java:S1133 "5Do not forget to remove this deprecated code someday.(Š¦şÿÿÿÿ
+Q
+java:S1133©"5Do not forget to remove this deprecated code someday.(ä…ÃÌûÿÿÿÿ
+Q
+java:S1133²"5Do not forget to remove this deprecated code someday.(êËí¡øÿÿÿÿ
+L
+java:S1133»"5Do not forget to remove this deprecated code someday.(€„¢ƒ
+Q
+java:S1133Ä"5Do not forget to remove this deprecated code someday.(¼Á¼§ıÿÿÿÿ
+L
+java:S1133Í"5Do not forget to remove this deprecated code someday.(ª¼ò‘
+Q
+java:S1133Ö"5Do not forget to remove this deprecated code someday.(œó§ıÿÿÿÿ
+Q
+java:S1133ß"5Do not forget to remove this deprecated code someday.(ÿË’°ùÿÿÿÿ
+Q
+java:S1133è"5Do not forget to remove this deprecated code someday.(•Ñºıÿÿÿÿ
+L
+java:S1133ñ"5Do not forget to remove this deprecated code someday.(ÛØ­Ñ
+Q
+java:S1133ú"5Do not forget to remove this deprecated code someday.(Â¨íåúÿÿÿÿ
+Q
+java:S1133ƒ"5Do not forget to remove this deprecated code someday.(ÊÙ–‘ûÿÿÿÿ
+L
+java:S1133Ô"5Do not forget to remove this deprecated code someday.(‚—ø¸
+Q
+java:S1133ï"5Do not forget to remove this deprecated code someday.(èÙ‚¶úÿÿÿÿ
+X
+java:S1144ò"<Remove this unused private "throwIllegalAccessError" method.(ÈõˆÛÿÿÿÿÿ

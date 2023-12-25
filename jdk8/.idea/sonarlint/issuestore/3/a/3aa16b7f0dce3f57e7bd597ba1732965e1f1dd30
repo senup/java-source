@@ -1,0 +1,12 @@
+
+f
+java:S1104""PMake Type a static final constant or non-public and provide accessors if needed.(š¿Ñ»
+f
+java:S1104#"PMake Addr a static final constant or non-public and provide accessors if needed.(ÁéÇË
+l
+java:S1104$"VMake NumCommand a static final constant or non-public and provide accessors if needed.(‘ÝÞ¶
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(•¢êÅúÿÿÿÿ
+d	java:S116""ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¿Ñ»
+d	java:S116#"ORename this field "Addr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁéÇË
+j	java:S116$"URename this field "NumCommand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÝÞ¶

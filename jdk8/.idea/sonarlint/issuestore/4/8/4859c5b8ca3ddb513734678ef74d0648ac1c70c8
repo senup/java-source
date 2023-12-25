@@ -1,0 +1,13 @@
+
+a
+java:S1192O"FDefine a constant instead of duplicating this literal " bits" 3 times.(Ñ’ö¢üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ã®Êè
+j
+java:S1128#"TRemove this unnecessary import: same package classes are always implicitly imported.(šˆ­İ
+j
+java:S1128$"TRemove this unnecessary import: same package classes are always implicitly imported.(§ÁÅ…
+j
+java:S1128%"TRemove this unnecessary import: same package classes are always implicitly imported.(½…´
+o
+java:S1128&"TRemove this unnecessary import: same package classes are always implicitly imported.(¼Üˆ×ùÿÿÿÿ

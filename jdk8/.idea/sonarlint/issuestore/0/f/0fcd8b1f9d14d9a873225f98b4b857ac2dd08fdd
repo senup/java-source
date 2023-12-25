@@ -1,0 +1,24 @@
+
+v
+java:S1192›"`Define a constant instead of duplicating this literal "Cipher has not been initialized" 4 times.(ôå¾A
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹±È›ùÿÿÿÿ
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊ°¹ıÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‚¾Âúÿÿÿÿ
+l	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊ°¹ıÿÿÿÿ
+n	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äæ¨P
+O
+java:S5993^"9Change the visibility of this constructor to "protected".(å¦Ç´
+=
+java:S1168ª"&Return an empty array instead of null.(¥¹ï
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Úñ‰šşÿÿÿÿ
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(µñ–Ê
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(µñ–Ê
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128 ".Remove this unused import 'javax.crypto.spec'.(ç ­ùÿÿÿÿ

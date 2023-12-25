@@ -1,0 +1,27 @@
+
+Q
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+{
+java:S1488®"_Immediately return this expression instead of assigning it to the temporary variable "dnsName".(šÑÿÿÿÿÿ
+x
+java:S1488»"\Immediately return this expression instead of assigning it to the temporary variable "name".(‚£ïøÿÿÿÿ
+t
+java:S1104A"^Make httpsURLConnection a static final constant or non-public and provide accessors if needed.(»çĞ«
+K
+java:S1191("5Use classes from the Java API instead of Sun classes.(ÅüÊ
+P
+java:S1874A":Remove this use of "HttpsURLConnection"; it is deprecated.(»çĞ«
+U
+java:S1874E":Remove this use of "HttpsURLConnection"; it is deprecated.(¤²¬Óıÿÿÿÿ
+U
+java:S1874L":Remove this use of "HttpsURLConnection"; it is deprecated.(¤²¬Óıÿÿÿÿ
+:
+java:S1111`"Remove this call to finalize().(¯¶ú“üÿÿÿÿ
+N
+java:S1874f"8Remove this use of "HostnameVerifier"; it is deprecated.(ÑŸÀ
+N
+java:S1874h"8Remove this use of "HostnameVerifier"; it is deprecated.(½¬Á‡
+=
+java:S1125"'Remove the unnecessary boolean literal.(ğ²é÷
+^
+java:S1128&"CRemove this unused import 'javax.security.auth.x500.X500Principal'.(ì–¦ªûÿÿÿÿ

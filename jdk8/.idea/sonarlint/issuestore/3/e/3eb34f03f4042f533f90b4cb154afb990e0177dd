@@ -1,0 +1,167 @@
+
+J
+java:S3740C"/Provide the parametrized type for this generic.(î£–úÿÿÿÿ
+J
+java:S3740C"/Provide the parametrized type for this generic.(î£–úÿÿÿÿ
+J
+java:S3740J"/Provide the parametrized type for this generic.(ñ™´“ıÿÿÿÿ
+F
+java:S3740Š"/Provide the parametrized type for this generic.(ãëàÆ
+F
+java:S3740ò"/Provide the parametrized type for this generic.(Ÿ×½ª
+K
+java:S3740ç"/Provide the parametrized type for this generic.(ŞÅÙ¤şÿÿÿÿ
+K
+java:S3740ë"/Provide the parametrized type for this generic.(Ó”µşÿÿÿÿ
+F
+java:S3740™"/Provide the parametrized type for this generic.(ı½…²
+K
+java:S3740¤"/Provide the parametrized type for this generic.(½ş–òşÿÿÿÿ
+K
+java:S3740¥	"/Provide the parametrized type for this generic.(€›ôÿÿÿÿÿ
+K
+java:S3740¥	"/Provide the parametrized type for this generic.(€›ôÿÿÿÿÿ
+F
+java:S3740«	"/Provide the parametrized type for this generic.(ÿˆú
+F
+java:S3740Ú	"/Provide the parametrized type for this generic.(Å àì
+K
+java:S3740õ"/Provide the parametrized type for this generic.(¹î–úÿÿÿÿ
+F
+java:S3740¶"/Provide the parametrized type for this generic.(‰ñˆ¥
+F
+java:S3740Â"/Provide the parametrized type for this generic.(´ª£–
+K
+java:S3740ç"/Provide the parametrized type for this generic.(¹‹Ø£ıÿÿÿÿ
+F
+java:S3740æ"/Provide the parametrized type for this generic.(™«µ†
+t	java:S135¤"YReduce the total number of break and continue statements in this loop to use at most one.(Š·¹¿ùÿÿÿÿ
+t	java:S135í"YReduce the total number of break and continue statements in this loop to use at most one.(–™üşÿÿÿÿ
+t	java:S135Û	"YReduce the total number of break and continue statements in this loop to use at most one.(–™üşÿÿÿÿ
+t	java:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(Ô¿±ñùÿÿÿÿ
+K
+java:S1066„"/Merge this if statement with the enclosing one.(¬şÙÈøÿÿÿÿ
+F
+java:S1066ñ"/Merge this if statement with the enclosing one.(’­Ê
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+[
+java:S2259§"?A "NullPointerException" could be thrown; "f" is nullable here.(ƒæ¹Šùÿÿÿÿ
+w	java:S116K"]Rename this field "LOCAL_CLASSES_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­÷­Íøÿÿÿÿ
+<
+java:S1170K"!Make this final field static too.(­÷­Íøÿÿÿÿ
+
+java:S1186‹	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÈ«®úÿÿÿÿ
+˜
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô ‰â
+˜
+java:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Æ¹
+¦
+java:S18453"ŠRename field "declaration" to prevent any misunderstanding/clash with field "DECLARATION" defined in interface "sun.tools.java.Constants".(ü—²©ıÿÿÿÿ
+”
+java:S1845?"~Rename field "error" to prevent any misunderstanding/clash with field "ERROR" defined in interface "sun.tools.java.Constants".(ªéğì
+q
+java:S1149C"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(î£–úÿÿÿÿ
+q
+java:S1149J"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñ™´“ıÿÿÿÿ
+@
+java:S11975"*Move the array designators [] to the type.(µ®‹ˆ
+@
+java:S11977"*Move the array designators [] to the type.(ëÖ¯
+E
+java:S1197_"*Move the array designators [] to the type.(ºñÅäøÿÿÿÿ
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(äÙ±®
+J
+java:S1874¹"3Remove this use of "SourceClass"; it is deprecated.(Öï“
+R	java:S125À"<This block of commented-out lines of code should be removed.(Á»üé
+F
+java:S1172Û"*Remove this unused method parameter "env".(ïîàœøÿÿÿÿ
+S
+java:S1195â"<Move the array designators [] to the end of the return type.(Õ¸¾¼
+;
+java:S1659ğ"Declare "q" on a separate line.(”ëßÔûÿÿÿÿ
+n
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ëÃ”ìşÿÿÿÿ
+Q
+java:S1133š"5Do not forget to remove this deprecated code someday.(ëÃ”ìşÿÿÿÿ
+C
+java:S1123š"'Add the missing @Deprecated annotation.(ëÃ”ìşÿÿÿÿ
+W
+java:S1119";Refactor the code to remove this label and the need for it.(×š·¾ûÿÿÿÿ
+K
+java:S1874©"/Remove this use of "isSpace"; it is deprecated.(İ„‘àøÿÿÿÿ
+K
+java:S1874±"/Remove this use of "isSpace"; it is deprecated.(ä¥êÏüÿÿÿÿ
+A
+java:S1197È"*Move the array designators [] to the type.(Ø€©ú
+R	java:S125€"<This block of commented-out lines of code should be removed.(ƒ‡ææ
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ä»ÅÙ
+A
+java:S1172•"*Remove this unused method parameter "ref".(ÕÉ¤ğ
+i
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ìÜ
+R	java:S125à"<This block of commented-out lines of code should be removed.(ÊÏ«İ
+F
+java:S1197Ú"*Move the array designators [] to the type.(¾ øÍøÿÿÿÿ
+A
+java:S1197	"*Move the array designators [] to the type.(£’°ë
+A
+java:S1197	"*Move the array designators [] to the type.(£’°ë
+i
+java:S3776Ğ	"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(±ğƒ«
+W	java:S125Ö	"<This block of commented-out lines of code should be removed.(ÍŞÿÔıÿÿÿÿ
+O
+java:S1874ı	"3Remove this use of "SourceClass"; it is deprecated.(½ÆËûÿÿÿÿ
+W	java:S125¥
+"<This block of commented-out lines of code should be removed.(„¤üÈùÿÿÿÿ
+R	java:S125·
+"<This block of commented-out lines of code should be removed.(’ĞÕ¬
+P
+java:S1874Ã
+"4Remove this use of "SourceMember"; it is deprecated.(¸Ô²²şÿÿÿÿ
+W	java:S125È
+"<This block of commented-out lines of code should be removed.(â×ŠÈùÿÿÿÿ
+W	java:S125Ş
+"<This block of commented-out lines of code should be removed.(„¤üÈùÿÿÿÿ
+W	java:S125í
+"<This block of commented-out lines of code should be removed.(„¤üÈùÿÿÿÿ
+R	java:S125õ
+"<This block of commented-out lines of code should be removed.(¶ùÈí
+K
+java:S1874€"4Remove this use of "SourceMember"; it is deprecated.(Ÿ®Ò¿
+W	java:S125†"<This block of commented-out lines of code should be removed.(â×ŠÈùÿÿÿÿ
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•šª¬
+R	java:S125±"<This block of commented-out lines of code should be removed.(’ĞÕ¬
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(´å…âùÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(¤Ü³›
+R	java:S125ë"<This block of commented-out lines of code should be removed.(öØéØ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(ºšô¹úÿÿÿÿ
+D	java:S108ª")Either remove or fill this block of code.(Æû‚ìøÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’Æ•
+F
+java:S1197º"*Move the array designators [] to the type.(»ìéÜúÿÿÿÿ
+F
+java:S1197»"*Move the array designators [] to the type.(ÍÃ²üÿÿÿÿ
+A
+java:S1197¼"*Move the array designators [] to the type.(‚óÚ
+F
+java:S1197½"*Move the array designators [] to the type.(€À–åşÿÿÿÿ
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(š‡Á
+A
+java:S1197É"*Move the array designators [] to the type.(š‡Á
+F
+java:S1197Ê"*Move the array designators [] to the type.(Ìõªäùÿÿÿÿ
+F
+java:S1197Ê"*Move the array designators [] to the type.(Ìõªäùÿÿÿÿ
+A
+java:S1197Ò"*Move the array designators [] to the type.(§¿øô
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¿‚»íşÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+?
+java:S1068D")Remove this unused "abstr" private field.(ŸÃä¾

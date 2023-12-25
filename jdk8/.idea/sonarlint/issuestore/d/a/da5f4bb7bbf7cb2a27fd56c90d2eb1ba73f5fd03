@@ -1,0 +1,25 @@
+
+J
+java:S1066b"/Merge this if statement with the enclosing one.(³¨‘üıÿÿÿÿ
+C
+java:S1172n"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+P
+java:S1161r":Add the "@Override" annotation above this method signature(ïÆ•ø
+@
+java:S1905x"*Remove this unnecessary cast to "Integer".(‚™‰ê
+B
+java:S1125{"'Remove the unnecessary boolean literal.(ğÆø ûÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(æûÄ‘ùÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(æûÄ‘ùÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(„¦¡öûÿÿÿÿ
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(€İ§ò
+P
+java:S1161ˆ":Add the "@Override" annotation above this method signature(îÓ…
+Q
+java:S1161”":Add the "@Override" annotation above this method signature(ÚıÄÑ

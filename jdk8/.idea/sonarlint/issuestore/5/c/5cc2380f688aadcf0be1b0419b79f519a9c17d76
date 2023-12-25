@@ -1,0 +1,27 @@
+
+C
+java:S1185?"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
+U
+java:S1161?":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+P
+java:S1161E":Add the "@Override" annotation above this method signature(éĞŠ
+P
+java:S1161N":Add the "@Override" annotation above this method signature(àÛ‚Í
+5
+java:S3010e"Remove this assignment of "bg".(·¤·Ü
+:
+java:S3010f"Remove this assignment of "fg".(üæïâûÿÿÿÿ
+<
+java:S3010g"&Remove this assignment of "highlight".(¶Ã‘‰
+>
+java:S3010h"#Remove this assignment of "shadow".(âËÔÉúÿÿÿÿ
+Q
+java:S1161“":Add the "@Override" annotation above this method signature(»€ıÎ
+D
+java:S1172š"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(áô€æ
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ
+<
+java:S1128 "&Remove this unused import 'java.util'.(Î€ŒÙ

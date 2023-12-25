@@ -1,0 +1,116 @@
+
+~
+java:S1192Í"hDefine a constant instead of duplicating this literal "DIGEST-MD5 authentication not completed" 3 times.(õ™”l
+n
+java:S1192­	"WDefine a constant instead of duplicating this literal "generatePrivacyKeyPair" 6 times.(İ”Àâ
+h
+java:S1192´"LDefine a constant instead of duplicating this literal "makeDesKeys" 6 times.(ÿµÅøÿÿÿÿ
+_
+java:S1192ğ"HDefine a constant instead of duplicating this literal "unwrap" 11 times.(“½ˆŞ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İöÿ„üÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İöÿ„üÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İöÿ„üÿÿÿÿ
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇñĞ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Æ˜
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½á†×øÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Á±—
+l	java:S117¤	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÁˆıÿÿÿÿ
+l	java:S117ª	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÕŸÀÿÿÿÿÿ
+e	java:S116"ORename this field "H_A1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¾§š
+u
+java:S1149†"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤™ı4
+{
+java:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²Íöøÿÿÿÿ
+S	java:S107Ö"=Method has 10 parameters, which is greater than 7 authorized.(ëò´Š
+U
+java:S3400»"9Remove this method and declare a constant for this value.(ÊÓûøúÿÿÿÿ
+–
+java:S1130ò"zRemove the declaration of thrown exception 'javax.security.sasl.SaslException', as it cannot be thrown from method's body.(æÃîùÿÿÿÿ
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(ÈØúûÿÿÿÿ
+@
+java:S1197“"*Move the array designators [] to the type.(¸œ•
+[
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(¸œ•
+U
+java:S1659¯">Declare "b" and all following declarations on a separate line.(Ó‹Â
+R	java:S125§"<This block of commented-out lines of code should be removed.(Ë”ÛÁ
+4
+java:S2119¨"Save and re-use this "Random".(¼İÅf
+R	java:S125¾"<This block of commented-out lines of code should be removed.(¡ÑŒ 
+d	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ö¼¬
+P
+java:S4719¤"9Replace charset name argument with StandardCharsets.UTF_8(Û³Ù÷
+U
+java:S4719¨">Replace charset name argument with StandardCharsets.ISO_8859_1(½¢´“
+\
+java:S2147¼"ECombine this catch with the one at line 442, which has the same body.(Ë‡…¨
+–
+java:S1130â"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(¡È¸Ï
+?
+java:S1659æ"#Declare "hexA2" on a separate line.(Â¡œÛùÿÿÿÿ
+`
+java:S1659ç"DDeclare "beginA1" and all following declarations on a separate line.(İöÿ„üÿÿÿÿ
+w
+java:S3457ù"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Êş‹;
+x
+java:S3457•"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ºì€º
+R	java:S125²"<This block of commented-out lines of code should be removed.(²ïğ–
+}
+java:S3457Â"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¬ˆÂ×ıÿÿÿÿ
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(¯¡ÆÜıÿÿÿÿ
+8	java:S131é""Add a default case to this switch.(×î²”
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(æÃ´«
+\
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(óó™©
+a
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(¸„¹Ğøÿÿÿÿ
+•
+java:S1130î"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(õç£
+A
+java:S1197°"*Move the array designators [] to the type.(‰ÌÖö
+a
+java:S1124Ó"EReorder the modifiers to comply with the Java Language Specification.(„¦Êıøÿÿÿÿ
+a
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(©â‘§ıÿÿÿÿ
+n
+java:S3776‰	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(şçÂ«üÿÿÿÿ
+›
+java:S1130Š	"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(äõëŸûÿÿÿÿ
+˜
+java:S1130‹	"|Remove the declaration of thrown exception 'javax.security.sasl.SaslException' which is a subclass of 'java.io.IOException'.(ã¦Œ¾ùÿÿÿÿ
+W	java:S125	"<This block of commented-out lines of code should be removed.(ö“ïÜùÿÿÿÿ
+R	java:S125œ	"<This block of commented-out lines of code should be removed.(ûóÚ
+3
+java:S5542Ä	"Use a secure padding scheme.(Âù‘¡
+5
+java:S5547Ä	"Use a strong cipher algorithm.(Âù‘¡
+8
+java:S5542Å	"Use a secure padding scheme.(›È‘¥ûÿÿÿÿ
+:
+java:S5547Å	"Use a strong cipher algorithm.(›È‘¥ûÿÿÿÿ
+I
+java:S1659Ñ	"-Declare "cipherShortname" on a separate line.(æ¢•…şÿÿÿÿ
+C
+java:S3329æ	"'Use a dynamically-generated, random IV.(‚ÍÔúÿÿÿÿ
+Q
+java:S1161š
+":Add the "@Override" annotation above this method signature(˜©–
+W	java:S125¼
+"<This block of commented-out lines of code should be removed.(íàé¬üÿÿÿÿ
+n
+java:S3776ï
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¸„ï¯şÿÿÿÿ
+V
+java:S1161ï
+":Add the "@Override" annotation above this method signature(¸„ï¯şÿÿÿÿ
+8
+java:S2129…"!Remove this "Integer" constructor(‚ÆÓÿ
+=
+java:S1905±"&Remove this unnecessary cast to "int".(‚öÜë
+:
+java:S2129·"Remove this "Byte" constructor(´ıŒúÿÿÿÿ
+;
+java:S3457Ğ"%String contains no format specifiers.(ó§Ë?

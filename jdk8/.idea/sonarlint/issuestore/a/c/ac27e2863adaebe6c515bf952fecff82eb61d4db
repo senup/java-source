@@ -1,0 +1,57 @@
+
+a	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(Øİ…áùÿÿÿÿ
+[	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(–»™
+E
+java:S1121æ".Extract the assignment out of this expression.(³–ãá
+p
+java:S1488t"ZImmediately return this expression instead of assigning it to the temporary variable "rc".(ó¼¢£
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Î¼“ ûÿÿÿÿ
+v
+java:S4165§"_Remove this useless assignment; "i" already holds the assigned value along all execution paths.(·‰Ï¢
+k	java:S116,"VRename this field "classname_t" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šøª¿
+k	java:S116-"QRename this field "show_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó˜‹ıÿÿÿÿ
+o	java:S116."ZRename this field "serialversion_t" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨•¨•
+m	java:S116/"SRename this field "footer_l" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¶ùçüÿÿÿÿ
+{
+java:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(›ÙÂÏùÿÿÿÿ
+U
+java:S11613":Add the "@Override" annotation above this method signature(œ¾Ê•üÿÿÿÿ
+O
+java:S1161`":Add the "@Override" annotation above this method signature(ú¡­,
+O
+java:S1161f":Add the "@Override" annotation above this method signature(İ›«5
+U
+java:S1161s":Add the "@Override" annotation above this method signature(é×Ù¥ùÿÿÿÿ
+•
+java:S1130š"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³Ù¡Ÿ
+i
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘
+N	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ïÎ³1
+<
+java:S2129õ" Remove this "String" constructor(‰½ÿ¬úÿÿÿÿ
+N	java:S106ø"9Replace this use of System.out or System.err by a logger.(åØÉ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(©ä“ııÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(©ä“ııÿÿÿÿ
+F
+java:S1656§"/Remove or correct this useless self-assignment.(·‰Ï¢
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(ã…Éƒ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ˆÃ°¿úÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(§»´ûÿÿÿÿ
+N	java:S106»"9Replace this use of System.out or System.err by a logger.(Ÿşç.
+W	java:S125¿"<This block of commented-out lines of code should be removed.(ƒ÷ºøÿÿÿÿ
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(˜ÚÕ¹
+h	java:S116Ø"RRename this field "menu_mb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÓú‰
+g	java:S116Ù"QRename this field "file_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡±¯Å
+l	java:S116Ú"QRename this field "exit_i" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ˜÷úÿÿÿÿ
+R	java:S125í"<This block of commented-out lines of code should be removed.(Ğæ»
+P
+java:S1161ô":Add the "@Override" annotation above this method signature(İÊÙ
+P
+java:S1161ş":Add the "@Override" annotation above this method signature(İ›«5
+V
+java:S1118–":Add a private constructor to hide the implicit public one.(¬âß¼ûÿÿÿÿ
+G
+java:S1128 "1Remove this unused import 'java.util.Properties'.(¬µ²

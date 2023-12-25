@@ -1,0 +1,52 @@
+
+F
+java:S3740ø"/Provide the parametrized type for this generic.(õ€úü
+q
+java:S1192À"UDefine a constant instead of duplicating this literal "findSignatureClasses" 4 times.(ÚĞú¼şÿÿÿÿ
+
+java:S1192ü"€Define a constant instead of duplicating this literal "Exception thrown trying to invoke the MBean's empty constructor" 3 times.(—ù˜åúÿÿÿÿ
+j
+java:S1192â"TDefine a constant instead of duplicating this literal "No such constructor" 4 times.(õÓ:
+ƒ
+java:S1192Á"gDefine a constant instead of duplicating this literal "The parameter class could not be found" 4 times.(¿Ì¡Âıÿÿÿÿ
+>
+java:S1604‹"(Make this anonymous inner class a lambda(ˆÆX
+t
+java:S1488‹"^Immediately return this expression instead of assigning it to the temporary variable "loader".(ˆÆX
+K
+java:S11917"5Use classes from the Java API instead of Sun classes.(‡Œªƒ
+P	java:S125D"<This block of commented-out lines of code should be removed.(¿Ğ‹(
+F
+java:S1197–"*Move the array designators [] to the type.(Áøİ½ùÿÿÿÿ
+B
+java:S1168š"&Return an empty array instead of null.(ÕÌÉ÷ùÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(‘ëÃÍ
+\
+java:S2147ı"ECombine this catch with the one at line 250, which has the same body.(Å¡ß
+a
+java:S2147€"ECombine this catch with the one at line 250, which has the same body.(¥¨›ıÿÿÿÿ
+I
+java:S1172"-Remove this unused method parameter "loader".(–¥–ÿÿÿÿÿ
+A
+java:S1197"*Move the array designators [] to the type.(ãÁÕ
+F
+java:S1197"*Move the array designators [] to the type.(–¥–ÿÿÿÿÿ
+\
+java:S2147¿"ECombine this catch with the one at line 315, which has the same body.(™è“î
+³
+java:S1130—"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(Ûå¼ùÿÿÿÿ
+F
+java:S1197¯"*Move the array designators [] to the type.(ßğ«úÿÿÿÿ
+F
+java:S1197°"*Move the array designators [] to the type.(†·ƒùıÿÿÿÿ
+F
+java:S1197Ü"*Move the array designators [] to the type.(ßğ«úÿÿÿÿ
+F
+java:S1197İ"*Move the array designators [] to the type.(†·ƒùıÿÿÿÿ
+F
+java:S1197š"*Move the array designators [] to the type.(ß’ÇÉøÿÿÿÿ
+B
+java:S1168"&Return an empty array instead of null.(ÕÌÉ÷ùÿÿÿÿ
+A
+java:S1197¢"*Move the array designators [] to the type.(‘ëÃÍ

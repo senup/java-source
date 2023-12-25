@@ -1,0 +1,10 @@
+
+V	java:S107("AConstructor has 8 parameters, which is greater than 7 authorized.(¯Çığ
+P
+java:S1161;":Add the "@Override" annotation above this method signature(ÜÑã
+d
+java:S4201<"IRemove this unnecessary null check; "instanceof" returns false for nulls.(™‚ô¬ÿÿÿÿÿ
+P
+java:S1161G":Add the "@Override" annotation above this method signature(ğÜşŠ
+Q
+java:S1117Œ":Rename "method" which hides the field declared at line 32.(Ğ­­‚

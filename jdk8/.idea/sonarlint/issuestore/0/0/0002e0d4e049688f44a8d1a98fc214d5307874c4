@@ -1,0 +1,9 @@
+
+R
+java:S4973I"<Strings and Boxed types should be compared using "equals()".(Ùäß
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+Œ
+java:S1845>"vRename field "name" to prevent any misunderstanding/clash with field "NAME" defined in interface "javax.swing.Action".(Ë¥¼
+O
+java:S5993@"9Change the visibility of this constructor to "protected".(èïÅ¤

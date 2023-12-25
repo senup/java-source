@@ -1,0 +1,8 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+C
+java:S1948&"(Make "object" transient or serializable.(“°¯İıÿÿÿÿ
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(Üç·ºúÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ôšµ

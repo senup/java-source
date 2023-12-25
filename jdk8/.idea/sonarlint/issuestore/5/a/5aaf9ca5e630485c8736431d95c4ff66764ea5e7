@@ -1,0 +1,13 @@
+
+P
+java:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=
+java:S21894""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“–ış
+[
+java:S2147k"ECombine this catch with the one at line 106, which has the same body.(ÈçÚ
+y
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ôãÀ£şÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

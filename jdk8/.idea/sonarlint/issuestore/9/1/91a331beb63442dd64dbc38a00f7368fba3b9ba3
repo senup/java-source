@@ -1,0 +1,24 @@
+
+m	java:S127P"XRefactor the code in order to not assign to this loop counter from within the loop body.(§ÿøÜ
+m	java:S127S"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬Äğñ
+r	java:S127U"XRefactor the code in order to not assign to this loop counter from within the loop body.(ø»Øèşÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¢¯Î
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ìïù
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‡™äûÿÿÿÿ
+f	java:S1165"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‹˜ÿÿÿÿÿ
+;
+java:S16599" Declare "js" on a separate line.(¾²»®ÿÿÿÿÿ
+B
+java:S1125s"'Remove the unnecessary boolean literal.(×æ¢«şÿÿÿÿ
+B
+java:S1125|"'Remove the unnecessary boolean literal.(¿ØŸªøÿÿÿÿ
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+C
+java:S1125Å"'Remove the unnecessary boolean literal.(¢Ùø£ÿÿÿÿÿ
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(ÕÇáÔ
+V
+java:S1161û":Add the "@Override" annotation above this method signature(ìì³øÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(Ë¡Ûßùÿÿÿÿ

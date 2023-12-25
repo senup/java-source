@@ -1,0 +1,128 @@
+
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(­˜Ø¦ùÿÿÿÿ
+u
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(æğœãùÿÿÿÿ
+e
+java:S1192A"JDefine a constant instead of duplicating this literal "ISO8859_1" 4 times.(Ûå¸Óúÿÿÿÿ
+h
+java:S1192”"RDefine a constant instead of duplicating this literal "Not connected yet" 3 times.(€ÌŠ
+j
+java:S1192š"SDefine a constant instead of duplicating this literal "encoding not found" 4 times.(Û¸à¼
+]
+java:S1192Í	"FDefine a constant instead of duplicating this literal "RETR " 4 times.(«³ÊÑ
+t	java:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+F
+java:S1066¦"/Merge this if statement with the enclosing one.(û¸Ö‚
+K
+java:S1066„"/Merge this if statement with the enclosing one.(Æş¸¾ıÿÿÿÿ
+K
+java:S1066Ü"/Merge this if statement with the enclosing one.(ê×ÿ¬şÿÿÿÿ
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßòˆ‘
+C
+java:S1604t"(Make this anonymous inner class a lambda(Á·í»ùÿÿÿÿ
+>
+java:S1604ÿ"(Make this anonymous inner class a lambda(Ø“Óx
+D
+java:S1604"(Make this anonymous inner class a lambda(“—‡Ìÿÿÿÿÿ
+>
+java:S1604¤"(Make this anonymous inner class a lambda(Ø“Óx
+3
+java:S1643å"Use a StringBuilder instead.(¢Å›Ö
+8
+java:S1643ç"Use a StringBuilder instead.(ØÆ¶âûÿÿÿÿ
+3
+java:S1643ğ"Use a StringBuilder instead.(íÜ¿±
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(É¹¤‚
+M
+java:S1153ç"1Directly append the argument of String.valueOf().(ØÆ¶âûÿÿÿÿ
+[
+java:S2095‰"DUse try-with-resources or close this "Socket" in a "finally" clause.(­ä–£
+[
+java:S2095†"DUse try-with-resources or close this "Socket" in a "finally" clause.(°Àø·
+[
+java:S2095§"DUse try-with-resources or close this "Socket" in a "finally" clause.(¨øÏŒ
+[
+java:S2095«"DUse try-with-resources or close this "Socket" in a "finally" clause.(°Àø·
+[
+java:S2095®"DUse try-with-resources or close this "Socket" in a "finally" clause.(­ä–£
+m
+java:S3008Ï"VRename this field "MDTMformats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØììÖ
+7
+java:S1170R"!Make this final field static too.(¢æµ
+'
+java:S21763"Rename this class.(ìê<
+€
+java:S1149J"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­˜Ø¦ùÿÿÿÿ
+{
+java:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ÷Ùøûÿÿÿÿ
+|
+java:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§ä¢ò
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+|
+java:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„‚ó®
+v
+java:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+|
+java:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„‚ó®
+v
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„‚ó®
+v
+java:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+E
+java:S1197p"*Move the array designators [] to the type.(ú‘€—üÿÿÿÿ
+@
+java:S1197q"*Move the array designators [] to the type.(ŠøÂß
+i
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.( âòÃ
+[
+java:S3358"DExtract this nested ternary operation into an independent statement.(à¯ü
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.( âòÃ
+?	java:S108Í")Either remove or fill this block of code.(Í½°†
+?	java:S108Ø")Either remove or fill this block of code.(Í½°†
+8
+java:S1116ï"Remove this empty statement.(ôŸìúÿÿÿÿ
+M
+java:S2696ş"6Make the enclosing method "static" or remove this set.(ºª©ş
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(í®Ãİüÿÿÿÿ
+^
+java:S1854Ê"BRemove this useless assignment to local variable "continuingCode".(Ï¶î÷úÿÿÿÿ
+2
+java:S3626Ç"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Ï"Remove this redundant jump.(ÉŠ©ƒ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ôé‡ê
+R
+java:S2696É"6Make the enclosing method "static" or remove this set.(Ü‘Ø¹ùÿÿÿÿ
+L
+java:S2696î"6Make the enclosing method "static" or remove this set.(‚Ÿ¯4
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(œ¶¸è
+R	java:S125Á"<This block of commented-out lines of code should be removed.(£à†
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢‹¼ƒ
+I
+java:S1135“"2Complete the task associated to this TODO comment.(ÃÏÕ
+?	java:S108ğ")Either remove or fill this block of code.(Í½°†
+?	java:S108§")Either remove or fill this block of code.(ê¾óŒ
+e
+java:S2272°"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ò‡úŒ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+=
+java:S1168ÿ"&Return an empty array instead of null.(¥¹ï
+R	java:S125‘"<This block of commented-out lines of code should be removed.(ªæö
+?	java:S108")Either remove or fill this block of code.(”ı¾
+K
+java:S1144í"5Remove this unused private "sendSecurityData" method.(íøŸr
+P
+java:S1144ó"4Remove this unused private "getSecurityData" method.(Õ†“æşÿÿÿÿ

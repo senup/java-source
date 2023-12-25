@@ -1,0 +1,31 @@
+
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(äôäåıÿÿÿÿ
+u
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì†ƒùÿÿÿÿ
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¶óÓşÿÿÿÿ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ø¨©øÿÿÿÿ
+d
+java:S3824Ì"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(—¼Ôıÿÿÿÿ
+=	java:S131¡""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+=	java:S131Ä""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+Q
+java:S6213Ô":Rename this variable to not match a restricted identifier.(ÈÛ³§
+=	java:S131×""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îè€Æùÿÿÿÿ
+Q
+java:S1133¿"5Do not forget to remove this deprecated code someday.(Ê…™ ùÿÿÿÿ
+D
+java:S1123¿"(Add the missing @deprecated Javadoc tag.(Ê…™ ùÿÿÿÿ
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Ú‰éûÿÿÿÿ
+=	java:S131Ş""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(±¯€¤
+=	java:S131–""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+[
+java:S1117Í"?Rename "stackFrame" which hides the field declared at line 106.(›¶óÓşÿÿÿÿ
+N
+java:S1135¢"2Complete the task associated to this TODO comment.(—ˆÏ´şÿÿÿÿ

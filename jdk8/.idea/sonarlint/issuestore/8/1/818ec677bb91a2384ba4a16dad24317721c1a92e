@@ -1,0 +1,44 @@
+
+v
+java:S1192•"ZDefine a constant instead of duplicating this literal "Coordinate out of bounds!" 5 times.(¡ÈĞİúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+[
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(Ÿ°Âß
+?
+java:S1905İ"(Remove this unnecessary cast to "int[]".(é„×Ä
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(Ößå§üÿÿÿÿ
+F
+java:S1197—"*Move the array designators [] to the type.(ê¨Æûşÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(”¾Ğ•ûÿÿÿÿ
+F
+java:S1197Ç"*Move the array designators [] to the type.(ê¨Æûşÿÿÿÿ
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(ç×‹“
+A
+java:S1197ó"*Move the array designators [] to the type.(Óâ‹ 
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(ùÊıÿÿÿÿ
+A
+java:S1197®"*Move the array designators [] to the type.(Àõéê
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(Í°—
+A
+java:S1197÷"*Move the array designators [] to the type.(Óâ‹ 
+V
+java:S1161 ":Add the "@Override" annotation above this method signature(ú“õ½üÿÿÿÿ
+F
+java:S1197£"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(Ç§æ
+F
+java:S1197Ù"*Move the array designators [] to the type.(ÈßÜüøÿÿÿÿ
+Q
+java:S1161â":Add the "@Override" annotation above this method signature(‰ˆûÂ
+Q
+java:S1161ó":Add the "@Override" annotation above this method signature(ÌŸ­
+7
+java:S2129Á" Remove this "String" constructor(ÔÏ·Ä
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ğÜ¹Û

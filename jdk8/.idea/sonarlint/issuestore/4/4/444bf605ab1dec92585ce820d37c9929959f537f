@@ -1,0 +1,17 @@
+
+n	java:S116""TRename this field "max_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûá–‰úÿÿÿÿ
+i	java:S116#"URename this field "used_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®À„]
+r	java:S116("XRename this field "delay_counter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ—Èñüÿÿÿÿ
+n	java:S116)"TRename this field "sin_phase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅÛ¥ÿÿÿÿÿ
+q	java:S116*"WRename this field "sin_stepfreq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÛÓ¬øÿÿÿÿ
+m	java:S116+"SRename this field "sin_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øƒ«ãýÿÿÿÿ
+l	java:S116,"WRename this field "control_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º „
+j	java:S116-"URename this field "sin_factor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‰Õ‚
+<
+java:S1170""!Make this final field static too.(ûá–‰úÿÿÿÿ
+q
+java:S1450,"[Remove the "control_time" field and declare it as a local variable in the relevant methods.(³º „
+Q	java:S125a"<This block of commented-out lines of code should be removed.(Ñý¥Þ
+V	java:S125e"<This block of commented-out lines of code should be removed.(›ÞÚ¸ùÿÿÿÿ
+=
+java:S1168€"&Return an empty array instead of null.(¥¹ï

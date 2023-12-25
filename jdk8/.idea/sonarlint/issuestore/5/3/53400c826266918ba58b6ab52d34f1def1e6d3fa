@@ -1,0 +1,74 @@
+
+J
+java:S3740j"/Provide the parametrized type for this generic.(àáÜúÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(îßÎú
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(óííÎ
+F
+java:S3740İ"/Provide the parametrized type for this generic.(ğú®
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(íùÿûÿÿÿÿÿ
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(ÿĞ¦ˆøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İ¦¥’
+˜
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Æ¹
+
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÈ«®úÿÿÿÿ
+’
+java:S18453"|Rename field "type" to prevent any misunderstanding/clash with field "TYPE" defined in interface "sun.tools.java.Constants".(ÿÈÑ
+|
+java:S1149Ü"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óííÎ
+{
+java:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+E
+java:S11975"*Move the array designators [] to the type.(§½—ıÿÿÿÿ
+@
+java:S11976"*Move the array designators [] to the type.(†•¢Ç
+E
+java:S1197E"*Move the array designators [] to the type.(İìÇÎıÿÿÿÿ
+`
+java:S1124j"EReorder the modifiers to comply with the Java Language Specification.(àáÜúÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(Œ°ÎÆ
+F
+java:S1172ã"*Remove this unused method parameter "env".(¾ñıÿÿÿÿ
+O
+java:S1117"8Rename "name" which hides the field declared at line 57.(µú˜Ğ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(ƒ¼â¶
+R	java:S125¨"<This block of commented-out lines of code should be removed.(¸í‚†
+Œ
+java:S1130ğ"uRemove the declaration of thrown exception 'sun.tools.java.ClassNotFound', as it cannot be thrown from method's body.(ö¿¢
+A
+java:S1172ğ"*Remove this unused method parameter "env".(ö¿¢
+‘
+java:S1130—"uRemove the declaration of thrown exception 'sun.tools.java.ClassNotFound', as it cannot be thrown from method's body.(›¶ñ¤ùÿÿÿÿ
+O
+java:S1172—"3Remove these unused method parameters "env", "ctx".(›¶ñ¤ùÿÿÿÿ
+F
+java:S1172°"*Remove this unused method parameter "env".(ÉœÚ‘ıÿÿÿÿ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´¯¹èıÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(æˆüö
+P
+java:S1874÷"4Remove this use of "SourceMember"; it is deprecated.(¿ğøşÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¸“ãìşÿÿÿÿ
+X
+java:S1126†"AReplace this if-then-else statement by a single return statement.(ã“Ô
+F
+java:S1197—"*Move the array designators [] to the type.(â¬Êğûÿÿÿÿ
+A
+java:S1197˜"*Move the array designators [] to the type.(³ÏÎé
+Q
+java:S1119œ";Refactor the code to remove this label and the need for it.(àÏÅ)
+‘
+java:S1130ü"uRemove the declaration of thrown exception 'sun.tools.java.ClassNotFound', as it cannot be thrown from method's body.(· ‡ªøÿÿÿÿ
+F
+java:S1172ü"*Remove this unused method parameter "env".(· ‡ªøÿÿÿÿ
+T
+java:S1117–"8Rename "name" which hides the field declared at line 57.(°Áƒ–ùÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(çÕÑíùÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ö—Ë˜üÿÿÿÿ
+?	java:S108ã")Either remove or fill this block of code.(ÿæ„ı

@@ -1,0 +1,13 @@
+
+t	java:S135ý"YReduce the total number of break and continue statements in this loop to use at most one.(ƒ¿³Óùÿÿÿÿ
+t	java:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(ƒ¿³Óùÿÿÿÿ
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(åŠéÌ
+n
+java:S18458"XRename field "privateuse" to prevent any misunderstanding/clash with field "PRIVATEUSE".(ÒïÕö
+n
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ƒŸð…ýÿÿÿÿ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(ìƒéê
+V
+java:S6213Ì":Rename this variable to not match a restricted identifier.(Öþõ³ÿÿÿÿÿ

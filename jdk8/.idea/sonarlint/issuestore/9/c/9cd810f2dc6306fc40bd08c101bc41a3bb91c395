@@ -1,0 +1,16 @@
+
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(öŒ¸
+n	java:S135:"YReduce the total number of break and continue statements in this loop to use at most one.(€·„¹
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óüîïÿÿÿÿÿ
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(Êı‡¶ÿÿÿÿÿ
+C
+java:S4274'"(Replace this assert with a proper check.(«íŸëûÿÿÿÿ
+g
+java:S1871A"LThis branch's code block is the same as the block for the branch on line 63.(±£Â—şÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'com.sun.net.httpserver'.(°Ñâõ
+M
+java:S1128"7Remove this unused import 'com.sun.net.httpserver.spi'.(ÄÓ—

@@ -1,0 +1,229 @@
+
+k
+java:S1192 
+"ODefine a constant instead of duplicating this literal "indicator-size" 4 times.(¥›ıçıÿÿÿÿ
+c
+java:S1192Õ"GDefine a constant instead of duplicating this literal "trough" 5 times.(æ¥Ò¥ûÿÿÿÿ
+c
+java:S1192ß"GDefine a constant instead of duplicating this literal "button" 4 times.(ò‚é¨üÿÿÿÿ
+m
+java:S1192¾"QDefine a constant instead of duplicating this literal "focus-line-width" 3 times.(ÿÈıÁúÿÿÿÿ
+e
+java:S1192Ê"IDefine a constant instead of duplicating this literal "menuitem" 3 times.(¶…ç¼ıÿÿÿÿ
+b
+java:S1192‘"FDefine a constant instead of duplicating this literal "arrow" 3 times.(ƒë¯üÿÿÿÿ
+`
+java:S1192¦	"IDefine a constant instead of duplicating this literal "treeview" 3 times.( ´¸²
+X
+java:S4973›"<Strings and Boxed types should be compared using "equals()".(‹™äùùÿÿÿÿ
+X
+java:S4973Û"<Strings and Boxed types should be compared using "equals()".(¹¶Íèûÿÿÿÿ
+X
+java:S4973Ü"<Strings and Boxed types should be compared using "equals()".(§°†¨ıÿÿÿÿ
+S
+java:S4973İ"<Strings and Boxed types should be compared using "equals()".(à ŒÆ
+X
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(ÆÀ“èşÿÿÿÿ
+X
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(ÆÀ“èşÿÿÿÿ
+X
+java:S4973˜"<Strings and Boxed types should be compared using "equals()".(’Ñùúÿÿÿÿ
+S
+java:S4973™"<Strings and Boxed types should be compared using "equals()".(‡«İ–
+X
+java:S4973›"<Strings and Boxed types should be compared using "equals()".(şş¯Ñÿÿÿÿÿ
+X
+java:S4973·"<Strings and Boxed types should be compared using "equals()".(ÆÀ“èşÿÿÿÿ
+X
+java:S4973·"<Strings and Boxed types should be compared using "equals()".(ÆÀ“èşÿÿÿÿ
+X
+java:S4973Ç"<Strings and Boxed types should be compared using "equals()".(ä†şÿÿÿÿ
+S
+java:S4973É"<Strings and Boxed types should be compared using "equals()".(”Æ¦Ğ
+X
+java:S4973Ë"<Strings and Boxed types should be compared using "equals()".(şş¯Ñÿÿÿÿÿ
+X
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(ŒÊ°×şÿÿÿÿ
+S
+java:S4973Ô	"<Strings and Boxed types should be compared using "equals()".(¬ŸÛŞ
+S
+java:S4973Ø	"<Strings and Boxed types should be compared using "equals()".(¬‚Ô”
+X
+java:S4973Ü	"<Strings and Boxed types should be compared using "equals()".(ëœÁÃúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ä“¡µüÿÿÿÿ
+S	java:S107"=Method has 12 parameters, which is greater than 7 authorized.(¤ªú¾
+W	java:S107À	"<Method has 9 parameters, which is greater than 7 authorized.(ÃÙ¥ûÿÿÿÿ
+X	java:S107Ì	"=Method has 10 parameters, which is greater than 7 authorized.(±æ”Åÿÿÿÿÿ
+R	java:S107÷	"<Method has 8 parameters, which is greater than 7 authorized.(òÊİ‘
+W	java:S107´
+"<Method has 8 parameters, which is greater than 7 authorized.(Ç·ÜËúÿÿÿÿ
+W	java:S107Ú
+"<Method has 8 parameters, which is greater than 7 authorized.(¿êÂ¥üÿÿÿÿ
+E
+java:S1197="*Move the array designators [] to the type.(¹‘â¿úÿÿÿÿ
+`
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(ÔÕŠşüÿÿÿÿ
+`
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(Í‘ôÒıÿÿÿÿ
+P
+java:S1161M":Add the "@Override" annotation above this method signature(ë¯Í
+P
+java:S1161R":Add the "@Override" annotation above this method signature(Ğ‹³ˆ
+O
+java:S1161X":Add the "@Override" annotation above this method signature(ÉÀ¤M
+U
+java:S1161a":Add the "@Override" annotation above this method signature(£Å½—şÿÿÿÿ
+U
+java:S1161k":Add the "@Override" annotation above this method signature(ÉÕÊıÿÿÿÿ
+P
+java:S1161~":Add the "@Override" annotation above this method signature(íÄ–
+P
+java:S1161":Add the "@Override" annotation above this method signature(»˜İ6
+V
+java:S1161™":Add the "@Override" annotation above this method signature(¿ò…¡ıÿÿÿÿ
+Q
+java:S1161¦":Add the "@Override" annotation above this method signature(åìãÕ
+P
+java:S1161½":Add the "@Override" annotation above this method signature(©×²z
+Q
+java:S1161Ô":Add the "@Override" annotation above this method signature(¦Ùµø
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(ĞÁ™ 
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ÅÁëüÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(ùÙääùÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(è´Ç†
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¤ªú¾
+V
+java:S1161ş":Add the "@Override" annotation above this method signature(ß‘ùèûÿÿÿÿ
+=	java:S131†""Add a default case to this switch.(Æóõµıÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¹ÿı©ùÿÿÿÿ
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(¹ÿı©ùÿÿÿÿ
+V
+java:S1161ı":Add the "@Override" annotation above this method signature(ì°”óûÿÿÿÿ
+l
+java:S3252€"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_BACKGROUND".(Àñ×§ÿÿÿÿÿ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(½ŒĞåùÿÿÿÿ
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(ÙÍûš
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(‰€õò
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(®¦‘³
+g
+java:S3252Æ"KUse static access with "javax.swing.plaf.synth.ColorType" for "BACKGROUND".(Ìîôéşÿÿÿÿ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(ÂÈçúÿÿÿÿ
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(ëí
+Q
+java:S1161î":Add the "@Override" annotation above this method signature(·…òù
+Q
+java:S1161û":Add the "@Override" annotation above this method signature(©Şñ½
+[
+java:S3252ª"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(½»öx
+[
+java:S3252¹"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(½»öx
+[
+java:S3252Å"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(½»öx
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(£µ³©üÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ÏçÁ¤
+\
+java:S3252"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(³ë 
+a
+java:S3252"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Ê ôÑûÿÿÿÿ
+Q
+java:S1161œ":Add the "@Override" annotation above this method signature(¡Òùª
+P
+java:S1161¥":Add the "@Override" annotation above this method signature(ø¼[
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(È„íƒ
+Q
+java:S1161À":Add the "@Override" annotation above this method signature(úšŞÈ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(¬¯¶¼
+P
+java:S1161‚":Add the "@Override" annotation above this method signature(Î£¦?
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature( ¥¾„
+Q
+java:S1161’":Add the "@Override" annotation above this method signature(Ä‹Ö¨
+l
+java:S3252•"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_BACKGROUND".(Àñ×§ÿÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ƒÍ¹·üÿÿÿÿ
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(ä¬•”
+b
+java:S3252€"KUse static access with "javax.swing.plaf.synth.ColorType" for "BACKGROUND".(à£»ò
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ˆ¿ÿ¥
+Q
+java:S1161˜":Add the "@Override" annotation above this method signature(†²Ò
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(¢ò´€üÿÿÿÿ
+Z
+java:S3252Ö">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(âû—Øùÿÿÿÿ
+T
+java:S3252ò">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ÚÙƒi
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(ùô¸Ğıÿÿÿÿ
+Q
+java:S1161‘	":Add the "@Override" annotation above this method signature(¡§Ø¾
+V
+java:S1161¢	":Add the "@Override" annotation above this method signature(õ½È½üÿÿÿÿ
+Q
+java:S1161­	":Add the "@Override" annotation above this method signature(æ¾ê¦
+l
+java:S3252°	"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_BACKGROUND".(Àñ×§ÿÿÿÿÿ
+V
+java:S1161·	":Add the "@Override" annotation above this method signature(Å‹®ıÿÿÿÿ
+l
+java:S3252½	"PUse static access with "javax.swing.plaf.synth.ColorType" for "TEXT_BACKGROUND".(Àñ×§ÿÿÿÿÿ
+]
+java:S2147ï	"FCombine this catch with the one at line 1261, which has the same body.(ÄéÍõ
+]
+java:S2147„
+"FCombine this catch with the one at line 1282, which has the same body.(ÄéÍõ
+O
+java:S1172
+"8Remove these unused method parameters "state", "w", "h".(îÁû
+O
+java:S1172©
+"8Remove these unused method parameters "state", "w", "h".(îÁû
+K
+java:S1172µ
+"/Remove these unused method parameters "w", "h".(ã‡£üÿÿÿÿ
+O
+java:S1172Á
+"8Remove these unused method parameters "state", "w", "h".(îÁû
+O
+java:S1172Î
+"8Remove these unused method parameters "state", "w", "h".(îÁû
+C
+java:S1172ì
+",Remove this unused method parameter "state".(îÁû
+C
+java:S1172ò
+",Remove this unused method parameter "state".(îÁû
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(¹ğÖ‰
+V
+java:S1161Ç":Add the "@Override" annotation above this method signature(Ö£¸Áüÿÿÿÿ
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
+Q
+java:S1161à":Add the "@Override" annotation above this method signature(¹ğÖ‰
+V
+java:S1161å":Add the "@Override" annotation above this method signature(Ö£¸Áüÿÿÿÿ

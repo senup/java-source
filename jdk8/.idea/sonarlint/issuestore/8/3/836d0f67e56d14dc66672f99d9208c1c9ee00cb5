@@ -1,0 +1,40 @@
+
+[	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(œ’á´
+=
+java:S1604-"(Make this anonymous inner class a lambda(¥±½%
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+g
+java:S2095E"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(½ù˜Æ
+h
+java:S2095D"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(âÔç‹şÿÿÿÿ
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(Íø³Î
+7
+java:S11164"Remove this empty statement.(È¯ñÿÿÿÿÿÿ
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÂŸÀô
+`
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(„„ª›ûÿÿÿÿ
+Z
+java:S2147^"DCombine this catch with the one at line 93, which has the same body.(ßÈ´
+C	java:S108]")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+>	java:S108^")Either remove or fill this block of code.(ßÈ´
+[
+java:S1124o"EReorder the modifiers to comply with the Java Language Specification.(İ·à©
+[
+java:S2147u"ECombine this catch with the one at line 116, which has the same body.(ßÈ´
+C	java:S108t")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+>	java:S108u")Either remove or fill this block of code.(ßÈ´
+>	java:S108{")Either remove or fill this block of code.(ùÊÎÜ
+7
+java:S2129~"!Remove this "Integer" constructor(ˆÍÕİ
+D
+java:S2447›"-Null is returned but a "Boolean" is expected.(¥¹ï
+[
+java:S1124Œ"EReorder the modifiers to comply with the Java Language Specification.(ÂÙÁL
+\
+java:S2147’"ECombine this catch with the one at line 145, which has the same body.(ßÈ´
+D	java:S108‘")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+?	java:S108’")Either remove or fill this block of code.(ßÈ´
+?	java:S108˜")Either remove or fill this block of code.(ùÊÎÜ

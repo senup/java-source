@@ -1,0 +1,23 @@
+
+o
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤°İ
+u
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¦ó›ÿÿÿÿÿ
+3
+java:S1643à"Use a StringBuilder instead.(³ÊÌ
+l
+java:S3008A"WRename this field "TYPE_UNKNOWN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êøÖ
+
+q
+java:S3008B"VRename this field "HIDDEN_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ææûÿÿÿÿ
+l
+java:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¾¾â÷
+8
+java:S1116¢"Remove this empty statement.(ôŸìúÿÿÿÿ
+8
+java:S1116³"Remove this empty statement.(ôŸìúÿÿÿÿ
+E
+java:S1068A"0Remove this unused "TYPE_UNKNOWN" private field.(êøÖ
+
+J
+java:S1068B"/Remove this unused "HIDDEN_FILE" private field.(¤Ææûÿÿÿÿ

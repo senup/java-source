@@ -1,0 +1,135 @@
+
+g
+java:S1192É"KDefine a constant instead of duplicating this literal "snmpV2Trap" 3 times.(Àƒª şÿÿÿÿ
+c
+java:S1192à"LDefine a constant instead of duplicating this literal ", specific=" 3 times.(Û¬åë
+e
+java:S1192ß"IDefine a constant instead of duplicating this literal "generic=" 3 times.(ãÔïŸùÿÿÿÿ
+r
+java:S1192×"VDefine a constant instead of duplicating this literal "Trap pdu is too big. " 6 times.(óª±Çÿÿÿÿÿ
+g
+java:S1192ß"KDefine a constant instead of duplicating this literal "snmpV1Trap" 3 times.(ãÔïŸùÿÿÿÿ
+h
+java:S1192×"LDefine a constant instead of duplicating this literal "sendTrapPdu" 6 times.(óª±Çÿÿÿÿÿ
+e
+java:S1192É"IDefine a constant instead of duplicating this literal "trapOid=" 5 times.(Àƒª şÿÿÿÿ
+u	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€×çøÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î¬—ä
+—
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÔÃ,
+q
+java:S1450È"URemove the "packet" field and declare it as a local variable in the relevant methods.(Ù«Ïªøÿÿÿÿ
+|
+java:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö­íá
+|
+java:S1149Æ
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…Úò¬
+|
+java:S1149¹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼¯Óö
+X	java:S107Á
+"=Method has 11 parameters, which is greater than 7 authorized.(¼üİùÿÿÿÿ
+R	java:S107ò"<Method has 8 parameters, which is greater than 7 authorized.(ïá‰Ê
+W	java:S107±"<Method has 9 parameters, which is greater than 7 authorized.(»ªÑ³ıÿÿÿÿ
+L
+java:S2065Ä"0Remove the "transient" modifier from this field.(ãİèúùÿÿÿÿ
+G
+java:S2065Å"0Remove the "transient" modifier from this field.(¬¬û¤
+G
+java:S2065Æ"0Remove the "transient" modifier from this field.(õ¢ºâ
+L
+java:S2065Ç"0Remove the "transient" modifier from this field.(Íƒ¼ÿÿÿÿÿ
+L
+java:S2065È"0Remove the "transient" modifier from this field.(Ù«Ïªøÿÿÿÿ
+G
+java:S2065É"0Remove the "transient" modifier from this field.(ö­íá
+G
+java:S2065Ê"0Remove the "transient" modifier from this field.(—ûšğ
+L
+java:S2065Ï"0Remove the "transient" modifier from this field.(¥Èæšùÿÿÿÿ
+=
+java:S2129¼"!Remove this "Integer" constructor(ÚÙ†íùÿÿÿÿ
+8
+java:S2129‚"!Remove this "Integer" constructor(üµÀ
+a
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(·…Àøÿÿÿÿ
+b
+java:S2886 "FSynchronize this method to match the synchronization on "setMaxTries".(·…Àøÿÿÿÿ
+a
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(Öœ€òşÿÿÿÿ
+a
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(‘Í”Ÿøÿÿÿÿ
+a
+java:S2886¶"ESynchronize this method to match the synchronization on "setTimeout".(‘Í”Ÿøÿÿÿÿ
+\
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(¾úÅŞ
+5
+java:S2129İ"Remove this "Long" constructor(´Á¾—
+:
+java:S2129ç"Remove this "Long" constructor(°êŞ·ûÿÿÿÿ
+:
+java:S2129ñ"Remove this "Long" constructor(Î£àŒşÿÿÿÿ
+:
+java:S2129û"Remove this "Long" constructor(…‡ÅÄıÿÿÿÿ
+:
+java:S2129…"Remove this "Long" constructor(•ÆÌÿúÿÿÿÿ
+5
+java:S2129"Remove this "Long" constructor(¹‡÷Œ
+:
+java:S2129™"Remove this "Long" constructor(©¥ñùûÿÿÿÿ
+:
+java:S2129£"Remove this "Long" constructor(–Áàòüÿÿÿÿ
+:
+java:S2129®"Remove this "Long" constructor(†Ê³§şÿÿÿÿ
+:
+java:S2129¸"Remove this "Long" constructor(ìªáøÿÿÿÿ
+5
+java:S2129Â"Remove this "Long" constructor(êª¢Ø
+:
+java:S2129Ì"Remove this "Long" constructor(Èö›ùÿÿÿÿ
+:
+java:S2129Ö"Remove this "Long" constructor(‡”Š›ıÿÿÿÿ
+:
+java:S2129à"Remove this "Long" constructor(×ìÇÿøÿÿÿÿ
+:
+java:S2129ê"Remove this "Long" constructor(˜Àšüÿÿÿÿ
+:
+java:S2129ô"Remove this "Long" constructor(†‚Ëçúÿÿÿÿ
+:
+java:S2129ş"Remove this "Long" constructor(àÈ³Àıÿÿÿÿ
+4
+java:S2129‹"Remove this "Long" constructor(éƒÜ=
+:
+java:S2129˜"Remove this "Long" constructor(Şöùÿÿÿÿ
+D
+java:S1185Á"(Remove this method to simply inherit it.(Ï¸¢°şÿÿÿÿ
+>
+java:S1185É"(Remove this method to simply inherit it.(Şò§
+D
+java:S1185Ñ"(Remove this method to simply inherit it.(ÿ½’ùÿÿÿÿ
+I
+java:S1172Á
+"-Remove this unused method parameter "server".(¼üİùÿÿÿÿ
+A
+java:S1181½"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+F
+java:S2093«"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»ªÑ³ıÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(õ‰±¶
+`
+java:S1134Û"DTake the required action to fix the issue indicated by this comment.(êÇª°ıÿÿÿÿ
+]
+java:S2147‡"FCombine this catch with the one at line 2177, which has the same body.(´ú§â
+`
+java:S1134©"DTake the required action to fix the issue indicated by this comment.(êÇª°ıÿÿÿÿ
+W
+java:S1117Ç";Rename "packet" which hides the field declared at line 200.(ù›Ô•úÿÿÿÿ
+=
+java:S2165•"&Remove this nullification of "socket".(Œ±—–
+I
+java:S1113‘"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+8	java:S131×""Add a default case to this switch.( Ï‘
+C
+java:S1125©"'Remove the unnecessary boolean literal.(‹íêªùÿÿÿÿ

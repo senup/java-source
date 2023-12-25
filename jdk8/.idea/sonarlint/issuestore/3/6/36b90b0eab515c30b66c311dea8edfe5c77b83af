@@ -1,0 +1,23 @@
+
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì´®
+=
+java:S1604U"(Make this anonymous inner class a lambda(¨ˆM
+>
+java:S1604b"(Make this anonymous inner class a lambda(´ôŸû
+>
+java:S1604l"(Make this anonymous inner class a lambda(ßÙ°
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(‘Úğ
+i
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(©è¹Ù
+=
+java:S2129Ÿ"!Remove this "Integer" constructor(‰ö÷Öùÿÿÿÿ
+=
+java:S2129²"!Remove this "Integer" constructor(‰ö÷Öùÿÿÿÿ
+=
+java:S2129¾"!Remove this "Integer" constructor(‰ö÷Öùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'sun.jvmstat.monitor'.(—áÓ‚
+Q
+java:S1128"6Remove this unused import 'sun.jvmstat.monitor.event'.(ø¦˜»ûÿÿÿÿ

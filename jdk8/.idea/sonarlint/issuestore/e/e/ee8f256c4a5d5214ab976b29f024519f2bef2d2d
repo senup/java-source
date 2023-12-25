@@ -1,0 +1,20 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+p	java:S115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²¿·„
+p	java:S115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½î¤µ
+u	java:S115ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âïÌ¥ùÿÿÿÿ
+u	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄîÉœûÿÿÿÿ
+u	java:S115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûƒ ©şÿÿÿÿ
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ˆÒ¡
+h	java:S116•"RRename this field "m_trie_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÛö
+u	java:S116™"ZRename this field "m_initialValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‚»òşÿÿÿÿ
+t	java:S116"^Rename this field "m_currentCodepoint_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦–…
+q	java:S116"[Rename this field "m_nextCodepoint_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Åç«
+r	java:S116Ÿ"WRename this field "m_nextValue_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¬÷ºşÿÿÿÿ
+r	java:S116 "WRename this field "m_nextIndex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¨¾èıÿÿÿÿ
+m	java:S116¡"WRename this field "m_nextBlock_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø·ãİ
+w	java:S116¢"\Rename this field "m_nextBlockIndex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÂœÎÿÿÿÿÿ
+x	java:S116£"bRename this field "m_nextTrailIndexOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Å¾¬
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(çÀïâ

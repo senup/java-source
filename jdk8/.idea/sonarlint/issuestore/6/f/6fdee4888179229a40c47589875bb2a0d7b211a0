@@ -1,0 +1,19 @@
+
+J
+java:S1066;"/Merge this if statement with the enclosing one.(ÉÔèˆùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ø°£Ü
+O
+java:S5993'"9Change the visibility of this constructor to "protected".(ÎËú¢
+C
+java:S1948!"(Make "worker" transient or serializable.(×°…©üÿÿÿÿ
+C
+java:S1948%"(Make "prevSW" transient or serializable.(ßœß¾ÿÿÿÿÿ
+A
+java:S1452,"&Remove usage of generic wildcard type.(àÖØ¼úÿÿÿÿ
+A
+java:S1452,"&Remove usage of generic wildcard type.(àÖØ¼úÿÿÿÿ
+<
+java:S1168P"&Return an empty array instead of null.(¥¹ï
+U
+java:S1161[":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ

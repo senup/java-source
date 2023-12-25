@@ -1,0 +1,17 @@
+
+b	java:S116G"MRename this field "DN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¶£ÿ
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(Ë¨®ş
+_
+java:S2147b"DCombine this catch with the one at line 94, which has the same body.(ĞĞ¹óúÿÿÿÿ
+Œ
+java:S1130–"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ÓÂ†
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(™€²Â
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(ÙØ¤Şıÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'javax.naming.directory'.(•ıíøÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'javax.naming.spi'.(ÒßÀ±ùÿÿÿÿ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ

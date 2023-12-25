@@ -1,0 +1,51 @@
+
+K
+java:S3740É"/Provide the parametrized type for this generic.(õÁŞÌşÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(õÁŞÌşÿÿÿÿ
+u
+java:S1192ƒ"YDefine a constant instead of duplicating this literal "Unsupported conversion: " 3 times.(¯ç›¦ùÿÿÿÿ
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ã˜Æ
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨”¼
+
+java:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õÁŞÌşÿÿÿÿ
+[
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(—´ı÷
+`
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(œ²ÓÎşÿÿÿÿ
+E
+java:S11974"*Move the array designators [] to the type.(•”Ù¹ÿÿÿÿÿ
+E
+java:S1197V"*Move the array designators [] to the type.(ÙãËöüÿÿÿÿ
+E
+java:S1197^"*Move the array designators [] to the type.(ÙãËöüÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(šğ€’úÿÿÿÿ
+O
+java:S1905º"3Remove this unnecessary cast to "AudioInputStream".(ùé§ãüÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(µº
+p	java:S115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÔ¾ß
+F
+java:S1197÷"*Move the array designators [] to the type.( „œ§ıÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ÅÅ«ÿÿÿÿÿ
+A
+java:S1197‚"*Move the array designators [] to the type.(ÇŒÕÇ
+O
+java:S1905°"3Remove this unnecessary cast to "AudioInputStream".(ø÷øóüÿÿÿÿ
+F
+java:S1197¿"*Move the array designators [] to the type.(¸ÿË„ùÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Ä…©
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(š€ñµ
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÂãíÕ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(ÂãíÕ
+D
+java:S1905í"(Remove this unnecessary cast to "short".(¤ä¥¬ûÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(”¥üÃ
+C
+java:S1905™"'Remove this unnecessary cast to "byte".(–¾¯ıÿÿÿÿ
+>
+java:S1905š"'Remove this unnecessary cast to "byte".(Ø†Ô‡

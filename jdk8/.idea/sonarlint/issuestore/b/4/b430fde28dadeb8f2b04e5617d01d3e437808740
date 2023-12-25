@@ -1,0 +1,15 @@
+
+K
+java:S1066"/Merge this if statement with the enclosing one.(ˆ¹Íüùÿÿÿÿ
+D
+java:S1604 "(Make this anonymous inner class a lambda(¡“·ûÿÿÿÿ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(–‚Ç»
+S
+java:S4973ê"<Strings and Boxed types should be compared using "equals()".(¦êü
+P
+java:S1191)"5Use classes from the Java API instead of Sun classes.(Òÿïàúÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(âó¾ªıÿÿÿÿ
+D
+java:S4274°"(Replace this assert with a proper check.(Ÿ‰Œşÿÿÿÿ

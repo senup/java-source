@@ -1,0 +1,55 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŒÂÜ»
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ášÉŒøÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(ášÉŒøÿÿÿÿ
+a	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(Ğ§Éúÿÿÿÿ
+\	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(ˆ¦Ù”
+a	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(²è²Àşÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ášÉŒøÿÿÿÿ
+a	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(ášÉŒøÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(¦ƒòÚúÿÿÿÿ
+\	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ˆ¦Ù”
+a	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(ŠÁïÿÿÿÿÿ
+a	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+a	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(Öİ®Øıÿÿÿÿ
+a	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(È„»®ûÿÿÿÿ
+h
+java:S1192"QDefine a constant instead of duplicating this literal "err.cannot.write" 3 times.(ŒÂÜ»
+l
+java:S1192Ó"PDefine a constant instead of duplicating this literal "err.cannot.read" 4 times.(ášÉŒøÿÿÿÿ
+m	java:S127j"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬ ¾Õ
+p
+java:S1488İ"YImmediately return this expression instead of assigning it to the temporary variable "r".(µä©Š
+P
+java:S1191B"5Use classes from the Java API instead of Sun classes.(ÔÛ‡«øÿÿÿÿ
+j
+java:S2095®"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.( ‹îÔúÿÿÿÿ
+d
+java:S2095×"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õìÙ—
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¥ĞÏº
+@
+java:S1197a"*Move the array designators [] to the type.(¥ĞÏº
+Q	java:S899µ";Do something with the "boolean" value returned by "delete".(ù¿¤·
+e
+java:S4042µ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ù¿¤·
+S	java:S899·"=Do something with the "boolean" value returned by "renameTo".(«İÁ
+N	java:S106Ã"9Replace this use of System.out or System.err by a logger.(‚š‰1
+N	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ûÒ¼N
+S
+java:S4719ê"<Replace charset name argument with StandardCharsets.US_ASCII(îÊúö
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(îÊúö
+X
+java:S4719‰"<Replace charset name argument with StandardCharsets.US_ASCII(Şíëèşÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(“£‹·ÿÿÿÿÿ
+”
+java:S1130Ê"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(¢‡â‡
+A
+java:S1197ö"*Move the array designators [] to the type.(ÈšÉ÷
+F
+java:S1128J"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+o
+java:S1128M"TRemove this unnecessary import: same package classes are always implicitly imported.(úúñŒùÿÿÿÿ
+i
+java:S1128N"TRemove this unnecessary import: same package classes are always implicitly imported.(§å¸

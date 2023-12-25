@@ -1,0 +1,13 @@
+
+P
+java:S11410"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(åµé¡
+[
+java:S2583‘"DChange this condition so that it does not always evaluate to "false"(­ Æ
+m
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿÌ­±ÿÿÿÿÿ
+g
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¼¿
+D	java:S108”")Either remove or fill this block of code.(‹¦ˆ”ùÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(ï­£Ä

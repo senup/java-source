@@ -1,0 +1,40 @@
+
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(è—¡®ıÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÒèùÿÿÿÿ
+o
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÍŒ×
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+U
+java:S5993—"9Change the visibility of this constructor to "protected".(Éïÿšúÿÿÿÿ
+7
+java:S1116D"Remove this empty statement.(ôŸìúÿÿÿÿ
+H
+java:S1135¦"2Complete the task associated to this TODO comment.(¯“¦R
+H
+java:S1135µ"2Complete the task associated to this TODO comment.(¯“¦R
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
+Q
+java:S1117Î":Rename "result" which hides the field declared at line 61.(İäî–
+A
+java:S1197æ"*Move the array designators [] to the type.(Ë‡÷É
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(”˜Êüÿÿÿÿ
+Q
+java:S1117":Rename "result" which hides the field declared at line 61.(İäî–
+A
+java:S1197¯"*Move the array designators [] to the type.(Ë‡÷É

@@ -1,0 +1,376 @@
+
+[	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(šûÍ_
+\	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(¥†Ã
+\	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(€×
+\	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(òŒ¥
+g
+java:S1192ˆ"KDefine a constant instead of duplicating this literal "Deprecated" 3 times.(°¡áŸÿÿÿÿÿ
+a
+java:S1192Œ"JDefine a constant instead of duplicating this literal ".Overflow" 4 times.(¸Äû“
+f
+java:S1192†"JDefine a constant instead of duplicating this literal "Signature" 3 times.(ŒÒìöûÿÿÿÿ
+E
+java:S1121©	".Extract the assignment out of this expression.(¥îë
+o	java:S135«	"YReduce the total number of break and continue statements in this loop to use at most one.(¢››¡
+t	java:S135¼"YReduce the total number of break and continue statements in this loop to use at most one.(áÃ¦€øÿÿÿÿ
+t	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(ÔÂ”ûøÿÿÿÿ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(†ôÇÃúÿÿÿÿ
+K
+java:S1066â"/Merge this if statement with the enclosing one.(½—àŠÿÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°š°Õÿÿÿÿÿ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù›şıÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¶†æùÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù›şıÿÿÿÿ
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¶†æùÿÿÿÿ
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¥«í
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ê”ïúÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘§×Òøÿÿÿÿ
+l	java:S117‡	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•îŠúÿÿÿÿ
+l	java:S117Œ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûØ‚Ôúÿÿÿÿ
+e	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Û
+l	java:S117–	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ñ¿¼úÿÿÿÿ
+g	java:S117™	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¸Î»
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûØ‚Ôúÿÿÿÿ
+l	java:S117¬	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇîÔáùÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çµ—
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÄ 
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¦÷Í
+f	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒïS
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëà¼Áıÿÿÿÿ
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…°ñÛûÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”Ë
+g
+java:S1301¦"KReplace this "switch" statement by "if" statements to increase readability.(¢ë“™ıÿÿÿÿ
+w
+java:S1104ğ"`Make elementCountForDebug a static final constant or non-public and provide accessors if needed.(éãµÕ
+q
+java:S1104Ë"ZMake attrIndexLimit a static final constant or non-public and provide accessors if needed.(Ã”õ¢
+I
+java:S1199¡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+X
+java:S5445—"AUse "Files.createTempDirectory" to create this directory instead.(´‚ Ÿ
+[
+java:S2259¡"?A "NullPointerException" could be thrown; "b" is nullable here.(õïÄÚûÿÿÿÿ
+[
+java:S2583¡"DChange this condition so that it does not always evaluate to "false"(‰ó÷’
+P
+java:S3516è"9Refactor this method to not always return the same value.(ÍÏß•
+j	java:S116¬"TRename this field "all_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÓú
+s	java:S116¯"XRename this field "archive_magic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‡ëÌúÿÿÿÿ
+v	java:S116°"[Rename this field "archive_header_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Üçüÿÿÿÿ
+q	java:S116±"[Rename this field "archive_header_S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‹¼‡
+v	java:S116²"[Rename this field "archive_header_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æĞäİÿÿÿÿÿ
+m	java:S116³"WRename this field "band_headers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯
+n	java:S116¶"SRename this field "cp_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¢•úÿÿÿÿ
+o	java:S116·"YRename this field "cp_Utf8_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÇõ÷
+o	java:S116¸"YRename this field "cp_Utf8_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚÷‚É
+n	java:S116¹"XRename this field "cp_Utf8_chars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„şÕé
+x	java:S116º"]Rename this field "cp_Utf8_big_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«€¶şÿÿÿÿ
+q	java:S116»"\Rename this field "cp_Utf8_big_chars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÔî>
+g	java:S116¼"QRename this field "cp_Int" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§­™ä
+h	java:S116½"SRename this field "cp_Float" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷àò!
+p	java:S116¾"URename this field "cp_Long_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸æç¥ÿÿÿÿÿ
+k	java:S116¿"URename this field "cp_Long_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³„Çÿ
+r	java:S116À"WRename this field "cp_Double_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ†şÇıÿÿÿÿ
+r	java:S116Á"WRename this field "cp_Double_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğŸà‹üÿÿÿÿ
+j	java:S116Â"TRename this field "cp_String" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÔ°
+i	java:S116Ã"SRename this field "cp_Class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶”
+w	java:S116Ä"\Rename this field "cp_Signature_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«áÉúûÿÿÿÿ
+z	java:S116Å"_Rename this field "cp_Signature_classes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»–â–ÿÿÿÿÿ
+n	java:S116Æ"XRename this field "cp_Descr_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âû¬˜
+n	java:S116Ç"XRename this field "cp_Descr_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Âü¥
+o	java:S116È"YRename this field "cp_Field_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ĞÓØ
+s	java:S116É"XRename this field "cp_Field_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦õæƒıÿÿÿÿ
+p	java:S116Ê"ZRename this field "cp_Method_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ığ±Ç
+t	java:S116Ë"YRename this field "cp_Method_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÑĞèşÿÿÿÿ
+q	java:S116Ì"[Rename this field "cp_Imethod_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©×˜
+u	java:S116Í"ZRename this field "cp_Imethod_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÃä•øÿÿÿÿ
+}	java:S116Î"bRename this field "cp_MethodHandle_refkind" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıú¬ıÿÿÿÿ
+|	java:S116Ï"aRename this field "cp_MethodHandle_member" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¶†ëıÿÿÿÿ
+n	java:S116Ğ"XRename this field "cp_MethodType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†³Ë¾
+|	java:S116Ñ"aRename this field "cp_BootstrapMethod_ref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ç±üûÿÿÿÿ
+}	java:S116Ò"gRename this field "cp_BootstrapMethod_arg_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ„¤µ
+w	java:S116Ó"aRename this field "cp_BootstrapMethod_arg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( š¢„
+v	java:S116Ô"`Rename this field "cp_InvokeDynamic_spec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¾¾Ë
+v	java:S116Õ"`Rename this field "cp_InvokeDynamic_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘«Ôİ
+{	java:S116Ø"`Rename this field "attr_definition_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÅÕŒüÿÿÿÿ
+}	java:S116Ù"bRename this field "attr_definition_headers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÏáÚøÿÿÿÿ
+u	java:S116Ú"_Rename this field "attr_definition_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‹Ú
+|	java:S116Û"aRename this field "attr_definition_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÏÂ‘ıÿÿÿÿ
+n	java:S116Ş"SRename this field "ic_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È€­¬ùÿÿÿÿ
+m	java:S116ß"XRename this field "ic_this_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¡ù]
+n	java:S116à"SRename this field "ic_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Úü´ûÿÿÿÿ
+t	java:S116â"YRename this field "ic_outer_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àâ²Ãÿÿÿÿÿ
+m	java:S116ã"RRename this field "ic_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÌüõıÿÿÿÿ
+q	java:S116æ"VRename this field "class_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äˆÁÖÿÿÿÿÿ
+k	java:S116ç"URename this field "class_this" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖèÈ÷
+l	java:S116è"VRename this field "class_super" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êØìÍ
+{	java:S116é"`Rename this field "class_interface_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ ÷Şûÿÿÿÿ
+p	java:S116ê"ZRename this field "class_interface" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™üÌ
+r	java:S116í"\Rename this field "class_field_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ùˆì
+r	java:S116î"]Rename this field "class_method_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ì"
+q	java:S116ğ"VRename this field "field_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ùÉÒúÿÿÿÿ
+q	java:S116ñ"[Rename this field "field_attr_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÅëş
+t	java:S116ò"YRename this field "field_flags_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‚ğ“ıÿÿÿÿ
+t	java:S116ó"YRename this field "field_flags_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÏÓùÿÿÿÿ
+q	java:S116ô"[Rename this field "field_attr_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô…åŒ
+x	java:S116õ"]Rename this field "field_attr_indexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¹˜«ıÿÿÿÿ
+v	java:S116ö"[Rename this field "field_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ºå¸ùÿÿÿÿ
+|	java:S116ù"aRename this field "field_ConstantValue_KQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôñÉòşÿÿÿÿ
+x	java:S116ú"]Rename this field "field_Signature_RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¶Ìâùÿÿÿÿ
+u	java:S116û"_Rename this field "field_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œè÷÷
+z	java:S116ü"dRename this field "field_type_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÊˆ
+m	java:S116ş"WRename this field "method_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Üÿ
+r	java:S116ÿ"\Rename this field "method_attr_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŠÇ«
+p	java:S116€"ZRename this field "method_flags_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÄÂÙ
+p	java:S116"ZRename this field "method_flags_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¿Åã
+r	java:S116‚"\Rename this field "method_attr_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ºÅÔ
+y	java:S116ƒ"^Rename this field "method_attr_indexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¾¦äüÿÿÿÿ
+r	java:S116„"\Rename this field "method_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÍ™«
+t	java:S116†"^Rename this field "method_Exceptions_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦óû²
+u	java:S116‡"_Rename this field "method_Exceptions_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ï‘¹
+y	java:S116ˆ"^Rename this field "method_Signature_RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ»šøÿÿÿÿ
+{	java:S116‰"`Rename this field "method_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äíä‚úÿÿÿÿ
+{	java:S116‹"eRename this field "method_MethodParameters_NB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™™«Œ
+†	java:S116Œ"kRename this field "method_MethodParameters_name_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ì‘°ùÿÿÿÿ
+…	java:S116"jRename this field "method_MethodParameters_flag_FH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÛĞıÿÿÿÿ
+€	java:S116"eRename this field "method_type_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôåà…üÿÿÿÿ
+v	java:S116"[Rename this field "class_attr_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÄÑäûÿÿÿÿ
+o	java:S116‘"YRename this field "class_flags_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šç‰Ú
+o	java:S116’"YRename this field "class_flags_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í»¾¡
+q	java:S116“"[Rename this field "class_attr_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸î
+s	java:S116”"]Rename this field "class_attr_indexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ì¿®
+q	java:S116•"[Rename this field "class_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åè•á
+u	java:S116—"_Rename this field "class_SourceFile_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úËÈ¢
+y	java:S116˜"cRename this field "class_EnclosingMethod_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È€Ÿ¿
+	java:S116™"dRename this field "class_EnclosingMethod_RDN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‚âÚùÿÿÿÿ
+x	java:S116š"]Rename this field "class_Signature_RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¤Èøÿÿÿÿ
+u	java:S116›"_Rename this field "class_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Û¤¯
+u	java:S116œ"_Rename this field "class_InnerClasses_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€å¤Ö
+u	java:S116"`Rename this field "class_InnerClasses_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂĞ¤_
+u	java:S116"_Rename this field "class_InnerClasses_F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§—Ğü
+‚	java:S116Ÿ"gRename this field "class_InnerClasses_outer_RCN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ñ¤µûÿÿÿÿ
+	java:S116 "fRename this field "class_InnerClasses_name_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‡ âıÿÿÿÿ
+…	java:S116¡"jRename this field "class_ClassFile_version_minor_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÇá±şÿÿÿÿ
+…	java:S116¢"jRename this field "class_ClassFile_version_major_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŸ©¨üÿÿÿÿ
+	java:S116£"dRename this field "class_type_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¹Ñáüÿÿÿÿ
+p	java:S116¥"URename this field "code_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚íùüÿÿÿÿ
+r	java:S116¦"WRename this field "code_headers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕşŠ…øÿÿÿÿ
+o	java:S116§"YRename this field "code_max_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÊĞ¡
+x	java:S116¨"]Rename this field "code_max_na_locals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ò„ÿúÿÿÿÿ
+x	java:S116©"]Rename this field "code_handler_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£òƒÒşÿÿÿÿ
+z	java:S116ª"_Rename this field "code_handler_start_P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚ÖÊúÿÿÿÿ
+y	java:S116«"^Rename this field "code_handler_end_PO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÙâ•şÿÿÿÿ
+{	java:S116¬"`Rename this field "code_handler_catch_PO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹†®”ÿÿÿÿÿ
+v	java:S116­"aRename this field "code_handler_class_RCN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïà¨,
+p	java:S116¯"ZRename this field "code_attr_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û€¿í
+s	java:S116°"XRename this field "code_flags_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“­ê‚ûÿÿÿÿ
+n	java:S116±"XRename this field "code_flags_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÅÒŒ
+u	java:S116²"ZRename this field "code_attr_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ü¸ìúÿÿÿÿ
+w	java:S116³"\Rename this field "code_attr_indexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†Àáıÿÿÿÿ
+p	java:S116´"ZRename this field "code_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¹„º
+t	java:S116¶"YRename this field "stackmap_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚œãàøÿÿÿÿ
+u	java:S116·"_Rename this field "code_StackMapTable_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†ó‰
+{	java:S116¸"eRename this field "code_StackMapTable_frame_T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î™ôÕ
+{	java:S116¹"eRename this field "code_StackMapTable_local_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÙƒŞ
+€	java:S116º"eRename this field "code_StackMapTable_stack_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô©Û‚ùÿÿÿÿ
+z	java:S116»"dRename this field "code_StackMapTable_offset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ş‰
+z	java:S116¼"_Rename this field "code_StackMapTable_T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™½õ¼ùÿÿÿÿ
+{	java:S116½"`Rename this field "code_StackMapTable_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë§Úèşÿÿÿÿ
+u	java:S116¾"_Rename this field "code_StackMapTable_P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åêÁ”
+|	java:S116Á"aRename this field "code_LineNumberTable_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÓÿƒüÿÿÿÿ
+€	java:S116Â"eRename this field "code_LineNumberTable_bci_P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ó“úÿÿÿÿ
+z	java:S116Ã"dRename this field "code_LineNumberTable_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞªÌ½
+y	java:S116Æ"dRename this field "code_LocalVariableTable_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÊÈ
+~	java:S116Ç"hRename this field "code_LocalVariableTable_bci_P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı’åõ
+	java:S116È"iRename this field "code_LocalVariableTable_span_O" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âáÙ¶
+	java:S116É"jRename this field "code_LocalVariableTable_name_RU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ãö{
+…	java:S116Ê"jRename this field "code_LocalVariableTable_type_RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›âüãúÿÿÿÿ
+‚	java:S116Ë"gRename this field "code_LocalVariableTable_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ–”…ùÿÿÿÿ
+ƒ	java:S116Ì"hRename this field "code_LocalVariableTypeTable_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‘Øóÿÿÿÿÿ
+‚	java:S116Í"lRename this field "code_LocalVariableTypeTable_bci_P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚàÖ
+‚	java:S116Î"mRename this field "code_LocalVariableTypeTable_span_O" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹®Ö&
+‰	java:S116Ï"nRename this field "code_LocalVariableTypeTable_name_RU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µæÈ»ûÿÿÿÿ
+‰	java:S116Ğ"nRename this field "code_LocalVariableTypeTable_type_RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öëè”ıÿÿÿÿ
+†	java:S116Ñ"kRename this field "code_LocalVariableTypeTable_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÏäšşÿÿÿÿ
+~	java:S116Ò"cRename this field "code_type_metadata_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­•­îúÿÿÿÿ
+h	java:S116Õ"SRename this field "bc_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øå¾=
+n	java:S116Ö"SRename this field "bc_codes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ…Í·ÿÿÿÿÿ
+n	java:S116Ù"XRename this field "bc_case_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ú
+n	java:S116Ú"XRename this field "bc_case_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÊ‡
+m	java:S116Û"RRename this field "bc_byte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÚ¾àıÿÿÿÿ
+n	java:S116Ü"SRename this field "bc_short" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¥øÿÿÿÿ
+n	java:S116İ"SRename this field "bc_local" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·çïõúÿÿÿÿ
+i	java:S116Ş"SRename this field "bc_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÂç«
+o	java:S116ä"TRename this field "bc_intref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ±£éøÿÿÿÿ
+l	java:S116å"VRename this field "bc_floatref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ˆ¹„
+p	java:S116æ"URename this field "bc_longref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë·”ıÿÿÿÿ
+m	java:S116ç"WRename this field "bc_doubleref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‡İº
+m	java:S116è"WRename this field "bc_stringref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Áä–
+t	java:S116é"^Rename this field "bc_loadablevalueref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â˜ı
+l	java:S116ì"VRename this field "bc_classref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×µâš
+l	java:S116í"VRename this field "bc_fieldref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­
+r	java:S116î"WRename this field "bc_methodref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­­öÔøÿÿÿÿ
+s	java:S116ï"XRename this field "bc_imethodref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†§ÅÔúÿÿÿÿ
+p	java:S116ğ"URename this field "bc_indyref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÈĞªùÿÿÿÿ
+r	java:S116ó"WRename this field "bc_thisfield" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½ƒ£şÿÿÿÿ
+n	java:S116ô"XRename this field "bc_superfield" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‰Œæ
+s	java:S116õ"XRename this field "bc_thismethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ĞÍùÿÿÿÿÿ
+t	java:S116ö"YRename this field "bc_supermethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îº®‡úÿÿÿÿ
+p	java:S116ø"URename this field "bc_initref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¤øøÿÿÿÿ
+o	java:S116ú"TRename this field "bc_escref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Óıùÿÿÿÿ
+s	java:S116û"XRename this field "bc_escrefsize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÿîÿÿÿÿÿ
+p	java:S116ü"URename this field "bc_escsize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§âûûÿÿÿÿ
+k	java:S116ı"URename this field "bc_escbyte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‰ÍÜ
+k	java:S116€"URename this field "file_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â…ïæ
+j	java:S116"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§…ü
+m	java:S116‚"WRename this field "file_size_hi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÙ†
+l	java:S116ƒ"WRename this field "file_size_lo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öşÕ}
+l	java:S116„"WRename this field "file_modtime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÅÎq
+r	java:S116…"WRename this field "file_options" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©•¬ûÿÿÿÿ
+j	java:S116†"TRename this field "file_bits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ËÜŞ
+}	java:S116—"bRename this field "shortCodeHeader_h_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒĞªüÿÿÿÿ
+=
+java:S1170—"!Make this final field static too.(ƒĞªüÿÿÿÿ
+j
+java:S1845¹"SRename method "verbose" to prevent any misunderstanding/clash with field "verbose".(ƒºàµ
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+{
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+t
+java:S1171D"YMove the contents of this initializer to a standard constructor or to field initializers.(¤·±‘øÿÿÿÿ
+`
+java:S1124L"EReorder the modifiers to comply with the Java Language Specification.(ëãıÿÿÿÿ
+[
+java:S1124d"EReorder the modifiers to comply with the Java Language Specification.(ô¸ñ»
+[
+java:S1124f"EReorder the modifiers to comply with the Java Language Specification.(Ñ´Æ
+Z
+java:S1124j"EReorder the modifiers to comply with the Java Language Specification.(”Í0
+`
+java:S1124k"EReorder the modifiers to comply with the Java Language Specification.(Ä²ıœüÿÿÿÿ
+Z
+java:S1124m"EReorder the modifiers to comply with the Java Language Specification.( ¶®;
+`
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(Ì ÏÆøÿÿÿÿ
+`
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(‹¯ÜÒûÿÿÿÿ
+`
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(•ºúùÿÿÿÿ
+Z
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(Ä"
+`
+java:S1124x"EReorder the modifiers to comply with the Java Language Specification.(¶ƒ©Éüÿÿÿÿ
+a
+java:S1124ı"EReorder the modifiers to comply with the Java Language Specification.(ØĞì»ùÿÿÿÿ
+a
+java:S1124í"EReorder the modifiers to comply with the Java Language Specification.(ı÷“¾ÿÿÿÿÿ
+\
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(ÅÑú®
+D
+java:S4274"(Replace this assert with a proper check.(ï¯Ø”ûÿÿÿÿ
+\
+java:S1124±"EReorder the modifiers to comply with the Java Language Specification.(€ğ¥“
+?
+java:S4274Ğ"(Replace this assert with a proper check.(µ³öÃ
+\
+java:S1124×"EReorder the modifiers to comply with the Java Language Specification.(š³ÅÒ
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+]
+java:S1126Ë"AReplace this if-then-else statement by a single return statement.(œÀäÉıÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ëˆáîøÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(îı¤š
+?
+java:S4274…"(Replace this assert with a proper check.(µ³öÃ
+A
+java:S1197“"*Move the array designators [] to the type.(§ìî·
+D
+java:S4274®"(Replace this assert with a proper check.(—äÀ¿ûÿÿÿÿ
+C
+java:S1172ö",Remove this unused method parameter "undef".(µì«¹
+V
+java:S1161ş":Add the "@Override" annotation above this method signature(Í–úéıÿÿÿÿ
+F
+java:S1197ä
+"*Move the array designators [] to the type.(èöò¡şÿÿÿÿ
+R	java:S125„"<This block of commented-out lines of code should be removed.(Œ¦Ö¹
+R	java:S125…"<This block of commented-out lines of code should be removed.(åŞúÄ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¶êõÈşÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(‡ÇÑ®
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(·Î·Ê
+R	java:S125"<This block of commented-out lines of code should be removed.(ã æÍ
+R	java:S125"<This block of commented-out lines of code should be removed.(­¥™ó
+a
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(â—Ïıÿÿÿÿ
+u
+java:S1171·"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171¾"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171æ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.( Íâ€şÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.( Íâ€şÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.( Íâ€şÿÿÿÿ
+ˆ
+java:S1130”"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¯Ñ¡øÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÍÏß•
+f
+java:S1871–"JThis case's code block is the same as the block for the case on line 2063.(Èù–ôùÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¡ü…Çûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(’ÈÀªÿÿÿÿÿ
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(Û‚
+u
+java:S1171á"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(İ£Şæşÿÿÿÿ
+O
+java:S1854ü"8Remove this useless assignment to local variable "base".(á³Ö
+@
+java:S1481ü")Remove this unused "base" local variable.(á³Ö
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(‹š¡©ÿÿÿÿÿ
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ñöš
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÄ¢‡ùÿÿÿÿ
+d	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾—“
+d	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÎøÙ
+d	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¡²¦
+8	java:S131Ö""Add a default case to this switch.(ù·™Ú
+=	java:S131â""Add a default case to this switch.(øö¾˜úÿÿÿÿ
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Õ‘½Ç
+V	java:S899–";Do something with the "boolean" value returned by "delete".(ãÌ¿ùÿÿÿÿ
+j
+java:S4042–"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ãÌ¿ùÿÿÿÿ
+=	java:S131¦""Add a default case to this switch.(¢ë“™ıÿÿÿÿ
+8	java:S131À""Add a default case to this switch.(Şóì
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’·¤€ùÿÿÿÿ
+a
+java:S1124î"EReorder the modifiers to comply with the Java Language Specification.(’·¤€ùÿÿÿÿ
+a
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(åÇê¤ûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¯¨ì×
+‚
+java:S1130¬"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.( †ÑE
+?
+java:S1172¬")Remove this unused method parameter "in".( †ÑE
+R	java:S125º"<This block of commented-out lines of code should be removed.(µîÈ¬
+ˆ
+java:S1130Ù"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(–†ûøÿÿÿÿ
+F
+java:S1172Ù"*Remove this unused method parameter "out".(–†ûøÿÿÿÿ
+R
+java:S2696å"6Make the enclosing method "static" or remove this set.(ÄäÂÓøÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(í€Ê
+>
+java:S3398Å""Move this method into "CPRefBand".(Ò‘ÕÀûÿÿÿÿ
+9
+java:S3398Ù"Move this method into "Band".(–†ûøÿÿÿÿ

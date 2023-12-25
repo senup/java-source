@@ -1,0 +1,10 @@
+
+T
+java:S1659C">Declare "j" and all following declarations on a separate line.(í¤èÖ
+@
+java:S1481C"*Remove this unused "count" local variable.(í¤èÖ
+8
+java:S1110¯"!Remove these useless parentheses.(±å™£
+=
+java:S1110´"!Remove these useless parentheses.(‹‚½þùÿÿÿÿ
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÆî‚

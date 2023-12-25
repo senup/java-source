@@ -1,0 +1,87 @@
+
+o
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÈÛÑ
+n
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Ùı%
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ê‡ûÿÿÿÿ
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÙ¿ëøÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢‘”
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(šöä
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(æıÃ’ûÿÿÿÿ
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œíº›şÿÿÿÿ
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÙĞ¸øÿÿÿÿ
+b
+java:S1192•"FDefine a constant instead of duplicating this literal ", id=" 3 times.(ºÙ´Ùûÿÿÿÿ
+?
+java:S1604¢"(Make this anonymous inner class a lambda(š©½
+g
+java:S1301½"KReplace this "switch" statement by "if" statements to increase readability.(¶†úÄùÿÿÿÿ
+d
+java:S3014;"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(óÆóšüÿÿÿÿ
+e
+java:S3014ƒ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(±÷±¾úÿÿÿÿ
+p
+java:S3008A"ZRename this field "TRACE_RAW_SENDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àÿñ—
+x
+java:S3008B"]Rename this field "TRACE_RAW_RECEIVES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôå£ ûÿÿÿÿ
+v
+java:S1149é"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Å˜¿ù
+v
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+`
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(¬ù²Ûûÿÿÿÿ
+u
+java:S2142„"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125ş"<This block of commented-out lines of code should be removed.(¬çœŸ
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(ÜÑã
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ğÜşŠ
+N
+java:S1905ƒ"2Remove this unnecessary cast to "StringReference".(¨åÏŠùÿÿÿÿ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô±„ˆ
+]
+java:S1126®"AReplace this if-then-else statement by a single return statement.(ƒïşØûÿÿÿÿ
+X
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(ò¸ñ‰
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(ŠæÜì
+5
+java:S2129"Remove this "Long" constructor(ÕÖ§Ó
+5
+java:S2129¬"Remove this "Long" constructor(ÿ«…Ó
+5
+java:S2129‚"Remove this "Long" constructor(’íØÓ
+d	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î€°
+P
+java:S2168¤"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168¯"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168º"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168Å"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168Ğ"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168Û"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168æ"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168ñ"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168ü"9Remove this dangerous instance of double-checked locking.(Û­¨
+R	java:S125Ï	"<This block of commented-out lines of code should be removed.(’³£ˆ
+5
+java:S2129â	"Remove this "Long" constructor(õîÜ¨
+5
+java:S2129¤
+"Remove this "Long" constructor(ùòš£
+a
+java:S1124‡"EReorder the modifiers to comply with the Java Language Specification.(§°ïüÿÿÿÿ

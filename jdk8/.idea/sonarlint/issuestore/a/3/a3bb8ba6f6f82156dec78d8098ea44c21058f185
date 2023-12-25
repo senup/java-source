@@ -1,0 +1,217 @@
+
+F
+java:S3740ò"/Provide the parametrized type for this generic.(àñƒ÷
+K
+java:S3740’"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ
+F
+java:S3740¹"/Provide the parametrized type for this generic.(ı¦„ı
+K
+java:S3740Æ"/Provide the parametrized type for this generic.(Ÿ…Úúÿÿÿÿ
+K
+java:S3740’"/Provide the parametrized type for this generic.(®µÍşÿÿÿÿ
+K
+java:S3740Å"/Provide the parametrized type for this generic.(ÙÆüÿÿÿÿÿ
+F
+java:S3740È"/Provide the parametrized type for this generic.(ÂÁ½“
+K
+java:S3740¨"/Provide the parametrized type for this generic.(”›¢èÿÿÿÿÿ
+F
+java:S3740å"/Provide the parametrized type for this generic.(¬ì€Ø
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğïæ
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¢Âøùÿÿÿÿ
+K
+java:S1066é"/Merge this if statement with the enclosing one.(¤Û»˜úÿÿÿÿ
+K
+java:S1066ò"/Merge this if statement with the enclosing one.(¤Û»˜úÿÿÿÿ
+K
+java:S1066û"/Merge this if statement with the enclosing one.(¤Û»˜úÿÿÿÿ
+K
+java:S1066„"/Merge this if statement with the enclosing one.(¤Û»˜úÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(¡Ú»™
+g
+java:S1301Æ"KReplace this "switch" statement by "if" statements to increase readability.(ÿ¶°Øüÿÿÿÿ
+g
+java:S1301Í
+"KReplace this "switch" statement by "if" statements to increase readability.(ÿ¶°Øüÿÿÿÿ
+D
+java:S5411Ş"(Use a primitive boolean expression here.(»êç§ÿÿÿÿÿ
+D
+java:S5411™"(Use a primitive boolean expression here.(ë¥Òùÿÿÿÿ
+S
+java:S4973æ"<Strings and Boxed types should be compared using "equals()".(‰¹ö
+S
+java:S4973ì"<Strings and Boxed types should be compared using "equals()".(Ü€İ¿
+S
+java:S4973õ"<Strings and Boxed types should be compared using "equals()".(¦˜û
+S
+java:S4973ü"<Strings and Boxed types should be compared using "equals()".(‰¹ö
+S
+java:S4973ş"<Strings and Boxed types should be compared using "equals()".(Ü€İ¿
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+l
+java:S2259ó"UA "NullPointerException" could be thrown; "getDoubleClickListener()" can return null.(·¼¹ô
+a
+java:S2259ä"JA "NullPointerException" could be thrown; "detailsTable" is nullable here.(¨Ô¹£
+l
+java:S2259Ô"UA "NullPointerException" could be thrown; "getDoubleClickListener()" can return null.(Îô°Ä
+^
+java:S2259Õ"BA "NullPointerException" could be thrown; "list" is nullable here.(ĞñÇ–ÿÿÿÿÿ
+l
+java:S2259…"UA "NullPointerException" could be thrown; "getDoubleClickListener()" can return null.(ãÏªá
+l
+java:S2259ê"UA "NullPointerException" could be thrown; "getDoubleClickListener()" can return null.(¿×Â
+^
+java:S2259Ğ"BA "NullPointerException" could be thrown; "list" is nullable here.(´Ç¹Õúÿÿÿÿ
+l
+java:S2259ü"UA "NullPointerException" could be thrown; "getDoubleClickListener()" can return null.(æŸİœ
+x
+java:S4144ğ"aUpdate this method so that its implementation is not identical to "doFilterChanged" on line 1642.(‚ˆá»
+>
+java:S1948J")Make "actions" transient or serializable.(é´Àq
+O
+java:S1948k"4Make "detailsKeyListener" transient or serializable.(œİÚüÿÿÿÿ
+K
+java:S1948Ù"5Make "editorFocusListener" transient or serializable.(„·„2
+G
+java:S1948‹"0Make "listViewBorder" transient or serializable.(ëäû¼
+P
+java:S1948‘"4Make "listSelectionModel" transient or serializable.(î½‚ñúÿÿÿÿ
+S
+java:S1948œ"7Make "fileChooserUIAccessor" transient or serializable.(‹ÿı×ûÿÿÿÿ
+G
+java:S1948"+Make "rowSorter" transient or serializable.(ÍÓ¸åøÿÿÿÿ
+H
+java:S1948¨"1Make "newFolderAction" transient or serializable.(´‚Áë
+@
+java:S1948ˆ")Make "handler" transient or serializable.(Æ¶Ø…
+`
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(Öş©¼ûÿÿÿÿ
+`
+java:S1124B"EReorder the modifiers to comply with the Java Language Specification.(««êøÿÿÿÿ
+Z
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(–Ü—f
+`
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(·æ¯×ùÿÿÿÿ
+`
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(ŒÛ¥üÿÿÿÿ
+[
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(Æ¾ì
+Z
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(¼¢Ñ$
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(éÔÎÄ
+t
+java:S1171r"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(÷—
+U
+java:S1117Æ">Rename "rowSorter" which hides the field declared at line 286.(Õ¸ã¯
+Q
+java:S1161Ú":Add the "@Override" annotation above this method signature(›™¥…
+n
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(äç¸×úÿÿÿÿ
+=	java:S131Æ""Add a default case to this switch.(ÿ¶°Øüÿÿÿÿ
+x
+java:S3252ö"\Use static access with "java.awt.KeyboardFocusManager" for "getCurrentKeyboardFocusManager".(¨œ³¶ÿÿÿÿÿ
+I
+java:S1135µ"2Complete the task associated to this TODO comment.(ÒÙÙÕ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(…á‘£
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ï¬Çõùÿÿÿÿ
+i
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤ßÃ­
+P
+java:S1117Ä"9Rename "list" which hides the field declared at line 274.(ƒë¡¢
+P
+java:S1161Å":Add the "@Override" annotation above this method signature(Šş "
+@
+java:S1948³")Make "columns" transient or serializable.(°ı½˜
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(º……Ìüÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(º……Ìüÿÿÿÿ
+X
+java:S1117ˆ"<Rename "chooser" which hides the field declared at line 688.(ÛÃÆùÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.( ÆÖ
+Q
+java:S1161¼":Add the "@Override" annotation above this method signature(ÚÎ€÷
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(éş¼È
+V
+java:S1161¤":Add the "@Override" annotation above this method signature(Ù ¿‹øÿÿÿÿ
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(¸Å¸
+V
+java:S1161":Add the "@Override" annotation above this method signature(û™èûÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(‹ş–Õ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(íÔ­¢
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(íÔ­¢
+N
+java:S1135¾"2Complete the task associated to this TODO comment.( †­ÿşÿÿÿÿ
+X
+java:S1117ì"ARename "detailsTable" which hides the field declared at line 275.(ƒ—¬ó
+Q
+java:S1161î":Add the "@Override" annotation above this method signature(ŠİÛ
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(Ø¥Ô…üÿÿÿÿ
+V
+java:S1161µ	":Add the "@Override" annotation above this method signature(ÃÅñÛüÿÿÿÿ
+V
+java:S1161Á	":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+=	java:S131Í
+""Add a default case to this switch.(ÿ¶°Øüÿÿÿÿ
+X
+java:S1874Ö
+"ARemove this use of "setNextFocusableComponent"; it is deprecated.(Öåıª
+i
+java:S3776ø
+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(´šéè
+R	java:S125™"<This block of commented-out lines of code should be removed.( ÆÖ
+R
+java:S1948­"6Make "basicNewFolderAction" transient or serializable.(ÓèÜÁüÿÿÿÿ
+u
+java:S1171°"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+P
+java:S1161Ì":Add the "@Override" annotation above this method signature(ñºà<
+n
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“òØ†øÿÿÿÿ
+U
+java:S1874ë"9Remove this use of "getSelectedValues"; it is deprecated.(£½´˜úÿÿÿÿ
+?
+java:S1172Õ"(Remove this unused method parameter "e".(ñœ¤€
+?
+java:S1172ê"(Remove this unused method parameter "e".(„ñŸÅ
+?
+java:S1172ğ"(Remove this unused method parameter "e".(‚ˆá»
+D
+java:S1172ö"(Remove this unused method parameter "e".(Ú˜èáşÿÿÿÿ
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÌÕ„ë
+E
+java:S1172²")Remove this unused method parameter "fc".(Êğùôÿÿÿÿÿ
+i
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ş—Ò¿
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(ş—Ò¿
+S
+java:S1117ë"<Rename "viewMenu" which hides the field declared at line 90.(Ğ»˜’
+a
+java:S1117ö"ERename "newFolderAction" which hides the field declared at line 1448.(ïÑÙûÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.( ¶Ãßùÿÿÿÿ
+<
+java:S3398­
+" Move this method into "Handler".(¢­ÈŒşÿÿÿÿ
+7
+java:S3398©
+" Move this method into "Handler".(ÓÇä

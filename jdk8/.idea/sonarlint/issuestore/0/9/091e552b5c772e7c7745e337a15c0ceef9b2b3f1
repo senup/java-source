@@ -1,0 +1,16 @@
+
+s	java:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(µî²îþÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(žƒÁÿþÿÿÿÿ
+T
+java:S59932"9Change the visibility of this constructor to "protected".(íŒáîþÿÿÿÿ
+O
+java:S59937"9Change the visibility of this constructor to "protected".(¨¡Êˆ
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(º‚¶ùýÿÿÿÿ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+\
+java:S1128!"FRemove this unused import 'java.nio.charset.CharacterCodingException'.(ì­–æ
+`
+java:S1128""ERemove this unused import 'java.nio.charset.MalformedInputException'.(ÖßÉ’øÿÿÿÿ

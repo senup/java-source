@@ -1,0 +1,80 @@
+
+o
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÊ®(
+h
+java:S11044"SMake version a static final constant or non-public and provide accessors if needed.(“™•*
+k
+java:S1104="PMake data a static final constant or non-public and provide accessors if needed.(–òÍŞûÿÿÿÿ
+q
+java:S1104B"VMake dataLength a static final constant or non-public and provide accessors if needed.(æé»ÿûÿÿÿÿ
+n
+java:S1104I"SMake address a static final constant or non-public and provide accessors if needed.(ÏÜíııÿÿÿÿ
+f
+java:S1104P"PMake port a static final constant or non-public and provide accessors if needed.(ô‚‚ğ
+y
+java:S1104T"^Make securityParameters a static final constant or non-public and provide accessors if needed.(ª¾üÿÿÿÿ
+v
+java:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ı™š
+v
+java:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+{
+java:S1149À"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÑÊ®(
+C	java:S108i")Either remove or fill this block of code.(È¾¤¯øÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ï›–¤ÿÿÿÿÿ
+k
+java:S3252ˆ"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "IpAddressTag".(šŒı‘ÿÿÿÿÿ
+i
+java:S3252‹"MUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "CounterTag".(û•Èşÿÿÿÿ
+b
+java:S3252"KUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "GaugeTag".(Šìä
+f
+java:S3252‘"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "TimeticksTag".(šœ”ö
+c
+java:S3252”"LUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "OpaqueTag".(¼¼½¤
+k
+java:S3252£"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "Counter64Tag".(¬¬÷ˆüÿÿÿÿ
+f
+java:S3252§"JUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "NullTag".(“¼ÜÛùÿÿÿÿ
+a
+java:S3252«"JUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "NullTag".(Ò”»
+l
+java:S3252¬"UUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errNoSuchObjectTag".(Å¢‘
+s
+java:S3252­"WUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errNoSuchInstanceTag".(ÊçÎâüÿÿÿÿ
+q
+java:S3252®"UUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errEndOfMibViewTag".(îÁŒ…ÿÿÿÿÿ
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¼‚Ğ¬ùÿÿÿÿ
+R	java:S125ä"<This block of commented-out lines of code should be removed.(Ù±
+R	java:S125ì"<This block of commented-out lines of code should be removed.(Ùşä’
+W	java:S125ô"<This block of commented-out lines of code should be removed.(Ã–ûÿÿÿÿ
+Q	java:S125ı"<This block of commented-out lines of code should be removed.(—Ä¯z
+f
+java:S3252„"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "IpAddressTag".(®šü
+R	java:S125‰"<This block of commented-out lines of code should be removed.(Ñ‚˜®
+i
+java:S3252Œ"MUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "CounterTag".(‘õãÉÿÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(şêÆ
+b
+java:S3252”"KUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "GaugeTag".(˜Ùÿ¤
+W	java:S125™"<This block of commented-out lines of code should be removed.(ÃËºÕøÿÿÿÿ
+k
+java:S3252œ"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "TimeticksTag".(¯ôšŠùÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ÉÆ¿ú
+h
+java:S3252¤"LUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "OpaqueTag".(úëàÿÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(³ÈŒ¡şÿÿÿÿ
+k
+java:S3252°"OUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "Counter64Tag".(Õ™Ä¸şÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(ÿø’óüÿÿÿÿ
+l
+java:S3252¼"UUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errNoSuchObjectTag".(ü€§ì
+n
+java:S3252Ä"WUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errNoSuchInstanceTag".(è·’
+l
+java:S3252Ì"UUse static access with "com.sun.jmx.snmp.SnmpDataTypeEnums" for "errEndOfMibViewTag".(ÈÌÁ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ñ°ÒÉşÿÿÿÿ
+j
+java:S1128#"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ

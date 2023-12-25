@@ -1,0 +1,24 @@
+
+f	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÅÁ©
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾åÄÖ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Î²¬üÿÿÿÿ
+P
+java:S23877"5"out" is the name of a field in "FilterOutputStream".(Ñ…ˆ”þÿÿÿÿ
+@
+java:S1197-"*Move the array designators [] to the type.(íÊŽÄ
+W
+java:S4719I"<Replace charset name argument with StandardCharsets.US_ASCII(Ú­˜•úÿÿÿÿ
+t
+java:S3012L"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(êùøåÿÿÿÿÿ
+s
+java:S2177·"WRename this method; there is a "private" method in the parent class with the same name.(ÓÒ®ìþÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(Ú¨Ì†ýÿÿÿÿ
+A
+java:S1197È"*Move the array designators [] to the type.( Ã˜œ
+u
+java:S3012à"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ò ÇÅüÿÿÿÿ
+@
+java:S1197‡"*Move the array designators [] to the type.(£Ë|
+X
+java:S1126š"BReplace this if-then-else statement by a single method invocation.(Û‚Ý+

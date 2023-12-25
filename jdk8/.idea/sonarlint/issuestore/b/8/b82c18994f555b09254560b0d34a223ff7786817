@@ -1,0 +1,37 @@
+
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠŞŠşÿÿÿÿ
+p	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õë‡Ê
+i	java:S116>"TRename this field "max_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹á¹À
+o	java:S116?"URename this field "max_locals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŞ‡¯ÿÿÿÿÿ
+r	java:S116A"XRename this field "handler_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Š×»şÿÿÿÿ
+r	java:S116B"XRename this field "handler_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’éüÿÿÿÿ
+p	java:S116C"VRename this field "handler_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÍ›·ıÿÿÿÿ
+l	java:S116D"XRename this field "handler_catch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÇÆC
+[
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÿ’ñÏ
+E
+java:S1197A"*Move the array designators [] to the type.(·Š×»şÿÿÿÿ
+E
+java:S1197B"*Move the array designators [] to the type.(Á’éüÿÿÿÿ
+E
+java:S1197C"*Move the array designators [] to the type.(ŞÍ›·ıÿÿÿÿ
+?
+java:S1197D"*Move the array designators [] to the type.(ÏÇÆC
+Q	java:S125s"<This block of commented-out lines of code should be removed.(Ó›÷å
+Q	java:S125v"<This block of commented-out lines of code should be removed.(×«»ª
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Ïç­Ä
+Z
+java:S1155‹">Use isEmpty() to check whether the collection is empty or not.(Ç¦¾§üÿÿÿÿ
+Q
+java:S1161‘":Add the "@Override" annotation above this method signature(‚ı‹ğ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(«¬ßôüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(Çë®ìşÿÿÿÿ
+8
+java:S1659ø"!Declare "len" on a separate line.(º–ã»
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(–‚†
+8
+java:S1659"!Declare "len" on a separate line.(º–ã»
+R	java:S125å"<This block of commented-out lines of code should be removed.(Œñæş

@@ -1,0 +1,12 @@
+
+h
+java:S1192 "LDefine a constant instead of duplicating this literal "dd MMMM y G" 4 times.(¡Àğìúÿÿÿÿ
+b
+java:S1192¡"KDefine a constant instead of duplicating this literal "dd MMM y G" 4 times.(ñÈŞØ
+d
+java:S1192¢"MDefine a constant instead of duplicating this literal "dd.MM.yyyy G" 4 times.(äÉôä
+m
+java:S1192Ÿ"QDefine a constant instead of duplicating this literal "dd MMMM y G EEEE" 4 times.(‰“»Ûüÿÿÿÿ
+g	java:S101D"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰ü†ùÿÿÿÿÿ
+J
+java:S1191@"5Use classes from the Java API instead of Sun classes.(›Õˆu

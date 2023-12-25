@@ -1,0 +1,39 @@
+
+K
+java:S1066ğ"/Merge this if statement with the enclosing one.(Ø©¥ğüÿÿÿÿ
+>
+java:S1604Z"(Make this anonymous inner class a lambda(’­Ûü
+^
+java:S2184w"CCast one of the operands of this subtraction operation to a "long".(ˆ ‘Ìûÿÿÿÿ
+^
+java:S2184Î"BCast one of the operands of this addition operation to a "double".(À£àƒÿÿÿÿÿ
+h	java:S116E"SRename this field "_verbose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒåÛ®
+o	java:S116H"URename this field "_byteCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŒ®öüÿÿÿÿ
+i	java:S116I"TRename this field "_segCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹Œ
+o	java:S116J"URename this field "_fileCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ù±éøÿÿÿÿ
+r	java:S116K"XRename this field "_estByteLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÉœ£üÿÿÿÿ
+q	java:S116L"WRename this field "_estSegLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¾µÉùÿÿÿÿ
+m	java:S116M"XRename this field "_estFileLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—–ëÍ
+l	java:S116N"WRename this field "_prevPercent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±€ÿË
+k	java:S116P"QRename this field "_crc32" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÍ‰Šşÿÿÿÿ
+d	java:S116Q"ORename this field "_buf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÏæş
+j	java:S116S"PRename this field "_p200" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‘âøÿÿÿÿ
+k	java:S116T"QRename this field "_props" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŒ®úÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.( „Ú±
+`
+java:S1124k"EReorder the modifiers to comply with the Java Language Specification.(ÇÅ Œüÿÿÿÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ƒ÷¶ùÿÿÿÿ
+N
+java:S1135º"2Complete the task associated to this TODO comment.(Å¶–½üÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(˜ªÚŒ
+Q	java:S125Ö"<This block of commented-out lines of code should be removed.(Ã¦¸
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(ïÈŒ½
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õƒû¬ûÿÿÿÿ
+O
+java:S1144k"4Remove this unused private "currentInstance" method.(ÇÅ Œüÿÿÿÿ
+N
+java:S1144p"3Remove this unused private "getUnpackerPtr" method.(‡±¹úşÿÿÿÿ
+K
+java:S1144u"0Remove this unused private "readInputFn" method.(Éš†Øùÿÿÿÿ

@@ -1,0 +1,11 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûþÿÿÿÿ
+`
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(¨÷ììýÿÿÿÿ
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(§¨Î´
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(è‚¸—
+o
+java:S3012I"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÃåÕê

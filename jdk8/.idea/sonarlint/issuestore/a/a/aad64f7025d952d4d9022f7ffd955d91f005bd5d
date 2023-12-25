@@ -1,0 +1,11 @@
+
+g
+java:S1104a"QMake start a static final constant or non-public and provide accessors if needed.(ßÆ‡Ò
+l
+java:S1104g"QMake limit a static final constant or non-public and provide accessors if needed.(ûüşÿÿÿÿ
+l
+java:S1104l"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+P
+java:S1191&"5Use classes from the Java API instead of Sun classes.(Ü³¤¿ûÿÿÿÿ
+—
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï—Óá

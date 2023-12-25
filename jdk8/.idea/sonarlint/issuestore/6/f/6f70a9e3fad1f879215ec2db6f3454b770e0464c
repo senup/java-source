@@ -1,0 +1,36 @@
+
+D
+java:S2387Ë"-"font" is the name of a field in "Component".(íÆÅ‰
+E
+java:S1948Ì")Make "toolkit" transient or serializable.(«ûÎ»ûÿÿÿÿ
+N
+java:S1874&"3Remove this use of "getFontList"; it is deprecated.(Á·ØÖÿÿÿÿÿ
+J
+java:S1874-"/Remove this use of "reshape"; it is deprecated.(ÕÜùÿÿÿÿ
+J
+java:S18744"/Remove this use of "reshape"; it is deprecated.(Ü³å†øÿÿÿÿ
+J
+java:S1874;"/Remove this use of "reshape"; it is deprecated.(ÜÒúÿÿÿÿ
+I
+java:S1874=".Remove this use of "resize"; it is deprecated.(·Œœ™úÿÿÿÿ
+`
+java:S1874A"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(õ‚ğ
+P
+java:S1161A":Add the "@Override" annotation above this method signature(õ‚ğ
+I
+java:S1874k".Remove this use of "layout"; it is deprecated.(–ß›ëıÿÿÿÿ
+I
+java:S1874n".Remove this use of "layout"; it is deprecated.(öŠ©ªÿÿÿÿÿ
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(½ŞÊ”üÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(½ŞÊ”üÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(Ò×ëÇ
+=
+java:S1168¸"&Return an empty array instead of null.(¥¹ï
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(ˆ÷üÂ
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(ß³’ç
+@
+java:S1197Ô"*Move the array designators [] to the type.(ŠÛØ7

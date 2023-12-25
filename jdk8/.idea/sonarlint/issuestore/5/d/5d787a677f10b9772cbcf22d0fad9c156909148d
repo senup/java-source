@@ -1,0 +1,41 @@
+
+F
+java:S3740–"/Provide the parametrized type for this generic.(Æå¬È
+D
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿ¶‡´ùÿÿÿÿ
+T
+java:S5993_"9Change the visibility of this constructor to "protected".(×şçŒúÿÿÿÿ
+[
+java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(ûã¢
+`
+java:S1124U"EReorder the modifiers to comply with the Java Language Specification.(½ğ”àùÿÿÿÿ
+[
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(“¥¿Å
+[
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(ãŸ½ú
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(Áá©‘
+`
+java:S1124Y"EReorder the modifiers to comply with the Java Language Specification.(µ™¿éùÿÿÿÿ
+Q
+java:S2209…"5Change this instance-reference to a static reference.(­‚àöøÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(åÆ®ıÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(Ã£
+[
+java:S2886¬"DSynchronize this method to match the synchronization on "setCursor".(†˜´×
+\
+java:S2886Ú"ESynchronize this method to match the synchronization on "setTrigger".(Ôøûï
+a
+java:S1117Ó"ERename "dragSourceContext" which hides the field declared at line 74.(˜¿¡úÿÿÿÿ
+D
+java:S3398©"(Move this method into "EventDispatcher".(ûÊÒıÿÿÿÿ
+K
+java:S1144 "/Remove this unused private "dragMotion" method.(€µ‚¤úÿÿÿÿ
+K
+java:S1144ª"5Remove this unused private "operationChanged" method.(‘§êl
+J
+java:S1144Ä"3Remove this unused private "dragMouseMoved" method.(•òùû

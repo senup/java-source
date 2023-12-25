@@ -1,0 +1,44 @@
+
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(ëÚ´ýþÿÿÿÿ
+[	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(¯Ò‡a
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(·ƒê¥üÿÿÿÿ
+m
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÙØ¤Þýÿÿÿÿ
+R
+java:S6353^"<Use concise character class syntax '\\d' instead of '[0-9]'.(¾ãì“
+@
+java:S1197f"*Move the array designators [] to the type.(‚®×
+@
+java:S1197n"*Move the array designators [] to the type.(´é…å
+E
+java:S1197z"*Move the array designators [] to the type.(ëÚ´ýþÿÿÿÿ
+?	java:S108›")Either remove or fill this block of code.(Øúæ˜
+@
+java:S1197 "*Move the array designators [] to the type.(¯Ò‡a
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(…ªóÝ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(«žÒŽ
+A
+java:S1197¸"*Move the array designators [] to the type.(ºïÌ
+P
+java:S4719½"9Replace charset name argument with StandardCharsets.UTF_8(¤ôÎÂ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ñ‚‰
+F
+java:S1197Æ"*Move the array designators [] to the type.(Ë¢ë†ûÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¿ïÇþÿÿÿÿ
+O	java:S106Ð"9Replace this use of System.out or System.err by a logger.(¿™ÁÕ
+N	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ƒé†
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(÷‘¦Ñýÿÿÿÿ
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ˆ—‰ôýÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Ð¬êŠýÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(ÃÄÜõ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(¸æ‚Êøÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÄÍßôüÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(®ƒåîÿÿÿÿÿ
+O	java:S106Ý"9Replace this use of System.out or System.err by a logger.(¦»†¨
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(ëºø²þÿÿÿÿ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(áß‘Üúÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(œ¬‰çûÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(’€‹ë
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ

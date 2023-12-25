@@ -1,0 +1,99 @@
+
+F
+java:S1066æ"/Merge this if statement with the enclosing one.(·õ¬
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™êâäüÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·³Äüÿÿÿÿ
+c	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğğ‹ú
+c	java:S101À"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©€„
+h	java:S101Î"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—«ë­ûÿÿÿÿ
+c	java:S101ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ
+h	java:S101÷"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÉÌÌøÿÿÿÿ
+h	java:S101›"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÃíşşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¨é’ûşÿÿÿÿ
+^
+java:S3973Û"GUse indentation to denote the code conditionally executed by this "if".(ĞıÙÈ
+£
+java:S2681İ"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(æúğûÿÿÿÿ
+U
+java:S1118g":Add a private constructor to hide the implicit public one.(õ·Îÿùÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(×Î³á
+[
+java:S1124i"EReorder the modifiers to comply with the Java Language Specification.(”Ñêß
+?
+java:S2386k")Make member "B2C_UNMAPPABLE" "protected".(æù¡½
+C
+java:S1172x"(Remove this unused method parameter "b".(«ç…šşÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(òŒø“ûÿÿÿÿ
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(Ïãñüûÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(­Æïø
+V
+java:S1161™":Add the "@Override" annotation above this method signature(Ïãñüûÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(ÙØóÕ
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(‰·Ùûÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(‰·Ùûÿÿÿÿ
+i
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Â€Á½
+Q
+java:S1161æ":Add the "@Override" annotation above this method signature(Â€Á½
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(òŒø“ûÿÿÿÿ
+L
+java:S1854¨"5Remove this useless assignment to local variable "c".(†Úáÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(òŒø“ûÿÿÿÿ
+d	java:S116Ï"NRename this field "SS2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼¥­
+d	java:S116Ğ"NRename this field "SS3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿áÎ¯
+8
+java:S1170Ï"!Make this final field static too.(¶¼¥­
+8
+java:S1170Ğ"!Make this final field static too.(¿áÎ¯
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(«ç…šşÿÿÿÿ
+Q
+java:S1161Ş":Add the "@Override" annotation above this method signature(ï‹Ú¦
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(òŒø“ûÿÿÿÿ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(òŒø“ûÿÿÿÿ
+t	java:S116‚"YRename this field "MAX_SINGLEBYTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÏİóüÿÿÿÿ
+=
+java:S1170‚"!Make this final field static too.(ÉÏİóüÿÿÿÿ
+W	java:S107”"<Method has 8 parameters, which is greater than 7 authorized.(®ƒ·Œşÿÿÿÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(­©°üşÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(üõÀÙúÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İŠÜßıÿÿÿÿ
+V
+java:S1161ï":Add the "@Override" annotation above this method signature(•İÙüÿÿÿÿ
+R
+java:S1854ö"6Remove this useless assignment to local variable "dl".(¦—‹˜şÿÿÿÿ
+C
+java:S1481ö"'Remove this unused "dl" local variable.(¦—‹˜şÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(®ƒ·Œşÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(°°èÀÿÿÿÿÿ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(Š½²³úÿÿÿÿ
+Q
+java:S1161‡":Add the "@Override" annotation above this method signature(åäÊ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(üõÀÙúÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(üõÀÙúÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(İŠÜßıÿÿÿÿ
+V
+java:S1161Å":Add the "@Override" annotation above this method signature(İŠÜßıÿÿÿÿ
+h
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(’¿ˆ#
+P
+java:S1161ñ":Add the "@Override" annotation above this method signature(’¿ˆ#

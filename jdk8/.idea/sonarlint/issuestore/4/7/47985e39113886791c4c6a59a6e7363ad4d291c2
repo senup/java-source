@@ -1,0 +1,102 @@
+
+K
+java:S1066Î"/Merge this if statement with the enclosing one.(®èšÿÿÿÿÿ
+P
+java:S1141s"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+O
+java:S1161I":Add the "@Override" annotation above this method signature(ù„…6
+U
+java:S1161O":Add the "@Override" annotation above this method signature(‚¬è¥ùÿÿÿÿ
+m
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠÅ¿ºşÿÿÿÿ
+U
+java:S1161S":Add the "@Override" annotation above this method signature(ŠÅ¿ºşÿÿÿÿ
+C	java:S108u")Either remove or fill this block of code.(şÁÈŸøÿÿÿÿ
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(üƒÀ
+V
+java:S1161":Add the "@Override" annotation above this method signature(´äë¤øÿÿÿÿ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(¦„€×
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(¨Äã3
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(¢±€
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(öæ‚‘úÿÿÿÿ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(ùãÉØûÿÿÿÿ
+P
+java:S1161ö":Add the "@Override" annotation above this method signature(—á¦z
+V
+java:S1161±":Add the "@Override" annotation above this method signature(Å¾»ıÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(’ññ¨úÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(–ş±Ë
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(‘‚
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(öŒ«Áıÿÿÿÿ
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(ø‘ëøÿÿÿÿ
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(€²óóùÿÿÿÿ
+V
+java:S1161Ô":Add the "@Override" annotation above this method signature(Õ ÿÿÿÿÿ
+e
+java:S3551Ô"IMake this method "synchronized" to match the parent class implementation.(Õ ÿÿÿÿÿ
+V
+java:S1161Ú":Add the "@Override" annotation above this method signature(÷±‚Ûûÿÿÿÿ
+e
+java:S3551Ú"IMake this method "synchronized" to match the parent class implementation.(÷±‚Ûûÿÿÿÿ
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(£®æ§ÿÿÿÿÿ
+e
+java:S3551Ş"IMake this method "synchronized" to match the parent class implementation.(£®æ§ÿÿÿÿÿ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(íÉÀ¾
+`
+java:S3551å"IMake this method "synchronized" to match the parent class implementation.(íÉÀ¾
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(òÑ†õ
+`
+java:S3551é"IMake this method "synchronized" to match the parent class implementation.(òÑ†õ
+Q
+java:S1161ğ":Add the "@Override" annotation above this method signature(³³¡¢
+`
+java:S3551ğ"IMake this method "synchronized" to match the parent class implementation.(³³¡¢
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(Í¬Êƒ
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(â¦×‡ûÿÿÿÿ
+V
+java:S1161ü":Add the "@Override" annotation above this method signature(Æ¹³İûÿÿÿÿ
+P
+java:S1161€":Add the "@Override" annotation above this method signature(»…
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(Òƒû¯
+P
+java:S1161ˆ":Add the "@Override" annotation above this method signature(¸ï­]
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+e
+java:S3551Œ"IMake this method "synchronized" to match the parent class implementation.(æÔ«÷şÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(‡‹”´
+V
+java:S1161˜":Add the "@Override" annotation above this method signature(Å…Ò·úÿÿÿÿ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(Á»›ê
+P
+java:S1161¨":Add the "@Override" annotation above this method signature(…‹ÁX
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(¦‰½Ÿ
+V
+java:S1161°":Add the "@Override" annotation above this method signature(„™´ùÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(âåû¸úÿÿÿÿ
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(àÕûï

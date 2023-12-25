@@ -1,0 +1,17 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+`
+java:S16590"EDeclare "protocol" and all following declarations on a separate line.(æ«›øüÿÿÿÿ
+[
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(ƒöëò
+[
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(ØšÇÍ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(æ«›øüÿÿÿÿ
+[
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(øÀŠŞ
+[
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(µÛÈí
+[
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(ÿùÁ

@@ -1,0 +1,15 @@
+
+t
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ôè…ÿÿÿÿÿ
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ôè…ÿÿÿÿÿ
+J
+java:S1066K"/Merge this if statement with the enclosing one.(Œåûéøÿÿÿÿ
+J
+java:S1066Z"/Merge this if statement with the enclosing one.(Œåûéøÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ÙÀ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

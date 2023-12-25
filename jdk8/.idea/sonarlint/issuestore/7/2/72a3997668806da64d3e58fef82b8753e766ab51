@@ -1,0 +1,13 @@
+
+n
+java:S1104"XMake charsetChars a static final constant or non-public and provide accessors if needed.(„…ÓŞ
+m
+java:S1104$"RMake offset a static final constant or non-public and provide accessors if needed.(É‚Şèúÿÿÿÿ
+g
+java:S1104)"RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[
+u
+java:S1104."ZMake fontDescriptor a static final constant or non-public and provide accessors if needed.(½í•şÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô‡‘éıÿÿÿÿ
+E
+java:S11973"*Move the array designators [] to the type.(‚¥’şÿÿÿÿ

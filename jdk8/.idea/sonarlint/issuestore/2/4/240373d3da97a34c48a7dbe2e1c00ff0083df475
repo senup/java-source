@@ -1,0 +1,13 @@
+
+o
+java:S1104+"TMake numchars a static final constant or non-public and provide accessors if needed.(¼šÔâüÿÿÿÿ
+K
+java:S1191 "5Use classes from the Java API instead of Sun classes.(”îóµ
+\
+java:S2259g"AA "NullPointerException" could be thrown; "rhs" is nullable here.(«Ÿ¥¾úÿÿÿÿ
+E
+java:S1905N"*Remove this unnecessary cast to "float[]".(–Ì–Æþÿÿÿÿ
+:
+java:S2097e"Add a type test to this method.(ÐüÓ”øÿÿÿÿ
+n
+java:S2975n"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÜÖ¬Žúÿÿÿÿ

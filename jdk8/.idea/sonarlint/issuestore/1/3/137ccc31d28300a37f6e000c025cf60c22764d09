@@ -1,0 +1,13 @@
+
+a
+java:S1192V"KDefine a constant instead of duplicating this literal "SSLContext" 3 times.(öû€¶
+K
+java:S1191$"5Use classes from the Java API instead of Sun classes.(¿ƒé¸
+P
+java:S11331"5Do not forget to remove this deprecated code someday.(•‚Ğıÿÿÿÿ
+<
+java:S1128!"&Remove this unused import 'java.util'.(Î€ŒÙ
+X
+java:S1128$"BRemove this unused import 'sun.security.ssl.SSLSocketFactoryImpl'.(¿ƒé¸
+^
+java:S1128%"HRemove this unused import 'sun.security.ssl.SSLServerSocketFactoryImpl'.(©ù²

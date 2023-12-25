@@ -1,0 +1,25 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¸ÉÊ¥øÿÿÿÿ
+D
+java:S1948>")Make "handler" transient or serializable.(êô–âÿÿÿÿÿ
+O
+java:S1948@"4Make "composedTextLayout" transient or serializable.(ş×ôÒÿÿÿÿÿ
+=
+java:S1948A"'Make "caret" transient or serializable.(•—ÆÍ
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(»§¥…
+[
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(ê¸öæ
+Z
+java:S1124E"EReorder the modifiers to comply with the Java Language Specification.(‚Û®
+`
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(œô•üÿÿÿÿ
+[
+java:S1124G"EReorder the modifiers to comply with the Java Language Specification.(Æ£Ô©
+U
+java:S1161q":Add the "@Override" annotation above this method signature(†ê‡Ğüÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(¶øÂÁ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(ô—»ûÿÿÿÿ

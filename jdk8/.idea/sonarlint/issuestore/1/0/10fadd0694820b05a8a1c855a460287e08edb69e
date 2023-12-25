@@ -1,0 +1,17 @@
+
+t
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒªÄ¯þÿÿÿÿ
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ôË—üÿÿÿÿ
+{
+java:S1319+"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(ÈÙ¦ÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+d
+java:S38243"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Áˆ‡Ÿ
+A
+java:S1481H"+Remove this unused "result" local variable.(Ä›°Ç
+Y
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+J
+java:S1905O"5Remove this unnecessary cast to "AuthenticationInfo".(÷¯²&

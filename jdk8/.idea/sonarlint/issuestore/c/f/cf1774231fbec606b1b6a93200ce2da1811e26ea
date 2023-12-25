@@ -1,0 +1,34 @@
+
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(šçĞàÿÿÿÿÿ
+K
+java:S1066Š"/Merge this if statement with the enclosing one.(Úúÿÿÿÿ
+Q	java:S110'"<This class has 6 parents which is greater than 5 authorized.(ĞÃı
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+e	java:S116)"PRename this field "NOINC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äôãº
+7
+java:S1170)"!Make this final field static too.(äôãº
+T
+java:S59930"9Change the visibility of this constructor to "protected".(¯Ì¦‘şÿÿÿÿ
+m
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‡ªıüÿÿÿÿ
+U
+java:S11619":Add the "@Override" annotation above this method signature(‡ªıüÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡ËÚşÿÿÿÿ
+V
+java:S1161˜":Add the "@Override" annotation above this method signature( èúÿÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(¦Òöıÿÿÿÿ
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(Âõ¦È
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(åÙñùÿÿÿÿ
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(çé½Ì
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(±›² şÿÿÿÿ

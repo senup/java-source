@@ -1,0 +1,46 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(È×—©ıÿÿÿÿ
+o
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(§¢›
+o
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÅ¬‡
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾×‰
+o
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾×‰
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô‹ÏÜûÿÿÿÿ
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(§¢›
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ååô›
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(áËÁëıÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(áËÁëıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(óûŒûÿÿÿÿ
+S
+java:S3878,"8Remove this array creation and simply pass the elements.(È×—©ıÿÿÿÿ
+N
+java:S38784"8Remove this array creation and simply pass the elements.(§¢›
+N
+java:S3878?"8Remove this array creation and simply pass the elements.(§¢›
+S
+java:S3878E"8Remove this array creation and simply pass the elements.(áËÁëıÿÿÿÿ
+S
+java:S3878J"8Remove this array creation and simply pass the elements.(áËÁëıÿÿÿÿ
+X
+java:S1126Ä"AReplace this if-then-else statement by a single return statement.(¤í²ú
+?
+java:S2129Ù"#Remove this "Character" constructor(¤×İ†ıÿÿÿÿ
+?
+java:S2129à"#Remove this "Character" constructor(¤×İ†ıÿÿÿÿ
+A
+java:S1197ô"*Move the array designators [] to the type.(¸¶ı­
+b
+java:S1858ı"F"params" is an array of strings, there's no need to call "toString()".(†£Çÿÿÿÿÿ
+u	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´‚âƒùÿÿÿÿ
+p	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…†Ä

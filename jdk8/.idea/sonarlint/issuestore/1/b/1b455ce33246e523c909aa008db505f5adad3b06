@@ -1,0 +1,15 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(İøÎò
+:
+java:S1165("Make this "lineno" field final.(õ•‡·üÿÿÿÿ
+M
+java:S1161.":Add the "@Override" annotation above this method signature(‡+
+:
+java:S1128"%Remove this unused import 'java.net'.(Ğ‡
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+B
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş

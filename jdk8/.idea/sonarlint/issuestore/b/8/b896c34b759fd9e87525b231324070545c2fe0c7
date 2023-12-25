@@ -1,0 +1,18 @@
+
+u
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(àä•®üÿÿÿÿ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£‰ø£øÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(´äÍë
+e
+java:S4201è"IRemove this unnecessary null check; "instanceof" returns false for nulls.(µÙÒŞşÿÿÿÿ
+]
+java:S1126ø"AReplace this if-then-else statement by a single return statement.(Ø¢Á‰üÿÿÿÿ
+
+java:S1130Ê"vRemove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from method's body.(ë¼»
+Q
+java:S2274İ":Remove this call to "wait" or move it into a "while" loop.(ùŞ¥º
+?	java:S108‰")Either remove or fill this block of code.(œ§óí
+G
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ

@@ -1,0 +1,36 @@
+
+t	java:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+_
+java:S1659G"DDeclare "spanhix" and all following declarations on a separate line.(Œ—–şüÿÿÿÿ
+?
+java:S1659J"$Declare "lwmhiy" on a separate line.(’ËÓ²ıÿÿÿÿ
+^
+java:S1659M"CDeclare "rgnloy" and all following declarations on a separate line.(˜ª ·ûÿÿÿÿ
+b
+java:S1659Q"GDeclare "rgnbndsloy" and all following declarations on a separate line.(ËÒœÕøÿÿÿÿ
+?
+java:S1197T"*Move the array designators [] to the type.(óä’^
+@
+java:S1197W"*Move the array designators [] to the type.(ÿäÖÇ
+F
+java:S1197"*Move the array designators [] to the type.(‰¡¶‡üÿÿÿÿ
+P
+java:S1117":Rename "rgnbox" which hides the field declared at line 84.(Ó¨‰q
+n
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(Ö‚á¯øÿÿÿÿ
+2
+java:S3626Ø"Remove this redundant jump.(ÉŠ©ƒ
+F
+java:S1197³"*Move the array designators [] to the type.(Ö‚á¯øÿÿÿÿ
+]
+java:S1659¸"FDeclare "resultloy" and all following declarations on a separate line.(±Úí®
+I
+java:S1113„"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(ÂëÎ¹
+R	java:S125…"<This block of commented-out lines of code should be removed.(®µ¦¨
+R
+java:S1128"7Remove this unused import 'java.awt.geom.PathIterator'.(¦±çòüÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û

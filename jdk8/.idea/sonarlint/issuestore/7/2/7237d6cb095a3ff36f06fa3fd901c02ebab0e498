@@ -1,0 +1,64 @@
+
+‚
+java:S1192—"fDefine a constant instead of duplicating this literal "MBeanServerInterceptors are disabled." 4 times.(’ßè°øÿÿÿÿ
+c
+java:S1192¶"LDefine a constant instead of duplicating this literal "instantiate" 4 times.(¾òõ
+K
+java:S1066³"/Merge this if statement with the enclosing one.(€õÖ¼øÿÿÿÿ
+D
+java:S1604ê"(Make this anonymous inner class a lambda(‚İ´ˆüÿÿÿÿ
+D
+java:S1604æ	"(Make this anonymous inner class a lambda(•³Çºúÿÿÿÿ
+r
+java:S3077l"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¤Âì÷øÿÿÿÿ
+J
+java:S1172ª"3Remove this unused method parameter "interceptors".(ÿÁ“€
+K
+java:S1172à"/Remove this unused method parameter "fairLock".(ĞôÓ‚üÿÿÿÿ
+ª
+java:S1130Ã"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130ø"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+ª
+java:S1130®"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+F
+java:S1197¬"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+F
+java:S1197¬"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+ª
+java:S1130å"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+A
+java:S1197â"*Move the array designators [] to the type.(È”½ë
+A
+java:S1197ã"*Move the array designators [] to the type.(‘ˆÛÂ
+F
+java:S1197"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+F
+java:S1197ü"*Move the array designators [] to the type.(ó­‡Òÿÿÿÿÿ
+A
+java:S1197ı"*Move the array designators [] to the type.(‘ˆÛÂ
+F
+java:S1197§"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+F
+java:S1197§"*Move the array designators [] to the type.(¯”Î¥úÿÿÿÿ
+Q
+java:S1133×"5Do not forget to remove this deprecated code someday.(ìîı†ûÿÿÿÿ
+D
+java:S1123×"(Add the missing @deprecated Javadoc tag.(ìîı†ûÿÿÿÿ
+³
+java:S1130Ø"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(¸ß™üÿÿÿÿ
+K
+java:S1133ò"5Do not forget to remove this deprecated code someday.(ÅÁª
+
+>
+java:S1123ò"(Add the missing @deprecated Javadoc tag.(ÅÁª
+
+L
+java:S1133¦	"5Do not forget to remove this deprecated code someday.(ÈúÖ
+?
+java:S1123¦	"(Add the missing @deprecated Javadoc tag.(ÈúÖ
+³
+java:S1130©	"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(ÃÄ¯›ıÿÿÿÿ
+?	java:S108¶	")Either remove or fill this block of code.(”ı¾

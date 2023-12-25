@@ -1,0 +1,60 @@
+
+o	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(Û†²Ð
+o	java:S135Ý"YReduce the total number of break and continue statements in this loop to use at most one.(Û†²Ð
+n	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+n	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+n
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(–Î íúÿÿÿÿ
+R	java:S125Ž"<This block of commented-out lines of code should be removed.(ç£˜¥
+Q
+java:S6213˜":Rename this variable to not match a restricted identifier.(ƒŒüÎ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(ëµ÷öúÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(˜ÀÑÙúÿÿÿÿ
+[
+java:S2147·"ECombine this catch with the one at line 179, which has the same body.(îÐÒ
+a
+java:S2147»"ECombine this catch with the one at line 179, which has the same body.(©Ë»‡ýÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(Ÿèâˆ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ˆå±ˆ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(ÎïÀ‡þÿÿÿÿ
+W	java:S125Ð"<This block of commented-out lines of code should be removed.(Ìí³³üÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(ËÁù§ùÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(³°ø’
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(û‡Î«þÿÿÿÿ
+Q
+java:S6213»":Rename this variable to not match a restricted identifier.(ƒŒüÎ
+o
+java:S3252Ó"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(¾–òæ
+o
+java:S3252Õ"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(¾–òæ
+[
+java:S2147¤"ECombine this catch with the one at line 417, which has the same body.(îÐÒ
+i
+java:S3252 "RUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspWrongValue".(ÈÍ“×
+t
+java:S3252£"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(îË Áÿÿÿÿÿ
+t
+java:S3252¦"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(îË Áÿÿÿÿÿ
+Q
+java:S6213Ø":Rename this variable to not match a restricted identifier.(ƒŒüÎ
+t
+java:S3252—"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(îË Áÿÿÿÿÿ
+N
+java:S1172¥"7Remove these unused method parameters "meta", "rowOid".(Äðµ
+t
+java:S3252ª"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(îË Áÿÿÿÿÿ
+a
+java:S2147µ"ECombine this catch with the one at line 563, which has the same body.(é¦ñÿüÿÿÿÿ
+\
+java:S2147·"ECombine this catch with the one at line 563, which has the same body.(”ý¾
+t
+java:S3252°"XUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspInconsistentName".(îË Áÿÿÿÿÿ
+g
+java:S3252²"PUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspNoAccess".(šçµº
+e
+java:S3252´"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£
+e
+java:S3252¶"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£
+e
+java:S3252¸"NUse static access with "com.sun.jmx.snmp.SnmpDefinitions" for "snmpRspGenErr".(ß¤Œ£

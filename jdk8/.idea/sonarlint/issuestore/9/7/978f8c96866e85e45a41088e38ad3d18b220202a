@@ -1,0 +1,15 @@
+
+`	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(¯ä‘¹ÿÿÿÿÿ
+\	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(ÏÚ¥®
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¸Œõúÿÿÿÿ
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¸Œõúÿÿÿÿ
+a
+java:S1192l"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¼‘øóşÿÿÿÿ
+q
+java:S3038°"Z"deserialize" is defined in the "Serializer" interface and can be removed from this class.(÷Ğ«
+\
+java:S2147Ù"ECombine this catch with the one at line 215, which has the same body.(ï­£Ä
+U
+java:S4719¶"9Replace charset name argument with StandardCharsets.UTF_8(ºÑÏ«ÿÿÿÿÿ

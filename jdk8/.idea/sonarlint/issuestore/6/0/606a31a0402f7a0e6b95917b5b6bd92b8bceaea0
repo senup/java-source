@@ -1,0 +1,46 @@
+
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Ú¢è
+u
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÞÖ”ÿÿÿÿÿ
+n
+java:S1192ž"RDefine a constant instead of duplicating this literal "Negative position" 3 times.(ó§¬øÿÿÿÿÿ
+o	java:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(ÐÏ¹Ô
+o	java:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(Øã•ù
+o	java:S135í"YReduce the total number of break and continue statements in this loop to use at most one.(É½‘”
+T
+java:S1163”"=Refactor this code to not throw exceptions in finally blocks.(²©´ð
+K
+java:S1143”"4Remove this throw statement from this finally block.(²©´ð
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+o	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(þàÛ¾
+n
+java:S3077½"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼è“Æ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Å—æâþÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(ÒëØ‚üÿÿÿÿ
+i
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Öß€ô
+R
+java:S2696°"6Make the enclosing method "static" or remove this set.(à»ŸÏýÿÿÿÿ
+M
+java:S2696²"6Make the enclosing method "static" or remove this set.(÷óŠ³
+R
+java:S2696·"6Make the enclosing method "static" or remove this set.(ý­þêúÿÿÿÿ
+C
+java:S1905î"'Remove this unnecessary cast to "long".(ˆ¯¦¦ýÿÿÿÿ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ûþŸ”ÿÿÿÿÿ
+k
+java:S1215ò"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+D
+java:S4274…"(Replace this assert with a proper check.(ÝÜïÎýÿÿÿÿ
+F
+java:S2093ú"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+D
+java:S4274µ"(Replace this assert with a proper check.(ÝÜïÎýÿÿÿÿ
+F
+java:S2093¨"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+˜
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Š¯ä

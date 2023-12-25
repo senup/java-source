@@ -1,0 +1,82 @@
+
+y
+java:S4144½"]Update this method so that its implementation is not identical to "a_lookup_nns" on line 183.(­öÆ‚üÿÿÿÿ
+y
+java:S4144İ"]Update this method so that its implementation is not identical to "a_lookup_nns" on line 183.(–¦‹–ıÿÿÿÿ
+w
+java:S4144È"[Update this method so that its implementation is not identical to "a_list_nns" on line 195.(áù¿ûÿÿÿÿÿ
+w
+java:S4144í"[Update this method so that its implementation is not identical to "a_list_nns" on line 195.(‹ıÅ÷ùÿÿÿÿ
+h	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÆ¥Ùûÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—«ë¤ûÿÿÿÿ
+b	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Áğ;
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÏ
+h	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÄûÅûÿÿÿÿ
+b	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨¸
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÚéÜıÿÿÿÿ
+c	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½õ¢½
+h	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœÉƒùÿÿÿÿ
+c	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºñ¼
+h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¾›Ğøÿÿÿÿ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¹æŠûÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŸ ·øÿÿÿÿ
+i	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ„ıíüÿÿÿÿ
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öÆ‚üÿÿÿÿ
+i	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÈîøÿÿÿÿ
+i	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áù¿ûÿÿÿÿÿ
+i	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«’–üÿÿÿÿ
+F
+java:S1172Î"*Remove this unused method parameter "obj".(«’–üÿÿÿÿ
+i	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆĞûøÿÿÿÿ
+F
+java:S1172Ó"*Remove this unused method parameter "obj".(¬ˆĞûøÿÿÿÿ
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„±¡
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¦‹–ıÿÿÿÿ
+c	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‚î
+i	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İë·âşÿÿÿÿ
+J
+java:S1172è".Remove this unused method parameter "newname".(İë·âşÿÿÿÿ
+i	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ıÅ÷ùÿÿÿÿ
+e
+java:S4201ƒ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Œãøıÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(ÍıÓüÿÿÿÿ
+e
+java:S4201ß"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Œãøıÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(­ÎƒÛûÿÿÿÿ
+e
+java:S4201ó"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Œãøıÿÿÿÿ
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(ú‘è·
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(îÆ¶ˆşÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(ƒ·£
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(ş§¡ö
+V
+java:S1161«":Add the "@Override" annotation above this method signature(ùÏ…úÿÿÿÿ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(¶ç‰¯
+P
+java:S1161Á":Add the "@Override" annotation above this method signature(µô…H
+V
+java:S1161Î":Add the "@Override" annotation above this method signature(”şú‰ÿÿÿÿÿ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(†­äç
+Q
+java:S1161ä":Add the "@Override" annotation above this method signature(µ³¹û
+i	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ£ù’üÿÿÿÿ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÚ­ùÿÿÿÿ
+‘
+java:S1130œ"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ÊÚ­ùÿÿÿÿ
+d	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø…½´
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(äõó¹
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(¼üõÕ
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÚÄã
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(‚Óóø
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éˆù½
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ÍùŞ†
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÍİÿÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(¢ñ©´

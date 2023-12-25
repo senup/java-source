@@ -1,0 +1,42 @@
+
+a	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(ùÄõœıÿÿÿÿ
+o
+java:S1192Ò"SDefine a constant instead of duplicating this literal "Illegal char found" 7 times.(ƒéØÓúÿÿÿÿ
+J
+java:S1121Ì".Extract the assignment out of this expression.(ìâŸşÿÿÿÿ
+K
+java:S1191'"5Use classes from the Java API instead of Sun classes.( ÍâÔ
+{
+java:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ºİ±ÿÿÿÿÿ
+{
+java:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ºİ±ÿÿÿÿÿ
+{
+java:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+v
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£åÜØ
+v
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£åÜØ
+{
+java:S1149Î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+P
+java:S11183":Add a private constructor to hide the implicit public one.(ùÍÈê
+M
+java:S1135K"2Complete the task associated to this TODO comment.(ÂÕŠîûÿÿÿÿ
+n
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ºİ±ÿÿÿÿÿ
+^
+java:S1659­"BDeclare "delta" and all following declarations on a separate line.(™®˜úÿÿÿÿ
+<
+java:S1659®" Declare "c2" on a separate line.(€æí¨øÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(£åÜØ
+^
+java:S1659Ï"GDeclare "destLength" and all following declarations on a separate line.(ú²·
+W	java:S125«"<This block of commented-out lines of code should be removed.(Ğ¦èûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ì¤â³üÿÿÿÿ
+>
+java:S1068C"(Remove this unused "NINE" private field.(÷Ûí–
+I
+java:S1068N".Remove this unused "UINT_MAGIC" private field.(Ö›Ü€ùÿÿÿÿ
+E
+java:S1068O"/Remove this unused "ULONG_MAGIC" private field.( Œƒ

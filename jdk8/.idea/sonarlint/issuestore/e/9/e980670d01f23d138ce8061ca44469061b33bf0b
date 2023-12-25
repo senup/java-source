@@ -1,0 +1,37 @@
+
+w
+java:S1488˜"[Immediately return this expression instead of assigning it to the temporary variable "key".(üÇ¡•ÿÿÿÿÿ
+u
+java:S1488º"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ì„ÒØ
+q
+java:S1488Ä"[Immediately return this expression instead of assigning it to the temporary variable "key".(–›¯W
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÈû™øÿÿÿÿ
+j
+java:S3824‚"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(åİÖåúÿÿÿÿ
+7
+java:S1659³" Declare "s2" on a separate line.(—â¸Æ
+P
+java:S5993Â"9Change the visibility of this constructor to "protected".(Çˆÿ
+U
+java:S5993Ù"9Change the visibility of this constructor to "protected".(ÿÿºşÿÿÿÿ
+`
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(°ØÉşÿÿÿÿ
+`
+java:S1124t"EReorder the modifiers to comply with the Java Language Specification.(µ£Ê„ıÿÿÿÿ
+[
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(¹õ‡¡
+;
+java:S1659€"Declare "c" on a separate line.(§³ûÿÿÿÿ
+z
+java:S2142Œ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+D	java:S108Œ")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+\
+java:S1124–"EReorder the modifiers to comply with the Java Language Specification.(•¤²ş
+W	java:S125¡"<This block of commented-out lines of code should be removed.(òß¿•üÿÿÿÿ
+j
+java:S2975Ì"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+0
+java:S2225Ñ"Return a non null object.(¥¹ï
+M
+java:S5261ø"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

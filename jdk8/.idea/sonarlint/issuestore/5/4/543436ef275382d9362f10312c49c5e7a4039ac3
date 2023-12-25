@@ -1,0 +1,17 @@
+
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ÓáH
+d
+java:S32524"IUse static access with "sun.java2d.pipe.hw.AccelSurface" for "UNDEFINED".(‘‡¢Æÿÿÿÿÿ
+\
+java:S32525"FUse static access with "sun.java2d.pipe.hw.AccelSurface" for "WINDOW".(²íùª
+]
+java:S32527"GUse static access with "sun.java2d.pipe.hw.AccelSurface" for "TEXTURE".(—øÏœ
+j
+java:S32528"OUse static access with "sun.java2d.pipe.hw.AccelSurface" for "FLIP_BACKBUFFER".(áð°´øÿÿÿÿ
+e
+java:S3252m"OUse static access with "sun.java2d.pipe.BufferedContext" for "validateContext".(¦ñÆ±
+J
+java:S1905Ì".Remove this unnecessary cast to "SurfaceData".(ÚœÈÓýÿÿÿÿ
+J
+java:S1905õ".Remove this unnecessary cast to "SurfaceData".(ÚœÈÓýÿÿÿÿ

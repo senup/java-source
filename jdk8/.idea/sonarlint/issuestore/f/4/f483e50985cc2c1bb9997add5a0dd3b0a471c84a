@@ -1,0 +1,15 @@
+
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141­"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ší»¶
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÔÅçùÿÿÿÿ
+A
+java:S5164B"&Call "remove()" on "currentTransport".(£±‹ÿÿÿÿÿ
+=
+java:S5164»"&Use "remove()" instead of "set(null)".(Üİ‡š
+D	java:S108Ï")Either remove or fill this block of code.(¾àøÿÿÿÿ

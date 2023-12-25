@@ -1,0 +1,13 @@
+
+P
+java:S1191 "5Use classes from the Java API instead of Sun classes.(òŽ„¸þÿÿÿÿ
+@
+java:S1197)"*Move the array designators [] to the type.(ÖªÏæ
+N
+java:S47195"9Replace charset name argument with StandardCharsets.UTF_8(ÜÂË.
+O
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(„¨×–
+[
+java:S1124`"EReorder the modifiers to comply with the Java Language Specification.(Ž°†·
+[
+java:S1124g"EReorder the modifiers to comply with the Java Language Specification.(žåî±

@@ -1,0 +1,21 @@
+
+t
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öëäøÿÿÿÿ
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öëäøÿÿÿÿ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¤Ïô
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÓÎÈşÿÿÿÿ
+<
+java:S11704"!Make this final field static too.(Ş“®õüÿÿÿÿ
+P
+java:S11334"5Do not forget to remove this deprecated code someday.(Ş“®õüÿÿÿÿ
+K
+java:S1133B"5Do not forget to remove this deprecated code someday.(ù¤Ïô
+P
+java:S1874S"5Remove this use of "engineResolve"; it is deprecated.(€Üé¡øÿÿÿÿ
+Q
+java:S1133’"5Do not forget to remove this deprecated code someday.( ÓÎÈşÿÿÿÿ
+O
+java:S1874£"8Remove this use of "engineCanResolve"; it is deprecated.(êê¦¿
+b
+java:S3457Ü"KFormat specifiers or lambda should be used instead of string concatenation.(ŒâÔ¦

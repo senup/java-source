@@ -1,0 +1,22 @@
+
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(­÷Çùûÿÿÿÿ
+i
+java:S1192Ï"RDefine a constant instead of duplicating this literal "'handler' is null" 5 times.(ñ÷Ö‚
+m
+java:S1192™"QDefine a constant instead of duplicating this literal "Read-only buffer" 3 times.(œƒ›³üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ…Èç
+_
+java:S2583‰"CChange this condition so that it does not always evaluate to "true"(èþÆ°ÿÿÿÿÿ
+`
+java:S2583ö"DChange this condition so that it does not always evaluate to "false"(¦ƒÿœøÿÿÿÿ
+r
+java:S30778"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ëþÍ€þÿÿÿÿ
+r
+java:S30779"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(³¼ç‰üÿÿÿÿ
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(­¨Þ÷øÿÿÿÿ
+h
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¹Ü™
+8	java:S131¼""Add a default case to this switch.(þ™ÅÞ

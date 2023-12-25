@@ -1,0 +1,101 @@
+
+s	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬±‰æüÿÿÿÿ
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(îÚ•¿
+n	java:S127İ"XRefactor the code in order to not assign to this loop counter from within the loop body.(äÓ’’
+s	java:S127Ş"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş‘ÙÂûÿÿÿÿ
+s	java:S127ß"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸¥÷‘şÿÿÿÿ
+s	java:S127à"XRefactor the code in order to not assign to this loop counter from within the loop body.(şŸå€ûÿÿÿÿ
+n	java:S127á"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰³Ó™
+s	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(ãÛ‰Óüÿÿÿÿ
+K
+java:S1066«"/Merge this if statement with the enclosing one.(¼ïûàÿÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïİµüÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+u	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖŒüÚÿÿÿÿÿ
+u	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦˜Ä±ûÿÿÿÿ
+u	java:S115Ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö½…Éùÿÿÿÿ
+u	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒÀÃàûÿÿÿÿ
+p	java:S115Õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á®Ò¼
+u	java:S115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€¼¼‡ıÿÿÿÿ
+u	java:S115×"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·´Ì‹øÿÿÿÿ
+u	java:S115Ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½û¿Ìøÿÿÿÿ
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ó°œ
+]
+java:S1659Ò"ADeclare "posy" and all following declarations on a separate line.(¦˜Ä±ûÿÿÿÿ
+{
+java:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+C
+java:S1172X"-Remove this unused method parameter "offset".(‰Æó
+U
+java:S1161v":Add the "@Override" annotation above this method signature(Ê¡‹äşÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(¬ÍÏ¹
+M
+java:S1117¨"6Rename "lb" which hides the field declared at line 67.(‰„°î
+X
+java:S1117å"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+X
+java:S1117ğ"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+X
+java:S1117û"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+X
+java:S1117†"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¦ûÉŠÿÿÿÿÿ
+X
+java:S1117à"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+X
+java:S1117ò"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Ù¡óÓÿÿÿÿÿ
+X
+java:S1117š"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(şÛùı
+S
+java:S1854Œ"<Remove this useless assignment to local variable "maxIndex".(ğŸ‚
+S
+java:S1854™"<Remove this useless assignment to local variable "maxIndex".(Çèß®
+X
+java:S1854º"<Remove this useless assignment to local variable "haveCopy".(Ì“Û¼ùÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(“÷Óøùÿÿÿÿ
+Y
+java:S1659µ"BDeclare "cposr" and all following declarations on a separate line.(¼—îÀ
+R
+java:S1117ë"6Rename "gv" which hides the field declared at line 71.(…õ¡Ùûÿÿÿÿ
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¹ºÓÇ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(¦¹«‹
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(×ãµû
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(Àìˆ­
+>
+java:S1481"'Remove this unused "cx" local variable.(ñƒ¹‹
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(é‹±ƒ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¡¦Ïõùÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(À­¬€ûÿÿÿÿ
+8
+java:S1659£"!Declare "icp" on a separate line.(Œ¯º£
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(¼ïûàÿÿÿÿÿ
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(Å®¬ü
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(·À³ï
+L
+java:S2209"5Change this instance-reference to a static reference.(õ±ùÆ
+Q
+java:S2209†"5Change this instance-reference to a static reference.(Òóè¥üÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¼ÇÔüÿÿÿÿ
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ğ•éÇ
+R
+java:S1117­"6Rename "gv" which hides the field declared at line 71.(…õ¡Ùûÿÿÿÿ
+X
+java:S1117¯"<Rename "charinfo" which hides the field declared at line 72.(•–¥’üÿÿÿÿ
+A
+java:S1905ó"*Remove this unnecessary cast to "float[]".(şİù
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¿€…÷øÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(ñ˜Å
+R
+java:S1128'"7Remove this unused import 'java.awt.font.GlyphMetrics'.(ÁÚøùÿÿÿÿ
+H
+java:S1128,"2Remove this unused import 'java.awt.geom.Point2D'.(ˆÕ­Ü

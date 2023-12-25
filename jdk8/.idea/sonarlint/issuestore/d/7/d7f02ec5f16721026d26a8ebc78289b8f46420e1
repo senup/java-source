@@ -1,0 +1,18 @@
+
+P
+java:S1141t"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ÿ•
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+5
+java:S2112e"Use the URI class instead.(ë´Ó¦ûÿÿÿÿ
+P
+java:S1161l":Add the "@Override" annotation above this method signature(“–ış
+@
+java:S1197v"*Move the array designators [] to the type.(ƒô¹Ü
+V	java:S125}"<This block of commented-out lines of code should be removed.(Æ§¦Òùÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(ñÁŸ…úÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Ñãûÿÿÿÿÿ
+?	java:S108š")Either remove or fill this block of code.(ï­£Ä

@@ -1,0 +1,9 @@
+
+o
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿‹ÂÏ
+o
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì˙Ñ–
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(®˘’•
+d
+java:S3824>"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ïâç‘

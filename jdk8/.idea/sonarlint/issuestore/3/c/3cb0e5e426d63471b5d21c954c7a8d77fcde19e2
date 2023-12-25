@@ -1,0 +1,57 @@
+
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µàÀÁ
+R
+java:S2589i"7Remove this expression which always evaluates to "true"(Åı¦¸øÿÿÿÿ
+X
+java:S2583q"CChange this condition so that it does not always evaluate to "true"(‰ò‹N
+^
+java:S2583n"CChange this condition so that it does not always evaluate to "true"(í«Ô­ÿÿÿÿÿ
+X
+java:S2583o"CChange this condition so that it does not always evaluate to "true"(ğ»š:
+Y
+java:S2583m"CChange this condition so that it does not always evaluate to "true"(ŸÎê
+^
+java:S2583p"CChange this condition so that it does not always evaluate to "true"(ı§Àùÿÿÿÿ
+N
+java:S1854q"9Remove this useless assignment to local variable "nread".(‰ò‹N
+@
+java:S1481X"*Remove this unused "nread" local variable.(°«÷µ
+D
+java:S1940a")Use the opposite operator ("!=") instead.(Ã£·üÿÿÿÿ
+=
+java:S1125m"'Remove the unnecessary boolean literal.(ŸÎê
+B
+java:S1125n"'Remove the unnecessary boolean literal.(í«Ô­ÿÿÿÿÿ
+<
+java:S1125o"'Remove the unnecessary boolean literal.(ğ»š:
+B
+java:S1125p"'Remove the unnecessary boolean literal.(ı§Àùÿÿÿÿ
+<
+java:S1125q"'Remove the unnecessary boolean literal.(‰ò‹N
+R	java:S125—"<This block of commented-out lines of code should be removed.(‚½¢§
+?
+java:S1905¼"(Remove this unnecessary cast to "float".(îî†´
+?
+java:S1905½"(Remove this unnecessary cast to "float".(©ˆâÖ
+G
+java:S1481×"+Remove this unused "format" local variable.(ó¿®ûÿÿÿÿ
+F
+java:S2093Û"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+G
+java:S1481ö"+Remove this unused "format" local variable.(ó¿®ûÿÿÿÿ
+F
+java:S2093ú"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+C
+java:S1125«"'Remove the unnecessary boolean literal.(ŸÒ¶™üÿÿÿÿ
+K
+java:S1481Å"/Remove this unused "fileFormat" local variable.(ŒŠ´…ùÿÿÿÿ
+E
+java:S1905Ë".Remove this unnecessary cast to "InputStream".(¬ãÈı
+F
+java:S2093É"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+K
+java:S1481ä"/Remove this unused "fileFormat" local variable.(ŒŠ´…ùÿÿÿÿ
+E
+java:S1905ë".Remove this unnecessary cast to "InputStream".(¬ãÈı
+F
+java:S2093é"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

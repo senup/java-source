@@ -1,0 +1,11 @@
+
+G
+java:S2160ô"+Override the "equals" method in this class.(º¤„›üÿÿÿÿ
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+D
+java:S1125‰"(Remove the unnecessary boolean literals.(ÑŸŸïøÿÿÿÿ
+X
+java:S1126¾"AReplace this if-then-else statement by a single return statement.(¼…ş‚
+`
+java:S1134Á"DTake the required action to fix the issue indicated by this comment.(ûéÈÁüÿÿÿÿ

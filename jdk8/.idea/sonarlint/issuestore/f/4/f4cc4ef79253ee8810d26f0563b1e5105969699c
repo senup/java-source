@@ -1,0 +1,11 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+]
+java:S2259Z"BA "NullPointerException" could be thrown; "desc" is nullable here.(£…‚Éüÿÿÿÿ
+P	java:S1258"<This block of commented-out lines of code should be removed.(ë¯Äg
+V	java:S125<"<This block of commented-out lines of code should be removed.(õÃæïúÿÿÿÿ
+5
+java:S2097W"Add a type test to this method.(ÜÑã
+i
+java:S3776Ž"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ŸÁô¡

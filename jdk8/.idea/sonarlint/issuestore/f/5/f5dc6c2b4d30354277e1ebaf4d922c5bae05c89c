@@ -1,0 +1,9 @@
+
+u
+java:S1149["_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—¡Ÿ¿
+T
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(½Í ÷ýÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(“·ò¦
+I
+java:S1113„"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ

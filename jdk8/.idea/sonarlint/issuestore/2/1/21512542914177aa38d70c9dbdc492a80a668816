@@ -1,0 +1,21 @@
+
+l
+java:S1192d"QDefine a constant instead of duplicating this literal "Manifest-Version" 3 times.(ïþá“üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ñ…ž¿
+n	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±„=
+j
+java:S1845;"ORename method "debug" to prevent any misunderstanding/clash with field "debug".(„¦ðíüÿÿÿÿ
+€
+java:S11491"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åò¸´þÿÿÿÿ
+q
+java:S11494"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ô˜…ßûÿÿÿÿ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(²‘ó[
+ˆ
+java:S1130¤"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.( Ïû þÿÿÿÿ
+F
+java:S2093¸"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+ˆ
+java:S1130Ë"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ß£û†øÿÿÿÿ
+X
+java:S1126ý"AReplace this if-then-else statement by a single return statement.(¶á¦„

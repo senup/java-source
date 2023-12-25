@@ -1,0 +1,12 @@
+
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¦¡ó
+}
+java:S13196"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(’íé»úÿÿÿÿ
+T
+java:S59936"9Change the visibility of this constructor to "protected".(’íé»úÿÿÿÿ
+Z
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(åÅ÷Z
+`
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(ÅËùâúÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÙØ¤Þýÿÿÿÿ

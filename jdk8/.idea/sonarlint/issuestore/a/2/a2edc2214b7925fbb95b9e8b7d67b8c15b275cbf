@@ -1,0 +1,41 @@
+
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(”·‰
+\
+java:S1192Ò"FDefine a constant instead of duplicating this literal "empty" 3 times.(´ğïQ
+x
+java:S1488§"\Immediately return this expression instead of assigning it to the temporary variable "cert".(¤Øé¥ÿÿÿÿÿ
+f
+java:S2259"J"NullPointerException" will be thrown when invoking method "resolveKey()".(¾¬Åİşÿÿÿÿ
+h
+java:S2259Ç"R"NullPointerException" will be thrown when invoking method "resolveCertificate()".(Íò
+O
+java:S2755Ë"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ïÿòñúÿÿÿÿ
+U
+java:S1161U":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+7
+java:S3457{"!Single quote "'" must be escaped.(ê§ƒ¬
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(èÄíÅ
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(èÄíÅ
+8
+java:S3457Á"!Single quote "'" must be escaped.(ê§ƒ¬
+b
+java:S3457ì"KFormat specifiers or lambda should be used instead of string concatenation.(‡æ‚Ø
+b
+java:S3457‚"KFormat specifiers or lambda should be used instead of string concatenation.(‡æ‚Ø
+A
+java:S1197—"*Move the array designators [] to the type.(¸²æ’
+b
+java:S3457›"KFormat specifiers or lambda should be used instead of string concatenation.(’´Ÿ
+A
+java:S1197£"*Move the array designators [] to the type.(¸²æ’
+\
+java:S2147Ó"ECombine this catch with the one at line 337, which has the same body.(Ãôş•
+\
+java:S2147Õ"ECombine this catch with the one at line 337, which has the same body.(‚°„–
+Q
+java:S1161á":Add the "@Override" annotation above this method signature(©í»¼

@@ -1,0 +1,27 @@
+
+n
+java:S1192‘"XDefine a constant instead of duplicating this literal "Incompatible parameters" 4 times.(øÿM
+l	java:S117Ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÕœ¾üÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ï€
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Êø²øÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ò¢„ùÿÿÿÿ
+x
+java:S1488ÿ"\Immediately return this expression instead of assigning it to the temporary variable "skey".(·ôš®üÿÿÿÿ
+P
+java:S1191,"5Use classes from the Java API instead of Sun classes.(˜âÌÃÿÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ
+f	java:S116:"QRename this field "init_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òî§’
+k	java:S116;"QRename this field "init_g" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óýˆ®üÿÿÿÿ
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…¯üÑ
+>
+java:S1125Ø"'Remove the unnecessary boolean literal.(¦‰äâ
+>
+java:S1125š"'Remove the unnecessary boolean literal.(ŠÃ±·
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(äïÎªüÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+b
+java:S1128&"GRemove this unused import 'java.security.spec.InvalidKeySpecException'.(ëóÅëüÿÿÿÿ

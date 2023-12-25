@@ -1,0 +1,44 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(†µ‚Œ
+q
+java:S1149+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ú…çÈÿÿÿÿÿ
+q
+java:S1149-"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ï›¿½ùÿÿÿÿ
+l
+java:S1149/"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(·ÂÃ¢
+l
+java:S11491"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(§üùÅ
+{
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ð™°½
+q
+java:S1149m"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÒâË‰úÿÿÿÿ
+r
+java:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÒâË‰úÿÿÿÿ
+v
+java:S1149€"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+r
+java:S1149’"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(á‹±ºüÿÿÿÿ
+r
+java:S1149“"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ª°îÐÿÿÿÿÿ
+|
+java:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®Éðâ
+|
+java:S1149¼"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®Éðâ
+C	java:S108>")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+G
+java:S1150õ"+Implement Iterator rather than Enumeration.(ôï‚Õýÿÿÿÿ
+V
+java:S1659÷"?Declare "u2" and all following declarations on a separate line.(¡Ö³ñ
+r
+java:S1149ù"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬Ùº½ÿÿÿÿÿ
+r
+java:S1149ù"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬Ùº½ÿÿÿÿÿ
+m
+java:S1149ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“‰ù¤
+m
+java:S1149ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“‰ù¤
+B
+java:S1481‹"&Remove this unused "o" local variable.(è¥úÛüÿÿÿÿ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD

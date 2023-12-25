@@ -1,0 +1,17 @@
+
+J
+java:S1121¬".Extract the assignment out of this expression.(ášŠ‹ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è¹ÇË
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÕÀãüúÿÿÿÿ
+p
+java:S1450W"URemove the "locale" field and declare it as a local variable in the relevant methods.(þÎ¸Ìùÿÿÿÿ
+U
+java:S1117¡">Rename "normalized" which hides the field declared at line 80.(‹Ø†È
+N
+java:S1117¢"7Rename "era" which hides the field declared at line 67.(“¼éŽ
+j
+java:S2975±"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+E
+java:S1068W"*Remove this unused "locale" private field.(þÎ¸Ìùÿÿÿÿ

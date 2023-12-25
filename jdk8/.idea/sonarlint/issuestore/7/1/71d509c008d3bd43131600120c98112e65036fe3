@@ -1,0 +1,49 @@
+
+b
+java:S1301¶"KReplace this "switch" statement by "if" statements to increase readability.(ô«‡­
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ê¾ùä
+_
+java:S33586"DExtract this nested ternary operation into an independent statement.(³žö¥üÿÿÿÿ
+h
+java:S2975b"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æð
+O
+java:S1161b":Add the "@Override" annotation above this method signature(­æð
+M
+java:S1905e"2Remove this unnecessary cast to "ComponentSpec[]".(Þ÷‚íùÿÿÿÿ
+P
+java:S1161n":Add the "@Override" annotation above this method signature(ÀÅÎ›
+P
+java:S1854‡"9Remove this useless assignment to local variable "value".(Ï¥ª
+N
+java:S1172€"2Remove this unused method parameter "fromScratch".(£‚âÁùÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ÊÉ„ã
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(è§©¯
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(ÈÆ¸º
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(¸Èë¼ýÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(£ì„Ë
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(±îÚ¼ýÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(âàªŒúÿÿÿÿ
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(Âï¾Ö
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(ÇôÖÉ
+N	java:S106ª"9Replace this use of System.out or System.err by a logger.(ä…@
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ„þÄøÿÿÿÿ
+8	java:S131¶""Add a default case to this switch.(ô«‡­
+p	java:S116Þ"ZRename this field "HsamplingFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æîœ‹
+p	java:S116ß"ZRename this field "VsamplingFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃÛ
+o	java:S116à"YRename this field "QtableSelector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÊÚÌ
+i
+java:S2975ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æð
+D	java:S108ÿ")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+0
+java:S2225€"Return a non null object.(¥¹ï
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(°¢ÈÅ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ÄéÛøÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(Š´òÓýÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(õÔ‚½
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(’û«ýùÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(±¥ç“þÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(©ûÔ’øÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(áå¹£

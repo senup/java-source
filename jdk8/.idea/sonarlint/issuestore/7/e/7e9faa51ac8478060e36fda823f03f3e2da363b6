@@ -1,0 +1,17 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(òÈÂË
+i
+java:S3824<"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(À‡Àãıÿÿÿÿ
+U
+java:S11615":Add the "@Override" annotation above this method signature(Ãğƒ³şÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature(è¼öıÿÿÿÿ
+U
+java:S1161^":Add the "@Override" annotation above this method signature(‘á°şÿÿÿÿ
+U
+java:S1161g":Add the "@Override" annotation above this method signature(àË¹áüÿÿÿÿ
+P
+java:S1161n":Add the "@Override" annotation above this method signature(ˆ«±Ÿ
+P
+java:S1161v":Add the "@Override" annotation above this method signature(ÿšŞØ

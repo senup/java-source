@@ -1,0 +1,22 @@
+
+K
+java:S1066"/Merge this if statement with the enclosing one.(óì…œúÿÿÿÿ
+a
+java:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(œêÚ<
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+O
+java:S2390c"4Remove this reference to "JRELocaleProviderAdapter".(ŠôÂÃÿÿÿÿÿ
+J
+java:S2390h"4Remove this reference to "SPILocaleProviderAdapter".(Ç‚ˆß
+Q
+java:S2390–"5Remove this reference to "CLDRLocaleProviderAdapter".(Ö°­©úÿÿÿÿ
+Q
+java:S2390›"5Remove this reference to "HostLocaleProviderAdapter".(ïŞ€Åúÿÿÿÿ
+P
+java:S2390­"9Remove this reference to "FallbackLocaleProviderAdapter".(Ş¾˜¨
+{	java:S116E"aRename this field "UTIL_RESOURCES_PACKAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎöÂøÿÿÿÿ
+v	java:S116F"aRename this field "TEXT_RESOURCES_PACKAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢€ë˜
+h
+java:S2786>"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ğ«“„
+n	java:S131“"YComplete cases by adding the missing enum constants or add a default case to this switch.(œêÚ<

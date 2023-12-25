@@ -1,0 +1,64 @@
+
+j
+java:S2095æ"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(Şó×²ùÿÿÿÿ
+m
+java:S2095‘"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(ëÑÂ©øÿÿÿÿ
+e
+java:S2095Ì"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ÑĞ›Ğ
+m
+java:S2095Í"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(äÇîùÿÿÿÿ
+e
+java:S2095ç"NUse try-with-resources or close this "PipedInputStream" in a "finally" clause.(ıÛ¦Ï
+j
+java:S2095Í"NUse try-with-resources or close this "PipedInputStream" in a "finally" clause.(ÄŠöışÿÿÿÿ
+t	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜÚ“úıÿÿÿÿ
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†ĞàÖ
+o	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú²•¶
+u	java:S115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯˜£ˆşÿÿÿÿ
+@
+java:S1197O"*Move the array designators [] to the type.(‹ó½û
+E
+java:S1197g"*Move the array designators [] to the type.(ÃÏ±Ìÿÿÿÿÿ
+@
+java:S1197h"*Move the array designators [] to the type.(Ğ—àŸ
+U
+java:S1161v":Add the "@Override" annotation above this method signature(°¾¦àıÿÿÿÿ
+=
+java:S1905"&Remove this unnecessary cast to "int".(–ùÇ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(İĞ—ùÿÿÿÿ
+Q
+java:S1854”":Remove this useless assignment to local variable "length".(ıØ³Ø
+A
+java:S1197¢"*Move the array designators [] to the type.(Ğ—àŸ
+B
+java:S1481¥"+Remove this unused "length" local variable.(è’Œ
+F
+java:S1197­"*Move the array designators [] to the type.(½Œé«ıÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(€ª²
+=	java:S131""Add a default case to this switch.(âãËøÿÿÿÿ
+=	java:S131¨""Add a default case to this switch.(Š³‘´şÿÿÿÿ
+a
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(¯˜£ˆşÿÿÿÿ
+Q
+java:S1854‘":Remove this useless assignment to local variable "length".(š±é
+Q
+java:S1854§":Remove this useless assignment to local variable "length".(Ëî˜
+T
+java:S1854ì"=Remove this useless assignment to local variable "eventTick".(’÷á
+\
+java:S1854É"@Remove this useless assignment to local variable "bytesWritten".(¸–»½ùÿÿÿÿ
+G
+java:S1172Ç"+Remove this unused method parameter "type".(´“ßùşÿÿÿÿ
+L
+java:S1481É"5Remove this unused "lastBytesWritten" local variable.(Äò«¢
+J
+java:S1481×".Remove this unused "eventTick" local variable.(Æ©ò„şÿÿÿÿ
+:
+java:S1659ã"#Declare "data2" on a separate line.(¹ô±œ
+I
+java:S1481â"-Remove this unused "metatype" local variable.(íÎ¼ÿÿÿÿÿ
+G
+java:S1481ä"+Remove this unused "length" local variable.(”Ú´ıÿÿÿÿ
+F
+java:S1197å"*Move the array designators [] to the type.(ªêÎ¾ûÿÿÿÿ

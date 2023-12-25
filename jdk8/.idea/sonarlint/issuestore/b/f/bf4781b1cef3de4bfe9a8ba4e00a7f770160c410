@@ -1,0 +1,58 @@
+
+u
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(éæîåşÿÿÿÿ
+…
+java:S1319I"jThe type of "environment" should be an interface such as "Map" rather than the implementation "Hashtable".(¾ñ¬§øÿÿÿÿ
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¸ü”ÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Êƒüÿÿÿÿ
+o	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùş¯Ã
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(Ùş¯Ã
+Œ
+java:S1130Ò"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ÊËºÃ
+Œ
+java:S1130á"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(è™Í«
+‘
+java:S1130ê"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ÂëíÚÿÿÿÿÿ
+P
+java:S1117ÿ"9Rename "attrs" which hides the field declared at line 47.(Õú°Ğ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÇÍò¯şÿÿÿÿ
+A
+java:S1659º"%Declare "modAttr" on a separate line.(Ñıèùÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ìåÔñøÿÿÿÿ
+Œ
+java:S1130Â"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(´İö»
+‘
+java:S1130×"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(ŠêŞîıÿÿÿÿ
+Œ
+java:S1130Û"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(üıÔ«
+v
+java:S3038"Z"next" is defined in the "NamingEnumeration" interface and can be removed from this class.(Ä¯ Üşÿÿÿÿ
+U
+java:S1117Ê"9Rename "attrs" which hides the field declared at line 47.(®ŞÎôûÿÿÿÿ
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(Äô‚¿
+V
+java:S1161ì":Add the "@Override" annotation above this method signature(óËçñüÿÿÿÿ
+B
+java:S2160ù"+Override the "equals" method in this class.(¹ÊºÒ
+g
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(ğÜşŠ
+A
+java:S1197”"*Move the array designators [] to the type.(»ŞŒ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(´²›º
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(ïÇáá
+j
+java:S2975ª"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(²ÈŞ
+_
+java:S1182ª"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+R	java:S125º"<This block of commented-out lines of code should be removed.(±´ÿ®
+8
+java:S1116½"Remove this empty statement.(ôŸìúÿÿÿÿ

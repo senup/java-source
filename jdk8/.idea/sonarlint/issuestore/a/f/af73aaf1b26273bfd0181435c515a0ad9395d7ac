@@ -1,0 +1,11 @@
+
+P
+java:S1191!"5Use classes from the Java API instead of Sun classes.(‚ÙÊ¥ùÿÿÿÿ
+U
+java:S11180":Add a private constructor to hide the implicit public one.(™Úîıüÿÿÿÿ
+a
+java:S1854@"FRemove this useless assignment to local variable "qualifiedClassName".(™¥×ûÿÿÿÿ
+a
+java:S1854E"FRemove this useless assignment to local variable "qualifiedClassName".(îš¤Ÿûÿÿÿÿ
+R
+java:S1481@"7Remove this unused "qualifiedClassName" local variable.(™¥×ûÿÿÿÿ

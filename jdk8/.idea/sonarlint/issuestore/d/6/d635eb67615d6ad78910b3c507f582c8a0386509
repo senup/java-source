@@ -1,0 +1,14 @@
+
+s
+java:S2142="^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Þµ´\
+=	java:S108=")Either remove or fill this block of code.(Þµ´\
+t
+java:S2142S"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®
+\
+java:S2147¡"ECombine this catch with the one at line 159, which has the same body.(Ÿ¨¹Ä
+u
+java:S2142Ÿ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®
+V
+java:S1117¸":Rename "thread" which hides the field declared at line 44.(á«Š™ûÿÿÿÿ
+U
+java:S1155¹">Use isEmpty() to check whether the collection is empty or not.(‡±ÐÎ

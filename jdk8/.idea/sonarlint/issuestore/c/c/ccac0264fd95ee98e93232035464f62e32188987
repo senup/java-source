@@ -1,0 +1,43 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+a	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãüç‡
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(òçÄÒùÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’óâ
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒë–üÿÿÿÿ
+m
+java:S1192"QDefine a constant instead of duplicating this literal "Document is null" 4 times.(ŸÄã‰øÿÿÿÿ
+o	java:S135Ú"YReduce the total number of break and continue statements in this loop to use at most one.(¢œË´
+s	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã”úŒıÿÿÿÿ
+C
+java:S16047"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
+`
+java:S2259‚"I"NullPointerException" will be thrown when invoking method "getSetRec()".(ÉÅãÑ
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ó€Äï
+a
+java:S2147Ò"ECombine this catch with the one at line 205, which has the same body.(³¸ûÿÿÿÿ
+\
+java:S2147Ö"ECombine this catch with the one at line 205, which has the same body.(€àÈ„
+U
+java:S4719Ç"9Replace charset name argument with StandardCharsets.UTF_8(ãƒ„Ñùÿÿÿÿ
+\
+java:S2147ô"ECombine this catch with the one at line 239, which has the same body.(¹ƒ›×
+\
+java:S2147ù"ECombine this catch with the one at line 239, which has the same body.(€àÈ„
+R	java:S125ó"<This block of commented-out lines of code should be removed.(ğ¨àØ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(ğ¨àØ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(ğ¨àØ
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÙºÍóşÿÿÿÿ
+8	java:S131È""Add a default case to this switch.(ô…È·
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Úø’åùÿÿÿÿ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ĞìÜú

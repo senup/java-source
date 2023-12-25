@@ -1,0 +1,16 @@
+
+E
+java:S3740."/Provide the parametrized type for this generic.(¡ÑÒ²
+J
+java:S37408"/Provide the parametrized type for this generic.(Ú‹Óúÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ó´É‰
+X
+java:S2259S"BA "NullPointerException" could be thrown; "list" is nullable here.(Ö…—Ù
+n	java:S1162"TRename this field "_hashCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¢ÿÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(ğÜşŠ
+:
+java:S2097O"Add a type test to this method.(İ¢êÍıÿÿÿÿ
+U
+java:S1161O":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ

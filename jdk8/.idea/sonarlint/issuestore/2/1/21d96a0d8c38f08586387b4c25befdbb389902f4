@@ -1,0 +1,65 @@
+
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ÍÕÃúÿÿÿÿ
+p
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡“õÿ
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢©ê±
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(úû
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÂ¤İ
+t	java:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.( Ììëÿÿÿÿÿ
+t	java:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.( Ììëÿÿÿÿÿ
+F
+java:S1066õ"/Merge this if statement with the enclosing one.(‘¨ù¹
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+N
+java:S2589Æ"7Remove this expression which always evaluates to "true"(¼ÙÖÓ
+j
+java:S3824û"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¬Ê¸¿üÿÿÿÿ
+m
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(É“ßêÿÿÿÿÿ
+?	java:S108–")Either remove or fill this block of code.(²ÄêØ
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(†Œ®Øùÿÿÿÿ
+i	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú×Âøşÿÿÿÿ
+X
+java:S1854û"<Remove this useless assignment to local variable "glyphPtr".(·åí±ÿÿÿÿÿ
+2
+java:S3626•"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626—"Remove this redundant jump.(ÉŠ©ƒ
+S
+java:S3972œ"7Move this "if" to a new line or add the missing "else".(±Ü‚¸ÿÿÿÿÿ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(ÁÃ¯Ñ
+2
+java:S3626µ"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626·"Remove this redundant jump.(ÉŠ©ƒ
+8	java:S131É""Add a default case to this switch.(€Ô–Ô
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÂŒÓùÿÿÿÿ
+8	java:S131ä""Add a default case to this switch.(€Ô–Ô
+T
+java:S1854 "=Remove this useless assignment to local variable "tmpFormat".(²ëï¼
+i
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(²„ç¿
+V
+java:S1161±":Add the "@Override" annotation above this method signature(áÁä—ùÿÿÿÿ
+=
+java:S1659¼"&Declare "topLeftY" on a separate line.(£Ğç·
+<
+java:S1905Û"&Remove this unnecessary cast to "int".(ûÒ¿@
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(®˜Ò•üÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§ÚÏ§
+V
+java:S1161ß":Add the "@Override" annotation above this method signature(†¦Éœúÿÿÿÿ
+J
+java:S1905“".Remove this unnecessary cast to "GeneralPath".(¶Ø‹”üÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(¤ìÖÒûÿÿÿÿ

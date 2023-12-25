@@ -1,0 +1,26 @@
+
+F
+java:S3740¢"/Provide the parametrized type for this generic.(»ƒ£À
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(Ú‘°’üÿÿÿÿ
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+D
+java:S1604¸"(Make this anonymous inner class a lambda(ÇÊô‰ıÿÿÿÿ
+D
+java:S5411Ì"(Use a primitive boolean expression here.(¥ãëöùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(”îóµ
+F
+java:S2160+"+Override the "equals" method in this class.(·ØÎëûÿÿÿÿ
+Q	java:S125="<This block of commented-out lines of code should be removed.(³êÊØ
+P
+java:S1161s":Add the "@Override" annotation above this method signature(ìƒã
+V
+java:S1161ö":Add the "@Override" annotation above this method signature(£¼Ç¶øÿÿÿÿ
+V	java:S899•";Do something with the "boolean" value returned by "delete".(§æÛ‚ûÿÿÿÿ
+j
+java:S4042•"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(§æÛ‚ûÿÿÿÿ
+`
+java:S1134—"DTake the required action to fix the issue indicated by this comment.(¬Ò¡ûÿÿÿÿ
+?	java:S108™")Either remove or fill this block of code.(”ı¾

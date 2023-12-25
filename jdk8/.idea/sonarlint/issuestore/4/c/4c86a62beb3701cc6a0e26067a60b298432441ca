@@ -1,0 +1,33 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ç’¶üÿÿÿÿ
+P
+java:S11614":Add the "@Override" annotation above this method signature(ëûˆÜ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿúùÛ
+L
+java:S5261]"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¥ˆ¥’şÿÿÿÿ
+?	java:S108›")Either remove or fill this block of code.(”ı¾
+B
+java:S1481Ÿ"&Remove this unused "s" local variable.(³³²ºûÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(”ı¾
+B
+java:S1481º"&Remove this unused "s" local variable.(³³²ºûÿÿÿÿ
+?	java:S108Á")Either remove or fill this block of code.(”ı¾
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ
+?	java:S108é")Either remove or fill this block of code.(ï­£Ä
+V
+java:S1161í":Add the "@Override" annotation above this method signature(’÷Ÿüûÿÿÿÿ
+?	java:S108ú")Either remove or fill this block of code.(ï­£Ä
+Q
+java:S1161ş":Add the "@Override" annotation above this method signature(Â¶¾ì
+A
+java:S1197ş"*Move the array designators [] to the type.(Â¶¾ì
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+V
+java:S1161“":Add the "@Override" annotation above this method signature(í š’ûÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ

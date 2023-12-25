@@ -1,0 +1,8 @@
+
+b	java:S101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íþªÜ
+[
+java:S2259c"@A "NullPointerException" could be thrown; "ne" is nullable here.(Ñø£Ãþÿÿÿÿ
+q
+java:S1149B"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ð™¢—øÿÿÿÿ
+l
+java:S1149R"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ó¥îÖ

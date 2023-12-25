@@ -1,0 +1,9 @@
+
+E
+java:S1066B"/Merge this if statement with the enclosing one.(è¸Å
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(³ŒËé
+o	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…¾Æ¬
+t	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯©Øûÿÿÿÿ
+m
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œåºıÿÿÿÿ

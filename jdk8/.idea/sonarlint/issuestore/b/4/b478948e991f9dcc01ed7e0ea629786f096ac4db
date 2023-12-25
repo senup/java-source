@@ -1,0 +1,13 @@
+
+x
+java:S1319K"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(˝√˙›
+x
+java:S1319_"bThe type of "env" should be an interface such as "Map" rather than the implementation "Hashtable".(§»îÄ
+[
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(í¡®É
+ê
+java:S1130="zRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from constructor's body.(‘¨∂«
+ê
+java:S1130L"zRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from constructor's body.(ËôÕ´
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÊºéŸ

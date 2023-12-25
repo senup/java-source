@@ -1,0 +1,9 @@
+
+J
+java:S1066G"/Merge this if statement with the enclosing one.(ÒéÌıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Çƒ‡¶
+t	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅËÂâûÿÿÿÿ
+P
+java:S1118(":Add a private constructor to hide the implicit public one.(€‹•Õ
+C	java:S108@")Either remove or fill this block of code.(¿åÓúÿÿÿÿ

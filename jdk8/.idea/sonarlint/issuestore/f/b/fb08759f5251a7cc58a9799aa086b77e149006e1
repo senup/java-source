@@ -1,0 +1,7 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(»Ž……
+m	java:S116""SRename this field "page_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯µ¹ûÿÿÿÿ
+m	java:S116""SRename this field "page_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯µ¹ûÿÿÿÿ
+A
+java:S1659""&Declare "page_min" on a separate line.(ü¯µ¹ûÿÿÿÿ

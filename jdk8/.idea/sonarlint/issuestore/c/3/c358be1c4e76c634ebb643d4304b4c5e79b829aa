@@ -1,0 +1,26 @@
+
+C
+java:S1604y"(Make this anonymous inner class a lambda(õ‡îæüÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÿèÆÀşÿÿÿÿ
+X	java:S107Ò"=Method has 10 parameters, which is greater than 7 authorized.(§ß¹«úÿÿÿÿ
+F
+java:S1197º"*Move the array designators [] to the type.(ËÊÈıÿÿÿÿ
+F
+java:S1197•"*Move the array designators [] to the type.(æàØ•üÿÿÿÿ
+F
+java:S1197×"*Move the array designators [] to the type.(æàØ•üÿÿÿÿ
+F
+java:S1197ç"*Move the array designators [] to the type.(£Ê¼Âùÿÿÿÿ
+=	java:S131é""Add a default case to this switch.(úªÎÒùÿÿÿÿ
+F
+java:S1197"*Move the array designators [] to the type.(ËÊÈıÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(Ö’¢æ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(®Ï†¿ûÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(²Àªûÿÿÿÿ
+A
+java:S1197½"*Move the array designators [] to the type.(®Ïô
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(òò´ 
+A
+java:S1197Ï"*Move the array designators [] to the type.(®Ïô
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(òò´ 

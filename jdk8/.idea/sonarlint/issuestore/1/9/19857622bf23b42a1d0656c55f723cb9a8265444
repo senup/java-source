@@ -1,0 +1,11 @@
+
+C
+java:S1604<"(Make this anonymous inner class a lambda(ö©‰±øÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ƒ°¥±ıÿÿÿÿ
+P
+java:S11336"5Do not forget to remove this deprecated code someday.(ó„ö™ıÿÿÿÿ
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(Ş¾é—
+Œ
+java:S1130±"uRemove the declaration of thrown exception 'java.io.NotActiveException' which is a subclass of 'java.io.IOException'.(³ß¼Ó

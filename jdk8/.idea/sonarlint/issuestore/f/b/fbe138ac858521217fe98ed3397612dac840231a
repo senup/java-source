@@ -1,0 +1,13 @@
+
+v
+java:S14883"[Immediately return this expression instead of assigning it to the temporary variable "img".(¿òÎ«üÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¤õ³Âüÿÿÿÿ
+F
+java:S1874!"+Remove this use of "Ref"; it is deprecated.(«Ñãúÿÿÿÿ
+>
+java:S1185+"(Remove this method to simply inherit it.(ã®¸Â
+P
+java:S1161+":Add the "@Override" annotation above this method signature(ã®¸Â
+_
+java:S3551+"IMake this method "synchronized" to match the parent class implementation.(ã®¸Â

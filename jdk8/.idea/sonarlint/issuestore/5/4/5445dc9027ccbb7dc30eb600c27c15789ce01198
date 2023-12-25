@@ -1,0 +1,36 @@
+
+b
+java:S1192‰"KDefine a constant instead of duplicating this literal "FormatData" 6 times.(–¼®’
+t	java:S135é"YReduce the total number of break and continue statements in this loop to use at most one.(ë·â¥şÿÿÿÿ
+D
+java:S1604Å"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(İÃêâøÿÿÿÿ
+l
+java:S3077E"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ĞÉF
+m
+java:S3077s"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¶‘ƒ£
+r
+java:S3077t"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÄÄÔïøÿÿÿÿ
+m
+java:S3077u"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ö´ÌĞ
+r
+java:S3077v"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ş¶÷èüÿÿÿÿ
+r
+java:S3077w"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(±×Ğíúÿÿÿÿ
+m
+java:S3077x"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¯ÃÆØ
+m
+java:S3077z"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(û½…ò
+r
+java:S3077{"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Áìı±şÿÿÿÿ
+r
+java:S3077|"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ô‡¥Õıÿÿÿÿ
+m
+java:S3077}"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(îëŒ‹
+r
+java:S3077~"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¡£Ñ…ûÿÿÿÿ
+s
+java:S3077€"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÇŒ‚¸ûÿÿÿÿ
+C
+java:S3398€",Move this method into "AvailableJRELocales".(ôë‰

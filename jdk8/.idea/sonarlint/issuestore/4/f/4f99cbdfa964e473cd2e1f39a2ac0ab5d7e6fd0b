@@ -1,0 +1,99 @@
+
+q
+java:S1192‰"ZDefine a constant instead of duplicating this literal "not an ASN.1 SEQUENCE tag" 6 times.(ø“ÎÚ
+v
+java:S1192ˆ"_Define a constant instead of duplicating this literal "PBE parameter parsing error: " 12 times.(ƒÑÏ¡
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÂ¥’úÿÿÿÿ
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èòå
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îé¸›
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ×¥é
+c	java:S101Ï"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†Òø
+c	java:S101Õ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šıºñ
+h	java:S101Û"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş«Ğ‘üÿÿÿÿ
+h	java:S101á"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Šˆïıüÿÿÿÿ
+h	java:S101ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÎïèşÿÿÿÿ
+h	java:S101í"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëİ¶¿úÿÿÿÿ
+c	java:S101ó"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤»é
+h	java:S101ù"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íè¦Êşÿÿÿÿ
+h	java:S101ÿ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–¥ÿ»üÿÿÿÿ
+b	java:S101…"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼ÜB
+P
+java:S1191$"5Use classes from the Java API instead of Sun classes.(ò„¸şÿÿÿÿ
+
+java:S4165á"eRemove this useless assignment; "keysize" already holds the assigned value along all execution paths.(Üƒî’ÿÿÿÿÿ
+q	java:S116 "VRename this field "kdfAlgo_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ˆ™’úÿÿÿÿ
+o	java:S116£"YRename this field "cipherAlgo_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬²ì
+u
+java:S3008w"ZRename this field "pkcs5PBKDF2_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥©ªìÿÿÿÿÿ
+t
+java:S3008x"YRename this field "pkcs5PBES2_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş’Ùıÿÿÿÿ
+q
+java:S3008y"[Rename this field "hmacWithSHA1_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¤ù
+x
+java:S3008z"]Rename this field "hmacWithSHA224_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”•äíÿÿÿÿÿ
+x
+java:S3008{"]Rename this field "hmacWithSHA256_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼»Àûıÿÿÿÿ
+x
+java:S3008|"]Rename this field "hmacWithSHA384_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÔÇùÿÿÿÿ
+s
+java:S3008}"]Rename this field "hmacWithSHA512_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ˜¦’
+n
+java:S3008~"XRename this field "aes128CBC_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÂ•˜
+n
+java:S3008"XRename this field "aes192CBC_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªìÓÿ
+o
+java:S3008€"XRename this field "aes256CBC_OID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖóâÈ
+E
+java:S1197b"*Move the array designators [] to the type.(—Ï¬‰ûÿÿÿÿ
+E
+java:S1197d"*Move the array designators [] to the type.(›µ±ùÿÿÿÿÿ
+@
+java:S1197f"*Move the array designators [] to the type.(äö¨
+E
+java:S1197h"*Move the array designators [] to the type.(»¯Î¬şÿÿÿÿ
+E
+java:S1197j"*Move the array designators [] to the type.(ÇÀØÃıÿÿÿÿ
+E
+java:S1197l"*Move the array designators [] to the type.(ËØ¦Âúÿÿÿÿ
+E
+java:S1197n"*Move the array designators [] to the type.(ĞİèÕıÿÿÿÿ
+@
+java:S1197p"*Move the array designators [] to the type.(’ïó×
+@
+java:S1197r"*Move the array designators [] to the type.(µùÍ®
+@
+java:S1197t"*Move the array designators [] to the type.(¥ƒª¨
+E
+java:S1874‹".Remove this use of "equals"; it is deprecated.(Éš·
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Êõã­
+D
+java:S1874¨".Remove this use of "equals"; it is deprecated.(Ì°ô
+J
+java:S1874Æ".Remove this use of "equals"; it is deprecated.(ÀÙ¼ùüÿÿÿÿ
+J
+java:S1874È".Remove this use of "equals"; it is deprecated.(ª ûÿÿÿÿ
+E
+java:S1874Ê".Remove this use of "equals"; it is deprecated.(Ùºğ»
+E
+java:S1874Ì".Remove this use of "equals"; it is deprecated.(«¥µ
+J
+java:S1874Î".Remove this use of "equals"; it is deprecated.(Ÿ§——şÿÿÿÿ
+E
+java:S1874æ".Remove this use of "equals"; it is deprecated.(´Ïê
+C
+java:S3329ê"'Use a dynamically-generated, random IV.( €î•úÿÿÿÿ
+E
+java:S1874ì".Remove this use of "equals"; it is deprecated.(©Ãîú
+C
+java:S3329ğ"'Use a dynamically-generated, random IV.( €î•úÿÿÿÿ
+e
+java:S4201ª"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ñèøüùÿÿÿÿ
+K
+java:S1656á"/Remove or correct this useless self-assignment.(Üƒî’ÿÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+O
+java:S1128$"4Remove this unused import 'sun.misc.HexDumpEncoder'.(ò„¸şÿÿÿÿ
+G
+java:S1068"1Remove this unused "aes192CBC_OID" private field.(ªìÓÿ

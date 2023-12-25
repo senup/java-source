@@ -1,0 +1,61 @@
+
+o	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(Öáşˆ
+n	java:S127¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(öëñ¥
+n	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡Ä—ƒ
+E
+java:S1066•"/Merge this if statement with the enclosing one.(‹”Q
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô»åúÿÿÿÿ
+v
+java:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+{
+java:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(©ßÜ”ûÿÿÿÿ
+v
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ààË­
+v
+java:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( ³°»
+{
+java:S1149¾"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ê¶ïÄıÿÿÿÿ
+u
+java:S1149ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(òøÖ;
+v
+java:S1149€"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢ĞÚĞ
+W	java:S107Ã"<Method has 9 parameters, which is greater than 7 authorized.(òÅ²ûÿÿÿÿ
+W	java:S107Ù"<Method has 8 parameters, which is greater than 7 authorized.(©ßÜ”ûÿÿÿÿ
+h
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‡¾­µ
+?
+java:S4274»"(Replace this assert with a proper check.(æª¹
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯³òşÿÿÿÿ
+R
+java:S1854Ä"6Remove this useless assignment to local variable "ui".(ÊÅÿßùÿÿÿÿ
+C
+java:S1481Ä"'Remove this unused "ui" local variable.(ÊÅÿßùÿÿÿÿ
+N
+java:S1854ç"7Remove this useless assignment to local variable "lim".(ûë·
+B
+java:S1075‹"&Remove this hard-coded path-delimiter.(ƒ–çÿÿÿÿÿ
+B
+java:S1075"&Remove this hard-coded path-delimiter.(¬ï·şÿÿÿÿ
+B
+java:S1075š"&Remove this hard-coded path-delimiter.(ƒ–çÿÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(©ßÜ”ûÿÿÿÿ
+C
+java:S1659é"'Declare "dontquote" on a separate line.(ËˆÅŸüÿÿÿÿ
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ààË­
+C
+java:S1659"'Declare "dontquote" on a separate line.(ËˆÅŸüÿÿÿÿ
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(î Ø 
+Q
+java:S1854½"5Remove this useless assignment to local variable "n".(å¢ÏÌşÿÿÿÿ
+B
+java:S1481½"&Remove this unused "n" local variable.(å¢ÏÌşÿÿÿÿ
+\
+java:S1124û"EReorder the modifiers to comply with the Java Language Specification.(ÛœÁ
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
