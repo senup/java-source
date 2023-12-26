@@ -339,6 +339,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
         int h;
         //因为 32 位的 hashcode 后十六位经常会类似，所以下面这个操作是保留前十六位，对后十六位进行异或操作
         return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
+        // 关键点就是高低位混淆，尽量参与运算，使得分布更均匀
     }
 
     /**
@@ -552,6 +553,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      * The {@link #containsKey containsKey} operation may be used to
      * distinguish these two cases.
      *
+     * 网址：<a href="https://www.bilibili.com/video/BV1b84y1G7o5?p=6">...</a>
      * @see #put(Object, Object)
      */
     public V get(Object key) {
@@ -666,7 +668,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                     //如果当前是最后一个元素，也没找到一个于你要插入的 key，则加入到当前链表的末尾
                     if ((e = p.next) == null) {
                         p.next = newNode(hash, key, value, null);
-                        // 如果桶中的节点数超过了阈值（TREEIFY_THRESHOLD），则把链表转化为红黑树
+                        // 如果桶中的节点数大于等于了阈值（8），则把链表转化为红黑树
                         if (binCount >= TREEIFY_THRESHOLD - 1) // -1 for 1st
                             //树化操作
                             treeifyBin(tab, hash);
@@ -706,29 +708,52 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      * Otherwise, because we are using power-of-two expansion, the
      * elements from each bin must either stay at same index, or move
      * with a power of two offset in the new table.
+     * 为了解决哈希冲突导致的链化影响查询效率，扩容会缓解这个问题
      *
      * @return the table
      */
     final Node<K,V>[] resize() {
+        // 扩容前的哈希表
         Node<K,V>[] oldTab = table;
+        // 扩容前的哈希表长度
         int oldCap = (oldTab == null) ? 0 : oldTab.length;
+        // 扩容之前的扩容阈 值，触发本次扩容的阈值
         int oldThr = threshold;
+        // 扩容之后数组的大小；下次再次扩容的条件
         int newCap, newThr = 0;
+        // 条件成立说明哈希表已经是初始化过了
         if (oldCap > 0) {
+            // 扩容之前的数组大小已经达到最大的阈值，因此扩容阈值返回最大值，直接 return 不扩容
             if (oldCap >= MAXIMUM_CAPACITY) {
                 threshold = Integer.MAX_VALUE;
                 return oldTab;
             }
+            // 左移实现数值扩容后大小翻倍,并且小于数组最大的阈值2的三十次方;
             else if ((newCap = oldCap << 1) < MAXIMUM_CAPACITY &&
-                     oldCap >= DEFAULT_INITIAL_CAPACITY)
+                    // 并且原来的数组大小>=16
+                    //todo 如果这里为 8 就不满足条件了
+                    // todo 这里满足 newThr=0
+                    oldCap >= DEFAULT_INITIAL_CAPACITY)
                 newThr = oldThr << 1; // double threshold
         }
+        //oldCap == 0 说明散列表为 null
+        //1.new HashMap（initcap,LoadFactor） ；
+        // 2.new HashMap （initCap） ；
+        // 3.new HashMap （map）；并且这个map有数据
         else if (oldThr > 0) // initial capacity was placed in threshold
+            // 使用 sizefor 获取到一个 2 的倍数复制给新数组
+            // todo 这里满足 newThr=0
             newCap = oldThr;
+
+            //oldCap == 0 && oldThr == 0 说明没有配置初始值，直接初始化空间为 16，
         else {               // zero initial threshold signifies using defaults
             newCap = DEFAULT_INITIAL_CAPACITY;
-            newThr = (int)(DEFAULT_LOAD_FACTOR * DEFAULT_INITIAL_CAPACITY);
+            // 空间为 12
+            newThr = (int) (DEFAULT_LOAD_FACTOR * DEFAULT_INITIAL_CAPACITY);
         }
+
+
+        // 这里是说扩容阈值太小或者扩容阈值没赋值，那么就用容量*负载因子计算出新的扩容边界，取整
         if (newThr == 0) {
             float ft = (float)newCap * loadFactor;
             newThr = (newCap < MAXIMUM_CAPACITY && ft < (float)MAXIMUM_CAPACITY ?
@@ -736,30 +761,52 @@ public class HashMap<K,V> extends AbstractMap<K,V>
         }
         threshold = newThr;
         @SuppressWarnings({"rawtypes","unchecked"})
+
             Node<K,V>[] newTab = (Node<K,V>[])new Node[newCap];
         table = newTab;
+
+        // 扩容之前不为null
         if (oldTab != null) {
             for (int j = 0; j < oldCap; ++j) {
+                //当前 node 节点
                 Node<K,V> e;
+                // 只能说明不为空，不确定是 node 还是树节点
                 if ((e = oldTab[j]) != null) {
+                    //老的数组置空，方便 GC 回收
                     oldTab[j] = null;
+
+                    // 说明当前数组没有链接的链表，因此直接计算新节点的位置 hash&(length-1)
                     if (e.next == null)
                         newTab[e.hash & (newCap - 1)] = e;
+
+                    // 如果是树节点
                     else if (e instanceof TreeNode)
                         ((TreeNode<K,V>)e).split(this, newTab, j, oldCap);
+
+                    //如果是链表节点
                     else { // preserve order
+                        // low 链表
                         Node<K,V> loHead = null, loTail = null;
+                        // high 链表
                         Node<K,V> hiHead = null, hiTail = null;
+                        // 当前节点
                         Node<K,V> next;
                         do {
+                            // 下个节点
                             next = e.next;
+                            // 当前节点位置不变
                             if ((e.hash & oldCap) == 0) {
+                                // 如果低链尾为空
                                 if (loTail == null)
+                                    // 低链头赋值当前节点
                                     loHead = e;
                                 else
+                                    // 低链尾增加节点
                                     loTail.next = e;
+                                // 尾指针后移
                                 loTail = e;
                             }
+                            //节点位置后移
                             else {
                                 if (hiTail == null)
                                     hiHead = e;
@@ -769,11 +816,15 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                             }
                         } while ((e = next) != null);
                         if (loTail != null) {
+                            // 低链的尾部置空
                             loTail.next = null;
+                            // 数组的节点放入低链的头部
                             newTab[j] = loHead;
                         }
                         if (hiTail != null) {
+                            // 高链的尾部置空
                             hiTail.next = null;
+                            // 数组的高位节点位移【旧数组的长度】个位置
                             newTab[j + oldCap] = hiHead;
                         }
                     }
@@ -789,6 +840,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      */
     final void treeifyBin(Node<K,V>[] tab, int hash) {
         int n, index; Node<K,V> e;
+        // 数组达到 64 且
         if (tab == null || (n = tab.length) < MIN_TREEIFY_CAPACITY)
             resize();
         else if ((e = tab[index = (n - 1) & hash]) != null) {
@@ -841,48 +893,67 @@ public class HashMap<K,V> extends AbstractMap<K,V>
      * @param hash hash for key
      * @param key the key
      * @param value the value to match if matchValue, else ignored
-     * @param matchValue if true only remove if value is equal
+     * @param matchValue if true only remove if value is equal 当为 true 只会移除 value 相等的值，相当于多做一层比较
      * @param movable if false do not move other nodes while removing
      * @return the node, or null if none
      */
     final Node<K,V> removeNode(int hash, Object key, Object value,
                                boolean matchValue, boolean movable) {
         Node<K,V>[] tab; Node<K,V> p; int n, index;
+        //找到 Hash的位置，可能是数组头，链表，红黑树，使用 node 指针标识
         if ((tab = table) != null && (n = tab.length) > 0 &&
             (p = tab[index = (n - 1) & hash]) != null) {
+
             Node<K,V> node = null, e; K k; V v;
             if (p.hash == hash &&
                 ((k = p.key) == key || (key != null && key.equals(k))))
+                //key 匹配上了，定位 node 指针指向 p
                 node = p;
+                // 如果存在下一个节点
             else if ((e = p.next) != null) {
                 if (p instanceof TreeNode)
+                    // 红黑树获取节点
                     node = ((TreeNode<K,V>)p).getTreeNode(hash, key);
                 else {
                     do {
                         if (e.hash == hash &&
                             ((k = e.key) == key ||
                              (key != null && key.equals(k)))) {
+                            // 发现 key 相等的时候，那么找到 node 指针定位的元素
                             node = e;
                             break;
                         }
+                        //p是 node 的前一个元素
                         p = e;
+                        // 循环找链表下一个
                     } while ((e = e.next) != null);
                 }
             }
+
+// 找到了节点 && （matchValue 为 false  || value 相等 || （value 不为空且相等））
+            // 意思就是一个参数的重载方法默认是 false 会满足!matchValue；
+            // 两个参数的重载方法（多传了 value），就需要满足值相等或者值不为空且值相等
             if (node != null && (!matchValue || (v = node.value) == value ||
                                  (value != null && value.equals(v)))) {
                 if (node instanceof TreeNode)
+                    // 移除树节点
                     ((TreeNode<K,V>)node).removeTreeNode(this, tab, movable);
                 else if (node == p)
+                    //node指针指向桶
                     tab[index] = node.next;
                 else
+                    // 链表
                     p.next = node.next;
+                // 修改次数增加
                 ++modCount;
+                // 数组内部的统计-1
                 --size;
                 afterNodeRemoval(node);
                 return node;
             }
+
         }
+        // 如果数组为空 或者  key 为 null
         return null;
     }
 
